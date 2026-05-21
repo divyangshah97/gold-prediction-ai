@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "3d40929a93643a4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d4293e96fe03df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f5f68aa898b5f2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0381233ef1bcecf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6268318b9c6654c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec4f5b293c9bdfc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eae6b2ae4acef210",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "08678502a7418593",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5a2e1f2b6870bfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "528247547ddb35b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37b69a4fec5a98e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "df26ddabeb13bf41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ffe7b751837dc73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d6a6ec1cb5347346",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4a67a4898811e3bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLAUDE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CLAUDE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4f5f68aa898b5f2a",
+  "lastOpenFiles": [
+    "CLAUDE.md",
+    "wiki/gold-geopolitical-risk-premium.md",
+    "wiki/rare-earths-geopolitics.md",
+    "wiki/us-china-trade-war.md",
+    "wiki/us-china-beijing-summit-may-2026.md",
+    "raw/us-china-beijing-summit-2026-05-15.md",
+    "wiki/russia-gold-reserves.md",
+    "wiki/india-rbi-gold.md",
+    "raw/india-russia-gold-reserves-2026-05-21.md",
+    "wiki/goldman-sachs-gold-forecast.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/central-bank-gold-purchases-week-2026-05-19.md",
+    "wiki/turkey-gold-reserves.md",
+    "wiki/china-pboc-gold.md",
+    "wiki/poland-gold-reserves.md",
+    "wiki/hidden-sovereign-buying.md",
+    "wiki/de-dollarisation.md",
+    "wiki/central-bank-gold-demand.md",
+    "raw/central-bank-gold-purchases-2026-05-19.md",
+    "CLAUDE.md",
+    "open.url",
+    "Welcome.md",
+    "wiki",
+    "templates",
+    "raw"
+  ]
+}
