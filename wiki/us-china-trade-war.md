@@ -2,7 +2,7 @@
 
 **Summary**: The ongoing US–China trade conflict — centred on tariffs, technology, and critical minerals — is a key driver of global geopolitical uncertainty and a structural support for gold as a safe-haven asset.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
 
 **Last updated**: 2026-05-21
 
@@ -31,6 +31,12 @@ China is being cut off from advanced US chips (with partial exceptions). The NVI
 
 ### Taiwan
 The deepest structural fault line. Xi explicitly warned that mishandling Taiwan would put the relationship "in great jeopardy" and risk "clashes and even conflicts." The US maintained strategic ambiguity without concession. No resolution path exists.
+
+## May 20 Update: China Defends Controls, Tariff Cuts Discussed
+
+**China's Ministry of Commerce (May 20):** Formally stated that rare earth export controls are implemented "in accordance with laws and regulations" — the first public framing of controls as lawful permanent policy, not a temporary measure. Offered vague cooperation on "reasonable" US concerns with no timeline or binding commitment. See [[rare-earths-geopolitics]].
+
+**Tariff cut talks (May 20):** Both sides are weighing matching **$30 billion tariff cuts**, per Euronews reporting. Talks remain vague — no confirmed deal, timeline, or announcement.
 
 ## The November 10, 2026 Deadline
 

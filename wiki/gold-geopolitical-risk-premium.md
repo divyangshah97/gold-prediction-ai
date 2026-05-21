@@ -2,7 +2,7 @@
 
 **Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of May 2026, the premium partially deflated after the Trump-Xi summit, but structural risks keep a meaningful floor in place.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
 
 **Last updated**: 2026-05-21
 
@@ -14,31 +14,47 @@ The geopolitical risk premium is the portion of gold's price attributable to cri
 
 It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[de-dollarisation]]) — structural demand supports the price floor regardless of crisis levels.
 
-## May 2026 Price Action Around the Trump-Xi Summit
+## 2026 Gold Price Timeline
 
 | Event | XAU/USD |
 |---|---|
-| Pre-summit 3-week high | $4,774 |
+| Early 2026 baseline | ~$4,000 |
+| [[Iran-conflict-2026]] peak (March 2026) | ~$5,200 (ATH) |
+| Post-ceasefire (April 7, 2026) | ~$5,000 |
+| Pre-summit 3-week high (May 2026) | $4,774 |
 | Summit day (May 14) | ~$4,700–$4,705 |
 | Post-summit (May 15) | ~$4,553–$4,652 |
+| Current (May 21, 2026) | ~$4,500–$4,540 |
 | 200-day SMA (structural floor) | $4,341 |
 
-The summit reduced the acute fear of US–China escalation, compressing the near-term risk premium by ~$120–$220/oz. Gold's holding above the 200-day SMA ($4,341) reflects the intact structural floor from central bank buying.
+The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
+
+## Current Technical Levels (May 21, 2026)
+
+| Level | Price | Notes |
+|---|---|---|
+| Resistance B | $4,700 | Backside of broken trendline |
+| Resistance A | $4,580–$4,600 | 21-day EMA; bulls failing to break through |
+| Current price | $4,500–$4,540 | Psychological pivot; defended on 3 tests this week |
+| Support A | $4,466–$4,423 | Buyers active |
+| Support B (structural) | $4,341 | 200-day SMA |
+| May 2026 expected range | $4,380–$5,100 | Per multiple technical analysts |
 
 ## Current Premium Drivers (as of May 2026)
 
 ### Compressing (near-term bearish)
-- Trump-Xi summit reduced immediate escalation risk
-- Iran-US ceasefire held; Strait of Hormuz open
+- [[Iran-conflict-2026]] ceasefire (April 7) removed the acute crisis premium
+- Trump-Xi summit (May 14-15) reduced immediate US-China escalation risk
 - Trade truce preserved to November 10, 2026
 
 ### Sustaining / Re-inflation Risk (medium-term)
+- **Strait of Hormuz**: traffic still at ~5% of pre-conflict levels despite ceasefire — energy inflation persists, complicating Fed rate path
 - **November 10, 2026 deadline**: truce lapse would reactivate rare earth export controls and tariffs — see [[rare-earths-geopolitics]]
 - **Taiwan**: unresolved; Xi warned of potential "clashes and even conflicts"
-- **Rare earths**: exports still ~50% below pre-control levels despite the truce
+- **Rare earths**: exports still ~50% below pre-control levels despite the truce; China formally defended controls as "lawful" on May 20
 - **Technology decoupling**: no reversal in chip restrictions; strategic competition continues
 - **Russia-Ukraine**: ongoing conflict; no resolution in sight
-- **Iran**: ceasefire fragile; Hormuz risk not eliminated
+- **June 16-17 FOMC (Warsh)**: first meeting under new Fed Chair — a macro risk event for gold; see [[fed-macro-factors]]
 
 ## Framework for Gold Price Prediction
 

@@ -2,7 +2,7 @@
 
 **Summary**: China's dominance over rare earth supply chains — 90% of global refining, 60%+ of mining — gives it powerful economic leverage over the US and allies, and is a key escalation risk factor for gold markets heading into the November 2026 truce deadline.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
 
 **Last updated**: 2026-05-21
 
@@ -30,6 +30,12 @@ China began restricting exports of specific minerals in October 2025. As of May 
 - **Terbium** — used in solid-state devices and green energy tech
 - **Yttrium** — used in lasers, LEDs, fuel cells
 - **Scandium, Neodymium, Indium** — mentioned in US White House summit readout as target areas
+
+## May 20, 2026: China Defends Controls as "Lawful"
+
+China's Ministry of Commerce stated on May 20 that rare earth export controls are implemented "in accordance with laws and regulations" and that it will review applications that are "compliant and for civilian use." This was the first formal public defence of the controls as permanent legal policy — not a temporary bargaining chip.
+
+The statement offered vague cooperation on "reasonable" US concerns but set no timeline, no specific controls to lift, and no verification mechanism. This confirms that rare earth controls are **structural policy**, not a negotiating position that can be traded away in tariff talks.
 
 ## Summit Outcome: No Deal
 

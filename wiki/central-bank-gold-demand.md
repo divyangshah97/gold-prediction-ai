@@ -2,7 +2,7 @@
 
 **Summary**: Central banks are the single largest source of structural gold demand, collectively buying hundreds of tonnes per year as they diversify reserves away from the US dollar.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`
 
 **Last updated**: 2026-05-21
 
@@ -16,7 +16,7 @@ Full-year 2026 forecasts:
 - **World Gold Council**: ~850 tonnes
 - **Goldman Sachs**: ~720 tonnes annualised (60t/month), with possible acceleration
 
-Goldman Sachs also revised their March 2026 nowcast upward to **~50 t/month** (12-month moving average), up sharply from 29t/month under the prior methodology. The revision was caused by [[hidden-sovereign-buying]] — unreported purchases masked by gaps in UK trade data.
+Goldman Sachs revised their nowcast upward to **~60 t/month** (12-month moving average, as of May 2026), up from 50t/month (May 18 revision) and 29t/month under the prior methodology. The original revision was caused by [[hidden-sovereign-buying]] — unreported purchases masked by gaps in UK trade data.
 
 ## Who Is Buying
 

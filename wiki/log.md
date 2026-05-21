@@ -4,6 +4,26 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-21 — Ingest: Automated daily research update
+
+**Source**: `raw/daily-update-2026-05-21.md`
+
+**Pages created**:
+- `wiki/fed-macro-factors.md` — Kevin Warsh confirmation (May 13), 8-4 FOMC split, June 16-17 risk event, Big Beautiful Bill deficit, real yield dynamics
+- `wiki/iran-conflict-2026.md` — US-Israel strike Feb 28, ceasefire Apr 7, Hormuz at 5% traffic, gold ATH $5,200, ceasefire correction to $4,500
+
+**Pages updated**:
+- `wiki/goldman-sachs-gold-forecast.md` — nowcast revised 50t→60t/month; updated institutional forecast table (JPM avg cut to $5,243, UBS near-term $6,200, ANZ $5,600)
+- `wiki/central-bank-gold-demand.md` — Goldman nowcast updated to 60t/month
+- `wiki/hidden-sovereign-buying.md` — added May 21 further revision to 60t/month
+- `wiki/rare-earths-geopolitics.md` — added China May 20 "lawful" statement section
+- `wiki/us-china-trade-war.md` — added China "lawful" statement and $30B tariff cut discussions
+- `wiki/gold-geopolitical-risk-premium.md` — full price timeline added ($4,000→$5,200→$4,500); updated support/resistance levels; corrected Hormuz status (5% traffic, not "open"); added June 16-17 Warsh FOMC as risk event
+- `wiki/de-dollarisation.md` — added BRICS gold settlement infrastructure section (Saudi/Singapore/Malaysia vaults, 2030 target)
+- `wiki/index.md` — added 2 new concept pages and updated descriptions across Geopolitics & Macro section
+
+---
+
 ## 2026-05-21 — Ingest: US–China Beijing Summit, May 14–15, 2026
 
 **Source**: `raw/us-china-beijing-summit-2026-05-15.md`

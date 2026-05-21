@@ -11,6 +11,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[central-bank-gold-purchases-week-2026-05-19]] | Q1 2026 central bank purchase data + Goldman Sachs May 18 revised nowcast |
 | [[india-russia-gold-reserves-2026-05-21]] | India RBI (Mar 2026) and Russia Bank of Russia (Apr 2026) latest reserve data |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi summit May 14–15, 2026 — outcomes, deals, market reaction |
+| daily-update-2026-05-21 (raw) | Automated daily research: FOMC minutes, gold technicals, forecast revisions, Iran/Hormuz context |
 
 ---
 
@@ -38,12 +39,15 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[us-china-trade-war]] | Tariffs, rare earths, Taiwan — structural US–China tensions and their gold implications |
-| [[rare-earths-geopolitics]] | China controls 90% of refining; exports still 50% below pre-control; Nov 2026 deadline |
-| [[gold-geopolitical-risk-premium]] | How geopolitical events move gold; summit compressed premium by ~$120–$220/oz |
+| [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; $30B tariff cut talks ongoing; China defended controls as "lawful" May 20 |
+| [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
+| [[gold-geopolitical-risk-premium]] | Price timeline: $4,000→$5,200 (Iran)→$4,500 (current); support/resistance levels updated May 21 |
+| [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
+| [[iran-conflict-2026]] | US-Israel strike Feb 28; ceasefire Apr 7; Hormuz at 5% traffic; gold ATH $5,200 during crisis |
+| [[fed-macro-factors]] | Kevin Warsh confirmed May 13; 8-4 FOMC split; June 16-17 first Warsh meeting; Big Beautiful Bill deficit |
 
 ### Forecasts & Institutions
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target; most conservative of major bank consensus |
+| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target (most conservative); nowcast revised to 60t/month; full institutional comparison |

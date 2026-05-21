@@ -2,7 +2,7 @@
 
 **Summary**: The global trend of central banks and governments reducing reliance on the US dollar in reserves and trade, a key structural driver of gold demand.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
 
 **Last updated**: 2026-05-21
 
@@ -43,6 +43,15 @@ De-dollarisation creates **structural, price-inelastic demand** for gold. Unlike
 ## The Trade War Accelerant
 
 The [[us-china-trade-war]] is actively accelerating de-dollarisation. The May 2026 Beijing summit produced no structural resolution — tariffs remain suspended (not removed), rare earth leverage is intact, and Taiwan is unresolved. China's strategic calculus for holding gold over dollars strengthens, not weakens, as long as the US can use financial infrastructure as a weapon. The summit confirmed that the de-dollarisation thesis has a very long runway.
+
+## BRICS Gold Settlement Infrastructure
+
+BRICS nations are building a gold-backed settlement system to reduce reliance on SWIFT and USD clearing:
+- Vault infrastructure being established in **Saudi Arabia, Singapore, and Malaysia**
+- Targeting operational status by **2030**
+- Pilots possible before end of 2026 (per Russian Deputy FM Ryabkov)
+
+BRICS nations collectively hold over **6,000 tonnes** of gold (~20–21% of global central bank reserves): Russia ~2,335t, China ~2,298t, India ~880t. Between 2020 and 2024, BRICS central banks purchased over 50% of global gold supply. USD share of global FX reserves has declined from ~71% (1999) to ~57% currently.
 
 ## Related pages
 
