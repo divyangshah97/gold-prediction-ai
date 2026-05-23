@@ -2,20 +2,23 @@
 
 **Summary**: Goldman Sachs is the most widely followed institutional forecaster on gold, with a $5,400/oz end-2026 target driven primarily by central bank demand and [[de-dollarisation]].
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-21
+**Last updated**: 2026-05-22
 
 ---
 
-## Current Forecasts (as of May 18, 2026)
+## Current Forecasts (as of May 22, 2026)
 
 | Metric | Goldman Sachs Estimate |
 |---|---|
 | Gold price target (end-2026) | $5,400 / oz |
-| Central bank purchases nowcast (May 2026, 12m MA) | ~60 t/month |
-| Central bank purchases forecast (2026 average) | ~60 t/month |
-| Prior nowcast (old methodology) | ~29 t/month |
+| CB nowcast — March 2026 | ~50 t/month (revised up from 29t) |
+| CB nowcast — April 2026 | ~80 t/month (latest data point) |
+| CB purchases forecast — 2026 full-year average | ~60 t/month (~720t annually) |
+| Prior nowcast (old methodology, pre-May 18) | ~29 t/month |
+
+**Important distinction**: The "60t/month" figure is the full-year 2026 average. The monthly nowcast has been accelerating — March was ~50t and April was ~80t. The full-year average of ~60t/month reflects earlier weaker months pulling down the H1 average.
 
 ## Key May 18, 2026 Report Findings
 
@@ -23,7 +26,8 @@ Goldman revised its central bank demand model significantly on May 18, 2026 (see
 
 - Identified that UK trade data has been failing to capture London vault outflows since August 2025
 - This caused a **72% undercount** in their prior central bank demand estimate
-- Upward revision to ~60t/month nowcast makes the supply/demand balance tighter than previously modelled (revised from 50t/month as of May 21, 2026)
+- March 2026 nowcast revised to ~50t/month; April 2026 nowcast now ~80t/month
+- Full-year 2026 projection raised to ~720t (~60t/month average)
 - Maintained $5,400/oz target despite near-term headwinds (investors may sell gold to raise cash in market stress events)
 
 ## What Goldman's Model Rests On
@@ -40,18 +44,18 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 
 ## Comparison to Other Institutional Forecasts
 
-| Institution | 2026 Avg Forecast | End-2026 Target | Last Updated |
-|---|---|---|---|
-| Goldman Sachs | — | $5,400/oz | May 2026 |
-| ANZ | — | $5,600/oz | May 2026 (trimmed) |
-| UBP (Swiss) | — | $6,000/oz | May 2026 (reaffirmed) |
-| Deutsche Bank | — | ~$6,000/oz | — |
-| Société Générale | — | ~$6,000/oz | — |
-| J.P. Morgan | $5,243/oz (lowered) | $6,000+/oz | May 2026 (avg cut, YE maintained) |
-| UBS | — | $5,900/oz YE; $6,200 near-term | May 2026 (near-term raised) |
-| Wells Fargo | — | $6,100–$6,300/oz | — |
+| Institution | 2026 Avg Forecast | End-2026 Target | Notes | Last Updated |
+|---|---|---|---|---|
+| Goldman Sachs | — | $5,400/oz | Most conservative; CB demand thesis intact | May 2026 (reaffirmed) |
+| JPMorgan | $5,243/oz (was $5,708) | $6,000/oz | Avg cut May 17; called H1 "consolidation phase"; H2 re-acceleration expected | May 17, 2026 |
+| ANZ | — | $5,600/oz | Trimmed from $6,000; pushed $6,000 target to mid-2027 | May 2026 |
+| UBS | — | $6,200/oz (upside $7,200) | No change | May 2026 |
+| Deutsche Bank | — | $6,000/oz | Reiterated | May 2026 |
+| UBP (Swiss) | — | $6,000/oz | Reaffirmed | May 2026 |
+| Société Générale | — | ~$6,000/oz | — | — |
+| Wells Fargo | — | $6,100–$6,300/oz | — | — |
 
-Goldman's $5,400 target remains the most conservative among major banks. J.P. Morgan's average-year cut to $5,243 reflects softer near-term investor demand — not a structural bear signal; year-end target held at $6,000+.
+Goldman's $5,400 target remains the most conservative among major banks. JPMorgan's average cut to $5,243 reflects softer near-term investor demand — not a structural bear signal; year-end $6,000 target held and H2 recovery expected. ANZ's trim is the most cautious revision: they see persistent inflation and elevated yields limiting near-term upside.
 
 ## Related pages
 

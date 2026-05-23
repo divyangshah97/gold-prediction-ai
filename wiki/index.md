@@ -12,6 +12,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[india-russia-gold-reserves-2026-05-21]] | India RBI (Mar 2026) and Russia Bank of Russia (Apr 2026) latest reserve data |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi summit May 14–15, 2026 — outcomes, deals, market reaction |
 | daily-update-2026-05-21 (raw) | Automated daily research: FOMC minutes, gold technicals, forecast revisions, Iran/Hormuz context |
+| [[daily-update-2026-05-22]] | Iran uranium directive (Khamenei), Warsh dovish pivot, Goldman April nowcast 80t/month, JPM avg cut |
 
 ---
 
@@ -50,4 +51,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target (most conservative); nowcast revised to 60t/month; full institutional comparison |
+| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target (most conservative); April nowcast 80t/month; full institutional comparison updated May 22 |

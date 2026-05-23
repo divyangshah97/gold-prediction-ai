@@ -2,33 +2,45 @@
 
 **Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold — creating both headwinds (higher real yields) and tailwinds (dollar weakness, fiscal credibility erosion) for the gold price.
 
-**Sources**: `raw/daily-update-2026-05-21.md`
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-21
+**Last updated**: 2026-05-22
 
 ---
 
 ## Federal Reserve: Kevin Warsh Era
 
-**Kevin Warsh was confirmed as Fed Chair on May 13, 2026** (54-45 Senate vote, nearly party-line). He replaced Jerome Powell, whose term ended. Trump publicly expects Warsh to cut rates.
+**Kevin Warsh was confirmed as 17th Fed Chair on May 13, 2026** (54-45 Senate vote, nearly party-line). Powell's chairmanship formally ended May 15; the Fed Board named Powell "chair pro tempore" in the brief interim until Warsh was sworn in.
+
+**Powell's status post-May 15**: He remains on the Fed Board as a governor (term runs to January 2028), but is subject to an ongoing investigation into handling of the Fed headquarters construction project. He does not chair meetings.
 
 **First Warsh FOMC meeting: June 16-17, 2026** — a significant risk event for gold markets.
+
+### Warsh's Policy Posture — More Dovish Than Expected
+
+Warsh was initially flagged as hawkish: gold fell ~16% intraday on his January 30 nomination announcement. However, his April 2026 Senate confirmation hearings showed a materially more dovish tone:
+- Signalled willingness to cut rates earlier than prior consensus
+- Seen as broadly **USD-negative** — a structural tailwind for gold
+- **One rate cut is now expected in H2 2026** under Warsh's leadership
+- DXY weakened to ~99 on May 21–22, reflecting this dovish re-pricing
 
 ### FOMC Minutes — April 28-29 Meeting (released May 20, 2026)
 
 The most divided FOMC since the early 1990s:
 - **Vote split: 8-4** — one dissenter (Governor Miran) voted for a 25bp cut; three others objected to the policy statement language
 - Minutes revealed a **"growing easing bias"** alongside deep concern about the economic outlook
+- Fed funds rate held at **3.5–3.75%** (3rd consecutive hold)
 - Energy-driven inflation (linked to the [[iran-conflict-2026]] and Strait of Hormuz disruption) remains the primary restraint on cutting rates
 
-**CME FedWatch (as of May 21, 2026):** 60% probability of **no rate cuts in 2026**.
+**CME FedWatch (as of May 21, 2026):** 60% probability of no rate cuts in 2026 — but this pre-dates Warsh's confirmed dovish tone becoming fully priced in.
 
 ### Why This Matters for Gold
 
 Higher-for-longer rates create real yield pressure — gold pays no interest, so rising real yields increase the opportunity cost of holding it. However, this headwind is being offset by:
-1. Dollar weakness from fiscal concerns
+1. Warsh's dovish pivot → expected rate cut H2 2026 → USD-negative
 2. Structural [[central-bank-gold-demand]] (price-inelastic, unaffected by rate levels)
-3. The June 16-17 Warsh meeting as a wildcard — if he signals cuts, gold would likely rally
+3. Dollar weakness: DXY ~99, pulling back from a six-week high
+4. The June 16-17 Warsh meeting as a wildcard — if he signals cuts, gold would likely rally
 
 ---
 
@@ -53,8 +65,11 @@ The net effect is contested near-term but structural [[de-dollarisation]] demand
 ## USD Dynamics
 
 The US dollar is under moderate pressure from:
+- Warsh dovish pivot — rate cut expected H2 2026
 - FOMC division signals (8-4 split = uncertainty about rate path)
 - Expanding fiscal deficit reducing long-term dollar credibility
+
+**DXY ~99** as of May 21–22, pulling back from a six-week high. The Warsh dovish signal + prior Iran de-escalation hopes had been weakening the dollar; Khamenei's uranium stance reversed some of that. A structurally softer dollar under Warsh is the consensus baseline — gold supportive.
 
 Dollar weakness provides partial support for gold denominated in USD. This is a secondary driver — structural central bank buying is primary.
 

@@ -24,20 +24,22 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 | Pre-summit 3-week high (May 2026) | $4,774 |
 | Summit day (May 14) | ~$4,700–$4,705 |
 | Post-summit (May 15) | ~$4,553–$4,652 |
-| Current (May 21, 2026) | ~$4,500–$4,540 |
+| Current (May 22, 2026) | ~$4,507–$4,524 |
 | 200-day SMA (structural floor) | $4,341 |
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
-## Current Technical Levels (May 21, 2026)
+## Current Technical Levels (May 22, 2026)
 
 | Level | Price | Notes |
 |---|---|---|
 | Resistance B | $4,700 | Backside of broken trendline |
 | Resistance A | $4,580–$4,600 | 21-day EMA; bulls failing to break through |
-| Current price | $4,500–$4,540 | Psychological pivot; defended on 3 tests this week |
-| Support A | $4,466–$4,423 | Buyers active |
-| Support B (structural) | $4,341 | 200-day SMA |
+| Resistance (immediate) | $4,480–$4,500 | Current wall; post-summit ceiling |
+| Current price | $4,507–$4,524 | Lower end of range; Iran uranium news weighing |
+| Support A (immediate) | $4,410–$4,430 | First meaningful buyer cluster |
+| Support B (critical) | $4,362 | Lower channel boundary — sustained breach structurally bearish |
+| Support C (structural) | $4,341 | 200-day SMA |
 | May 2026 expected range | $4,380–$5,100 | Per multiple technical analysts |
 
 ## Current Premium Drivers (as of May 2026)
@@ -48,7 +50,8 @@ The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 
 - Trade truce preserved to November 10, 2026
 
 ### Sustaining / Re-inflation Risk (medium-term)
-- **Strait of Hormuz**: traffic still at ~5% of pre-conflict levels despite ceasefire — energy inflation persists, complicating Fed rate path
+- **Iran nuclear talks breakdown (May 21–22)**: Khamenei uranium directive + Trump military threat = ceasefire at acute risk; re-escalation would push gold toward $5,000+ (see [[iran-conflict-2026]])
+- **Strait of Hormuz**: traffic still at ~5% of pre-conflict levels; Brent at ~$104.52/bbl stoking inflation concerns
 - **November 10, 2026 deadline**: truce lapse would reactivate rare earth export controls and tariffs — see [[rare-earths-geopolitics]]
 - **Taiwan**: unresolved; Xi warned of potential "clashes and even conflicts"
 - **Rare earths**: exports still ~50% below pre-control levels despite the truce; China formally defended controls as "lawful" on May 20

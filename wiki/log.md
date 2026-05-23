@@ -4,6 +4,24 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-22 — Ingest: Daily research update
+
+**Source**: `raw/daily-update-2026-05-22.md`
+
+**Pages created**:
+- `wiki/daily-update-2026-05-22.md` — source summary; key developments table
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — added Mojtaba Khamenei uranium directive (May 21); Trump military threat; updated oil prices to Brent ~$104.52/bbl; updated risk assessment table; added Nuclear Negotiations — May 2026 section; clarified gold push-pull dynamic
+- `wiki/fed-macro-factors.md` — Warsh confirmed dovish (not hawkish); one rate cut expected H2 2026; Powell stays as governor pending Fed HQ investigation; DXY ~99; updated FOMC section with fed funds rate (3.5–3.75%); updated USD Dynamics section
+- `wiki/goldman-sachs-gold-forecast.md` — corrected nowcast table: March ~50t, April ~80t, FY avg ~60t; updated institutional forecast table (added Deutsche Bank $6,000; ANZ note on mid-2027 timeline; UBS upside $7,200)
+- `wiki/central-bank-gold-demand.md` — replaced single nowcast figure with March/April/FY breakdown table; trend noted as accelerating
+- `wiki/hidden-sovereign-buying.md` — added April 2026 nowcast of ~80t/month; clarified FY average vs. monthly trend
+- `wiki/gold-geopolitical-risk-premium.md` — updated price table to May 22; added granular support/resistance levels ($4,410–$4,430 immediate, $4,362 critical floor); added Iran re-escalation risk as highest-priority premium driver
+- `wiki/index.md` — added new source summary entry; updated Goldman description
+
+---
+
 ## 2026-05-21 — Ingest: Automated daily research update
 
 **Source**: `raw/daily-update-2026-05-21.md`

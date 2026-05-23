@@ -2,9 +2,9 @@
 
 **Summary**: The 2026 US-Israel military strike on Iran and subsequent ceasefire was the single largest acute geopolitical shock to gold markets in 2026, driving prices from ~$4,000 to $5,200 before the ceasefire triggered a partial reversal.
 
-**Sources**: `raw/daily-update-2026-05-21.md`
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-21
+**Last updated**: 2026-05-22
 
 ---
 
@@ -12,11 +12,13 @@
 
 | Date | Event |
 |---|---|
-| February 28, 2026 | US-Israel joint military strike on Iran; Supreme Leader Ali Khamenei killed |
+| February 28, 2026 | US-Israel joint military strike on Iran; Supreme Leader Ali Khamenei and Larijani killed |
 | Early March 2026 | Brent crude spikes to ~$120/bbl; Strait of Hormuz near-closure |
 | March 2026 | Gold peaks near **$5,200/oz** — all-time high |
 | April 7, 2026 | US-Iran ceasefire announced |
 | Post-ceasefire | Gold retreats to ~$5,000, then continues correcting to ~$4,500 |
+| May 21, 2026 | New Supreme Leader Mojtaba Khamenei (son) issues uranium directive — ceasefire at risk |
+| May 22, 2026 | Brent surges to ~$104.52/bbl; Trump threatens resumed military action "in a couple days" |
 
 ---
 
@@ -42,20 +44,32 @@ The combined post-ceasefire + post-Trump/Xi-summit correction brought gold down 
 
 | Factor | Status |
 |---|---|
-| Ceasefire | Holding as of May 2026 |
+| Ceasefire | Fragile — Khamenei uranium directive threatens collapse |
 | Strait of Hormuz traffic | ~5% of normal — still severely disrupted |
-| Oil price | Elevated but off $120 peak |
-| Re-escalation risk | Non-zero — ceasefire is fragile |
+| Oil price | Brent ~$104.52/bbl; WTI ~$97.81/bbl (May 22) |
+| Re-escalation risk | **Elevated** — Trump threatened resumed strikes within days |
+| Nuclear talks | Stalled — uranium disposition is the central sticking point |
 
-The Hormuz disruption is a **lingering background risk** even with the ceasefire. A breakdown in the ceasefire would likely push gold sharply higher.
+The ceasefire is increasingly fragile. A breakdown would likely push gold sharply higher toward the $5,000+ range.
 
 ---
 
+## Nuclear Negotiations — May 2026
+
+The ceasefire did not resolve the underlying nuclear dispute. As of May 22, 2026, the core sticking point is **uranium disposition**:
+
+- The US demands Iran transfer its near-weapons-grade enriched uranium out of the country as a condition for any lasting deal.
+- On May 21, Iran's new Supreme Leader **Mojtaba Khamenei** (son of the killed Ali Khamenei) issued a directive that this uranium **must not leave Iranian soil**.
+- Trump responded by threatening to resume military strikes if Iran does not give "100% good answers" within "a couple more days."
+- Gulf Arab allies reportedly persuaded Trump to hold off on immediate action, but the window is narrow.
+
+**Gold market implication**: The Iran re-escalation risk is now the primary short-term upside catalyst for gold. If the ceasefire collapses, oil would likely spike well above $120/bbl and gold could retest the $5,000–$5,200 range. The current ~$4,507–$4,524 price reflects the market treating re-escalation as a tail risk, not the base case.
+
 ## Structural Implications
 
-1. **Energy inflation persistence:** Hormuz traffic at 5% means global energy supply chains remain stressed. This feeds directly into the Fed's inability to cut rates despite the 8-4 FOMC split (see [[fed-macro-factors]]).
+1. **Energy inflation persistence:** Hormuz traffic at 5% means global energy supply chains remain stressed. This feeds directly into the Fed's inability to cut rates (see [[fed-macro-factors]]). Oil at $104+ is stoking inflation fears that complicate rate-cut timing.
 
-2. **Safe-haven demand context:** The $4,500 current price reflects a world where the Iran crisis has passed its acute phase. A re-escalation scenario would likely bring $5,000+ back into play.
+2. **Safe-haven demand context:** Gold's ~1% dip on May 22 (to ~$4,507–$4,524) reflects a push-pull: the uranium directive is bearish via oil/inflation/rates, but bullish via safe-haven demand. Net effect was modest decline.
 
 3. **Central bank buying unaffected:** [[central-bank-gold-demand]] continued through the crisis — price-inelastic buyers like Poland and China did not reduce purchases during the spike or the correction.
 

@@ -2,9 +2,9 @@
 
 **Summary**: A significant portion of central bank gold purchases goes unreported or is reported with long delays, meaning official data systematically understates real demand — a finding Goldman Sachs quantified in May 2026.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-21
+**Last updated**: 2026-05-22
 
 ---
 
@@ -13,8 +13,9 @@
 On May 18, 2026, Goldman Sachs published a revised model for tracking [[central-bank-gold-demand]] after identifying a systematic gap in official data. Their key finding:
 
 - **Prior estimate**: ~29 tonnes/month (12-month moving average, as of March 2026)
-- **May 18, 2026 revised estimate**: ~50 tonnes/month — a **72% upward revision**
-- **May 21, 2026 further revision**: ~60 tonnes/month — nowcast and 2026 average forecast now aligned
+- **May 18, 2026 revised estimate (March 2026 nowcast)**: ~50 tonnes/month — a **72% upward revision**
+- **May 22, 2026 — April 2026 nowcast**: ~80 tonnes/month — the trend is accelerating
+- **2026 full-year average projection**: ~60 t/month (~720t annually) — average is pulled down by weaker earlier months
 
 The gap had been accumulating since **August 2025**, when UK trade data stopped fully capturing gold outflows from London vaults. London is the world's largest gold clearing hub. Sovereign buyers moving gold out of London allocated accounts were not appearing in UK export statistics, making it appear as if demand had slowed when in fact unrecorded buying was increasing.
 
