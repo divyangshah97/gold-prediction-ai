@@ -88,3 +88,4 @@ Append-only record of all wiki operations.
 - `wiki/goldman-sachs-gold-forecast.md` — $5,400/oz target; revised CB nowcast to 50t/month
 - `wiki/index.md` — created (first entry)
 - `wiki/log.md` — created (this file)
+
