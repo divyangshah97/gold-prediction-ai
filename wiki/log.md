@@ -89,3 +89,4 @@ Append-only record of all wiki operations.
 - `wiki/index.md` — created (first entry)
 - `wiki/log.md` — created (this file)
 
+
