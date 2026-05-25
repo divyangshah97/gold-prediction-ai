@@ -4,7 +4,7 @@
 
 **Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
 
-**Last updated**: 2026-05-21
+**Last updated**: 2026-05-25
 
 ---
 
@@ -24,8 +24,10 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 | Pre-summit 3-week high (May 2026) | $4,774 |
 | Summit day (May 14) | ~$4,700–$4,705 |
 | Post-summit (May 15) | ~$4,553–$4,652 |
-| Current (May 22, 2026) | ~$4,507–$4,524 |
+| Post-Iran-uranium-directive (May 22) | ~$4,507–$4,524 |
+| Iran deal MOU progress (May 24–25) | ~$4,560–$4,575 |
 | 200-day SMA (structural floor) | $4,341 |
+| 20-day EMA (near-term resistance) | $4,646 |
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
@@ -44,20 +46,30 @@ The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 
 
 ## Current Premium Drivers (as of May 2026)
 
-### Compressing (near-term bearish)
+### Compressing (near-term)
 - [[Iran-conflict-2026]] ceasefire (April 7) removed the acute crisis premium
 - Trump-Xi summit (May 14-15) reduced immediate US-China escalation risk
 - Trade truce preserved to November 10, 2026
+- **Iran MOU negotiations (May 23–25)**: Trump declared deal "largely negotiated"; US-Iran closing in on 60-day ceasefire extension + Hormuz reopening; oil expected to fall on deal completion, which is *bullish* for gold via the Fed/inflation channel (lower CPI → easier Fed → weaker USD)
 
 ### Sustaining / Re-inflation Risk (medium-term)
-- **Iran nuclear talks breakdown (May 21–22)**: Khamenei uranium directive + Trump military threat = ceasefire at acute risk; re-escalation would push gold toward $5,000+ (see [[iran-conflict-2026]])
-- **Strait of Hormuz**: traffic still at ~5% of pre-conflict levels; Brent at ~$104.52/bbl stoking inflation concerns
+- **Iran deal sticking points**: Timing of sanctions relief, uranium stockpile disposition, Hormuz control details — deal not yet signed; collapse would push gold to $5,000+
+- **Strait of Hormuz**: still at ~5% of normal traffic; Hormuz reopening is a key MOU term — partial resolution in progress
 - **November 10, 2026 deadline**: truce lapse would reactivate rare earth export controls and tariffs — see [[rare-earths-geopolitics]]
 - **Taiwan**: unresolved; Xi warned of potential "clashes and even conflicts"
 - **Rare earths**: exports still ~50% below pre-control levels despite the truce; China formally defended controls as "lawful" on May 20
 - **Technology decoupling**: no reversal in chip restrictions; strategic competition continues
 - **Russia-Ukraine**: ongoing conflict; no resolution in sight
 - **June 16-17 FOMC (Warsh)**: first meeting under new Fed Chair — a macro risk event for gold; see [[fed-macro-factors]]
+
+### Critical Insight: Iran Deal = Bullish via Macro Channel
+
+The market reaction on May 24–25 illustrates an important principle for gold prediction: de-escalation is not automatically bearish for gold. The transmission mechanism matters:
+
+- **Iran deal progress** → Hormuz expected to reopen → oil price falls → inflation cools → Fed has more room to cut → USD weakens → **gold rises**
+- Gold gained ~$40–50/oz on May 24–25 specifically because USD fell on lower-inflation expectations
+- This is a Fed/macro tailwind, not a safe-haven driver
+- **Rule**: When de-escalation reduces energy inflation, gold can rally *because* of de-escalation, not despite it
 
 ## Framework for Gold Price Prediction
 

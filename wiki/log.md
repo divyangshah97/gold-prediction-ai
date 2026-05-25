@@ -4,6 +4,28 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-25 — Ingest: Daily research update (Sunday)
+
+**Sources**: `raw/india-gold-2026-05-25.md`, web research (Bloomberg, CNBC, FXStreet, CNN, Axios, BusinessToday, WGC, exchangerates.org.uk)
+
+**Note**: May 25 is a Sunday. Indian markets (NSE/BSE/MCX) closed for regular weekend. Next listed holiday: May 28 (Bakri Id). Update proceeds because this is not a named market holiday.
+
+**Raw files created**:
+- `raw/india-gold-2026-05-25.md` — India gold market data: MCX price, import duty, ETF flows, INR/USD, RBI
+
+**Pages created**:
+- `wiki/india-gold-market.md` — New India gold market running concept page: MCX price (~₹14,075/g), 15% import duty hike (May 13), PM Modi appeal, ETF market (AUM ₹1.83L crore, April inflows INR 30.4bn), physical-to-digital demand shift, INR/USD (95.81)
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — Major update: added May 23–25 Iran MOU negotiations progress (Trump "deal largely negotiated," draft MOU terms including Hormuz reopening, 60-day ceasefire extension, uranium never-pursue commitment, key sticking points); updated risk assessment table; added gold market reaction analysis (gold up $40–50/oz via Fed/inflation channel, not safe-haven)
+- `wiki/goldman-sachs-gold-forecast.md` — Added Morgan Stanley H2 2026 target cut to $5,200 (from $5,700, ~10% reduction); updated institutional forecast table and summary note; consensus range now $5,200–$6,300
+- `wiki/gold-geopolitical-risk-premium.md` — Updated price table to May 25 ($4,565); added 20-day EMA ($4,646) as near-term resistance; rewrote Iran deal section to reflect reversal from near-collapse (May 22) to near-deal (May 24); added critical insight on Iran deal = bullish via macro/Fed channel (not safe-haven); updated sustaining vs. compressing premium drivers
+- `wiki/index.md` — Added india-gold-market page entry; updated descriptions for iran-conflict, gold-geopolitical-risk-premium, goldman-sachs-gold-forecast
+
+**Signal**: Buy (Score 2) — Iran deal progress pushed gold to $4,565 via weaker USD/Fed channel; 18% below $5,400 Goldman target; CB demand ~80t/month; technicals neutral (between 9-day and 50-day EMA); Morgan Stanley joined Goldman at $5,200 floor.
+
+---
+
 ## 2026-05-22 — Ingest: Daily research update
 
 **Source**: `raw/daily-update-2026-05-22.md`

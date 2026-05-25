@@ -35,6 +35,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[turkey-gold-reserves]] | ~70t Q1 reduction via gold swaps; not a structural bearish signal |
 | [[russia-gold-reserves]] | 2,304t reserves; selling ~22t/quarter due to sanctions-driven fiscal deficit |
 | [[india-rbi-gold]] | 880.52t reserves; near-zero new buying in 2026; major story is repatriation from London |
+| [[india-gold-market]] | India gold market running summary: MCX price, 15% import duty hike, ETF flows, RBI, INR impact; updated May 25 |
 
 ### Geopolitics & Macro
 
@@ -42,13 +43,14 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; $30B tariff cut talks ongoing; China defended controls as "lawful" May 20 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | Price timeline: $4,000→$5,200 (Iran)→$4,500 (current); support/resistance levels updated May 21 |
+| [[gold-geopolitical-risk-premium]] | Price now ~$4,565; Iran deal → Fed/inflation channel bullish for gold; 20-day EMA $4,646 resistance; updated May 25 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | US-Israel strike Feb 28; ceasefire Apr 7; Hormuz at 5% traffic; gold ATH $5,200 during crisis |
+| [[iran-conflict-2026]] | US-Israel strike Feb 28; ceasefire Apr 7; MOU deal "largely negotiated" May 23; Hormuz reopening expected; updated May 25 |
 | [[fed-macro-factors]] | Kevin Warsh confirmed May 13; 8-4 FOMC split; June 16-17 first Warsh meeting; Big Beautiful Bill deficit |
 
 ### Forecasts & Institutions
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target (most conservative); April nowcast 80t/month; full institutional comparison updated May 22 |
+| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target; Morgan Stanley cut to $5,200 May 2026; institutional range now $5,200–$6,300; updated May 25 |
+| [[india-gold-market]] | India gold market: 15% import duty (May 13), MCX price ~₹14,075/g, ETF AUM ₹1.83L crore, duty-to-digital shift; updated May 25 |

@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-22
+**Last updated**: 2026-05-25
 
 ---
 
@@ -48,6 +48,7 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 |---|---|---|---|---|
 | Goldman Sachs | — | $5,400/oz | Most conservative; CB demand thesis intact | May 2026 (reaffirmed) |
 | JPMorgan | $5,243/oz (was $5,708) | $6,000/oz | Avg cut May 17; called H1 "consolidation phase"; H2 re-acceleration expected | May 17, 2026 |
+| Morgan Stanley | — | $5,200/oz H2 2026 (was $5,700) | Cut ~10% — "supply shock" + delayed Fed cuts; still sees structural support | May 2026 |
 | ANZ | — | $5,600/oz | Trimmed from $6,000; pushed $6,000 target to mid-2027 | May 2026 |
 | UBS | — | $6,200/oz (upside $7,200) | No change | May 2026 |
 | Deutsche Bank | — | $6,000/oz | Reiterated | May 2026 |
@@ -55,7 +56,9 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 | Société Générale | — | ~$6,000/oz | — | — |
 | Wells Fargo | — | $6,100–$6,300/oz | — | — |
 
-Goldman's $5,400 target remains the most conservative among major banks. JPMorgan's average cut to $5,243 reflects softer near-term investor demand — not a structural bear signal; year-end $6,000 target held and H2 recovery expected. ANZ's trim is the most cautious revision: they see persistent inflation and elevated yields limiting near-term upside.
+Goldman's $5,400 target remains the most conservative among major banks. **Morgan Stanley** is now at parity with Goldman after cutting its H2 2026 target ~10% from $5,700 to $5,200, citing a "rare supply shock" and rising real yields from delayed Fed rate cuts. JPMorgan's average cut to $5,243 reflects softer near-term investor demand — not a structural bear signal; year-end $6,000 target held and H2 recovery expected. ANZ's trim is the most cautious revision: they see persistent inflation and elevated yields limiting near-term upside.
+
+The range of institutional targets is now $5,200–$6,300 for 2026. After a round of near-term downgrades, the 2026 annual average consensus clusters in the $4,900–$5,600 range.
 
 ## Related pages
 
