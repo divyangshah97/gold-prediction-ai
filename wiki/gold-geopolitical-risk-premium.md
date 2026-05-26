@@ -4,7 +4,7 @@
 
 **Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-05-26
 
 ---
 
@@ -26,23 +26,28 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 | Post-summit (May 15) | ~$4,553–$4,652 |
 | Post-Iran-uranium-directive (May 22) | ~$4,507–$4,524 |
 | Iran deal MOU progress (May 24–25) | ~$4,560–$4,575 |
+| US strikes continue + Austria nuclear intel (May 26) | ~$4,536 — safe-haven bid on Middle East tension |
 | 200-day SMA (structural floor) | $4,341 |
-| 20-day EMA (near-term resistance) | $4,646 |
+| 10-day EMA (resistance) | ~$4,651 |
+| 50-day EMA (resistance) | ~$4,723 |
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
-## Current Technical Levels (May 22, 2026)
+## Current Technical Levels (May 26, 2026)
 
 | Level | Price | Notes |
 |---|---|---|
-| Resistance B | $4,700 | Backside of broken trendline |
-| Resistance A | $4,580–$4,600 | 21-day EMA; bulls failing to break through |
-| Resistance (immediate) | $4,480–$4,500 | Current wall; post-summit ceiling |
-| Current price | $4,507–$4,524 | Lower end of range; Iran uranium news weighing |
-| Support A (immediate) | $4,410–$4,430 | First meaningful buyer cluster |
-| Support B (critical) | $4,362 | Lower channel boundary — sustained breach structurally bearish |
-| Support C (structural) | $4,341 | 200-day SMA |
+| Resistance C | $4,700 | Backside of broken trendline |
+| Resistance B | $4,645–$4,700 | 9-day EMA ~$4,651; 50-day EMA ~$4,723; both overhead resistance |
+| Resistance A | $4,576–$4,600 | Near-term ceiling; post-summit range high |
+| Current price | ~$4,536 | Up ~$13 from May 25; rising on Middle East tension |
+| Support A (immediate) | $4,509 | Key technical pivot |
+| Support B | $4,410–$4,430 | First meaningful buyer cluster |
+| Support C (critical) | $4,362 | Lower channel boundary — sustained breach structurally bearish |
+| Support D (structural) | $4,341 | 200-day SMA |
 | May 2026 expected range | $4,380–$5,100 | Per multiple technical analysts |
+
+**EMA configuration (May 26)**: Price ($4,536) is below both the 9-day EMA (~$4,651) and 50-day EMA (~$4,723). However, with 2 consecutive green closes (May 25 and May 26), this configuration represents a mean-reversion bounce rather than a breakdown. Watch for confirmation of a move back above $4,651 to signal renewed upside momentum.
 
 ## Current Premium Drivers (as of May 2026)
 

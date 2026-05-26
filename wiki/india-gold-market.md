@@ -2,22 +2,26 @@
 
 **Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty hike (May 13), PM Modi's public appeal to defer purchases, a sharp shift from physical to digital gold, and a structurally slower RBI buying pace offset by large-scale repatriation.
 
-**Sources**: `raw/india-gold-2026-05-25.md`, `raw/india-russia-gold-reserves-2026-05-21.md`, https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-india-focus-q1-2026, https://www.cnbc.com/2026/05/13/india-hikes-bullion-import-duties-to-arrest-rupee-slide.html, https://www.businesstoday.in/latest/economy/story/india-hikes-gold-silver-import-duty-to-15-to-curb-imports-but-industry-warns-grey-marketers-may-531170-2026-05-13
+**Sources**: `raw/india-gold-2026-05-26.md`, `raw/india-gold-2026-05-25.md`, `raw/india-russia-gold-reserves-2026-05-21.md`, https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-india-focus-q1-2026, https://www.gold.org/goldhub/gold-focus/2026/05/india-gold-market-update-import-tightening, https://www.cnbc.com/2026/05/13/india-hikes-bullion-import-duties-to-arrest-rupee-slide.html, https://invezz.com/news/2026/05/22/indias-gold-duty-hike-ripples-through-markets-currency-and-demand/, https://sundayguardianlive.com/business/gold-rate-today-26-may-2026
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-05-26
 
 ---
 
-## MCX Gold Price (May 25, 2026)
+## MCX Gold Price (May 26, 2026)
 
 | Metric | Value |
 |---|---|
-| 24K gold per gram (INR) | ~₹14,075/gram |
-| 24K gold per 10g (MCX unit) | ~₹1,40,750 |
-| USD/INR rate | 95.81 (daily range 95.76–96.28) |
-| Global spot (XAU/USD) | ~$4,565/oz |
+| 24K gold per gram (INR) | ~₹15,889/gram (retail); MCX futures ~₹15,858/gram |
+| 24K gold per 10g (MCX unit) | ~₹1,60,000 (retail); MCX futures ₹1,58,588 |
+| USD/INR rate | 95.346 (slight INR appreciation vs 95.81 on May 25) |
+| Global spot (XAU/USD) | ~$4,536/oz (up ~$13 from May 25 close) |
 
-MCX gold futures market is closed Sunday; next session is Monday May 26. Next market holiday: May 28 (Bakri Id/Eid-ul-Adha).
+Note: The ₹15,858–₹16,000/gram domestic price reflects: raw USD gold price (~₹13,900/g pure conversion) plus 15% import duty uplift. The previous entry of ₹14,075/gram was the pre-duty conversion benchmark only.
+
+MCX resumed trading Monday May 26 (weekend closed). Next market holiday: May 28 (Bakri Id/Eid-ul-Adha).
+
+Gold rose modestly on May 26 "Amid Middle East Tension" (US military strikes on Iran May 25; Austria intel report on Iran nuclear weapons program May 26).
 
 The INR-denominated gold price is significantly elevated because the rupee is weaker (~95.81 INR/USD) than historical norms — higher INR/USD = more expensive gold for Indian buyers, even before the import duty premium.
 

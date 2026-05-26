@@ -4,6 +4,28 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-26 — Ingest: Daily research update (Tuesday)
+
+**Sources**: `raw/india-gold-2026-05-26.md`, web research (Sunday Guardian Live, BusinessToday, NPR, Al Jazeera, CNN, Axios, exchangerates.org.uk, gold.org WGC, TipRanks, Yahoo Finance, ClearTax)
+
+**Holiday check**: May 26 is not a market holiday. Indian markets open. (May 2026 holidays: May 1 Maharashtra Day; May 28 Bakri Id.)
+
+**Raw files created**:
+- `raw/india-gold-2026-05-26.md` — India gold data: MCX price ~₹15,858/g, retail 24K ₹15,889/g, USD/INR 95.346, RBI 880.52t (no new announcement), import duty 15% unchanged, ETF flows still positive
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — Corrected MCX price to ₹15,858–₹16,000/gram (previous ₹14,075 was pre-duty conversion only); updated USD/INR to 95.346; noted gold rises on Middle East tension; added duty-adjusted price explanation
+- `wiki/iran-conflict-2026.md` — Added May 26: Austria BVT intel report (Iran pursuing advanced nuclear weapons program with ballistic missiles); US military strikes on Iran continued May 25 despite "largely negotiated" MOU; updated risk premium assessment to "Mixed/contradictory" — strikes-plus-negotiations dynamic; gold edging higher on safe-haven flows
+- `wiki/gold-geopolitical-risk-premium.md` — Updated price timeline to May 26 ($4,536); updated technical levels table: 9-day EMA ~$4,651 (resistance), 50-day EMA ~$4,723 (resistance), both overhead; added EMA configuration note (price below both EMAs, 2 consecutive green closes = mean-reversion bounce)
+- `wiki/goldman-sachs-gold-forecast.md` — Added RBC Capital Markets ($5,723, up from $4,800) and LBMA annual average consensus ($4,741.97) to comparison table; updated institutional range note; confirmed Wells Fargo $6,100–$6,300 upgrade detail
+- `wiki/index.md` — Updated descriptions for iran-conflict-2026, gold-geopolitical-risk-premium, goldman-sachs-gold-forecast, india-gold-market (both entries)
+
+**Price fetch**: yfinance fetch FAILED — HTTP 403 host not in allowlist (network policy blocks yfinance). Last known prices from prices.csv: Gold $4,523.20 (May 25), Silver $76.199, DXY 99.026, WTI $96.60. Today's spot from web: Gold ~$4,536/oz.
+
+**Signal**: Buy (Score 3) — Price 16% below Goldman $5,400 target (bullish); US strikes Iran + Austria nuclear intel, gold rising on safe-haven with USD flat (bullish); Fed unchanged at 3.5–3.75% for 3rd hold, no new surprise (neutral); no new CB demand data in 24–48h (neutral); price below both 9-day ($4,651) and 50-day ($4,723) EMA but 2 consecutive green days = mean-reversion bounce (bullish).
+
+---
+
 ## 2026-05-25 — Ingest: Daily research update (Sunday)
 
 **Sources**: `raw/india-gold-2026-05-25.md`, web research (Bloomberg, CNBC, FXStreet, CNN, Axios, BusinessToday, WGC, exchangerates.org.uk)

@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-05-26
 
 ---
 
@@ -22,6 +22,9 @@
 | May 23, 2026 | Trump says Iran deal "largely negotiated, will be announced soon" (CNBC) |
 | May 24, 2026 | US and Iran report progress toward MOU — 60-day ceasefire extension, Hormuz reopening on table |
 | May 25, 2026 | Gold rises ~$40–50/oz to ~$4,565 on Iran deal hopes; USD weakens; oil prices fall |
+| May 25, 2026 | US military strikes against Iranian targets continue despite deal negotiations (NPR) |
+| May 26, 2026 | Austria domestic intelligence (BVT) reports Iran pursuing advanced nuclear weapons program with ballistic missiles capable of carrying nuclear warheads over long distances |
+| May 26, 2026 | Gold edges higher to ~$4,536; deals remain "largely negotiated" but unsigned; mixed messages from both sides; gold rises on Middle East tension with USD flat |
 
 ---
 
@@ -43,18 +46,19 @@ Gold's move during the Iran crisis illustrates the [[gold-geopolitical-risk-prem
 
 The combined post-ceasefire + post-Trump/Xi-summit correction brought gold down ~$650–700/oz from its peak. The structural floor — supported by [[central-bank-gold-demand]] — held well above the 200-day SMA at $4,341.
 
-### Risk Premium Assessment (Updated May 25, 2026)
+### Risk Premium Assessment (Updated May 26, 2026)
 
 | Factor | Status |
 |---|---|
-| Ceasefire | Fragile but improving — MOU negotiations progressing as of May 24 |
+| Ceasefire | Fragile — US strikes continuing even while deal is "largely negotiated" |
 | Strait of Hormuz traffic | ~5% of normal — Hormuz reopening is a key MOU term |
-| Oil price | Brent ~$104.52/bbl (May 22); falling on deal progress |
-| Re-escalation risk | **Declining** — Trump declared deal "largely negotiated" May 23 |
-| Nuclear talks | Active — Iran committed to "never pursue nuclear weapons" in draft MOU |
-| MOU key sticking points | Timing of sanctions relief; precise Hormuz control terms; uranium stockpile |
+| Oil price | Brent ~$104.52/bbl (May 22); modest fall on deal progress but elevated |
+| Re-escalation risk | **Mixed** — US military strikes continued May 25; Austria intel flags advanced nuclear weapons program May 26 |
+| Nuclear talks | Active but unsigned — Iran committed to "never pursue nuclear weapons" in draft MOU; sticking points remain |
+| MOU key sticking points | Timing of sanctions relief; precise Hormuz control terms; uranium stockpile disposal |
+| Intelligence risk | Austria BVT (May 26): Iran has ballistic missiles capable of carrying nuclear warheads — escalatory signal |
 
-**Major shift from May 22 assessment**: The situation has reversed from near-collapse to near-deal in 72 hours. Pakistan and Qatar are active mediators. A signed MOU is being treated as the base-case rather than the tail risk.
+**May 26 assessment**: The picture is now contradictory. Trump declared the deal "largely negotiated" (May 23), but US military strikes on Iran continued on May 25 and Austria's intelligence service published an alarming nuclear weapons capability assessment on May 26. Gold edged higher (~$4,536) on Middle East tension with USD flat — safe-haven flows into gold confirmed. MOU may still be forthcoming but the simultaneous strikes-plus-negotiations dynamic increases the risk of deal collapse.
 
 **Gold market reaction (May 24–25)**: Gold rose ~$40–50/oz to ~$4,565 on Iran deal news — *counterintuitively*, because de-escalation does not automatically compress gold. The transmission mechanism was:
 - Hormuz reopening expected → oil price falls → inflation cools → Fed has more room to cut → USD weakens → gold rises
