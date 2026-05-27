@@ -4,6 +4,26 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-27 — Expansion: Germany, France, Italy, Japan pages (web-researched)
+
+**Trigger**: User requested dedicated pages for Germany, France, Italy, Japan.
+
+**Web research conducted**:
+- Germany: Bundesbank storage confirmed (Frankfurt ~1,710t, FRBNY ~1,236t, BoE ~404t); Jan 2026 Mönch "dangerous" FRBNY comment; Mar 2026 AfD Bundestag motion; CDU not acting (Euronews Apr 2026, Kitco Jan 2026, Mining.com)
+- France: MAJOR story — Banque de France sold 129t from FRBNY Jul 2025–Jan 2026, rebought in Europe, made €13B (~$15B) profit; ALL 2,437t now in Paris; 134t more to modernise by 2028 (Newsweek, Kitco, Brussels Signal, Mining.com Apr 2026)
+- Italy: 2,452t confirmed; Nov 2025 Fratelli d'Italia ownership amendment in Senate; ECB objected and blocked it; Italy under pressure to follow France repatriation (Euronews Nov 2025, Project Syndicate Dec 2025, Il Sole 24 Ore)
+- Japan: 845.97t confirmed static Q1 2026 = Q4 2025; $125.4B value Apr 2026; ~3–4% of $1.2T total reserves; no active accumulation programme (CEIC, TradingEconomics, FX Empire)
+
+**Pages created**:
+- `wiki/germany-gold-reserves.md` — 3,352t; storage breakdown; 2026 repatriation pressure; France cited as template
+- `wiki/france-gold-reserves.md` — 2,437t; ALL gold repatriated from FRBNY; €13B profit; 134t still to modernise
+- `wiki/italy-gold-reserves.md` — 2,452t; FdI ownership amendment; ECB blocked it; France repatriation pressure
+- `wiki/japan-gold-reserves.md` — 845.97t static; 3–4% gold-to-reserves; no accumulation; largest potential swing buyer
+
+**Pages updated**: `wiki/index.md` (4 new entries), `wiki/log.md` (this entry), `wiki/global-cb-activity-log.md` (4 countries moved to dedicated pages)
+
+---
+
 ## 2026-05-27 — Expansion: 6 major country pages (USA, UK, Canada, Israel, Saudi Arabia, Iran)
 
 **Trigger**: User requested pages for USA, UK, Canada, Israel, Saudi Arabia, Iran + Iran addition + fresh web data.

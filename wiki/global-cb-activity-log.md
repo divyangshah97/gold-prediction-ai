@@ -59,11 +59,11 @@ Major holders tracked in this log only (no dedicated page yet):
 
 | Country | Total Reserves | Status |
 |---|---|---|
-| 🇩🇪 Germany | ~3,352t | Inactive — completed repatriation 2017 |
-| 🇮🇹 Italy | ~2,452t | Inactive — parliament-protected reserves |
-| 🇫🇷 France | ~2,437t | Inactive — Banque de France no change |
-| 🇨🇭 Switzerland | ~1,040t | Inactive — managed by SNB |
-| 🇯🇵 Japan | ~846t | Inactive — BoJ no change |
+| 🇩🇪 Germany | 3,352t | Static buying; 2026 repatriation debate growing | [[germany-gold-reserves]] |
+| 🇫🇷 France | 2,437t | Repatriated ALL gold from FRBNY Apr 2026; €13B profit | [[france-gold-reserves]] |
+| 🇮🇹 Italy | 2,452t | Static; ownership dispute (FdI vs ECB) ongoing | [[italy-gold-reserves]] |
+| 🇯🇵 Japan | 845.97t | Static; ~3–4% of $1.2T reserves; no accumulation | [[japan-gold-reserves]] |
+| 🇨🇭 Switzerland | ~1,040t | Inactive — managed by SNB | *(no page yet)* |
 | 🇸🇬 Singapore | ~228t | Active buyer 2021–2024; watching |
 | 🇭🇺 Hungary | ~110t | Tripled reserves 2021; watching |
 | 🇶🇦 Qatar | ~100t | Iran mediator; Gulf gold flows relevant |

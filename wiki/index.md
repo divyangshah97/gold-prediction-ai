@@ -48,7 +48,11 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[india-rbi-gold]] | 880.52t reserves; near-zero new buying in 2026; major story is repatriation from London |
 | [[india-gold-market]] | India gold market running summary: MCX ~₹15,827/g (May 27, down 0.61%), 15% import duty, ETF AUM ₹1.71L crore (FY26 +191%), RBI 880.52t, INR 95.45; updated May 27 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
+| [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; 2026 repatriation pressure growing; France's $15B move cited as template |
+| [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
+| [[france-gold-reserves]] | 2,437t — 4th largest; ALL gold now on French soil; sold 129t from FRBNY, rebought in Europe, made €13B ($15B) profit (Apr 2026) |
 | [[uk-gold-reserves]] | 310.29t own reserves; 2nd largest gold custodian (72+ central banks); Brown's Bottom 1999–2002 sale cost UK ~£48bn |
+| [[japan-gold-reserves]] | 845.97t — 9th largest; static Q1 2026; only ~3–4% of $1.2T reserves; no active accumulation; largest potential swing buyer |
 | [[canada-gold-reserves]] | 0t — only G7 country with zero gold; sold everything by 2016; 1,023t peak in 1965 would be worth $132B today |
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
