@@ -10,7 +10,13 @@ Usage:
 import csv
 import os
 import sys
+import time
 from datetime import date, timedelta
+
+try:
+    import requests
+except ImportError:
+    raise SystemExit("Install requests first:  pip install requests")
 
 try:
     import yfinance as yf
@@ -30,6 +36,27 @@ VOLUME_TICKER = "GC=F"
 
 FIELDNAMES = ["Date", "Gold_USD", "Silver_USD", "DXY", "WTI_Crude", "Gold_Volume_Contracts"]
 
+# Browser-like headers to avoid 403 blocks from Yahoo Finance in cloud environments
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+}
+
+MAX_RETRIES = 3
+RETRY_DELAY = 5  # seconds between retries
+
+
+def make_session():
+    """Return a requests.Session with browser-like headers."""
+    s = requests.Session()
+    s.headers.update(HEADERS)
+    return s
+
 
 def load_existing_dates():
     if not os.path.exists(PRICES_CSV):
@@ -38,23 +65,46 @@ def load_existing_dates():
         return {r["Date"] for r in csv.DictReader(f)}
 
 
+def fetch_ticker(symbol, start, end, session, retries=MAX_RETRIES):
+    """Download a single ticker with retry logic. Returns DataFrame or None."""
+    for attempt in range(1, retries + 1):
+        try:
+            t = yf.Ticker(symbol, session=session)
+            df = t.history(start=start, end=end, auto_adjust=True)
+            if not df.empty:
+                return df
+            # Empty can mean market closed — return as-is, not an error
+            return df
+        except Exception as exc:
+            print(f"  [{symbol}] attempt {attempt}/{retries} failed: {exc}")
+            if attempt < retries:
+                time.sleep(RETRY_DELAY)
+    return None
+
+
 def fetch_range(start: str, end: str) -> list[dict]:
     """Download data for all tickers between start and end (inclusive)."""
+    session = make_session()
     data = {}
+
     for col, symbol in TICKERS.items():
-        df = yf.download(symbol, start=start, end=end, auto_adjust=True, progress=False)
-        if df.empty:
+        df = fetch_ticker(symbol, start, end, session)
+        if df is None or df.empty:
+            print(f"  [{symbol}] no data returned (market may be closed or 403 persists)")
             continue
-        # yfinance returns multi-level columns: ("Close", ticker) — flatten
-        close_series = df[("Close", symbol)].dropna()
-        vol_series   = df[("Volume", symbol)].dropna() if col == "Gold_USD" else None
-        for ts, close in close_series.items():
+
+        # yfinance Ticker.history() returns simple column names: Close, Volume, …
+        for ts, row in df.iterrows():
             day = str(ts.date()) if hasattr(ts, "date") else str(ts)[:10]
             if day not in data:
                 data[day] = {}
-            data[day][col] = round(float(close), 4)
-            if vol_series is not None and ts in vol_series.index:
-                data[day]["Gold_Volume_Contracts"] = int(vol_series[ts])
+            close_val = row.get("Close")
+            if close_val is not None:
+                data[day][col] = round(float(close_val), 4)
+            if col == "Gold_USD":
+                vol = row.get("Volume")
+                if vol is not None:
+                    data[day]["Gold_Volume_Contracts"] = int(vol)
 
     rows = []
     for day in sorted(data.keys()):
