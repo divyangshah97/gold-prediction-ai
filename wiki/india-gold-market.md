@@ -2,28 +2,34 @@
 
 **Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty hike (May 13), PM Modi's public appeal to defer purchases, a sharp shift from physical to digital gold, and a structurally slower RBI buying pace offset by large-scale repatriation.
 
-**Sources**: `raw/india-gold-2026-05-26.md`, `raw/india-gold-2026-05-25.md`, `raw/india-russia-gold-reserves-2026-05-21.md`, https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-india-focus-q1-2026, https://www.gold.org/goldhub/gold-focus/2026/05/india-gold-market-update-import-tightening, https://www.cnbc.com/2026/05/13/india-hikes-bullion-import-duties-to-arrest-rupee-slide.html, https://invezz.com/news/2026/05/22/indias-gold-duty-hike-ripples-through-markets-currency-and-demand/, https://sundayguardianlive.com/business/gold-rate-today-26-may-2026
+**Sources**: `raw/india-gold-2026-05-27.md`, `raw/india-gold-2026-05-26.md`, `raw/india-gold-2026-05-25.md`, `raw/india-russia-gold-reserves-2026-05-21.md`, https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-india-focus-q1-2026, https://www.gold.org/goldhub/gold-focus/2026/05/india-gold-market-update-import-tightening, https://www.cnbc.com/2026/05/13/india-hikes-bullion-import-duties-to-arrest-rupee-slide.html, https://invezz.com/news/2026/05/22/indias-gold-duty-hike-ripples-through-markets-currency-and-demand/, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-may-27-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-533484-2026-05-27, https://www.businesstoday.in/personal-finance/investment/story/can-gold-etfs-sustain-record-inflows-after-aum-surged-191-in-fy26-528200-2026-04-30
 
-**Last updated**: 2026-05-26
+**Last updated**: 2026-05-27
 
 ---
 
-## MCX Gold Price (May 26, 2026)
+## MCX Gold Price (May 27, 2026)
 
 | Metric | Value |
 |---|---|
-| 24K gold per gram (INR) | ~₹15,889/gram (retail); MCX futures ~₹15,858/gram |
-| 24K gold per 10g (MCX unit) | ~₹1,60,000 (retail); MCX futures ₹1,58,588 |
-| USD/INR rate | 95.346 (slight INR appreciation vs 95.81 on May 25) |
-| Global spot (XAU/USD) | ~$4,536/oz (up ~$13 from May 25 close) |
+| 24K gold per gram (INR) | ~₹15,829/gram (retail); MCX futures ~₹15,827/gram |
+| 24K gold per 10g (MCX unit) | ~₹1,58,268 (MCX June futures settle); intraday ₹1,58,110 (−0.61%) |
+| 22K gold per gram (INR) | ~₹14,510/gram |
+| Silver (INR) | ~₹2,85,000/kg |
+| USD/INR rate | ~95.45 (slight INR weakening vs 95.346 on May 26) |
+| Global spot (XAU/USD) | ~$4,528–$4,580 range; around $4,538–$4,557 intraday |
 
-Note: The ₹15,858–₹16,000/gram domestic price reflects: raw USD gold price (~₹13,900/g pure conversion) plus 15% import duty uplift. The previous entry of ₹14,075/gram was the pre-duty conversion benchmark only.
+Note: The ~₹15,827/gram MCX price reflects USD spot gold (~$4,540) × INR/USD (95.45) / 31.1035 = ~₹13,940/g base, plus 15% import duty uplift ≈ ₹16,031/g landed cost. MCX futures trade slightly below retail landed cost due to futures pricing conventions.
 
-MCX resumed trading Monday May 26 (weekend closed). Next market holiday: May 28 (Bakri Id/Eid-ul-Adha).
+MCX gold traded lower on May 27, declining "up to nearly 2%" intraday after reports of fresh US military strikes on southern Iran; markets interpreted continued strikes as risk already priced in (deal progress + strikes = stable geopolitical environment). (source: BusinessToday, May 27)
 
-Gold rose modestly on May 26 "Amid Middle East Tension" (US military strikes on Iran May 25; Austria intel report on Iran nuclear weapons program May 26).
+**Market holiday note**: NSE/BSE/MCX closed **tomorrow May 28** for Eid al-Adha (Bakrid). Today (May 27) is a normal trading day.
 
-The INR-denominated gold price is significantly elevated because the rupee is weaker (~95.81 INR/USD) than historical norms — higher INR/USD = more expensive gold for Indian buyers, even before the import duty premium.
+The INR-denominated gold price is significantly elevated because the rupee is weaker (~95.45 INR/USD) than historical norms — higher INR/USD = more expensive gold for Indian buyers, even before the import duty premium.
+
+**Prior day (May 26)** MCX reference: ~₹15,858/gram; today's MCX slightly lower on global spot decline.
+
+**Expert 2026 range**: Analysts see MCX gold trading ₹1.5–1.8 lakh per 10g (~₹15,000–₹18,000/gram) through 2026, driven by Iran tensions, Fed uncertainty, and central bank demand. (source: BusinessToday, May 27)
 
 ---
 
@@ -71,20 +77,24 @@ Physical demand channels (jewellery, bar, coin) are expected to slow materially 
 
 ## Gold ETF Market
 
-India's gold ETF sector continued growing rapidly through early 2026, before moderating after the duty hike:
+India's gold ETF sector saw explosive growth in FY26 before moderating sharply after the May 2026 import duty hike:
 
 | Metric | Value |
 |---|---|
-| Total gold ETF AUM (Feb 2026) | ₹1.83 lakh crore (~$19bn) |
-| AUM growth y/y (Feb 2025→Feb 2026) | +165% |
-| January 2026 inflows | ₹24,040 crore ($2.6bn) — monthly peak |
-| April 2026 inflows | ₹30.4bn ($325mn) — 12th consecutive positive month |
-| April as % of January peak | ~13% — sharp moderation |
-| May 13–18 flows | Net outflows/redemptions (profit-taking post-duty-hike news) |
+| Total gold ETF AUM (March 2026, FY26 end) | ₹1.71 lakh crore (source: BusinessToday, Apr 2026) |
+| AUM growth y/y (March 2025→March 2026) | +191% |
+| FY26 net gold ETF inflows (full year) | ₹68,868 crore — more than double prior 5 years combined |
+| Gold + Silver ETF inflows FY26 combined | ₹99,280 crore (~55% of total ETF inflows across all categories) |
+| January 2026 inflows | ₹240.5 billion — monthly record peak |
+| April 2026 inflows | ₹30.4bn ($325mn) — 12th consecutive positive month (pre-duty-hike) |
+| March–April 2026 average | ₹26.5 billion/month — sharp moderation from January peak |
+| May 2026 flows | Further moderation; duty-hike impact on digital gold unclear |
 | Largest ETF | Nippon India ETF Gold BeES — AUM ₹58,323 crore |
 | #2/#3 | HDFC Gold ETF ₹23,239cr; SBI Gold ETF ₹24,550cr |
 
 Key structural point: **import duty cannot suppress ETF inflows** because gold ETFs are financial instruments that do not physically import gold each time a unit is purchased. ETFs are therefore insulated from the policy headwind and are structurally more resilient. This is accelerating a shift from physical to digital gold in India.
+
+Note on prior AUM figure: The ₹1.83 lakh crore figure cited in earlier entries was a February 2026 peak. By March 2026 (FY26 end), AUM settled at ₹1.71 lakh crore — slight moderation as gold prices corrected from the $5,200 ATH. The 191% y/y growth figure (March 2025→March 2026) is the confirmed FY26 outperformance metric.
 
 ---
 
@@ -105,7 +115,7 @@ The RBI has completed its primary accumulation phase (72.6t in 2024) and is now 
 
 The INR/USD exchange rate is a critical multiplier for domestic gold prices:
 
-- **Current rate**: 1 USD = ~95.81 INR (May 25, 2026)
+- **Current rate**: 1 USD = ~95.45 INR (May 27, 2026; was 95.346 on May 26)
 - **Effect**: Weaker rupee raises the INR cost of importing gold; at 95.81 vs. historical ~70–75 INR/USD levels, gold is structurally more expensive in rupee terms even at the same USD spot price
 - **The 15% duty adds further cost**: total effective landed cost premium over international price is substantial
 - **Dollar weakness** (DXY ~99) is providing partial support to INR, limiting further rupee depreciation

@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-26
+**Last updated**: 2026-05-27
 
 ---
 
@@ -25,6 +25,7 @@
 | May 25, 2026 | US military strikes against Iranian targets continue despite deal negotiations (NPR) |
 | May 26, 2026 | Austria domestic intelligence (BVT) reports Iran pursuing advanced nuclear weapons program with ballistic missiles capable of carrying nuclear warheads over long distances |
 | May 26, 2026 | Gold edges higher to ~$4,536; deals remain "largely negotiated" but unsigned; mixed messages from both sides; gold rises on Middle East tension with USD flat |
+| May 27, 2026 | Trump says both sides close to finalizing deal with "strong inspections"; Iran's Araghchi unsure deal is imminent; Khamenei advisor Ali Shamkhani calls Trump's desired nuclear control a "fantasy"; MCX gold declines ~0.61%; gold below prior close on "risk already priced in" dynamic |
 
 ---
 
@@ -59,6 +60,8 @@ The combined post-ceasefire + post-Trump/Xi-summit correction brought gold down 
 | Intelligence risk | Austria BVT (May 26): Iran has ballistic missiles capable of carrying nuclear warheads — escalatory signal |
 
 **May 26 assessment**: The picture is now contradictory. Trump declared the deal "largely negotiated" (May 23), but US military strikes on Iran continued on May 25 and Austria's intelligence service published an alarming nuclear weapons capability assessment on May 26. Gold edged higher (~$4,536) on Middle East tension with USD flat — safe-haven flows into gold confirmed. MOU may still be forthcoming but the simultaneous strikes-plus-negotiations dynamic increases the risk of deal collapse.
+
+**May 27 assessment**: Divergent signals between Washington and Tehran are becoming more entrenched. Trump says deal close with "strong inspections" but Iran's Foreign Minister Araghchi is publicly unsure whether a deal is imminent, and Khamenei advisor Shamkhani dismissed US nuclear control demands as a "fantasy." Gold is trading slightly lower (~$4,528–$4,557 range), with MCX down ~0.61%. The market is treating continued US strikes as the "new normal" of deal-pressure tactics rather than acute escalation — gold's geopolitical risk premium is now "priced in" rather than being bid further. Key test: whether the US-Iran MOU is signed before June 16-17 FOMC meeting. (sources: CNN May 24, Al Jazeera May 24, Wikipedia 2025–2026 Iran-US negotiations)
 
 **Gold market reaction (May 24–25)**: Gold rose ~$40–50/oz to ~$4,565 on Iran deal news — *counterintuitively*, because de-escalation does not automatically compress gold. The transmission mechanism was:
 - Hormuz reopening expected → oil price falls → inflation cools → Fed has more room to cut → USD weakens → gold rises
