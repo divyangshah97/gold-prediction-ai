@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-05-26
 
 ---
 
@@ -54,11 +54,13 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 | Deutsche Bank | — | $6,000/oz | Reiterated | May 2026 |
 | UBP (Swiss) | — | $6,000/oz | Reaffirmed | May 2026 |
 | Société Générale | — | ~$6,000/oz | — | — |
-| Wells Fargo | — | $6,100–$6,300/oz | — | — |
+| Wells Fargo | — | $6,100–$6,300/oz | Lifted from $4,500–$4,700 — aggressive upgrade | May 2026 |
+| RBC Capital Markets | — | $5,723/oz | Raised from prior $4,800 estimate | May 2026 |
+| LBMA Consensus | $4,741.97 avg | — | Annual average; year-end directional targets much higher | 2026 survey |
 
-Goldman's $5,400 target remains the most conservative among major banks. **Morgan Stanley** is now at parity with Goldman after cutting its H2 2026 target ~10% from $5,700 to $5,200, citing a "rare supply shock" and rising real yields from delayed Fed rate cuts. JPMorgan's average cut to $5,243 reflects softer near-term investor demand — not a structural bear signal; year-end $6,000 target held and H2 recovery expected. ANZ's trim is the most cautious revision: they see persistent inflation and elevated yields limiting near-term upside.
+Goldman's $5,400 target remains the most conservative among major banks. **Morgan Stanley** is now at parity with Goldman after cutting its H2 2026 target ~10% from $5,700 to $5,200. JPMorgan's average cut to $5,243 reflects softer near-term investor demand with year-end $6,000 held. **Wells Fargo** made the most aggressive upgrade, lifting its range from $4,500–$4,700 to $6,100–$6,300 — a near-doubling of its target. **RBC Capital Markets** raised its 2026 forecast to $5,723 from $4,800. ANZ's trim to $5,600 (from $6,000) is the most cautious revision.
 
-The range of institutional targets is now $5,200–$6,300 for 2026. After a round of near-term downgrades, the 2026 annual average consensus clusters in the $4,900–$5,600 range.
+The range of institutional targets is now $5,200–$6,300 for 2026. After a round of near-term downgrades and the Wells Fargo / RBC upgrades, the 2026 annual average consensus clusters in the $4,900–$5,600 range. The LBMA average consensus sits at $4,741.97 — gold is currently trading near or slightly below this midpoint at ~$4,536 (May 26).
 
 ## Related pages
 
