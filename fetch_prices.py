@@ -2,9 +2,16 @@
 Fetches daily OHLC + volume for Gold, Silver, DXY, WTI Crude via yfinance
 and appends a row to prices/prices.csv.
 
+Fallback chain:
+  Gold, Silver : yfinance (3 retries + browser UA)  →  metals.dev API
+  DXY, WTI     : yfinance only — prints DXY_MISSING / WTI_MISSING if yfinance fails
+                 (the calling routine should patch those via web search)
+  Volume       : yfinance only — left blank if yfinance fails
+
 Usage:
-  python fetch_prices.py            # append today (or last trading day)
-  python fetch_prices.py --backfill # seed last 6 months of history
+  python fetch_prices.py                        # append today / last trading day
+  python fetch_prices.py --backfill             # seed last 6 months of history
+  python fetch_prices.py --metals-key YOUR_KEY  # override metals.dev key (env: METALS_DEV_KEY)
 """
 
 import csv
@@ -26,18 +33,16 @@ except ImportError:
 PRICES_CSV = os.path.join(os.path.dirname(__file__), "prices", "prices.csv")
 
 TICKERS = {
-    "Gold_USD":              "GC=F",
-    "Silver_USD":            "SI=F",
-    "DXY":                   "DX-Y.NYB",
-    "WTI_Crude":             "CL=F",
+    "Gold_USD":   "GC=F",
+    "Silver_USD": "SI=F",
+    "DXY":        "DX-Y.NYB",
+    "WTI_Crude":  "CL=F",
 }
-# Volume is taken from Gold futures only
-VOLUME_TICKER = "GC=F"
 
 FIELDNAMES = ["Date", "Gold_USD", "Silver_USD", "DXY", "WTI_Crude", "Gold_Volume_Contracts"]
 
-# Browser-like headers to avoid 403 blocks from Yahoo Finance in cloud environments
-HEADERS = {
+# Browser-like headers — avoids Yahoo Finance 403 blocks in cloud environments
+_BROWSER_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -51,61 +56,130 @@ MAX_RETRIES = 3
 RETRY_DELAY = 5  # seconds between retries
 
 
-def make_session():
-    """Return a requests.Session with browser-like headers."""
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+def _make_session() -> requests.Session:
     s = requests.Session()
-    s.headers.update(HEADERS)
+    s.headers.update(_BROWSER_HEADERS)
     return s
 
 
-def load_existing_dates():
+def load_existing_dates() -> set:
     if not os.path.exists(PRICES_CSV):
         return set()
     with open(PRICES_CSV, newline="", encoding="utf-8") as f:
         return {r["Date"] for r in csv.DictReader(f)}
 
 
-def fetch_ticker(symbol, start, end, session, retries=MAX_RETRIES):
-    """Download a single ticker with retry logic. Returns DataFrame or None."""
-    for attempt in range(1, retries + 1):
+# ---------------------------------------------------------------------------
+# yfinance fetch (with retry)
+# ---------------------------------------------------------------------------
+
+def _fetch_yf(symbol: str, start: str, end: str, session: requests.Session):
+    """Return yfinance DataFrame or None after MAX_RETRIES failures."""
+    for attempt in range(1, MAX_RETRIES + 1):
         try:
-            t = yf.Ticker(symbol, session=session)
-            df = t.history(start=start, end=end, auto_adjust=True)
-            if not df.empty:
-                return df
-            # Empty can mean market closed — return as-is, not an error
-            return df
+            ticker = yf.Ticker(symbol, session=session)
+            df = ticker.history(start=start, end=end, auto_adjust=True)
+            return df  # may be empty on market holidays — that's OK
         except Exception as exc:
-            print(f"  [{symbol}] attempt {attempt}/{retries} failed: {exc}")
-            if attempt < retries:
+            print(f"  [yfinance/{symbol}] attempt {attempt}/{MAX_RETRIES} failed: {exc}")
+            if attempt < MAX_RETRIES:
                 time.sleep(RETRY_DELAY)
     return None
 
 
-def fetch_range(start: str, end: str) -> list[dict]:
-    """Download data for all tickers between start and end (inclusive)."""
-    session = make_session()
-    data = {}
+# ---------------------------------------------------------------------------
+# metals.dev fallback (Gold + Silver only)
+# ---------------------------------------------------------------------------
+
+def _fetch_metals_dev(key: str) -> dict:
+    """
+    Fetch Gold and Silver spot prices from metals.dev.
+    Returns dict like {"Gold_USD": 3245.6, "Silver_USD": 32.4} or {}.
+    """
+    try:
+        url = (
+            f"https://api.metals.dev/v1/latest"
+            f"?api_key={key}&currency=USD&unit=toz"
+        )
+        resp = requests.get(url, timeout=10, headers=_BROWSER_HEADERS)
+        resp.raise_for_status()
+        body = resp.json()
+        if body.get("status") != "success":
+            print(f"  [metals.dev] unexpected response: {body.get('status')}")
+            return {}
+        metals = body.get("metals", {})
+        result = {}
+        if "gold" in metals:
+            result["Gold_USD"] = round(float(metals["gold"]), 4)
+        if "silver" in metals:
+            result["Silver_USD"] = round(float(metals["silver"]), 4)
+        return result
+    except Exception as exc:
+        print(f"  [metals.dev] fallback error: {exc}")
+        return {}
+
+
+# ---------------------------------------------------------------------------
+# Core fetch logic
+# ---------------------------------------------------------------------------
+
+def fetch_range(start: str, end: str, metals_key: str = None) -> list[dict]:
+    """
+    Download data for all tickers between start and end (inclusive).
+    Returns list of row dicts ready to write to CSV.
+    Prints DXY_MISSING / WTI_MISSING if those fields cannot be fetched.
+    """
+    session = _make_session()
+    data: dict[str, dict] = {}
+    yf_failed = set()  # tracks which columns yfinance could not fetch
 
     for col, symbol in TICKERS.items():
-        df = fetch_ticker(symbol, start, end, session)
+        df = _fetch_yf(symbol, start, end, session)
         if df is None or df.empty:
-            print(f"  [{symbol}] no data returned (market may be closed or 403 persists)")
+            print(f"  [yfinance/{symbol}] no data (market closed or 403 persists)")
+            yf_failed.add(col)
             continue
 
-        # yfinance Ticker.history() returns simple column names: Close, Volume, …
         for ts, row in df.iterrows():
             day = str(ts.date()) if hasattr(ts, "date") else str(ts)[:10]
-            if day not in data:
-                data[day] = {}
-            close_val = row.get("Close")
-            if close_val is not None:
-                data[day][col] = round(float(close_val), 4)
+            data.setdefault(day, {})
+            close = row.get("Close")
+            if close is not None:
+                data[day][col] = round(float(close), 4)
             if col == "Gold_USD":
                 vol = row.get("Volume")
                 if vol is not None:
                     data[day]["Gold_Volume_Contracts"] = int(vol)
 
+    # --- metals.dev fallback for Gold / Silver ---
+    needs_fallback = yf_failed & {"Gold_USD", "Silver_USD"}
+    if needs_fallback and metals_key:
+        print(f"  [fallback] yfinance failed for {needs_fallback} — trying metals.dev ...")
+        md = _fetch_metals_dev(metals_key)
+        if md:
+            today_str = str(date.today())
+            data.setdefault(today_str, {})
+            for field in needs_fallback:
+                if field in md:
+                    data[today_str][field] = md[field]
+                    print(f"  [metals.dev] {field} = {md[field]}")
+    elif needs_fallback and not metals_key:
+        print(
+            f"  [metals.dev] METALS_DEV_KEY not set — cannot fall back for {needs_fallback}"
+        )
+
+    # --- signal missing DXY / WTI for caller to patch via web search ---
+    today_str = str(date.today())
+    latest_day = max(data.keys()) if data else today_str
+    for col in ("DXY", "WTI_Crude"):
+        if col in yf_failed or not data.get(latest_day, {}).get(col):
+            print(f"{col}_MISSING")   # sentinel read by the routine prompt
+
+    # Build output rows
     rows = []
     for day in sorted(data.keys()):
         row = {"Date": day}
@@ -115,9 +189,13 @@ def fetch_range(start: str, end: str) -> list[dict]:
     return rows
 
 
+# ---------------------------------------------------------------------------
+# CSV write helpers
+# ---------------------------------------------------------------------------
+
 def append_rows(new_rows: list[dict]):
     existing = load_existing_dates()
-    to_write  = [r for r in new_rows if r["Date"] not in existing]
+    to_write = [r for r in new_rows if r["Date"] not in existing]
     if not to_write:
         print("Nothing new to append — all dates already in CSV.")
         return
@@ -128,33 +206,50 @@ def append_rows(new_rows: list[dict]):
         if write_header:
             writer.writeheader()
         writer.writerows(to_write)
+
     print(f"Appended {len(to_write)} row(s) to {PRICES_CSV}")
     for r in to_write:
-        print(f"  {r['Date']}  Gold={r['Gold_USD']}  Silver={r['Silver_USD']}  DXY={r['DXY']}  WTI={r['WTI_Crude']}  Vol={r['Gold_Volume_Contracts']}")
+        print(
+            f"  {r['Date']}  Gold={r['Gold_USD']}  Silver={r['Silver_USD']}"
+            f"  DXY={r['DXY']}  WTI={r['WTI_Crude']}  Vol={r['Gold_Volume_Contracts']}"
+        )
 
 
-def run_backfill(months: int = 6):
+# ---------------------------------------------------------------------------
+# Entry points
+# ---------------------------------------------------------------------------
+
+def _parse_metals_key() -> str | None:
+    """Resolve metals.dev API key: --metals-key arg > METALS_DEV_KEY env var."""
+    if "--metals-key" in sys.argv:
+        idx = sys.argv.index("--metals-key")
+        if idx + 1 < len(sys.argv):
+            return sys.argv[idx + 1]
+    return os.environ.get("METALS_DEV_KEY")
+
+
+def run_backfill(months: int = 6, metals_key: str = None):
     end   = date.today() + timedelta(days=1)
     start = date.today() - timedelta(days=30 * months)
-    print(f"Backfilling {start} to {end} ...")
-    rows = fetch_range(str(start), str(end))
+    print(f"Backfilling {start} → {end} ...")
+    rows = fetch_range(str(start), str(end), metals_key)
     append_rows(rows)
 
 
-def run_today():
-    # Fetch last 5 days to ensure we catch the most recent trading day
+def run_today(metals_key: str = None):
+    # Fetch last 5 days to catch the most recent trading day
     end   = date.today() + timedelta(days=1)
     start = date.today() - timedelta(days=5)
-    rows  = fetch_range(str(start), str(end))
+    rows  = fetch_range(str(start), str(end), metals_key)
     if rows:
-        # Only append the latest row (most recent trading day)
         append_rows([rows[-1]])
     else:
-        print("No data returned from yfinance.")
+        print("No data returned from yfinance or fallback.")
 
 
 if __name__ == "__main__":
+    _key = _parse_metals_key()
     if "--backfill" in sys.argv:
-        run_backfill()
+        run_backfill(metals_key=_key)
     else:
-        run_today()
+        run_today(metals_key=_key)
