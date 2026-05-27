@@ -4,6 +4,64 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-27 — Expansion: 6 major country pages (USA, UK, Canada, Israel, Saudi Arabia, Iran)
+
+**Trigger**: User requested pages for USA, UK, Canada, Israel, Saudi Arabia, Iran + Iran addition + fresh web data.
+
+**Web research conducted before writing**:
+- UK BoE reserves: CEIC confirmed 310.29t Q1 2026 unchanged; BoE vaults hold 400,000+ bars for 72+ central banks (BoE, LBMA, CEIC)
+- Canada: TradingEconomics/CEIC confirmed 0t; last 0.62t sold Feb 2016; 1,023t peak in 1965 worth $132B today (Globe and Mail, CBC)
+- Israel: Bank of Israel Dec 2025 release confirmed 0t; Knesset Finance Committee debate ongoing (Ynet, CEIC)
+- USA: US Treasury FRED confirmed 8,133t as of April 30, 2026; Fort Knox = 147.3M fine troy oz (FRED, US Mint)
+- Saudi Arabia: CEIC/WGC Q3 2025 confirmed 323.07t unchanged; March 2026 Gulf gold mystery investigated — no confirmed SAMA sales found; LBMA vault outflows ~45t Jan–Feb 2026 (Middle East Insider, TradingEconomics)
+- Iran: Al Jazeera/WGC confirmed 100t+ gold imported 2024; CBI governor claims 20% FX reserves in gold; sanctions-evasion strategy; IMF does not report Iran data (Al Jazeera, Money Metals, IranIntl)
+- Brown's Bottom UK: confirmed 395t sold at avg $275/oz, $3.5B raised, ~£48B lost at 2026 prices (Wikipedia, GBNews)
+
+**Pages created**:
+- `wiki/uk-gold-reserves.md` — 310.29t; BoE custodian for 72+ central banks; Brown's Bottom $3.5B sold = £48B lost
+- `wiki/canada-gold-reserves.md` — 0t; only G7 country; 36-year sell-off from 1,023t; $132B opportunity cost
+- `wiki/israel-gold-reserves.md` — 0t; policy since Fischer/1980s; $214B total reserves; Knesset debate
+- `wiki/iran-gold-reserves.md` — IMF unreported; CBI 20% in gold claim; 100t+ 2024 imports; sanctions buffer; nuclear deal variable
+
+**Pages updated with fresh data**:
+- `wiki/usa-gold-reserves.md` — Refreshed with April 30, 2026 FRED data (8,133t confirmed); Fort Knox specific tonnage added
+- `wiki/saudi-arabia-gold-reserves.md` — Added March 2026 Gulf gold mystery section; LBMA outflow data; PIF undisclosed angle
+
+**Pages updated**:
+- `wiki/index.md` — Added 6 new entries
+- `wiki/log.md` — This entry
+- `wiki/global-cb-activity-log.md` — Updated countries table and "no gold" section
+
+---
+
+## 2026-05-27 — Expansion: 11 country stub pages + global activity log
+
+**Trigger**: User requested full country coverage for all Q1 2026 CB gold buyers/sellers + daily update mechanism.
+
+**Pages created** (11 country stubs):
+- `wiki/uzbekistan-gold-reserves.md` — 2nd largest Q1 2026 buyer (25t); Navoi Mining link
+- `wiki/kazakhstan-gold-reserves.md` — 12t Q1 2026; domestic mine purchase programme
+- `wiki/czech-republic-gold-reserves.md` — 5t Q1 2026; CNB multi-year policy; 100t target (needs verification)
+- `wiki/malaysia-gold-reserves.md` — 5t Q1 2026; ASEAN de-dollarisation; BRICS+ aligned
+- `wiki/indonesia-gold-reserves.md` — 2t Q1 2026; Grasberg mine; ASEAN regional pattern
+- `wiki/cambodia-gold-reserves.md` — 2t Q1 2026; dollarised economy; monetary sovereignty signalling
+- `wiki/guatemala-gold-reserves.md` — 2t Q1 2026; Central America entering gold accumulation trend
+- `wiki/serbia-gold-reserves.md` — 1t Q1 2026; EU candidate; geopolitical neutrality hedge
+- `wiki/uae-gold-reserves.md` — 1t Q1 2026; DMCC gold hub; BRICS+ member; Hormuz exposure
+- `wiki/azerbaijan-sofaz-gold.md` — 22t Q1 2026 seller; SOFAZ sovereign wealth fund cycle
+- `wiki/kyrgyz-republic-gold-reserves.md` — 1t Q1 2026 seller; Kumtor mine cycle
+
+**Pages created** (infrastructure):
+- `wiki/global-cb-activity-log.md` — append-only daily log for all country-level CB gold activity; includes policy tracker; updated daily by routine
+
+**Pages updated**:
+- `wiki/central-bank-gold-demand.md` — buyer/seller tables now link to all 15 individual country pages; added [[global-cb-activity-log]] to related pages
+- `wiki/index.md` — added 12 new entries (11 country pages + global-cb-activity-log)
+
+**Routine change**: See below entry for routine update details.
+
+---
+
 ## 2026-05-27 — Ingest: Daily research update (Wednesday)
 
 **Sources**: `raw/india-gold-2026-05-27.md`, web research (BusinessToday, India.com, Goodreturns, Invezz, CNN, Al Jazeera, CNBC, NPR, Wikipedia Iran-US negotiations, IndexBox, FinanceMagnates, iShares Fed outlook)

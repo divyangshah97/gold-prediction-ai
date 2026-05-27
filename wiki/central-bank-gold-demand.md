@@ -31,29 +31,27 @@ The full-year average of ~60t/month reflects weaker earlier months; the trend is
 
 The buying is concentrated in **emerging market central banks**, driven by [[de-dollarisation]] and geopolitical risk hedging:
 
-| Country | Q1 2026 Purchases |
-|---|---|
-| Poland | 31t |
-| Uzbekistan | 25t |
-| Kazakhstan | 12t |
-| China | 7t |
-| Czech Republic | 5t |
-| Malaysia | 5t |
-| Guatemala | 2t |
-| Cambodia | 2t |
-| Indonesia | 2t |
-| Serbia | 1t |
-| UAE | 1t |
-
-See individual pages: [[poland-gold-reserves]], [[china-pboc-gold]]
+| Country | Q1 2026 Purchases | Wiki Page |
+|---|---|---|
+| Poland | 31t | [[poland-gold-reserves]] |
+| Uzbekistan | 25t | [[uzbekistan-gold-reserves]] |
+| Kazakhstan | 12t | [[kazakhstan-gold-reserves]] |
+| China | 7t | [[china-pboc-gold]] |
+| Czech Republic | 5t | [[czech-republic-gold-reserves]] |
+| Malaysia | 5t | [[malaysia-gold-reserves]] |
+| Guatemala | 2t | [[guatemala-gold-reserves]] |
+| Cambodia | 2t | [[cambodia-gold-reserves]] |
+| Indonesia | 2t | [[indonesia-gold-reserves]] |
+| Serbia | 1t | [[serbia-gold-reserves]] |
+| UAE | 1t | [[uae-gold-reserves]] |
 
 ## Who Is Selling
 
 Notable net sellers in Q1 2026:
 - **Turkey**: ~70t reduction (mostly via gold swaps, not outright sales; stabilised in April). See [[turkey-gold-reserves]].
-- **Azerbaijan (SOFAZ)**: 22t
+- **Azerbaijan (SOFAZ)**: 22t. See [[azerbaijan-sofaz-gold]].
 - **Russia**: 22t (~21.8t YTD through April per Bank of Russia; driven by war-related fiscal deficit — forced liquidation, not a bearish price view). See [[russia-gold-reserves]].
-- **Kyrgyz Republic**: 1t
+- **Kyrgyz Republic**: 1t. See [[kyrgyz-republic-gold-reserves]].
 
 Turkey's selling is a financing mechanism; Russia's is sanctions-driven fiscal liquidation. Neither reflects a bearish view on gold. Russia's ~22t/quarter is fully absorbed by Poland's 31t in Q1 alone.
 
@@ -73,9 +71,21 @@ Central bank demand is **price-inelastic** — banks buy for strategic reasons (
 
 - [[de-dollarisation]]
 - [[hidden-sovereign-buying]]
+- [[global-cb-activity-log]]
 - [[poland-gold-reserves]]
 - [[china-pboc-gold]]
+- [[uzbekistan-gold-reserves]]
+- [[kazakhstan-gold-reserves]]
+- [[czech-republic-gold-reserves]]
+- [[malaysia-gold-reserves]]
+- [[indonesia-gold-reserves]]
+- [[cambodia-gold-reserves]]
+- [[guatemala-gold-reserves]]
+- [[serbia-gold-reserves]]
+- [[uae-gold-reserves]]
 - [[turkey-gold-reserves]]
 - [[russia-gold-reserves]]
+- [[azerbaijan-sofaz-gold]]
+- [[kyrgyz-republic-gold-reserves]]
 - [[india-rbi-gold]]
 - [[goldman-sachs-gold-forecast]]
