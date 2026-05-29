@@ -4,6 +4,58 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-29 — Daily update (Friday)
+
+**Holiday check**: May 28 was a market holiday (Eid al-Adha / Bakri Id — NSE/BSE/MCX closed). May 29 is a normal trading day — confirmed via web search (Business Standard, Upstox May 28 2026).
+
+**Sources**: `raw/india-gold-2026-05-29.md`, web research (NewSX, GoodReturns, FXStreet, TaxGuru, WGC, BusinessToday, ZeroHedge, Kitco, Bloomberg, CNN May 28 2026, Notes From Poland, Visual Capitalist, Finance Magnates, TheStreet)
+
+**Raw files created**:
+- `raw/india-gold-2026-05-29.md` — MCX ₹1,57,410/10g (−0.18%), 24K ₹15,606/g, USD/INR 96.13, import duty 15% unchanged, Q1 ETF AUM ₹1.71L crore (+191% FY26), MCX was closed May 28 (Bakri Id)
+
+**Prices patched** (yfinance + metals.dev both returned 403; all prices from web search):
+- May 26: Gold $4,562.69, Silver $77.50, DXY $99.08 (est), WTI $89.50 (est)
+- May 27: Gold $4,419.83, Silver $75.50 (est), DXY $99.35 (est), WTI $88.75 (est)
+- May 28: Gold $4,444.74, Silver $74.26, DXY $99.28, WTI $88.94
+- May 29: Gold $4,494.07, Silver $76.56, DXY $99.30, WTI $88.94
+
+**Key findings — global**:
+1. **Iran**: US and Iran reached tentative agreement May 28 — 60-day MOU drafted (Trump not yet signed). Terms: Hormuz reopens, sea mines cleared, no tolls. Gold hit 2-month intraday low ~$4,390 on May 28 US strikes before recovering to ~$4,445. Today recovering to ~$4,494. Finance Magnates: "2nd 200 EMA test of 2026 held."
+2. **China PBoC**: 8.1t purchased in April 2026 (highest since Dec 2024), extending streak to **18 consecutive months**. Total: **2,322t** (reported May 8, confirmed in today's sweep). Confirmed new CB data.
+3. **UBS forecast cut** (May 27): UBS lowered 2026 gold target from $6,200 → **$5,500/oz**; near-term $5,200 by June. Reason: "markets rediscovering opportunity cost." Range now $5,200–$6,300.
+4. **Poland**: Q1 2026 total confirmed 581.64t (up from 550.21t in Q4 2025). Target: 700t. ~28% of total reserve value.
+5. **Germany**: AfD Bundestag motion (March 2026) for full repatriation confirmed. CDU government not acting.
+6. **Gold technicals**: Tested 200-day SMA region ($4,341–$4,390) on May 28 — held. 9-day EMA now ~$4,557 (declining from $4,651); 50-day EMA ~$4,693 (declining from $4,723).
+
+**Key findings — India**:
+- MCX gold ₹1,57,410/10g on May 29 (post-holiday re-open); USD/INR ₹96.13 (slightly weaker)
+- 15% import duty structure confirmed: 10% BCD + 5% AIDC (unchanged since May 13)
+- Q1 2026 gold ETF AUM ₹1.71L crore (+191% FY26); 11.44mn accounts total; April inflows ₹30.4bn
+- RBI reserves: 880.52t, near-zero new buying, repatriation of ~168t from BoE ongoing
+
+**Pages updated**:
+- `wiki/china-pboc-gold.md` — Updated to 18-month streak, 8.1t April 2026, 2,322t total; added Daily Update Log
+- `wiki/iran-conflict-2026.md` — Added May 28 tentative MOU events; updated May 28 and 29 assessments
+- `wiki/india-gold-market.md` — Updated to May 29 prices (MCX ₹1,57,410, USD/INR 96.13); updated INR dynamics section
+- `wiki/goldman-sachs-gold-forecast.md` — Added UBS cut to $5,500; updated consensus range note
+- `wiki/gold-geopolitical-risk-premium.md` — Updated price timeline through May 29; new EMA estimates ($4,557/$4,693); updated technical levels table
+- `wiki/global-cb-activity-log.md` — Added 2026-05-29 section with 6 country entries (China, Poland, Germany, India, Russia, Turkey)
+- `wiki/log.md` — This entry
+
+**global-cb-activity-log.md rows added**:
+- 🇨🇳 China: 8.1t April 2026 purchase confirmed; 18-month streak; 2,322t total
+- 🇵🇱 Poland: Q1 2026 confirmed 581.64t; targeting 700t
+- 🇩🇪 Germany: AfD motion confirmed; CDU not acting
+- 🇮🇳 India (RBI): 880.52t; no new buying; repatriation ongoing
+- 🇷🇺 Russia: ~2,330t; selling ~22t/quarter
+- 🇹🇷 Turkey: ~595t; selling via swaps
+
+**Price fetch**: Both yfinance and metals.dev returned 403. All values manually sourced from web searches and patched into prices.csv. 4 new rows added (May 26–29).
+
+**Signal**: Wait (Score +1) — Price 16.8% below Goldman $5,400 (bull +1); Iran tentative MOU = de-escalation, gold at 2-month low (bear -1); Fed holding 3.5–3.75%, neutral (0); China April data reported May 8 = 21 days ago, outside 7-day window, neutral (0); below both EMAs ($4,557/$4,693) but 2 consecutive green days (bear-to-bull bounce) = bullish (+1). Net: +1 = Wait.
+
+---
+
 ## 2026-05-27 — Expansion: Germany, France, Italy, Japan pages (web-researched)
 
 **Trigger**: User requested dedicated pages for Germany, France, Italy, Japan.

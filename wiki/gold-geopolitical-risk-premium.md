@@ -2,9 +2,9 @@
 
 **Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of May 2026, the premium partially deflated after the Trump-Xi summit, but structural risks keep a meaningful floor in place.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-05-29
 
 ---
 
@@ -28,29 +28,31 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 | Iran deal MOU progress (May 24–25) | ~$4,560–$4,575 |
 | US strikes continue + Austria nuclear intel (May 26) | ~$4,536–$4,570 — safe-haven bid on Middle East tension |
 | Iran deal stalling, divergent signals (May 27) | ~$4,528–$4,580 range; MCX -0.61%; gold risk "priced in" |
-| 200-day SMA (structural floor) | $4,341 |
-| 9-day EMA (resistance) | ~$4,651 |
-| 50-day EMA (resistance) | ~$4,723 |
+| Gold falls to 2-month low then recovers (May 28) | Intraday low ~$4,390 on US strikes + deal optimism. Close ~$4,445. MCX closed (Bakri Id holiday). |
+| **Tentative US-Iran MOU reached May 28** | CNN: both sides drafted MOU; Trump not yet signed; Hormuz to open; mines to be cleared. Gold recovering. |
+| May 29 (today) | ~$4,494 — recovering from two-month low; MCX re-opens post-holiday; tentative deal ambiguity keeps market cautious |
+| 200-day SMA (structural floor) | ~$4,341 |
+| 9-day EMA (resistance) | ~$4,557 (estimated; calculated from $4,651 on May 26, applying 3 lower closes) |
+| 50-day EMA (resistance) | ~$4,693 (estimated; slowly declining from $4,723 on May 27) |
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
-## Current Technical Levels (May 27, 2026)
+## Current Technical Levels (May 29, 2026)
 
 | Level | Price | Notes |
 |---|---|---|
 | Resistance C | $4,700 | Backside of broken trendline |
-| Resistance B | $4,645–$4,700 | 9-day EMA ~$4,651; 50-day EMA ~$4,723; both overhead resistance |
-| Resistance A | $4,576–$4,600 | Near-term ceiling; post-summit range high |
-| Current price | ~$4,528–$4,557 | Down from May 26 close ~$4,570; declining on Iran deal uncertainty |
-| Support A (immediate) | $4,509 | Key technical pivot |
-| Support B | $4,410–$4,430 | First meaningful buyer cluster |
-| Support C (critical) | $4,362 | Lower channel boundary — sustained breach structurally bearish |
-| Support D (structural) | $4,341 | 200-day SMA |
-| May 2026 expected range | $4,380–$5,100 | Per multiple technical analysts |
+| Resistance B | $4,557–$4,693 | 9-day EMA ~$4,557; 50-day EMA ~$4,693; both overhead resistance |
+| Resistance A | $4,500 | Prior pivot; now testing recovery |
+| Current price | ~$4,494 | Recovering from May 28 intraday low ~$4,390; 2nd test of 200 EMA region in 2026 |
+| Support A (immediate) | $4,400–$4,430 | Key tested support — held May 28 on intraday basis |
+| Support B (critical) | $4,362 | Lower channel boundary |
+| Support C (structural) | $4,341 | 200-day SMA |
+| May–June 2026 expected range | $4,380–$5,100 | Per multiple technical analysts |
 
-**EMA configuration (May 27)**: Price (~$4,538–$4,557) is below both the 9-day EMA (~$4,651) and 50-day EMA (~$4,723). May 26 was a green close (up from May 25 $4,523 to ~$4,570); May 27 is a red day intraday (down from ~$4,570 to ~$4,538). RSI(14): 38.74 (neutral; approaching oversold). MACD(12,26): -29.01 (sell signal). ADX(14): 11.51 (weak trend — directionally inconclusive). The combination of below-both-EMAs + red day on May 27 = Bearish technical configuration per the standard ruleset.
+**EMA configuration (May 29)**: Price (~$4,494) is below both the 9-day EMA (~$4,557, estimated) and 50-day EMA (~$4,693, estimated). EMAs have been declining as consecutive below-EMA closes pull them lower. May 28 was a green close (up from May 27 $4,419 to ~$4,445); May 29 intraday up (+$49 from May 28 close) = 2 consecutive green days. Per the technical signal ruleset: Below both EMAs + 2 consecutive green days = **Bullish (mean-reversion bounce signal)**. The 200-day SMA at $4,341 held as the structural floor — May 28's intraday low ~$4,390 was the second test of this zone in 2026 (Finance Magnates: "2nd 200 EMA test of 2026").
 
-**Key signal to watch**: A close above $4,651 (9-day EMA) would be required to confirm a resumption of upside momentum. A close below $4,509 would open the door to a retest of $4,410–$4,430 support.
+**Key signal to watch**: A close above $4,557 (9-day EMA) would confirm mean-reversion bounce. A close below $4,400 would retest May 28 intraday lows and risk breaking toward $4,341 structural floor.
 
 ## Current Premium Drivers (as of May 2026)
 

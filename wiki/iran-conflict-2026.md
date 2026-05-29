@@ -2,9 +2,9 @@
 
 **Summary**: The 2026 US-Israel military strike on Iran and subsequent ceasefire was the single largest acute geopolitical shock to gold markets in 2026, driving prices from ~$4,000 to $5,200 before the ceasefire triggered a partial reversal.
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-05-29
 
 ---
 
@@ -26,6 +26,8 @@
 | May 26, 2026 | Austria domestic intelligence (BVT) reports Iran pursuing advanced nuclear weapons program with ballistic missiles capable of carrying nuclear warheads over long distances |
 | May 26, 2026 | Gold edges higher to ~$4,536; deals remain "largely negotiated" but unsigned; mixed messages from both sides; gold rises on Middle East tension with USD flat |
 | May 27, 2026 | Trump says both sides close to finalizing deal with "strong inspections"; Iran's Araghchi unsure deal is imminent; Khamenei advisor Ali Shamkhani calls Trump's desired nuclear control a "fantasy"; MCX gold declines ~0.61%; gold below prior close on "risk already priced in" dynamic |
+| May 28, 2026 | **US and Iran reach tentative agreement** — 60-day MOU drafted; Strait of Hormuz to open; mines to be cleared; Iran to halt tolls. Trump has **not yet signed**. Gold fell below $4,400 intraday (two-month low) on US military strikes on Iranian military site; then recovered to ~$4,445 as deal news broke. Bloomberg: gold erased losses after Axios report of US-Iran truce deal, gaining ~0.7% intraday. (CNN May 28, Bloomberg May 28) |
+| May 29, 2026 | Gold recovering to ~$4,494 in Asian/early European trade. Market in wait-and-see mode — tentative deal not yet signed; Hormuz still at ~5% normal traffic. MCX closed on May 28 (Bakri Id holiday); re-opening today. |
 
 ---
 
@@ -62,6 +64,10 @@ The combined post-ceasefire + post-Trump/Xi-summit correction brought gold down 
 **May 26 assessment**: The picture is now contradictory. Trump declared the deal "largely negotiated" (May 23), but US military strikes on Iran continued on May 25 and Austria's intelligence service published an alarming nuclear weapons capability assessment on May 26. Gold edged higher (~$4,536) on Middle East tension with USD flat — safe-haven flows into gold confirmed. MOU may still be forthcoming but the simultaneous strikes-plus-negotiations dynamic increases the risk of deal collapse.
 
 **May 27 assessment**: Divergent signals between Washington and Tehran are becoming more entrenched. Trump says deal close with "strong inspections" but Iran's Foreign Minister Araghchi is publicly unsure whether a deal is imminent, and Khamenei advisor Shamkhani dismissed US nuclear control demands as a "fantasy." Gold is trading slightly lower (~$4,528–$4,557 range), with MCX down ~0.61%. The market is treating continued US strikes as the "new normal" of deal-pressure tactics rather than acute escalation — gold's geopolitical risk premium is now "priced in" rather than being bid further. Key test: whether the US-Iran MOU is signed before June 16-17 FOMC meeting. (sources: CNN May 24, Al Jazeera May 24, Wikipedia 2025–2026 Iran-US negotiations)
+
+**May 28 assessment**: A tentative agreement has been reached between the US and Iran. CNN confirmed both sides drafted a 60-day MOU as of May 28, but Trump has **not signed** yet. The MOU terms: Hormuz reopens (no tolls); Iran clears deployed sea mines; 60-day truce extension; negotiations continue on uranium enrichment. Gold fell below $4,400 intraday on reports of fresh US military strikes on an Iranian military site — the strikes were interpreted as deal-coercion, not escalation — before recovering to ~$4,445 on the Bloomberg/Axios tentative deal report. The gold market's net response: two-month low ($4,390 intraday), then partial recovery. The geopolitical risk premium is now substantially priced out for as long as the MOU process advances. Key risk: Trump not signing or deal collapse could send gold sharply higher toward $5,000.
+
+**May 29 assessment**: Gold recovering to ~$4,494 as markets re-open (MCX was shut May 28 for Bakri Id). The unsigned MOU creates an uncertain equilibrium: deal optimism caps the upside (unwinding risk premium) while deal-collapse risk provides a floor. Market is positioned cautiously — wait-and-see before Trump signing. Next catalyst: formal MOU signature or breakdown.
 
 **Gold market reaction (May 24–25)**: Gold rose ~$40–50/oz to ~$4,565 on Iran deal news — *counterintuitively*, because de-escalation does not automatically compress gold. The transmission mechanism was:
 - Hormuz reopening expected → oil price falls → inflation cools → Fed has more room to cut → USD weakens → gold rises

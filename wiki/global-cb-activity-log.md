@@ -24,7 +24,7 @@ These countries have full wiki pages — this log supplements them with daily ne
 | Country | Role | Page |
 |---|---|---|
 | 🇵🇱 Poland | Buyer (31t Q1 2026) | [[poland-gold-reserves]] |
-| 🇨🇳 China | Buyer (7t reported Q1 2026) | [[china-pboc-gold]] |
+| 🇨🇳 China | Buyer (7t reported Q1 2026; 8.1t April 2026; 18-month streak; 2,322t total) | [[china-pboc-gold]] |
 | 🇺🇿 Uzbekistan | Buyer (25t Q1 2026) | [[uzbekistan-gold-reserves]] |
 | 🇰🇿 Kazakhstan | Buyer (12t Q1 2026) | [[kazakhstan-gold-reserves]] |
 | 🇨🇿 Czech Republic | Buyer (5t Q1 2026) | [[czech-republic-gold-reserves]] |
@@ -73,6 +73,19 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-05-29
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-05-29 | 🇨🇳 China (PBoC) | Buy — April 2026 confirmed | 8.1t purchased in April 2026 — highest since December 2024. 18th consecutive month of gold purchases (streak runs October 2024–April 2026). Total reserves now **2,322t**; gold = 9% of $3.8tn FX reserves. WGC described as "notable rise." See [[china-pboc-gold]]. | ZeroHedge/PBoC May 8 2026; WGC May 2026 |
+| 2026-05-29 | 🇵🇱 Poland (NBP) | Accumulation — Q1 data confirmed | Q1 2026 confirmed total: **581.64t** (up from 550.21t in Q4 2025, net +31.43t). Target: 700t. Governor Glapiński confirmed NBP will request resolution to increase to 700t; gold at ~28% of total reserve value. See [[poland-gold-reserves]]. | Notes From Poland Jan 2026; CEIC Poland data |
+| 2026-05-29 | 🇩🇪 Germany (Bundesbank) | Policy — no change | AfD Bundestag motion (March 2026) for full repatriation confirmed in open-source search. CDU government response: repatriation "not currently being considered." Bundesbank stance unchanged: FRBNY secure storage. No tonnage change. See [[germany-gold-reserves]]. | Euronews Apr 2026; Kitco Jan 2026 |
+| 2026-05-29 | 🇮🇳 India (RBI) | No new buying; repatriation ongoing | No new RBI purchase/sale announced. Total holdings 880.52t (domestic 680.05t, overseas 197.67t) as of March 2026 confirmed. Repatriation of ~168t from BoE in past 12 months continues. See [[india-rbi-gold]]. | BusinessToday May 1 2026 |
+| 2026-05-29 | 🇷🇺 Russia | Selling — fiscal pressure ongoing | Total ~2,330t; Russia continues selling ~22t/quarter under sanctions-driven fiscal liquidation. No new announcement today. See [[russia-gold-reserves]]. | WGC, Visual Capitalist 2026 |
+| 2026-05-29 | 🇹🇷 Turkey | Selling — swap-driven | Turkey holds ~595t; selling via swaps in 2026; driven by lira stabilisation and domestic demand management. Not a structural bearish signal. See [[turkey-gold-reserves]]. | WGC, Visual Capitalist 2026 |
 
 ---
 

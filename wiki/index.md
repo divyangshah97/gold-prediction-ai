@@ -31,7 +31,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[poland-gold-reserves]] | Largest Q1 2026 buyer (31t); targeting 700t total; NATO security-driven |
-| [[china-pboc-gold]] | 2,313t reserves; largest 17-month purchase in Q1 2026; likely underreported |
+| [[china-pboc-gold]] | 2,322t reserves; 18-month consecutive buying streak; 8.1t in April 2026 (highest since Dec 2024); likely underreported; updated May 29 |
 | [[uzbekistan-gold-reserves]] | 2nd largest Q1 2026 buyer (25t); production-linked buying via Navoi Mining |
 | [[kazakhstan-gold-reserves]] | Q1 2026 buyer (12t); domestic mine purchase programme; ~65–70% gold-to-reserves ratio |
 | [[czech-republic-gold-reserves]] | Q1 2026 buyer (5t); CNB multi-year target; NATO eastern flank diversifier |
@@ -46,7 +46,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t reserves; near-zero new buying in 2026; major story is repatriation from London |
-| [[india-gold-market]] | India gold market running summary: MCX ~₹15,827/g (May 27, down 0.61%), 15% import duty, ETF AUM ₹1.71L crore (FY26 +191%), RBI 880.52t, INR 95.45; updated May 27 |
+| [[india-gold-market]] | India gold market: MCX ~₹1,57,410/10g (May 29, post-Bakri Id re-open), 15% import duty, ETF AUM ₹1.71L crore (FY26 +191%), RBI 880.52t, INR 96.13; updated May 29 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; 2026 repatriation pressure growing; France's $15B move cited as template |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -65,14 +65,14 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; $30B tariff cut talks ongoing; China defended controls as "lawful" May 20 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | Price ~$4,528–$4,557 (May 27); below both 9-day ($4,651) and 50-day ($4,723) EMA; RSI 38.74; Iran deal divergent signals; 200-day SMA $4,341 floor; updated May 27 |
+| [[gold-geopolitical-risk-premium]] | Price ~$4,494 (May 29); hit 2-mo intraday low $4,390 on May 28; 9d EMA ~$4,557, 50d EMA ~$4,693 (both above price); Iran tentative MOU unsigned; 200-day SMA $4,341 structural floor held; updated May 29 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | Iran deal stalling May 27: Trump says close, Khamenei advisor calls control demand a "fantasy"; MCX gold -0.61%; risk priced in; updated May 27 |
+| [[iran-conflict-2026]] | Tentative US-Iran MOU reached May 28 (Trump unsigned); gold hit 2-mo intraday low $4,390 before recovering to $4,494; Hormuz to open; updated May 29 |
 | [[fed-macro-factors]] | Kevin Warsh confirmed May 13; 8-4 FOMC split; June 16-17 first Warsh meeting; Big Beautiful Bill deficit |
 
 ### Forecasts & Institutions
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target; Wells Fargo raised to $6,100–$6,300; RBC raised to $5,723; LBMA avg $4,741.97; range $5,200–$6,300; updated May 26 |
-| [[india-gold-market]] | India gold market: 15% import duty (May 13), MCX ~₹15,827/g (May 27), ETF AUM ₹1.71L crore FY26 (+191%), duty-to-digital shift, INR 95.45; updated May 27 |
+| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target; UBS cut from $6,200 to $5,500 (May 27); Wells Fargo $6,100–$6,300; range $5,200–$6,300; LBMA avg $4,741.97; updated May 29 |
+| [[india-gold-market]] | India gold market: MCX ~₹1,57,410/10g (May 29), 15% import duty, ETF AUM ₹1.71L crore FY26 (+191%), duty-to-digital shift, INR 96.13; updated May 29 |
