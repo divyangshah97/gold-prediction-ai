@@ -62,6 +62,33 @@ Historically for COMEX gold:
 
 These thresholds shift over time as open interest grows. Always compare MM_Net as a % of Open_Interest for a cleaner read.
 
+## Latest COT Data
+
+> **Report_Date (as-of Tuesday):** 2026-05-19
+> **Published by CFTC:** 2026-05-22
+> **Source:** CFTC Disaggregated Futures Only report, COMEX Gold 100 troy oz (code 088691) — sourced via CFTC data aggregated through web search (getarcresearch.com / CFTC public data)
+>
+> ⚠️ *Note: The 2026-05-26 report (published 2026-05-29) was not yet indexed by search engines as of 2026-05-30 morning. This entry uses the most recent confirmed disaggregated Managed Money data available.*
+
+| Field | Value |
+|---|---|
+| Report_Date | 2026-05-19 |
+| Open_Interest | 379,325 contracts |
+| MM_Long | 122,894 contracts |
+| MM_Short | 29,354 contracts |
+| MM_Net | +93,540 contracts |
+| MM_Net_Change | N/A (first entry) |
+| MM_Net % of OI | 24.7% |
+| **Sentiment** | **Neutral zone (50,000–150,000)** |
+
+### Sentiment Interpretation
+
+MM_Net of +93,540 falls in the **Neutral zone (50,000–150,000 contracts)**. Managed Money is modestly net long — neither crowded nor near net-short. There is meaningful room to add longs if a catalyst emerges. No contrarian warning applies here.
+
+**Context from prior data:** As of 2026-04-28, MM_Net was +89,752 (source: getarcresearch.com). The modest increase to +93,540 by May 19 reflects a period of low-conviction repositioning amid the Iran MOU negotiation uncertainty and gold prices falling from the $5,200 ATH toward $4,500. Open interest of 379,325 is elevated, suggesting the market is actively engaged even with subdued MM directionality.
+
+No significant positioning shift to flag (MM_Net_Change unavailable for week-over-week comparison; multi-week change from April 28 to May 19 is only +3,788 contracts).
+
 ## Related pages
 
 - [[central-bank-gold-demand]]

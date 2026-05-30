@@ -4,6 +4,19 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-30 — COT weekly update (Saturday routine)
+
+Report_Date: 2026-05-19 | MM_Net: +93,540 (N/A change — first entry) | OI: 379,325 | Sentiment: Neutral zone | Source: CFTC Disaggregated Futures Only, COMEX Gold code 088691, via web search (getarcresearch.com / CFTC public data)
+
+**Data note:** CFTC.gov returned HTTP 403 for all direct file/API requests. All financial data sites (barchart.com, kitco.com, investing.com, macromicro.me, goldchartsrus.com, etc.) also returned 403 due to network policy in this execution environment. The 2026-05-26 report (published 2026-05-29) was not yet indexed by search engines. Most recent confirmed disaggregated Managed Money data is as-of 2026-05-19.
+
+**Changes made:**
+- `prices/cot.csv` — First entry appended: 2026-05-19, OI=379325, MM_Long=122894, MM_Short=29354, MM_Net=93540
+- `wiki/institutional-flows.md` — Added "## Latest COT Data" section with full table, sentiment interpretation, and context note
+- `wiki/index.md` — Updated institutional-flows entry description with latest MM_Net and date
+
+---
+
 ## 2026-05-30 — Added institutional flows tracking (GLD ETF + CFTC COT)
 
 **Trigger**: User requested daily GLD ETF tonnage and weekly CFTC COT Managed Money data as a 6th trading signal factor.
