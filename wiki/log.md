@@ -4,6 +4,21 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-30 — Added institutional flows tracking (GLD ETF + CFTC COT)
+
+**Trigger**: User requested daily GLD ETF tonnage and weekly CFTC COT Managed Money data as a 6th trading signal factor.
+
+**Changes made**:
+- Created `wiki/institutional-flows.md` — explains GLD ETF daily holdings and COT Managed Money weekly positioning; documents signal rule (Factor 6: inflows = +1, outflows = -1, neutral = 0)
+- Created `prices/gld.csv` — daily GLD ETF tonnes; populated by daily routine going forward
+- Created `prices/cot.csv` — weekly CFTC COT managed money positions; populated by Saturday COT routine
+- Updated `fetch_prices.py` — added USD_INR (USDINR=X) column to prices.csv; added `_migrate_csv()` for schema migration; added USD_INR_MISSING sentinel
+- Updated `wiki/index.md` — new "Institutional Flows" section
+- Daily routine updated: Step 1c (GLD inline fetch + WebSearch fallback), Factor 6 added to Step 6, signal thresholds updated to -6/+6 range, USD_INR patch added to Step 1b
+- New Saturday routine created: fetches CFTC COT gold data, writes to prices/cot.csv, updates institutional-flows.md
+
+---
+
 ## 2026-05-29 — Daily update (Friday)
 
 **Holiday check**: May 28 was a market holiday (Eid al-Adha / Bakri Id — NSE/BSE/MCX closed). May 29 is a normal trading day — confirmed via web search (Business Standard, Upstox May 28 2026).

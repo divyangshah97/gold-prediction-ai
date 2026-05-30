@@ -37,9 +37,10 @@ TICKERS = {
     "Silver_USD": "SI=F",
     "DXY":        "DX-Y.NYB",
     "WTI_Crude":  "CL=F",
+    "USD_INR":    "USDINR=X",
 }
 
-FIELDNAMES = ["Date", "Gold_USD", "Silver_USD", "DXY", "WTI_Crude", "Gold_Volume_Contracts"]
+FIELDNAMES = ["Date", "Gold_USD", "Silver_USD", "DXY", "WTI_Crude", "Gold_Volume_Contracts", "USD_INR"]
 
 # Browser-like headers — avoids Yahoo Finance 403 blocks in cloud environments
 _BROWSER_HEADERS = {
@@ -64,6 +65,25 @@ def _make_session() -> requests.Session:
     s = requests.Session()
     s.headers.update(_BROWSER_HEADERS)
     return s
+
+
+def _migrate_csv():
+    """Rewrite prices.csv header if new FIELDNAMES columns are missing (non-destructive)."""
+    if not os.path.exists(PRICES_CSV):
+        return
+    with open(PRICES_CSV, newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        existing_fields = list(reader.fieldnames or [])
+        if set(FIELDNAMES) <= set(existing_fields):
+            return
+        rows = list(reader)
+    new_cols = set(FIELDNAMES) - set(existing_fields)
+    with open(PRICES_CSV, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES, extrasaction="ignore")
+        writer.writeheader()
+        for row in rows:
+            writer.writerow({fn: row.get(fn, "") for fn in FIELDNAMES})
+    print(f"[migration] Added column(s) {new_cols} to prices.csv (existing rows left blank)")
 
 
 def load_existing_dates() -> set:
@@ -172,10 +192,10 @@ def fetch_range(start: str, end: str, metals_key: str = None) -> list[dict]:
             f"  [metals.dev] METALS_DEV_KEY not set — cannot fall back for {needs_fallback}"
         )
 
-    # --- signal missing DXY / WTI for caller to patch via web search ---
+    # --- signal missing DXY / WTI / USD_INR for caller to patch via web search ---
     today_str = str(date.today())
     latest_day = max(data.keys()) if data else today_str
-    for col in ("DXY", "WTI_Crude"):
+    for col in ("DXY", "WTI_Crude", "USD_INR"):
         if col in yf_failed or not data.get(latest_day, {}).get(col):
             print(f"{col}_MISSING")   # sentinel read by the routine prompt
 
@@ -194,6 +214,7 @@ def fetch_range(start: str, end: str, metals_key: str = None) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 def append_rows(new_rows: list[dict]):
+    _migrate_csv()
     existing = load_existing_dates()
     to_write = [r for r in new_rows if r["Date"] not in existing]
     if not to_write:
@@ -212,6 +233,7 @@ def append_rows(new_rows: list[dict]):
         print(
             f"  {r['Date']}  Gold={r['Gold_USD']}  Silver={r['Silver_USD']}"
             f"  DXY={r['DXY']}  WTI={r['WTI_Crude']}  Vol={r['Gold_Volume_Contracts']}"
+            f"  USD_INR={r['USD_INR']}"
         )
 
 

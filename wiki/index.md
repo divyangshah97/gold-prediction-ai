@@ -70,6 +70,12 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[iran-conflict-2026]] | Tentative US-Iran MOU reached May 28 (Trump unsigned); gold hit 2-mo intraday low $4,390 before recovering to $4,494; Hormuz to open; updated May 29 |
 | [[fed-macro-factors]] | Kevin Warsh confirmed May 13; 8-4 FOMC split; June 16-17 first Warsh meeting; Big Beautiful Bill deficit |
 
+### Institutional Flows
+
+| Page | Description |
+|---|---|
+| [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning (hedge fund sentiment); used as Factor 6 in trading signal |
+
 ### Forecasts & Institutions
 
 | Page | Description |
