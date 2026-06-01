@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026
 
-**Last updated**: 2026-05-29
+**Last updated**: 2026-06-01
 
 ---
 
@@ -47,7 +47,7 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 | Institution | 2026 Avg Forecast | End-2026 Target | Notes | Last Updated |
 |---|---|---|---|---|
 | Goldman Sachs | — | $5,400/oz | Most conservative; CB demand thesis intact | May 2026 (reaffirmed) |
-| JPMorgan | $5,243/oz (was $5,708) | $6,000/oz | Avg cut May 17; called H1 "consolidation phase"; H2 re-acceleration expected | May 17, 2026 |
+| JPMorgan | $5,243/oz (was $5,708) | **$6,300/oz** (was $6,000) | Avg cut May 17 but END-2026 target RAISED to $6,300 in latest research; now highest on Wall Street | June 2026 (latest) |
 | Morgan Stanley | — | $5,200/oz H2 2026 (was $5,700) | Cut ~10% — "supply shock" + delayed Fed cuts; still sees structural support | May 2026 |
 | ANZ | — | $5,600/oz | Trimmed from $6,000; pushed $6,000 target to mid-2027 | May 2026 |
 | UBS | — | **$5,500/oz** (was $6,200; upside $7,200 removed) | **Cut May 27**: "Markets are rediscovering the concept of opportunity cost"; near-term target $5,200 by June 2026; expected 950t official CB purchases in 2026 | May 27, 2026 |
@@ -58,11 +58,13 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 | RBC Capital Markets | — | $5,723/oz | Raised from prior $4,800 estimate | May 2026 |
 | LBMA Consensus | $4,741.97 avg | — | Annual average; year-end directional targets much higher | 2026 survey |
 
-Goldman's $5,400 target remains the most conservative among major banks. **Morgan Stanley** is now at parity with Goldman after cutting its H2 2026 target ~10% from $5,700 to $5,200. JPMorgan's average cut to $5,243 reflects softer near-term investor demand with year-end $6,000 held. **Wells Fargo** made the most aggressive upgrade, lifting its range from $4,500–$4,700 to $6,100–$6,300 — a near-doubling of its target. **RBC Capital Markets** raised its 2026 forecast to $5,723 from $4,800. ANZ's trim to $5,600 (from $6,000) is the most cautious revision.
+Goldman's $5,400 target remains conservative but has been surpassed by JPMorgan's latest revision. **JPMorgan raised** its end-2026 target to **$6,300/oz** (latest research as of June 2026), placing it at the top of Wall Street. **Morgan Stanley** is now at parity with Goldman at $5,200. JPMorgan's full-year average was cut to $5,243 but the year-end target rose — reflecting an H1 consolidation + H2 re-acceleration thesis. **Wells Fargo** remains aggressive at $6,100–$6,300. ANZ trim to $5,600 is the most cautious recent revision.
 
-**UBS cut (May 27, 2026)**: UBS lowered its 2026 gold price target from **$6,200 to $5,500/oz**, citing three pressures: stronger USD, rising oil prices, and a shift in rate expectations (higher real yields). UBS's near-term target is now $5,200/oz by June 2026. Key quote: *"Markets are rediscovering the concept of opportunity cost."* UBS still expects ~950t of official CB purchases in 2026 and views the correction as a consolidation phase, not a structural break. (source: Kitco, TheStreet, May 27 2026)
+**UBS cut (May 27, 2026)**: UBS lowered its 2026 gold price target from **$6,200 to $5,500/oz**, citing three pressures: stronger USD, rising oil prices, and a shift in rate expectations (higher real yields). UBS's near-term target is $5,200/oz by June 2026. Key quote: *"Markets are rediscovering the concept of opportunity cost."* UBS still expects ~950t of official CB purchases in 2026. (source: Kitco, TheStreet, May 27 2026)
 
-The range of institutional targets is now **$5,200–$6,300** for 2026 (UBS lowered from $6,200). After a round of near-term downgrades and the Wells Fargo / RBC upgrades, the 2026 annual average consensus clusters in the $4,900–$5,600 range. The LBMA average consensus sits at $4,741.97 — gold is currently trading near this midpoint at ~$4,494 (May 29).
+**JPMorgan raise (June 2026)**: J.P. Morgan now sees gold at **$6,300/oz** by end-2026, placing it at the upper end of the Wall Street range. Forecasts underpinned by continued strong investor and central bank gold demand averaging ~585t/quarter. (source: TheStreet, J.P. Morgan Global Research June 2026)
+
+The range of institutional targets is now **$5,200–$6,300** for end-2026. After a round of near-term downgrades and the Wells Fargo / JPM / RBC upgrades, the consensus for end-2026 clusters in the $5,200–$6,300 range. The LBMA average consensus sits at $4,741.97 — gold is currently at $4,539 on June 1, still 16% below Goldman's $5,400 and 28% below JPM's $6,300 target.
 
 ## Related pages
 

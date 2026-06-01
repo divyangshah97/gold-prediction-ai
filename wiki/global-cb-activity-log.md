@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-06-01
 
 ---
 
@@ -73,6 +73,16 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-01
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-01 | 🇮🇳 India | Policy — demand collapse confirmed | Physical gold demand collapsed ~70% YoY in fortnight ended May 27 (~7.5t vs ~25t prior year). May 13 duty hike to 15% + PM Modi public appeal driving structural demand shift to digital gold. USD/INR at 95.01 on June 1 (partial rupee recovery from 96.13 on May 29). See [[india-gold-market]]. | BusinessToday May 31, 2026 |
+| 2026-06-01 | 🇩🇪 Germany | Policy — no change | No new Bundesbank statements or Bundestag votes on gold. CDU government reconfirmed "repatriation not under consideration" despite AfD motion. ~1,236t still at FRBNY. See [[germany-gold-reserves]]. | Web search June 2026 |
+| 2026-06-01 | 🌐 Global | No new CB buy/sell data | No new country-level CB gold purchase or sale announcements found for last 48h. Most recent confirmed data: China PBoC April 2026 +8.1t (announced May 8); Q1 2026 global net 244t (WGC). | Web search June 2026 |
 
 ---
 

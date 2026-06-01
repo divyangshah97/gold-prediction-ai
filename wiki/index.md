@@ -46,7 +46,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t reserves; near-zero new buying in 2026; major story is repatriation from London |
-| [[india-gold-market]] | India gold market: MCX ~₹1,57,410/10g (May 29, post-Bakri Id re-open), 15% import duty, ETF AUM ₹1.71L crore (FY26 +191%), RBI 880.52t, INR 96.13; updated May 29 |
+| [[india-gold-market]] | India gold market: MCX ₹1,57,040/10g (June 1), demand -70% YoY post 15% duty hike, ETF AUM ₹1.71L crore FY26 (+191%), RBI 880.52t, INR 95.01; updated June 1 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; 2026 repatriation pressure growing; France's $15B move cited as template |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; $30B tariff cut talks ongoing; China defended controls as "lawful" May 20 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | Price ~$4,494 (May 29); hit 2-mo intraday low $4,390 on May 28; 9d EMA ~$4,557, 50d EMA ~$4,693 (both above price); Iran tentative MOU unsigned; 200-day SMA $4,341 structural floor held; updated May 29 |
+| [[gold-geopolitical-risk-premium]] | Price $4,539.27 (June 1); 3rd green close; 9d EMA ~$4,552, 50d SMA $4,627.51 (both overhead resistance); Iran MOU ongoing; structural floor ~$4,405; updated June 1 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | Tentative US-Iran MOU reached May 28 (Trump unsigned); gold hit 2-mo intraday low $4,390 before recovering to $4,494; Hormuz to open; updated May 29 |
-| [[fed-macro-factors]] | Kevin Warsh confirmed May 13; 8-4 FOMC split; June 16-17 first Warsh meeting; Big Beautiful Bill deficit |
+| [[iran-conflict-2026]] | Tentative MOU reached May 28; ceasefire extended 60 days; nuclear talks continuing; 57.5% market probability of no deal by June 30; gold $4,539 June 1; updated June 1 |
+| [[fed-macro-factors]] | Kevin Warsh confirmed May 13; 8-4 FOMC split; June 16-17 first Warsh meeting (15 days away); DXY 98.94; Big Beautiful Bill deficit; updated June 1 |
 
 ### Institutional Flows
 
@@ -80,5 +80,5 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | $5,400/oz end-2026 target; UBS cut from $6,200 to $5,500 (May 27); Wells Fargo $6,100–$6,300; range $5,200–$6,300; LBMA avg $4,741.97; updated May 29 |
-| [[india-gold-market]] | India gold market: MCX ~₹1,57,410/10g (May 29), 15% import duty, ETF AUM ₹1.71L crore FY26 (+191%), duty-to-digital shift, INR 96.13; updated May 29 |
+| [[goldman-sachs-gold-forecast]] | GS $5,400/oz; JPM raised to $6,300 (latest, up from $6,000); UBS cut to $5,500; Wells Fargo $6,100–$6,300; range $5,200–$6,300; LBMA avg $4,741.97; updated June 1 |
+| [[india-gold-market]] | India gold market: MCX ₹1,57,040/10g (June 1), demand -70% YoY post 15% duty hike, ETF AUM ₹1.71L crore FY26 (+191%), INR 95.01; updated June 1 |

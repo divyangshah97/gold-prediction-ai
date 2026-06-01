@@ -4,6 +4,39 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-01 — Daily update: Iran MOU continuing, India demand -70%, JPM raises to $6,300
+
+**Raw file created**:
+- `raw/india-gold-2026-06-01.md` — MCX ₹1,57,040/10g; USD/INR 95.01; demand -70% YoY post 15% duty; ETF resilient; RBI 880.52t no change
+
+**Prices fetched**:
+- Gold: $4,539.27 | Silver: $75.34 | DXY: 98.94 | WTI: $89.69 | USD/INR: 95.010
+- yfinance failed (403 market closed); all prices sourced via web search
+
+**Signal**: **Buy** | Score: +2
+- Factor 1 (Price vs targets): +1 — $4,539 is 16% below Goldman $5,400 target (>15% threshold)
+- Factor 2 (Geopolitical): 0 — Iran MOU ongoing (not yet signed); Ukraine stalled; mixed signals; no clear gold direction
+- Factor 3 (Fed/macro): 0 — Fed held at 3.5–3.75%; Warsh FOMC June 16-17 (15 days); DXY 98.94 mild bearish; neutral overall
+- Factor 4 (CB demand): 0 — No new CB data from last 7 days; most recent: China PBoC April +8.1t (May 8, >7 days ago)
+- Factor 5 (Technicals): +1 — Price $4,539 below both 9d EMA (~$4,552) and 50d SMA ($4,627.51); last 2 days green (May 29 +$49, June 1 +$45) = Bullish per ruleset
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — MCX price updated to June 1 levels; demand collapse data (~70% YoY) added; INR 95.01; sources updated
+- `wiki/gold-geopolitical-risk-premium.md` — June 1 price added to timeline; EMA levels updated (9d ~$4,552, 50d SMA $4,627.51); technical levels table refreshed
+- `wiki/goldman-sachs-gold-forecast.md` — JPMorgan target raised to $6,300 (latest); institutional forecast table updated; commentary refreshed
+- `wiki/iran-conflict-2026.md` — June 1 timeline entry added (ceasefire extended 60d, nuclear talks ongoing, WTI $89.69)
+- `wiki/fed-macro-factors.md` — DXY updated to 98.94; June 16-17 FOMC countdown; this-week macro calendar added
+- `wiki/global-cb-activity-log.md` — 2026-06-01 section added (India demand collapse confirmed, Germany no change, no new global CB buy/sell data)
+- `wiki/index.md` — descriptions updated for india-gold-market, gold-geopolitical-risk-premium, iran-conflict-2026, goldman-sachs-gold-forecast, fed-macro-factors
+
+**Global CB Sweep Results**:
+- No new country-level CB gold purchase or sale announcements found in last 48h
+- Germany: CDU government reconfirmed repatriation not under consideration; no tonnage change
+- India: physical demand collapsed ~70% YoY; no RBI action
+- All other countries: no new data; Q1 2026 WGC data (244t net) remains most current
+
+---
+
 ## 2026-05-30 — COT weekly update (Saturday routine)
 
 Report_Date: 2026-05-19 | MM_Net: +93,540 (N/A change — first entry) | OI: 379,325 | Sentiment: Neutral zone | Source: CFTC Disaggregated Futures Only, COMEX Gold code 088691, via web search (getarcresearch.com / CFTC public data)

@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations
 
-**Last updated**: 2026-05-29
+**Last updated**: 2026-06-01
 
 ---
 
@@ -27,7 +27,8 @@
 | May 26, 2026 | Gold edges higher to ~$4,536; deals remain "largely negotiated" but unsigned; mixed messages from both sides; gold rises on Middle East tension with USD flat |
 | May 27, 2026 | Trump says both sides close to finalizing deal with "strong inspections"; Iran's Araghchi unsure deal is imminent; Khamenei advisor Ali Shamkhani calls Trump's desired nuclear control a "fantasy"; MCX gold declines ~0.61%; gold below prior close on "risk already priced in" dynamic |
 | May 28, 2026 | **US and Iran reach tentative agreement** — 60-day MOU drafted; Strait of Hormuz to open; mines to be cleared; Iran to halt tolls. Trump has **not yet signed**. Gold fell below $4,400 intraday (two-month low) on US military strikes on Iranian military site; then recovered to ~$4,445 as deal news broke. Bloomberg: gold erased losses after Axios report of US-Iran truce deal, gaining ~0.7% intraday. (CNN May 28, Bloomberg May 28) |
-| May 29, 2026 | Gold recovering to ~$4,494 in Asian/early European trade. Market in wait-and-see mode — tentative deal not yet signed; Hormuz still at ~5% normal traffic. MCX closed on May 28 (Bakri Id holiday); re-opening today. |
+| May 29, 2026 | Gold recovering to ~$4,494 in Asian/early European trade. Market in wait-and-see mode — tentative deal not yet signed; Hormuz still at ~5% normal traffic. MCX re-opens post-holiday. |
+| June 1, 2026 | Gold $4,539.27 (range $4,488.68–$4,595.31). MOU negotiations continuing; ceasefire extended 60 days per reports; nuclear programme talks ongoing with 57.5% market-implied probability of no deal by June 30. WTI crude $89.69/bbl (up 2.67% on day). Russia-Ukraine ceasefire also stalled — Russia launched largest 2026 barrage May 23-24. |
 
 ---
 

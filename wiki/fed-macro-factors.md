@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-22
+**Last updated**: 2026-06-01
 
 ---
 
@@ -69,7 +69,7 @@ The US dollar is under moderate pressure from:
 - FOMC division signals (8-4 split = uncertainty about rate path)
 - Expanding fiscal deficit reducing long-term dollar credibility
 
-**DXY ~99** as of May 21–22, pulling back from a six-week high. The Warsh dovish signal + prior Iran de-escalation hopes had been weakening the dollar; Khamenei's uranium stance reversed some of that. A structurally softer dollar under Warsh is the consensus baseline — gold supportive.
+**DXY 98.94** as of June 1, 2026 (May 29 close; markets open June 1). DXY has pulled back from a recent high of ~99.35 on May 27. The Warsh dovish signal + Iran de-escalation expectations are keeping the dollar modestly soft. A structurally softer dollar under Warsh remains the consensus baseline — gold supportive.
 
 Dollar weakness provides partial support for gold denominated in USD. This is a secondary driver — structural central bank buying is primary.
 
@@ -77,10 +77,18 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** Markets will be watching for:
-- Any rate cut (market-implied: ~40% probability)
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** Only 15 days away as of June 1. Markets will be watching for:
+- Any rate cut (market-implied: ~40% probability at last estimate)
 - Warsh's tone on inflation vs. growth trade-off
 - Any signals on balance sheet policy
+- Impact on gold: a surprise cut or dovish language would likely push gold above the 9-day EMA ($4,552) toward the 50-day SMA ($4,628); a hawkish hold would add downward pressure
+
+**This week's macro calendar (June 2-6)**:
+- Former Fed Chair Powell expected to speak at economic conference
+- April JOLTS job openings data
+- Fed Beige Book publication
+- Weekly unemployment claims
+- These data points will shape market expectations ahead of the June 16-17 meeting
 
 A surprise cut or dovish pivot would likely push gold higher. A hawkish hold would strengthen real-yield pressure.
 
