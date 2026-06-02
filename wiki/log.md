@@ -4,6 +4,36 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-02 — Daily update: Iran suspends talks (oil +6%), gold red day at $4,499, signal Wait
+
+**Raw file created**:
+- `raw/india-gold-2026-06-02.md` — MCX ₹1,56,810/10g (down 0.15% from June 1); USD/INR 95.16; Iran escalation re-elevates Hormuz risk and INR pressure; AA scheme 100kg cap active; no new RBI data
+
+**Prices fetched**:
+- Gold: ~$4,499 | Silver: $75.28 | DXY: 99.19 | WTI: $91.23 | USD/INR: 95.16
+- yfinance failed (403/network); metals.dev failed (403); all prices sourced via web search
+- **DXY_MISSING** and **WTI_MISSING** resolved via web search: DXY=99.19, WTI=91.23
+
+**Signal**: **Wait** | Score: 0
+- Factor 1 (Price vs targets): +1 — ~$4,499 is 16.7% below Goldman $5,400 target (>15% threshold = Bullish)
+- Factor 2 (Geopolitical): 0 — Iran suspended talks with US on June 1 (Israeli Lebanon strikes); Hormuz re-escalation risk; but oil-driven inflation counterbalances safe-haven demand; DXY slightly stronger (99.19 vs 98.94); Neutral
+- Factor 3 (Fed/macro): 0 — Fed hold (97%+ odds) at June 16-17 Warsh meeting; oil surge slightly hawkish but not a new hawkish surprise; macro calendar this week (JOLTS, Beige Book, NFP); Neutral
+- Factor 4 (CB demand): 0 — No new CB gold data in last 7 days; most recent: China PBoC April +8.1t (announced May 8, >7 days ago); Neutral
+- Factor 5 (Technicals): -1 — Gold ~$4,499 below 9d EMA (~$4,505–$4,552) and 50d SMA (~$4,627); June 2 is RED day breaking 3-day green streak; NOT 2 consecutive green days = Bearish
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — June 1 escalation entry added (Iran suspended talks, WTI +6%); June 2 assessment added; sources updated
+- `wiki/gold-geopolitical-risk-premium.md` — June 2 price added to timeline; technical levels updated (9d EMA ~$4,505-$4,552; 50d SMA ~$4,627); signal now Bearish for technicals
+- `wiki/india-gold-market.md` — MCX updated to June 2: ₹1,56,810/10g; USD/INR 95.16; Iran oil risk for INR added; sources updated
+- `wiki/fed-macro-factors.md` — DXY updated to 99.19; FOMC countdown 14 days; weekly macro calendar updated; Iran oil-inflation linkage added
+- `wiki/global-cb-activity-log.md` — 2026-06-02 section added (Iran geopolitical shock, Germany no change, France no change, India ongoing)
+- `wiki/index.md` — descriptions updated for iran-conflict-2026, gold-geopolitical-risk-premium, india-gold-market, fed-macro-factors
+- `wiki/log.md` — this entry
+
+**Holiday check**: June 2, 2026 is a normal trading day (NSE/BSE open). Only June holiday: June 26 (Muharram).
+
+---
+
 ## 2026-06-01 — Daily update: Iran MOU continuing, India demand -70%, JPM raises to $6,300
 
 **Raw file created**:

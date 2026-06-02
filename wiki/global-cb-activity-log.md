@@ -76,6 +76,17 @@ Major holders tracked in this log only (no dedicated page yet):
 
 ---
 
+### 2026-06-02
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-02 | 🌐 Global | Geopolitical shock — oil price | Iran suspended negotiations with Washington on June 1 following Israeli military strikes in Lebanon. Tasnim news agency (Iran semi-official) reported Iran is preparing to "fully close the Strait of Hormuz." WTI crude surged ~6% to ~$91–92/bbl; Brent near $97/bbl. No new country-level CB gold purchase/sale announcements found in last 24-48h. Gold ~$4,499 (down from $4,539 on June 1). DXY 99.19. | CNBC June 1 2026; Deseret News June 1 2026; web search |
+| 2026-06-02 | 🇩🇪 Germany | Policy — no change | No new Bundesbank repatriation announcements or Bundestag votes on gold. CDU government position unchanged: "repatriation not currently being considered." ~1,236t still at FRBNY. See [[germany-gold-reserves]]. | Web search June 2, 2026 |
+| 2026-06-02 | 🇫🇷 France | No new data | No new Banque de France statements. Recall: France completed repatriation of all gold from FRBNY in April 2026 (sold 129t, rebought in Europe, €13B profit). Status: all 2,437t on French soil. No new bar upgrade news. | Web search June 2, 2026 |
+| 2026-06-02 | 🇮🇳 India | Policy — ongoing | 15% import duty and AA scheme 100kg cap continue in force. MCX gold ₹1,56,810/10g (down 0.15% from June 1). USD/INR 95.16 (slightly stronger). Physical demand remains ~-70% YoY. No new RBI announcement; 880.52t holdings unchanged. See [[india-gold-market]], [[india-rbi-gold]]. | Goodreturns.in June 2, 2026; web search |
+
+---
+
 ### 2026-06-01
 
 | Date | Country | Type | Details | Source |

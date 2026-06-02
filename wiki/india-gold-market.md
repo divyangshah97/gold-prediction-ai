@@ -1,27 +1,28 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty hike (May 13), PM Modi's public appeal to defer purchases, a sharp shift from physical to digital gold, and a structurally slower RBI buying pace offset by large-scale repatriation.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty hike (May 13), PM Modi's public appeal to defer purchases, a sharp shift from physical to digital gold, and a structurally slower RBI buying pace offset by large-scale repatriation. As of June 2, MCX gold is at ₹1,56,810/10g; Iran re-escalation risks further INR pressure via oil import costs.
 
-**Sources**: `raw/india-gold-2026-06-01.md`, `raw/india-gold-2026-05-29.md`, `raw/india-gold-2026-05-27.md`, `raw/india-gold-2026-05-25.md`, `raw/india-russia-gold-reserves-2026-05-21.md`, https://www.goodreturns.in/gold-rates/, https://www.businesstoday.in/latest/economy/story/government-raises-gold-import-duty-to-15-will-it-cool-indias-appetite-for-bullion-534099-2026-05-31, https://www.cnbc.com/2026/05/13/india-hikes-bullion-import-duties-to-arrest-rupee-slide.html, https://www.gold.org/goldhub/gold-focus/2026/04/india-gold-market-update-mixed-reading
+**Sources**: `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, `raw/india-gold-2026-05-29.md`, `raw/india-gold-2026-05-27.md`, `raw/india-gold-2026-05-25.md`, https://www.goodreturns.in/gold-rates/, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-2-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-534375-2026-06-02, https://www.gold.org/goldhub/gold-focus/2026/05/india-gold-market-update-import-tightening, https://discoveryalert.com.au/gold-import-restrictions-india-jewellery-exports-2026/
 
-**Last updated**: 2026-06-01
+**Last updated**: 2026-06-02
 
 ---
 
-## MCX Gold Price (June 1, 2026)
+## MCX Gold Price (June 2, 2026)
 
 | Metric | Value |
 |---|---|
-| 24K gold per gram (INR) | ₹15,704/gram (retail) |
-| 24K gold per 10g (MCX unit) | ₹1,57,040 per 10g |
-| 22K gold per gram (INR) | ₹14,395/gram |
-| 18K gold per gram (INR) | ₹11,778/gram |
-| Silver (INR) | ~₹2,86,300/kg (est. from XAG/USD $75.34 × 95.01) |
-| USD/INR rate | ₹95.010 (range 94.96–95.70) |
-| Global spot (XAU/USD) | $4,539.27 (range $4,488.68–$4,595.31) |
+| 24K gold per gram (INR) | ₹15,681/gram (retail) |
+| 24K gold per 10g (MCX unit) | **₹1,56,810 per 10g** |
+| 22K gold per gram (INR) | ~₹14,374/gram |
+| 18K gold per gram (INR) | ~₹11,761/gram |
+| Silver (INR) | ~₹2,85,200/kg (est. from XAG/USD $75.28 × 95.16) |
+| USD/INR rate | ₹95.160 (strengthened from ₹95.01 on June 1) |
+| Global spot (XAU/USD) | ~$4,499 (range $4,463–$4,500) |
 
-Note: USD/INR strengthened slightly to 95.01 from ~96.13 on May 29. INR recovery is partial; gold still at elevated domestic levels. The 15% import duty means landed cost at ₹15,704/g includes ~₹2,040/g in duties and cesses above the base import cost.
+Note: MCX gold marginally lower vs June 1 (₹1,57,040) as global spot fell from $4,539 to $4,499, partially offset by the slightly stronger rupee (95.16 vs 95.01). Iran suspended talks → oil surged → future INR pressure if Hormuz risk re-elevates. The 15% import duty adds ~₹2,000–₹2,300/gram above duty-free import cost.
 
+**Prior session reference (June 1)**: MCX ₹1,57,040/10g; USD/INR 95.01; XAU/USD $4,539.27.
 **Prior session reference (May 29)**: MCX ~₹15,606/gram; USD/INR 96.13.
 **Prior session reference (May 27)**: MCX ~₹15,827/gram; USD/INR 95.45.
 
@@ -111,12 +112,13 @@ The RBI has completed its primary accumulation phase (72.6t in 2024) and is now 
 
 The INR/USD exchange rate is a critical multiplier for domestic gold prices:
 
-- **Current rate**: 1 USD = ₹95.010 (June 1, 2026; was 96.13 on May 29, 95.45 on May 27)
-- **YTD depreciation**: INR has depreciated ~7% in 2026, adding ~₹1,000–₹1,500/gram to domestic gold costs; partial INR recovery June 1 from ~96.13 to 95.01
-- **Effect**: Weaker rupee raises the INR cost of importing gold; at ₹96+ vs. historical ~₹70–75 levels, gold is structurally more expensive in rupee terms even at the same USD spot price
+- **Current rate**: 1 USD = ₹95.160 (June 2, 2026; ₹95.01 on June 1, ₹96.13 on May 29, ₹95.45 on May 27)
+- **YTD depreciation**: INR has depreciated ~7% in 2026, adding ~₹1,000–₹1,500/gram to domestic gold costs; INR has staged a partial recovery from the ₹96+ lows
+- **Effect**: Weaker rupee raises the INR cost of importing gold; at ₹95+ vs. historical ~₹70–75 levels, gold is structurally more expensive in rupee terms even at the same USD spot price
 - **The 15% duty adds further cost**: total effective landed cost premium over international price is substantial
-- **Dollar index** (DXY ~99.30) is providing partial support to INR, but West Asia conflict keeps oil import costs elevated
-- **Hormuz reopening scenario**: If US-Iran MOU signed and Hormuz reopens → oil falls → India's import bill shrinks → INR strengthens → some domestic gold price relief. However, the duty hike is structural and will persist.
+- **Dollar index** (DXY 99.19, June 2) is providing partial support for USD, which is marginally bearish for INR
+- **Iran re-escalation risk (June 1–2)**: Iran suspended talks with Washington → Hormuz risk re-elevated → oil holding at $91–92/bbl → India's energy import bill stays elevated → INR under medium-term pressure. Fresh rupee weakness could push MCX gold above ₹1,60,000/10g without any change in global USD spot price.
+- **Hormuz reopening scenario**: If US-Iran talks resume and MOU is signed → oil falls → India's import bill shrinks → INR strengthens → domestic gold price relief. However, the duty hike is structural and will persist regardless.
 
 The government's gold import duty hike is both a demand-suppression tool and a rupee-support tool — two policy objectives achieved with one instrument.
 

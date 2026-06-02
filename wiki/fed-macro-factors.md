@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-01
+**Last updated**: 2026-06-02
 
 ---
 
@@ -69,7 +69,7 @@ The US dollar is under moderate pressure from:
 - FOMC division signals (8-4 split = uncertainty about rate path)
 - Expanding fiscal deficit reducing long-term dollar credibility
 
-**DXY 98.94** as of June 1, 2026 (May 29 close; markets open June 1). DXY has pulled back from a recent high of ~99.35 on May 27. The Warsh dovish signal + Iran de-escalation expectations are keeping the dollar modestly soft. A structurally softer dollar under Warsh remains the consensus baseline — gold supportive.
+**DXY 99.19** as of June 2, 2026 (up from 98.94 on June 1). The dollar strengthened marginally on the Iran escalation (Iran suspended talks → fresh Hormuz risk → oil spike → some safe-haven USD demand). DXY has edged back toward the May 27 high of ~99.35. The Warsh dovish signal remains the medium-term baseline for USD weakness, but near-term energy-driven inflation is providing a temporary USD bid. A structurally softer dollar under Warsh remains the consensus baseline — gold supportive on a multi-month horizon.
 
 Dollar weakness provides partial support for gold denominated in USD. This is a secondary driver — structural central bank buying is primary.
 
@@ -77,18 +77,20 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** Only 15 days away as of June 1. Markets will be watching for:
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** Only 14 days away as of June 2. Markets will be watching for:
 - Any rate cut (market-implied: ~40% probability at last estimate)
 - Warsh's tone on inflation vs. growth trade-off
 - Any signals on balance sheet policy
 - Impact on gold: a surprise cut or dovish language would likely push gold above the 9-day EMA ($4,552) toward the 50-day SMA ($4,628); a hawkish hold would add downward pressure
 
 **This week's macro calendar (June 2-6)**:
-- Former Fed Chair Powell expected to speak at economic conference
-- April JOLTS job openings data
-- Fed Beige Book publication
-- Weekly unemployment claims
-- These data points will shape market expectations ahead of the June 16-17 meeting
+- Former Fed Chair Powell expected to speak at economic conference (June 2)
+- April JOLTS job openings data (June 3)
+- Fed Beige Book publication (expected June 4)
+- Weekly unemployment claims (June 5)
+- May non-farm payrolls and unemployment rate (June 6)
+- These data points will shape market expectations ahead of the June 16-17 Warsh meeting
+- **Iran oil price spike (June 1–2)**: Iran suspended talks with Washington; WTI surged to ~$91–92/bbl. If oil stays elevated, April CPI's 3.8% reading will likely be replicated or exceeded in May — reducing the probability of a June cut further. Markets currently price ~97% hold at June 16-17.
 
 A surprise cut or dovish pivot would likely push gold higher. A hawkish hold would strengthen real-yield pressure.
 

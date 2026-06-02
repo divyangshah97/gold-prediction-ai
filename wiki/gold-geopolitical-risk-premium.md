@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 1, 2026, gold is recovering from its May lows as Iran MOU negotiations continue; price is below both EMAs but 3 consecutive green closes suggest a mean-reversion bounce.
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 2, 2026, gold is at ~$4,499, down from $4,539 on June 1 after Iran suspended talks with Washington. Fresh Iran escalation (oil +6%) broke the 3-consecutive-green-close streak; gold is below both EMAs; signal is Wait.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://tradersunion.com/analytics/view/xau-usd/
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://tradersunion.com/analytics/view/xau-usd/, https://www.cnbc.com/2026/06/01/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html
 
-**Last updated**: 2026-06-01
+**Last updated**: 2026-06-02
 
 ---
 
@@ -31,29 +31,30 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 | Gold falls to 2-month low then recovers (May 28) | Intraday low ~$4,390 on US strikes + deal optimism. Close ~$4,445. MCX closed (Bakri Id holiday). |
 | **Tentative US-Iran MOU reached May 28** | CNN: both sides drafted MOU; Trump not yet signed; Hormuz to open; mines to be cleared. Gold recovering. |
 | May 29 | ~$4,494 — recovering from two-month low; MCX re-opens post-holiday; tentative deal ambiguity keeps market cautious |
-| **June 1 (today)** | **$4,539.27** (range $4,488.68–$4,595.31) — 3rd consecutive green close; bouncing off May 28 lows; Iran MOU negotiations continuing; immediate support $4,488–$4,510; resistance $4,552 (9-day EMA est.) |
-| 200-day SMA (structural floor) | ~$4,405 (updated; rising from prior $4,341 as time passes) |
-| 9-day EMA (resistance) | ~$4,552 (web search; 5-day MA $4,551.99; gold below this level) |
-| 50-day SMA (resistance) | $4,627.51 (web search; gold well below this overhead) |
+| **June 1** | **$4,539.27** (range $4,488.68–$4,595.31) — 3rd consecutive green close; Iran MOU negotiations continuing; Iran then suspends talks with US (Lebanon strikes) → oil surges 6% → Hormuz risk re-elevated |
+| **June 2 (today)** | **~$4,499** (range ~$4,463–$4,500) — RED day, breaks 3-day green streak; Iran talks suspended → oil holding elevated at $91.23/bbl (WTI); DXY 99.19 (slightly stronger); immediate support $4,463; resistance $4,539 (prior close) |
+| 200-day SMA (structural floor) | ~$4,405 (rising over time) |
+| 9-day EMA | ~$4,505–$4,552 (calculated ~$4,505; wiki prior estimate $4,552; gold BELOW at ~$4,499) |
+| 50-day SMA (resistance) | ~$4,627 (gold well below this overhead) |
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
-## Current Technical Levels (June 1, 2026)
+## Current Technical Levels (June 2, 2026)
 
 | Level | Price | Notes |
 |---|---|---|
 | Resistance C | $4,700 | Backside of broken trendline |
-| Resistance B | $4,552–$4,628 | 9-day EMA ~$4,552; 50-day SMA $4,627.51; both overhead resistance |
-| Resistance A | $4,550 | Primary resistance; cap on recovery |
-| Current price | **$4,539.27** | 3rd consecutive green close (May 28–29, June 1); bouncing off May 28 low ~$4,390 |
-| Support A (immediate) | $4,488–$4,510 | Intraday low June 1 and prior pivot |
+| Resistance B | $4,505–$4,628 | 9-day EMA ~$4,505; 50-day SMA ~$4,627; both overhead resistance |
+| Resistance A | $4,539 | June 1 prior close; now near-term resistance |
+| Current price | **~$4,499** | RED day; breaks 3-day green streak; Iran talks suspended; oil elevated |
+| Support A (immediate) | $4,463–$4,488 | Today's intraday low and June 1 prior low |
 | Support B (critical) | $4,400–$4,430 | May 28 tested support zone — held |
 | Support C (structural) | ~$4,405 | 200-day SMA (updated; rising over time) |
 | June 2026 expected range | $4,380–$5,100 | Per multiple technical analysts |
 
-**EMA configuration (June 1)**: Price ($4,539.27) is **below both** the 9-day EMA (~$4,552, from web search 5-day MA $4,551.99) and 50-day SMA ($4,627.51). EMAs are still in mild downtrend as price remains below them. However, **3 consecutive green closes** (May 28→29→June 1, total +$120 from $4,419.83 low) signal a mean-reversion bounce in progress. Per the technical signal ruleset: Below both EMAs + last 2 days green = **Bullish**.
+**EMA configuration (June 2)**: Price (~$4,499) is **below both** the 9-day EMA (~$4,505–$4,552) and 50-day SMA (~$4,627). The 3-day green close streak (May 28→29→June 1) has been broken by today's red session. Per the technical signal ruleset: Below both EMAs + NOT 2 consecutive green days = **Bearish**.
 
-**Key signal to watch**: A close above $4,552 (9-day EMA) would confirm mean-reversion. A close below $4,488 (today's low) would undermine the bounce and risk retesting $4,430 support.
+**Key signal to watch**: A close above $4,539 (June 1 prior close) would signal recovery of the bounce. A close below $4,463 (today's intraday low) would risk re-testing the $4,400–$4,430 support band. The June 16-17 FOMC (Warsh) remains the next major macro catalyst — a dovish surprise would likely push gold above the 9-day EMA.
 
 ## Current Premium Drivers (as of May 2026)
 
