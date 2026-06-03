@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%93%202026_Iran%E2%80%93United_States_negotiations, https://www.cnbc.com/2026/06/01/iran-war-hormuz-strait-oil-price-surge.html, https://www.deseret.com/business/2026/06/01/donald-trump-iran-war-oil-industry-strait-of-hormuz-gas-prices-increase/
 
-**Last updated**: 2026-06-02
+**Last updated**: 2026-06-03
 
 ---
 
@@ -30,7 +30,8 @@
 | May 29, 2026 | Gold recovering to ~$4,494 in Asian/early European trade. Market in wait-and-see mode — tentative deal not yet signed; Hormuz still at ~5% normal traffic. MCX re-opens post-holiday. |
 | June 1, 2026 | Gold $4,539.27 (range $4,488.68–$4,595.31). MOU negotiations continuing; ceasefire extended 60 days per reports; nuclear programme talks ongoing with 57.5% market-implied probability of no deal by June 30. WTI crude $89.69/bbl (up 2.67% on day). Russia-Ukraine ceasefire also stalled — Russia launched largest 2026 barrage May 23-24. |
 | **June 1, 2026 — Fresh escalation** | Iran's semi-official Tasnim news agency reports Iran **suspended communications with Washington** in response to Israeli military strikes in Lebanon. Iran warns it may "fully close the Strait of Hormuz." WTI crude surges ~6% to ~$91–92/bbl intraday. Brent trades around $97/bbl. Gold closes at $4,539.27 — still elevated as safe-haven demand absorbs the escalation risk. DXY edges up to 99.19. |
-| **June 2, 2026** | Gold ~$4,499/oz. Oil remains elevated ($91.23/bbl WTI). Iran has not formally re-closed the Strait, but suspended negotiations represent a clear setback for the MOU process. DXY 99.19 (mildly stronger). Market in wait-and-see mode; gold breaks its 3-consecutive-green-close streak as the initial safe-haven spike fades partially. Iran escalation keeps geopolitical risk floor elevated but acute premium partially priced in. |
+| **June 2, 2026** | Gold ~$4,499/oz. Oil $91.23/bbl WTI. Talks still suspended; 3-green streak broken; DXY 99.19. |
+| **June 3, 2026** | Gold $4,465.73 (2nd consecutive decline). WTI surges to $93.51 (+2.5%). DXY 99.21. Polymarket assigns 67.5% probability to NO US-Iran nuclear deal by June 30. Iran's position: zero enrichment is "non-negotiable." US position: zero enrichment required. No dialogue while Lebanon fighting continues (per Iranian sources). MOU process effectively stalled. Gold falling DESPITE escalation — oil/inflation pressure raising real yield expectations more than safe-haven flows. |
 
 ---
 

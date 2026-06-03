@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-02
+**Last updated**: 2026-06-03
 
 ---
 
@@ -69,7 +69,7 @@ The US dollar is under moderate pressure from:
 - FOMC division signals (8-4 split = uncertainty about rate path)
 - Expanding fiscal deficit reducing long-term dollar credibility
 
-**DXY 99.19** as of June 2, 2026 (up from 98.94 on June 1). The dollar strengthened marginally on the Iran escalation (Iran suspended talks → fresh Hormuz risk → oil spike → some safe-haven USD demand). DXY has edged back toward the May 27 high of ~99.35. The Warsh dovish signal remains the medium-term baseline for USD weakness, but near-term energy-driven inflation is providing a temporary USD bid. A structurally softer dollar under Warsh remains the consensus baseline — gold supportive on a multi-month horizon.
+**DXY 99.21** as of June 3, 2026 (flat vs 99.19 on June 2; up from 98.94 on June 1). The dollar is holding firm as Iran-US talks remain suspended, WTI at $93.51 maintains energy inflation concerns, and JPMorgan now sees rates held through 2026 with a potential 25bp hike in Q3 2027. This is the most hawkish major-bank signal since the Warsh confirmation. The Warsh dovish pivot narrative is being challenged by the persistent oil/inflation dynamic — markets pricing <10% probability of any 2026 rate cut (CME FedWatch). A structurally softer dollar under Warsh remains the consensus medium-term baseline, but near-term USD bid is real.
 
 Dollar weakness provides partial support for gold denominated in USD. This is a secondary driver — structural central bank buying is primary.
 
@@ -77,11 +77,11 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** Only 14 days away as of June 2. Markets will be watching for:
-- Any rate cut (market-implied: ~40% probability at last estimate)
-- Warsh's tone on inflation vs. growth trade-off
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 13 days away as of June 3. Markets will be watching for:
+- Any rate cut (market-implied: <10% probability per CME FedWatch as of June 3 — extremely low)
+- Warsh's tone on oil-driven inflation vs. growth trade-off
 - Any signals on balance sheet policy
-- Impact on gold: a surprise cut or dovish language would likely push gold above the 9-day EMA ($4,552) toward the 50-day SMA ($4,628); a hawkish hold would add downward pressure
+- Impact on gold: a surprise cut or dovish language would likely push gold above the 9-day EMA ($4,507) toward $4,600+; a hawkish hold (expected) would add downward pressure toward the $4,400–$4,430 support zone
 
 **This week's macro calendar (June 2-6)**:
 - Former Fed Chair Powell expected to speak at economic conference (June 2)

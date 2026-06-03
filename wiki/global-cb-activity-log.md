@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-01
+**Last updated**: 2026-06-03
 
 ---
 
@@ -73,6 +73,18 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-03
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-03 | 🌐 Global | No new CB buy/sell data | No new country-level central bank gold purchase or sale announcements found in last 24-48h. Most recent confirmed data: China PBoC April 2026 +8.1t (announced May 8); WGC Q1 2026 global net 244t. JPMorgan cut full-year 2026 CB purchase estimate to 640t (from 800t) citing Q1 net reported 16t surge in sales. | JPMorgan research June 2026; web search June 3 |
+| 2026-06-03 | 🇩🇪 Germany | Policy — no change | No new Bundesbank repatriation announcement. CDU government stance unchanged: "repatriation not currently being considered." ~1,236t still at FRBNY. Calls from January 2026 for repatriation not acted upon. See [[germany-gold-reserves]]. | Web search June 3, 2026 |
+| 2026-06-03 | 🇸🇦 Saudi Arabia | No new data | SAMA 323.07t holdings static since 2010. No confirmed gold purchases or sales found. Sovereign wealth funds' gold holdings opaque. See [[saudi-arabia-gold-reserves]]. | Web search June 3, 2026 |
+| 2026-06-03 | 🇮🇳 India | Policy — ongoing | 15% import duty and AA scheme 100kg cap unchanged. MCX gold ₹1,56,210/10g (down 0.38% from June 2). USD/INR 95.36 (slightly weaker). WTI $93.51 (+2.5%) posing INR pressure. Physical demand ~-70% YoY continues. RBI 880.52t unchanged. See [[india-gold-market]], [[india-rbi-gold]]. | Raw file `raw/india-gold-2026-06-03.md` |
+| 2026-06-03 | 🌐 ECB | Data point | ECB data: gold overtakes US Treasuries in global central bank reserve holdings. Global CB gold holdings approaching $4 trillion, exceeding ~$3.9 trillion in US Treasuries held by foreign CBs. Structural de-dollarisation milestone. | MINING.COM June 2026 |
 
 ---
 

@@ -4,6 +4,38 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-03 — Daily update: Iran talks stalled, WTI $93.51, gold $4,465.73, signal Wait
+
+**Raw file created**:
+- `raw/india-gold-2026-06-03.md` — MCX ₹1,56,210/10g (down 0.38% from June 2); USD/INR 95.36 (slightly weaker); WTI $93.51 (+2.5%) escalates INR risk; 2nd consecutive red day; 15% duty unchanged; RBI 880.52t unchanged
+
+**Prices fetched** (via manual web search — yfinance 403 + metals.dev 403 fallback both failed):
+- Gold: $4,465.73/oz | Silver: $74.74/oz | DXY: 99.21 | WTI: $93.51/bbl | USD/INR: 95.36
+
+**Signal**: Wait, Score: -1
+- Factor 1 (Price vs targets): +1 — $4,465.73 is 17.3% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): -1 — Iran talks suspended; WTI $93.51 = oil/inflation risk dominant; gold FALLING despite escalation = risk priced in + real yield concern (Bearish)
+- Factor 3 (Fed/macro): 0 — Fed hold at 3.5-3.75%; <10% cut probability; JPM sees potential 2027 hike; no dovish surprise (Neutral)
+- Factor 4 (CB demand): 0 — No new CB gold purchase/sale data in last 7 days; JPM cut CB est to 640t from 800t (Neutral)
+- Factor 5 (Technicals): -1 — Price below 9d EMA ($4,507) and 50d EMA ($4,660); last 2 days both RED (Jun 2 + Jun 3) = Bearish
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — MCX June 3 price, INR 95.36, WTI $93.51 risk
+- `wiki/gold-geopolitical-risk-premium.md` — gold $4,465.73; new technical levels (9d $4,507, 50d $4,660, 200d $4,412); Iran stalled; 2nd red day
+- `wiki/iran-conflict-2026.md` — June 3 entry; Polymarket 67.5% no-deal; zero-enrichment deadlock
+- `wiki/fed-macro-factors.md` — DXY 99.21; <10% cut odds; JPM 2027 hike signal; June 16-17 now 13 days away
+- `wiki/global-cb-activity-log.md` — June 3 section; ECB milestone (gold overtakes UST in global CB reserves)
+- `wiki/index.md` — updated descriptions for iran-conflict, gold-geo-risk, fed-macro, india-gold-market
+
+**Global CB sweep results (June 3)**:
+- No new country-level CB buy/sell announcements
+- Germany: no change (CDU not considering repatriation; ~1,236t at FRBNY)
+- Saudi Arabia: no change (323.07t static)
+- India: no change (880.52t; 15% duty ongoing)
+- Notable: JPMorgan cut full-year CB gold purchase estimate to 640t (from 800t); ECB data shows gold overtook UST in global CB reserves
+
+---
+
 ## 2026-06-02 — Daily update: Iran suspends talks (oil +6%), gold red day at $4,499, signal Wait
 
 **Raw file created**:
