@@ -76,6 +76,18 @@ Major holders tracked in this log only (no dedicated page yet):
 
 ---
 
+### 2026-06-04
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-04 | 🌐 Global | No new CB buy/sell data | No new country-level central bank gold purchase or sale announcements found in last 24-48h. Most recent confirmed data: China PBoC April 2026 +8.1t (announced May 8); WGC Q1 2026 global net 244t. WGC: 68% of CBs plan to increase gold holdings in 2026. Full-year 2026 CB purchases estimated 750-850t (WGC), ~60t/month Goldman nowcast. | WGC Q1 2026; web search June 4 |
+| 2026-06-04 | 🇮🇳 India (RBI) | Controversy — DENIED | Bloomberg Economics (June 2) claimed RBI sold ~$12B in gold (~85-90t) in 2 weeks ending May 22 to protect FX reserves. RBI officially denied — confirmed 880.52t unchanged. PIB fact-checked as "fake": gold share in FX reserves ROSE from 13.92% (Sep 2025) → 16.85% (May 22 2026). MCX gold ₹1,58,985/10g (+1.78% on day). USD/INR 95.59 (weaker). WTI ~$95/bbl. See [[india-gold-market]], [[india-rbi-gold]]. | https://www.republicworld.com/business/pib-dismisses-bloomberg-report-on-rbi-selling-12-billion-in-gold-as-fake-news-2026-06-03-126750; raw/india-gold-2026-06-04.md |
+| 2026-06-04 | 🇩🇪 Germany | No new data | No new Bundesbank repatriation announcement. ~1,236t still at FRBNY. CDU stance unchanged. See [[germany-gold-reserves]]. | Web search June 4, 2026 |
+| 2026-06-04 | 🇫🇷 France | No new data | No new Banque de France statements. All 2,437t on French soil since April 2026 repatriation. No bar upgrade news. See [[france-gold-reserves]]. | Web search June 4, 2026 |
+| 2026-06-04 | 🇸🇦 Saudi Arabia | No new data | SAMA 323.07t holdings static since 2010. No confirmed gold purchases or sales found. See [[saudi-arabia-gold-reserves]]. | Web search June 4, 2026 |
+
+---
+
 ### 2026-06-03
 
 | Date | Country | Type | Details | Source |

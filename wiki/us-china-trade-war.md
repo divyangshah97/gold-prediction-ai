@@ -2,19 +2,32 @@
 
 **Summary**: The ongoing US–China trade conflict — centred on tariffs, technology, and critical minerals — is a key driver of global geopolitical uncertainty and a structural support for gold as a safe-haven asset.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html, https://www.washingtonpost.com/business/2026/06/03/trump-administration-announces-new-tariffs-over-use-forced-labor/
 
-**Last updated**: 2026-05-21
+**Last updated**: 2026-06-04
 
 ---
 
-## Current State (as of May 2026)
+## Current State (as of June 2026)
 
 The US and China are in a **managed truce**, not a resolution:
 
 - The November 2025 trade truce suspended escalating tariffs and China's October 2025 export-control package
 - The truce runs until **November 10, 2026** — after which either side can reactivate measures
 - The May 2026 Beijing summit preserved and nominally extended this truce but added no structural resolution
+
+### June 2026: New US-China Board of Trade + Forced Labour Tariffs
+
+**US-China Board of Trade (June 2026)**: Following the May 14–15 Beijing summit, the US government began seeking public comments on the scope of a new US-China Board of Trade — a bilateral mechanism agreed at the summit that could lead to reduced tariff rates. This represents incremental cooperation within the broader truce framework. (source: CNBC June 3, 2026)
+
+**New Forced Labour Tariffs (June 3, 2026)**: The USTR proposed additional tariffs of 10–12.5% on imports from 60 economies over failure to ban goods made with forced labor. China faces a **12.5% additional tariff** proposal. Key notes:
+- **Gold and precious metals explicitly exempted** from the tariff scope
+- Public comment period runs to July 7, 2026 (tariffs not yet in effect)
+- China denied the forced-labour allegations and called for dialogue
+- India, Japan, South Korea, Brazil also face 12.5% proposals; EU/UK/Canada face 10%
+- This is a separate track from the May truce — it escalates trade friction on the industrial goods side even while the truce remains in place for the original tariff architecture
+
+**Implication for gold**: The new forced-labour tariff proposal injects trade policy uncertainty that historically supports gold as a safe-haven. However, the immediate impact is muted since gold is exempted and the tariffs are not yet in force.
 
 ## Key Flashpoints
 

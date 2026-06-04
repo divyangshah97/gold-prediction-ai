@@ -4,6 +4,40 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-04 — Daily update: Iran tentative ceasefire extension deal; RBI gold-sale claim denied; gold $4,471; signal Wait (0)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-04.md` — MCX ₹1,58,985/10g (+1.78% from June 3); USD/INR 95.59 (weaker); WTI ~$95; RBI 880.52t CONFIRMED UNCHANGED — Bloomberg/PIB/RBI all clarified; US forced-labor tariffs gold-exempted
+
+**Prices fetched** (via manual web search — yfinance 403 + metals.dev 403 fallback both failed):
+- Gold: $4,470.89/oz | Silver: $76.67/oz | DXY: 99.54 | WTI: ~$95.00/bbl | USD/INR: 95.59
+
+**Signal**: Wait, Score: 0
+- Factor 1 (Price vs targets): +1 — $4,471 is 17.2% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): 0 — Tentative US-Iran ceasefire extension deal + nuclear talks framework; but intermittent military exchanges strain deal; WTI $95 (market skeptical of Hormuz reopening); gold up slightly; DXY strengthening; mixed → Neutral
+- Factor 3 (Fed/macro): 0 — Fed rates held at 3.5-3.75% (confirmed April 29 meeting); ADP May jobs +122K (above expectations = near-term hawkish); Warsh dovish long-term; next FOMC June 16-17; no change → Neutral
+- Factor 4 (CB demand): 0 — No new WGC/Goldman CB purchase data in last 7 days; ECB gold-overtakes-UST report (June 2) is structural confirmation but not new volume data → Neutral
+- Factor 5 (Technicals): -1 — Price (~$4,471) below 9d EMA (~$4,490) and 50d EMA (~$4,640); last 2 CSV rows: June 2 RED ($4,499→$4,539 down) and June 3 RED ($4,466→$4,499 down) = NOT 2 consecutive green → Bearish
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — MCX June 4 price; Bloomberg RBI gold-sale controversy section added; US tariff gold exemption noted; INR 95.59; WTI $95
+- `wiki/gold-geopolitical-risk-premium.md` — June 4 price timeline entry; updated EMA levels (9d ~$4,490, 50d ~$4,640); Iran tentative deal; signal updated
+- `wiki/iran-conflict-2026.md` — June 4 entry: tentative ceasefire extension deal reached
+- `wiki/de-dollarisation.md` — ECB milestone section added (gold overtook UST as #1 reserve asset; 27% vs 22% share)
+- `wiki/us-china-trade-war.md` — June 2026 updates: US-China Board of Trade + forced-labor tariff proposal (gold exempted)
+- `wiki/global-cb-activity-log.md` — June 4 section added
+- `wiki/index.md` — updated descriptions
+
+**Global CB sweep results (June 4)**:
+- No new country-level CB buy/sell announcements found
+- India (RBI): Bloomberg gold-sale claim (June 2) officially denied by RBI + PIB — 880.52t holdings confirmed unchanged; gold share in FX reserves 16.85% as of May 22 (rising, not declining)
+- Germany: no change (CDU not considering repatriation; ~1,236t at FRBNY)
+- France: no change (all 2,437t on French soil since April 2026)
+- Saudi Arabia: no change (323.07t static)
+- Notable: WGC 2026 full-year CB demand estimate: 750–850t; 68% of CBs plan to increase gold holdings; ECB data confirms gold overtook US Treasuries in global CB reserves
+
+---
+
 ## 2026-06-03 — Daily update: Iran talks stalled, WTI $93.51, gold $4,465.73, signal Wait
 
 **Raw file created**:

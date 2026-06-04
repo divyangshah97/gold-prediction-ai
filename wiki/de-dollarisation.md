@@ -1,10 +1,10 @@
 # De-dollarisation
 
-**Summary**: The global trend of central banks and governments reducing reliance on the US dollar in reserves and trade, a key structural driver of gold demand.
+**Summary**: The global trend of central banks and governments reducing reliance on the US dollar in reserves and trade, a key structural driver of gold demand. **ECB milestone (June 2, 2026)**: Gold overtook US Treasuries as the #1 global reserve asset by market value — 27% share vs 22% for US Treasuries — as confirmed by the ECB's annual "International Role of the Euro" report.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.mining.com/gold-overtakes-us-treasuries-in-global-reserve-shift-ecb/, https://www.business-standard.com/world-news/gold-overtakes-us-treasuries-as-world-s-largest-reserve-asset-global-gold-demand-rises-126060300673_1.html
 
-**Last updated**: 2026-05-21
+**Last updated**: 2026-06-04
 
 ---
 
@@ -39,6 +39,24 @@ De-dollarisation creates **structural, price-inelastic demand** for gold. Unlike
 - Gold price dips are likely bought by central banks, providing a floor
 - The trend is unlikely to reverse quickly even if geopolitical tensions ease
 - [[goldman-sachs-gold-forecast]] treats this as the primary pillar of its $5,400/oz target
+
+## ECB Milestone: Gold Overtakes US Treasuries (June 2026)
+
+The European Central Bank's annual "International Role of the Euro" report (published June 2, 2026) confirmed a historic milestone: **gold has surpassed US Treasuries as the #1 global central bank reserve asset by market value** for the first time since the Bretton Woods era.
+
+| Reserve asset | Global share (end-2025) |
+|---|---|
+| **Gold** | **27%** |
+| US Treasuries | 22% |
+| Euro | 15% |
+
+Key context:
+- Central banks hold >36,000 tonnes of gold — approaching levels last seen when currencies were tied to the dollar under Bretton Woods.
+- Global CB gold holdings value: approaching ~$4 trillion, exceeding ~$3.9 trillion in US Treasuries held by foreign CBs.
+- **Important caveat**: The ECB noted the shift "mainly reflected valuation effects" — gold's ~60% price appreciation in 2025 mechanically raised its share, rather than a direct replacement of Treasury holdings. However, sustained buying by China, Poland, Turkey, and India over multiple years contributed to the volume base.
+- This milestone is a significant symbolic marker of the de-dollarisation trend, regardless of the valuation vs. volume debate.
+
+(source: https://www.mining.com/gold-overtakes-us-treasuries-in-global-reserve-shift-ecb/)
 
 ## The Trade War Accelerant
 
