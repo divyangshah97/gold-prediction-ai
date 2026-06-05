@@ -54,6 +54,7 @@ The May 2026 Trump–Xi Beijing summit ([[us-china-beijing-summit-may-2026]]) ha
 |---|---|
 | 2026-05-21 | Page created. 7t in Q1 2026 confirmed; 17 consecutive months. Trump-Xi summit had no impact on buying streak. |
 | 2026-05-29 | April 2026 purchase confirmed: 8.1t (highest since Dec 2024). Streak extended to **18 months**. Total now **2,322t**. Gold = 9% of $3.8tn FX reserves. (WGC May 2026, ZeroHedge/PBoC May 8 2026) |
+| 2026-06-05 | WGC June 3 report confirms April 2026: **+8t** (74.64mn troy oz; 18th consecutive monthly purchase). Total remains **2,322t**. Streak unbroken through April. WGC describes as 2nd-largest April buyer after Poland. (source: WGC June 3 2026; Kitco June 3 2026) |
 
 ## Related pages
 

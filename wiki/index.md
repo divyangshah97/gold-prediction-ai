@@ -30,11 +30,11 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[poland-gold-reserves]] | Largest Q1 2026 buyer (31t); targeting 700t total; NATO security-driven |
-| [[china-pboc-gold]] | 2,322t reserves; 18-month consecutive buying streak; 8.1t in April 2026 (highest since Dec 2024); likely underreported; updated May 29 |
+| [[poland-gold-reserves]] | **YTD #1 buyer**: 45t Jan–Apr 2026; April +14t → total 595t (30% reserves); targeting 700t; NATO security-driven; updated June 5 |
+| [[china-pboc-gold]] | 2,322t reserves; 18-month consecutive buying streak; April 2026 +8t (WGC confirmed June 3); likely underreported; updated June 5 |
 | [[uzbekistan-gold-reserves]] | 2nd largest Q1 2026 buyer (25t); production-linked buying via Navoi Mining |
 | [[kazakhstan-gold-reserves]] | Q1 2026 buyer (12t); domestic mine purchase programme; ~65–70% gold-to-reserves ratio |
-| [[czech-republic-gold-reserves]] | Q1 2026 buyer (5t); CNB multi-year target; NATO eastern flank diversifier |
+| [[czech-republic-gold-reserves]] | Q1 2026 buyer (5t) + April +2t → total ~79t (6% reserves); CNB multi-year target; updated June 5 |
 | [[malaysia-gold-reserves]] | Q1 2026 buyer (5t); ASEAN de-dollarisation trend; BRICS+ aligned |
 | [[indonesia-gold-reserves]] | Q1 2026 buyer (2t); Grasberg mine context; ASEAN regional pattern |
 | [[cambodia-gold-reserves]] | Q1 2026 buyer (2t); dollarised economy building monetary sovereignty |
@@ -42,11 +42,11 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[serbia-gold-reserves]] | Q1 2026 buyer (1t); geopolitical neutrality hedge; EU candidate |
 | [[uae-gold-reserves]] | Q1 2026 buyer (1t); major physical gold hub (DMCC); BRICS+ member |
 | [[turkey-gold-reserves]] | ~70t Q1 reduction via gold swaps; not a structural bearish signal |
-| [[russia-gold-reserves]] | 2,304t reserves; selling ~22t/quarter due to sanctions-driven fiscal deficit |
+| [[russia-gold-reserves]] | 2,304t reserves; 4th consecutive month selling in April (-6t); YTD -22t; sanctions-driven fiscal deficit; updated June 5 |
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t reserves; near-zero new buying in 2026; major story is repatriation from London |
-| [[india-gold-market]] | India gold market: MCX ₹1,58,985/10g (June 4, +1.78%), demand -70% YoY post 15% duty hike, ETF AUM ₹1.71L crore FY26 (+191%), RBI 880.52t CONFIRMED UNCHANGED (Bloomberg gold-sale claim denied June 3); US forced-labor tariffs gold-exempted; updated June 4 |
+| [[india-gold-market]] | MCX ₹1,58,300/10g (June 5, -1%); RBI MPC HELD repo rate 5.25% neutral (June 5); strong US NFP +251K gold-negative; demand -70% YoY; ETF AUM ₹1.71L crore FY26 (+191%); RBI 880.52t unchanged; updated June 5 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; 2026 repatriation pressure growing; France's $15B move cited as template |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; US-China Board of Trade being implemented post-May summit; new US forced-labor tariffs (12.5%) proposed on China June 3 (gold exempted); updated June 4 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | Price ~$4,471 (June 4); recovery from June 3 low $4,466; 9d EMA ~$4,490, 50d EMA ~$4,640 (both overhead); Iran tentative ceasefire extension deal; WTI ~$95; structural floor ~$4,340 (200d SMA); signal: Wait (score 0); updated June 4 |
+| [[gold-geopolitical-risk-premium]] | Price ~$4,446 (June 5); down ~1% on strong US NFP +251K; 9d EMA ~$4,490, 50d EMA ~$4,640 (both overhead); Iran MOU unfinalized; WTI $95; signal: Wait (score +1); updated June 5 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | Tentative US-Iran ceasefire extension deal (60 days) + nuclear talks framework reached; intermittent military exchanges straining deal; WTI ~$95; gold ~$4,471; ~33% deal probability by June 30; updated June 4 |
-| [[fed-macro-factors]] | Kevin Warsh confirmed May 13; 8-4 FOMC split; June 16-17 first Warsh meeting (13 days away); DXY 99.21; <10% rate-cut probability; JPM sees potential 2027 hike; oil keeps CPI elevated; updated June 3 |
+| [[iran-conflict-2026]] | US-Iran 60-day ceasefire extension MOU being negotiated; IAEA Grossi says new deal must reflect Iran's advanced nuclear program; WTI $95; gold $4,446; updated June 5 |
+| [[fed-macro-factors]] | June 16-17 first Warsh meeting (11 days); US May NFP +251K (strong, gold-negative); DXY 99.30; 97.8% hold probability; RBI India also held at 5.25%; updated June 5 |
 
 ### Institutional Flows
 
@@ -81,4 +81,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[goldman-sachs-gold-forecast]] | GS $5,400/oz; JPM raised to $6,300 (latest, up from $6,000); UBS cut to $5,500; Wells Fargo $6,100–$6,300; range $5,200–$6,300; LBMA avg $4,741.97; updated June 1 |
-| [[india-gold-market]] | India gold market: MCX ₹1,56,810/10g (June 2), demand -70% YoY post 15% duty hike, ETF AUM ₹1.71L crore FY26 (+191%), INR 95.16; updated June 2 |
+| [[india-gold-market]] | MCX ₹1,58,300/10g (June 5, -1%); RBI held 5.25% neutral; strong US NFP +251K; demand -70% YoY; ETF AUM ₹1.71L crore; updated June 5 |

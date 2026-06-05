@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-03
+**Last updated**: 2026-06-05
 
 ---
 
@@ -77,22 +77,29 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 13 days away as of June 3. Markets will be watching for:
-- Any rate cut (market-implied: <10% probability per CME FedWatch as of June 3 — extremely low)
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 11 days away as of June 5. Markets will be watching for:
+- Any rate cut (market-implied: **97.8% probability of NO CHANGE** per prediction markets as of June 5 — extremely high hold probability)
 - Warsh's tone on oil-driven inflation vs. growth trade-off
 - Any signals on balance sheet policy
-- Impact on gold: a surprise cut or dovish language would likely push gold above the 9-day EMA ($4,507) toward $4,600+; a hawkish hold (expected) would add downward pressure toward the $4,400–$4,430 support zone
+- Impact on gold: a surprise cut or dovish language would likely push gold above the 9-day EMA (~$4,490) toward $4,600+; a hawkish hold (expected) would add downward pressure toward the $4,400–$4,420 support zone
 
-**This week's macro calendar (June 2-6)**:
-- Former Fed Chair Powell expected to speak at economic conference (June 2)
-- April JOLTS job openings data (June 3)
-- Fed Beige Book publication (expected June 4)
-- Weekly unemployment claims (June 5)
-- May non-farm payrolls and unemployment rate (June 6)
-- These data points will shape market expectations ahead of the June 16-17 Warsh meeting
-- **Iran oil price spike (June 1–2)**: Iran suspended talks with Washington; WTI surged to ~$91–92/bbl. If oil stays elevated, April CPI's 3.8% reading will likely be replicated or exceeded in May — reducing the probability of a June cut further. Markets currently price ~97% hold at June 16-17.
+**June 5 macro data (today)**:
+- **US May Non-Farm Payrolls**: **+251,000 jobs** — strong beat; unemployment rate stable. USD firm on data; gold fell ~1% to $4,446 post-release. Reinforces Fed hold at June 16-17 meeting. (source: BLS / FX Street)
+- **Weekly jobless claims**: Released alongside NFP; in line with expectations.
+- **RBI MPC India (June 5)**: Repo rate UNCHANGED at 5.25%, neutral stance. India central bank also holding — coordinated global central bank caution on inflation.
 
-A surprise cut or dovish pivot would likely push gold higher. A hawkish hold would strengthen real-yield pressure.
+**May NFP Interpretation for Gold**:
+- Strong jobs = Fed less likely to cut → USD bid → headwind for gold
+- But: strong jobs also suggest economy can withstand higher rates → no urgent safe-haven demand
+- Net effect: mild bearish for gold in short term; does not change structural bullish trend toward $5,400 (Goldman target)
+- April FOMC minutes showed 4 dissenters (most since 1992): 1 wanted to cut, 3 wanted more hawkish language; Warsh is expected to lean dovish but strong data may constrain his messaging.
+
+**USD Dynamics (updated June 5)**:
+- DXY 99.30 (up slightly from 99.21 June 3; 99.54 June 4)
+- Strong NFP anchoring USD above 99; technical resistance near 100.0
+- Dollar holding firm: Iran-US talks uncertain, WTI at $95/bbl keeps energy inflation concerns alive
+
+A surprise cut or dovish pivot at June 16-17 would likely push gold higher. A hawkish hold (widely expected) would add downward pressure — but structural CB demand is primary support for gold regardless.
 
 ## Related pages
 

@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-03
+**Last updated**: 2026-06-05
 
 ---
 
@@ -23,8 +23,8 @@ These countries have full wiki pages — this log supplements them with daily ne
 
 | Country | Role | Page |
 |---|---|---|
-| 🇵🇱 Poland | Buyer (31t Q1 2026) | [[poland-gold-reserves]] |
-| 🇨🇳 China | Buyer (7t reported Q1 2026; 8.1t April 2026; 18-month streak; 2,322t total) | [[china-pboc-gold]] |
+| 🇵🇱 Poland | Buyer (45t YTD Jan–Apr 2026; April: 14t; total 595t; 30% of reserves) | [[poland-gold-reserves]] |
+| 🇨🇳 China | Buyer (8.1t April 2026; 18-month streak; 2,322t total) | [[china-pboc-gold]] |
 | 🇺🇿 Uzbekistan | Buyer (25t Q1 2026) | [[uzbekistan-gold-reserves]] |
 | 🇰🇿 Kazakhstan | Buyer (12t Q1 2026) | [[kazakhstan-gold-reserves]] |
 | 🇨🇿 Czech Republic | Buyer (5t Q1 2026) | [[czech-republic-gold-reserves]] |
@@ -73,6 +73,23 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-05
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-05 | 🇵🇱 Poland (NBP) | Buy — April 2026 confirmed | **+14t in April 2026** (WGC June 3 report). YTD 2026 total: **45t** (January–April). Cumulative reserves: **595t** (~30% of total FX reserves). Largest April 2026 buyer globally. Buying pace accelerating (31t in Q1, 14t in April alone). See [[poland-gold-reserves]]. | WGC Central Bank Gold Statistics June 3, 2026; Kitco June 3, 2026 |
+| 2026-06-05 | 🇨🇳 China (PBoC) | Buy — April 2026 confirmed | **+8t in April 2026** (WGC June 3 report; confirms earlier PBoC announcement). 18th consecutive month of buying. Total: **2,322t** (74.64 million troy oz). Gold = 9% of FX reserves. Described by WGC as "largest since Dec 2024." See [[china-pboc-gold]]. | WGC Central Bank Gold Statistics June 3, 2026; Kitco June 3, 2026 |
+| 2026-06-05 | 🇨🇿 Czech Republic (CNB) | Buy — April 2026 confirmed | **+2t in April 2026** (WGC June 3 report). Total reserves now **~79t** (~6% of FX reserves). Modest but consistent accumulation pace. See [[czech-republic-gold-reserves]]. | WGC Central Bank Gold Statistics June 3, 2026; Kitco June 3, 2026 |
+| 2026-06-05 | 🇷🇺 Russia (Bank of Russia) | Sell — April 2026 | **-6t in April 2026** (WGC June 3 report). 4th consecutive month of net sales. YTD 2026 sales: **~22t**. Ongoing sanctions-driven fiscal liquidation. See [[russia-gold-reserves]]. | WGC Central Bank Gold Statistics June 3, 2026; Kitco June 3, 2026 |
+| 2026-06-05 | 🌐 Global — WGC April data | Net buying resumption | Total net CB gold purchases in **April 2026: +17t** — a rebound after March net sales. Poland 14t + China 8t + Czech 2t = 24t buying; Russia -6t + others = 7t selling. Net: +17t. Full WGC report published June 3, 2026. | WGC Central Bank Gold Statistics, June 3, 2026 |
+| 2026-06-05 | 🇩🇪 Germany (Bundesbank) | No new data | No new Bundesbank repatriation announcement. ~1,236t still at FRBNY. CDU government stance: "repatriation not currently being considered." Economist/politician pressure growing but no policy action. See [[germany-gold-reserves]]. | Web search June 5, 2026 |
+| 2026-06-05 | 🇮🇳 India (RBI) | Policy — rate hold | RBI MPC June 5: Repo rate **UNCHANGED at 5.25%**, neutral stance. Governor Malhotra presided. Decision gold-neutral. RBI gold holdings confirmed 880.52t — Bloomberg $12B sale claim denied (June 3 PIB fact-check). MCX gold ₹1,58,300/10g (down ~1%). See [[india-gold-market]], [[india-rbi-gold]]. | BusinessToday June 5 2026; Business Standard June 5 2026 |
+| 2026-06-05 | 🇺🇸 USA (Treasury/Fed) | No new data | No US Treasury gold revaluation proposals or Fort Knox audit calls found in last 24-48h. 8,133t holdings unchanged since 1971. See [[usa-gold-reserves]]. | Web search June 5, 2026 |
+| 2026-06-05 | 🇸🇦 Saudi Arabia (SAMA) | No new data | SAMA 323.07t static since 2010. No BRICS+ reserve diversification announcement. See [[saudi-arabia-gold-reserves]]. | Web search June 5, 2026 |
+| 2026-06-05 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026. No new BdF statements or bar upgrade news. See [[france-gold-reserves]]. | Web search June 5, 2026 |
 
 ---
 
@@ -153,6 +170,7 @@ Major holders tracked in this log only (no dedicated page yet):
 | 2026-05-21 | 🇮🇷 Iran | Nuclear directive | Khamenei: enriched uranium cannot leave Iran; see [[iran-conflict-2026]] |
 | 2026 | 🇵🇱 Poland | Reserve target | 700t target confirmed; see [[poland-gold-reserves]] |
 | 2026 Q1 | 🇨🇿 Czech Republic | Reserve policy | Publicly stated accumulation strategy; target ~100t by 2030 (needs verification) |
+| 2026-06-05 | 🇮🇳 India (RBI) | Rate hold — monetary policy | RBI MPC kept repo rate UNCHANGED at 5.25%, neutral stance. Gold-neutral outcome. No impact on import duty or gold reserve policy. See [[india-gold-market]], [[india-rbi-gold]]. |
 
 ---
 

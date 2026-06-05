@@ -4,6 +4,31 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-05 — Daily update: WGC April CB data (+17t net); US NFP +251K; RBI holds 5.25%; gold $4,446 (-1%); signal Wait (+1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-05.md` — MCX ₹1,58,300/10g (-1%); RBI MPC HELD repo 5.25% neutral; US May NFP +251K (gold-negative); USD/INR 95.21; WTI $95; silver -1.5%
+
+**Pages updated**:
+- `wiki/poland-gold-reserves.md` — WGC June 3: +14t April 2026; YTD 45t; total 595t (30% reserves)
+- `wiki/china-pboc-gold.md` — WGC June 3: +8t April 2026 confirmed; 18th consecutive month; 2,322t
+- `wiki/czech-republic-gold-reserves.md` — WGC June 3: +2t April 2026; total ~79t (6% reserves)
+- `wiki/russia-gold-reserves.md` — WGC June 3: -6t April 2026 (4th consecutive); YTD -22t
+- `wiki/india-gold-market.md` — MCX ₹1,58,300 (-1%), RBI MPC held 5.25% (neutral), NFP strong, seasonal inauspicious period continues
+- `wiki/fed-macro-factors.md` — US May NFP +251K; RBI India held 5.25%; June 16-17 Warsh meeting 11 days; 97.8% hold probability
+- `wiki/gold-geopolitical-risk-premium.md` — Gold $4,446; NFP drove USD firm; Iran MOU unfinalized
+- `wiki/global-cb-activity-log.md` — 10 new rows added for June 5 (Poland, China, Czech, Russia, global WGC net, Germany, India RBI, USA, Saudi Arabia, France)
+- `wiki/index.md` — descriptions updated for Poland, China, Czech Republic, Russia, India gold market (both entries), geo-risk premium, fed-macro, iran-conflict
+
+**Signal**: Wait, Score +1
+- Factor 1 (Price vs target): Gold $4,446 = 21.4% below Goldman $5,400 target → **Bullish +1**
+- Factor 2 (Geopolitical): Iran MOU unfinalized; WTI $95; NFP drove USD firm — no clear safe-haven flow into gold → **Neutral 0**
+- Factor 3 (Fed/macro): US May NFP +251K (strong hold signal); FOMC June 16-17 hold 97.8% probability; RBI India held 5.25% neutral → **Neutral 0**
+- Factor 4 (CB demand): WGC published June 3 (within 7 days): April net +17t (Poland 14t, China 8t, Czech 2t) → **Bullish +1**
+- Factor 5 (Technicals): Gold $4,446 below 9d EMA ~$4,490 AND 50d EMA ~$4,640; last 2 days: June 4 green, June 5 red = NOT 2 green → **Bearish -1**
+
+---
+
 ## 2026-06-04 — Daily update: Iran tentative ceasefire extension deal; RBI gold-sale claim denied; gold $4,471; signal Wait (0)
 
 **Raw file created**:

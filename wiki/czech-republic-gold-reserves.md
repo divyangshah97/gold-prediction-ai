@@ -1,10 +1,10 @@
 # Czech Republic Gold Reserves
 
-**Summary**: The Czech National Bank (CNB) bought 5 tonnes of gold in Q1 2026, part of a deliberate multi-year reserve diversification strategy announced publicly in 2023 — a notable shift for a historically low-gold-holding EU country.
+**Summary**: The Czech National Bank (CNB) bought 5 tonnes of gold in Q1 2026 and 2t in April 2026 (total ~79t, 6% of FX reserves), part of a deliberate multi-year reserve diversification strategy — a notable shift for a historically low-gold-holding EU country.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-06-05
 
 ---
 
@@ -13,9 +13,10 @@
 | Metric | Value |
 |---|---|
 | Q1 2026 purchases | 5 tonnes |
-| Estimated total reserves | ~35–40 tonnes (post-Q1 2026) |
+| April 2026 purchases | **2 tonnes** (WGC June 3 report) |
+| Total reserves (post-April 2026) | **~79 tonnes** (~6% of FX reserves) |
 | Target (CNB stated) | 100 tonnes by 2030 (needs verification) |
-| Gold as % of FX reserves | ~1–2% (historically low; rising) |
+| Gold as % of FX reserves | ~6% (up from ~1–2% historically) |
 
 ## Why Czech Republic Is Buying
 
@@ -40,6 +41,7 @@ Key drivers:
 | Date | Event |
 |---|---|
 | 2026-05-27 | Stub created. No new CNB-specific announcements in last 48h. 100t target needs source verification. |
+| 2026-06-05 | WGC June 3 report: Czech Republic bought **+2t in April 2026**, bringing total to **~79t** (~6% of FX reserves). Consistent, modest buying pace continues. (source: WGC June 3 2026; Kitco June 3 2026) |
 
 ## Related pages
 

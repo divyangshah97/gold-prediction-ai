@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 4, 2026, gold is at ~$4,470.89 (recovering from June 3 low $4,465.73). Tentative US-Iran agreement to extend ceasefire 60 days + start nuclear talks announced; intermittent military exchanges strain the deal. WTI at ~$95/bbl — market not fully pricing Hormuz reopening. Technical signal: below both EMAs; last 2 CSV rows both RED → Bearish technicals. Signal: Wait (score 0).
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 5, 2026, gold is at ~$4,446 (down ~1% on strong US NFP +251K). Iran 60-day ceasefire extension MOU still unfinalized. WTI at $95/bbl. Key macro today: US May NFP beat and India RBI hold (5.25%, neutral) both reinforce USD strength and limit gold upside. Technical: below both EMAs ($4,490 9d, $4,640 50d); June 5 red day. Signal: Wait (score +1).
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks, https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html, https://www.euronews.com/my-europe/2026/06/02/eu-ready-to-step-up-in-ukraine-russia-talks-but-ceasefire-must-come-first-summit-draft-sho
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc
 
-**Last updated**: 2026-06-04
+**Last updated**: 2026-06-05
 
 ---
 
