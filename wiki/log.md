@@ -4,6 +4,19 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-06 — COT weekly update
+
+Report_Date: 2026-06-02 | MM_Net: +112,179 (+18,639 vs. 2026-05-19) | OI: 326,052 | Sentiment: Neutral zone (50,000–150,000) | Source: IndexBox.io CFTC COT summary, June 5, 2026 release (CFTC Disaggregated Futures Only, COMEX Gold code 088691)
+
+**Changes made:**
+- `prices/cot.csv` — Row appended: 2026-06-02, OI=326,052, MM_Long=129,367, MM_Short=17,188, MM_Net=+112,179, MM_Net_Change=+18,639
+- `wiki/institutional-flows.md` — "## Latest COT Data" section replaced with June 2 data; OI contraction noted (379K→326K); short-covering dynamic noted; NFP context added
+- `wiki/index.md` — institutional-flows entry updated with latest MM_Net and Report_Date
+
+**Data note:** CFTC.gov and most financial data sites returned HTTP 403 under this environment's network policy. Data sourced from IndexBox.io CFTC COT Data June 5, 2026 article, which cites the CFTC Disaggregated Futures Only release for COMEX Gold (code 088691), as-of June 2, 2026.
+
+---
+
 ## 2026-06-05 — Daily update: WGC April CB data (+17t net); US NFP +251K; RBI holds 5.25%; gold $4,446 (-1%); signal Wait (+1)
 
 **Raw file created**:

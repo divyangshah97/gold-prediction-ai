@@ -4,7 +4,7 @@
 
 **Sources**: SPDR GLD ETF (State Street), CFTC Commitment of Traders report (weekly, disaggregated futures).
 
-**Last updated**: 2026-05-30
+**Last updated**: 2026-06-06
 
 ---
 
@@ -64,30 +64,30 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-05-19
-> **Published by CFTC:** 2026-05-22
-> **Source:** CFTC Disaggregated Futures Only report, COMEX Gold 100 troy oz (code 088691) — sourced via CFTC data aggregated through web search (getarcresearch.com / CFTC public data)
->
-> ⚠️ *Note: The 2026-05-26 report (published 2026-05-29) was not yet indexed by search engines as of 2026-05-30 morning. This entry uses the most recent confirmed disaggregated Managed Money data available.*
+> **Report_Date (as-of Tuesday):** 2026-06-02
+> **Published by CFTC:** 2026-06-05
+> **Source:** CFTC Disaggregated Futures Only report, COMEX Gold 100 troy oz (code 088691) — sourced via IndexBox.io CFTC COT summary (June 5, 2026 release)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-05-19 |
-| Open_Interest | 379,325 contracts |
-| MM_Long | 122,894 contracts |
-| MM_Short | 29,354 contracts |
-| MM_Net | +93,540 contracts |
-| MM_Net_Change | N/A (first entry) |
-| MM_Net % of OI | 24.7% |
+| Report_Date | 2026-06-02 |
+| Open_Interest | 326,052 contracts |
+| MM_Long | 129,367 contracts |
+| MM_Short | 17,188 contracts |
+| MM_Net | +112,179 contracts |
+| MM_Net_Change | +18,639 vs. prior entry (2026-05-19) |
+| MM_Net % of OI | 34.4% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
 ### Sentiment Interpretation
 
-MM_Net of +93,540 falls in the **Neutral zone (50,000–150,000 contracts)**. Managed Money is modestly net long — neither crowded nor near net-short. There is meaningful room to add longs if a catalyst emerges. No contrarian warning applies here.
+MM_Net of +112,179 falls in the **Neutral zone (50,000–150,000 contracts)**. Managed Money has increased net-long exposure meaningfully — shorts dropped sharply from 29,354 to 17,188 (−12,166), while longs rose modestly from 122,894 to 129,367 (+6,473). The positioning move is being driven primarily by short-covering rather than fresh long accumulation.
 
-**Context from prior data:** As of 2026-04-28, MM_Net was +89,752 (source: getarcresearch.com). The modest increase to +93,540 by May 19 reflects a period of low-conviction repositioning amid the Iran MOU negotiation uncertainty and gold prices falling from the $5,200 ATH toward $4,500. Open interest of 379,325 is elevated, suggesting the market is actively engaged even with subdued MM directionality.
+**Week-over-week change of +18,639 contracts** (from May 19 baseline of +93,540) is just below the ±20,000 significant shift threshold. Not a flag, but approaching notable territory — watch next week for continuation.
 
-No significant positioning shift to flag (MM_Net_Change unavailable for week-over-week comparison; multi-week change from April 28 to May 19 is only +3,788 contracts).
+**Open Interest contraction is notable:** OI fell from 379,325 (May 19) to 326,052 (June 2), a drop of ~53,000 contracts (−14%). This alongside a rising MM_Net suggests short-covering-driven position reduction rather than fresh speculative enthusiasm. Fewer total contracts outstanding with more net-long bias = a tighter, less liquid market.
+
+**Context:** Gold price was ~$4,446–$4,499 as of June 2 (June 2 close ~$4,499, June 5 close ~$4,446 post-NFP). The strong US NFP report (+251K) released June 5 is a gold headwind. MM positioning as of Tuesday June 2 pre-dates the NFP reaction, so the next COT report (as of June 9) may reflect NFP-driven repositioning.
 
 ## Related pages
 
