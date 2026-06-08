@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-05
+**Last updated**: 2026-06-08
 
 ---
 
@@ -77,27 +77,32 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 11 days away as of June 5. Markets will be watching for:
-- Any rate cut (market-implied: **97.8% probability of NO CHANGE** per prediction markets as of June 5 — extremely high hold probability)
-- Warsh's tone on oil-driven inflation vs. growth trade-off
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 8 days away as of June 8. Markets will be watching for:
+- Any rate cut (market-implied: ~95%+ probability of NO CHANGE — but with strong NFP, some now pricing a 25bp HIKE by year-end)
+- Warsh's tone on inflation vs. growth — strong jobs data may force a hawkish pivot, undermining his prior dovish signalling
 - Any signals on balance sheet policy
-- Impact on gold: a surprise cut or dovish language would likely push gold above the 9-day EMA (~$4,490) toward $4,600+; a hawkish hold (expected) would add downward pressure toward the $4,400–$4,420 support zone
+- Impact on gold: a dovish hold or cut would likely push gold sharply above $4,400; a hawkish hold (with rate-hike language) would add further downward pressure toward $4,186 support
 
-**June 5 macro data (today)**:
-- **US May Non-Farm Payrolls**: **+251,000 jobs** — strong beat; unemployment rate stable. USD firm on data; gold fell ~1% to $4,446 post-release. Reinforces Fed hold at June 16-17 meeting. (source: BLS / FX Street)
-- **Weekly jobless claims**: Released alongside NFP; in line with expectations.
-- **RBI MPC India (June 5)**: Repo rate UNCHANGED at 5.25%, neutral stance. India central bank also holding — coordinated global central bank caution on inflation.
+**June 8 macro update (today)**:
+- **DXY 100.05** — broke above 100 for first time in 2026. Highly significant: technical and psychological resistance breached. Gold fell 3.28% on this move. (source: CNBC, TradingEconomics)
+- **Gold erased all 2026 gains**: Gold is at $4,329, below its 200-day SMA ($4,341–$4,412). This is the lowest level since early 2026.
+- **WTI crude**: $93.63/bbl (+3.41% on day) — lower than recent $95 levels but rebounding; oil/inflation dynamics remain active.
+- **Market rate-hike pricing**: Futures markets now pricing a potential 25bp HIKE by year-end (Q4 2026), the first such pricing in 2026. Driven by April CPI 3.8% + strong May NFP. (source: Polymarket, CME FedWatch context)
+
+**June 5 macro data (retrospective)**:
+- **US May Non-Farm Payrolls**: **+172,000 jobs** (vs 85,000 forecast) — strong beat; unemployment rate 4.3%, annual wage growth 3.4%. Full market impact felt on Monday June 8 (first trading day after Friday release). Gold fell ~1% on June 5 and another 3.28% on June 8. (source: BLS / Bullionvault)
+- **RBI MPC India (June 5)**: Repo rate UNCHANGED at 5.25%, neutral stance. Gold-neutral outcome.
+- **April CPI (US)**: 3.8% YoY — highest since 2023; driven by 17.9% surge in energy costs. Pre-dates NFP as the inflation context.
 
 **May NFP Interpretation for Gold**:
-- Strong jobs = Fed less likely to cut → USD bid → headwind for gold
-- But: strong jobs also suggest economy can withstand higher rates → no urgent safe-haven demand
-- Net effect: mild bearish for gold in short term; does not change structural bullish trend toward $5,400 (Goldman target)
-- April FOMC minutes showed 4 dissenters (most since 1992): 1 wanted to cut, 3 wanted more hawkish language; Warsh is expected to lean dovish but strong data may constrain his messaging.
+- Strong jobs + 3.8% CPI = **hawkish surprise** → Fed less likely to cut, more likely to hike → USD breaks 100 → gold falls sharply
+- Warsh dovish pivot narrative challenged by data — constrained from signaling cuts at June 16-17 meeting
+- Goldman Sachs still bullish at $5,400 year-end; JPMorgan maintained $6,000 year-end but cut 2026 average to $5,243
 
-**USD Dynamics (updated June 5)**:
-- DXY 99.30 (up slightly from 99.21 June 3; 99.54 June 4)
-- Strong NFP anchoring USD above 99; technical resistance near 100.0
-- Dollar holding firm: Iran-US talks uncertain, WTI at $95/bbl keeps energy inflation concerns alive
+**USD Dynamics (updated June 8)**:
+- **DXY 100.05** — broke above 100; first breach in 2026
+- Strong NFP + 3.8% CPI anchoring USD above 100; rate hike tail risk growing
+- Iran-US talks fragile (US strikes on radar sites + Iranian drones, early June) providing mild geopolitical risk offset but not enough to counter USD strength
 
 A surprise cut or dovish pivot at June 16-17 would likely push gold higher. A hawkish hold (widely expected) would add downward pressure — but structural CB demand is primary support for gold regardless.
 

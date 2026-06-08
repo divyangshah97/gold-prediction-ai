@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026
 
-**Last updated**: 2026-06-01
+**Last updated**: 2026-06-08
 
 ---
 
@@ -47,7 +47,7 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 | Institution | 2026 Avg Forecast | End-2026 Target | Notes | Last Updated |
 |---|---|---|---|---|
 | Goldman Sachs | — | $5,400/oz | Most conservative; CB demand thesis intact | May 2026 (reaffirmed) |
-| JPMorgan | $5,243/oz (was $5,708) | **$6,300/oz** (was $6,000) | Avg cut May 17 but END-2026 target RAISED to $6,300 in latest research; now highest on Wall Street | June 2026 (latest) |
+| JPMorgan | **$5,243/oz** (was $5,708) | **$6,000/oz** (was $6,300) | Avg cut; year-end target revised down to $6,000; JPM concerned about weaker investor participation and subdued positioning; "gold on back burner for most investors" | June 8, 2026 (latest) |
 | Morgan Stanley | — | $5,200/oz H2 2026 (was $5,700) | Cut ~10% — "supply shock" + delayed Fed cuts; still sees structural support | May 2026 |
 | ANZ | — | $5,600/oz | Trimmed from $6,000; pushed $6,000 target to mid-2027 | May 2026 |
 | UBS | — | **$5,500/oz** (was $6,200; upside $7,200 removed) | **Cut May 27**: "Markets are rediscovering the concept of opportunity cost"; near-term target $5,200 by June 2026; expected 950t official CB purchases in 2026 | May 27, 2026 |

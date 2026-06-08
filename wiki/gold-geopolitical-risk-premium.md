@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 5, 2026, gold is at ~$4,446 (down ~1% on strong US NFP +251K). Iran 60-day ceasefire extension MOU still unfinalized. WTI at $95/bbl. Key macro today: US May NFP beat and India RBI hold (5.25%, neutral) both reinforce USD strength and limit gold upside. Technical: below both EMAs ($4,490 9d, $4,640 50d); June 5 red day. Signal: Wait (score +1).
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 8, 2026, gold is at ~$4,329 (-3.28%), having erased all 2026 gains. The drop is driven by strong US May NFP (+172K vs 85K forecast) pushing DXY above 100 for the first time in 2026 and sparking rate-hike bets. Iran ceasefire remains fragile with early-June US/Iranian skirmishes. Technical: below both EMAs ($4,498 9d, $4,660 50d). Signal: Wait (score 0).
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/
 
-**Last updated**: 2026-06-05
+**Last updated**: 2026-06-08
 
 ---
 
@@ -34,29 +34,30 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 | **June 1** | **$4,539.27** (range $4,488.68–$4,595.31) — 3rd consecutive green close; Iran MOU negotiations continuing; Iran then suspends talks with US (Lebanon strikes) → oil surges 6% → Hormuz risk re-elevated |
 | **June 2** | **~$4,499** (range ~$4,463–$4,500) — RED day, breaks 3-day green streak; Iran talks suspended → oil at $91.23/bbl; DXY 99.19 |
 | **June 3** | **$4,465.73** (range $4,463.24–$4,541.53) — 2nd consecutive RED day; Iran talks still suspended; WTI surges to $93.51 (+2.5%); DXY 99.21; oil/inflation risk suppressing gold despite geopolitical escalation; support $4,441 |
-| **June 4 (today)** | **~$4,470.89** (range $4,424.38–$4,477.24; open $4,434.50) — recovering from June 3 low; tentative US-Iran ceasefire extension deal announced; WTI still ~$95; DXY 99.54; ADP jobs +122K (above est.); mixed signals |
-| 200-day SMA (structural floor) | ~$4,340–$4,412 (rising over time; sources: technical analysts June 2026) |
-| 9-day EMA | ~$4,490 (estimated — gold below; prior wiki value $4,507 on June 3; EMA drifts lower with price) |
-| 50-day EMA (resistance) | ~$4,640 (gold well below this overhead; web search June 4) |
+| **June 4** | **~$4,470.89** (range $4,424.38–$4,477.24; open $4,434.50) — recovering from June 3 low; tentative US-Iran ceasefire extension deal announced; WTI still ~$95; DXY 99.54; ADP jobs +122K (above est.); mixed signals |
+| **June 5** | **$4,446.48** — down ~1% on strong US May NFP (+251K per BLS initial estimate); RBI India held 5.25%; DXY 99.30; WTI $95 |
+| **June 8 (today)** | **$4,329.33** (range $4,311–$4,482; prev close $4,475.41) — **-3.28%**, largest single-day drop since Feb 2026; gold **erases all 2026 gains**; US May NFP full impact (+172K vs 85K forecast) drives DXY above 100 for first time in 2026; markets pricing year-end rate hike; Iran ceasefire fragile (US radar strikes + Iranian drones reported in early June) |
+| 200-day SMA (structural floor) | ~$4,340–$4,412 (rising over time; sources: technical analysts June 2026) — **gold has broken below this level today** |
+| 9-day EMA | ~$4,498 (10-day EMA per Investing.com June 6, 2026; gold well below) |
+| 50-day EMA (resistance) | ~$4,660 (gold well below; web search June 2026) |
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
-## Current Technical Levels (June 4, 2026)
+## Current Technical Levels (June 8, 2026)
 
 | Level | Price | Notes |
 |---|---|---|
 | Resistance C | $4,700 | Backside of broken trendline |
-| Resistance B | $4,490–$4,640 | 9-day EMA ~$4,490; 50-day EMA ~$4,640; both overhead resistance |
-| Resistance A | $4,477 | June 4 intraday high |
-| Current price | **~$4,470.89** | Slight recovery from June 3 low; Iran tentative deal; DXY 99.54; WTI $95 |
-| Support A (immediate) | $4,430–$4,441 | Near-term technical support (tested today: open $4,434.50 held) |
-| Support B (critical) | $4,400–$4,430 | May 28 tested support zone — held |
-| Support C (structural) | ~$4,340 | 200-day SMA (rising over time; per technical analysts June 2026) |
+| Resistance B | $4,498–$4,660 | 9-day EMA ~$4,498; 50-day EMA ~$4,660; both strong overhead resistance |
+| Resistance A | $4,412 | 200-day SMA (prior structural floor — now overhead resistance after breach) |
+| Current price | **~$4,329.33** | -3.28% today; gold erased ALL 2026 gains; below 200-day SMA; DXY 100.05; WTI $93.63 |
+| Support A (immediate) | $4,311 | Today's intraday low |
+| Support B (critical) | $4,186 | Lower end of June 2026 analyst range |
 | June 2026 expected range | $4,186–$4,933 | Per multiple technical analysts |
 
-**EMA configuration (June 4)**: Price (~$4,471) is **below both** the 9-day EMA (~$4,490) and 50-day EMA (~$4,640). Last 2 days from prices.csv are Jun 2 (RED: $4,499 → down from $4,539) and Jun 3 (RED: $4,466 → down from $4,499) — NOT 2 consecutive green days. Per the technical signal ruleset: Below both EMAs + NOT 2 consecutive green days = **Bearish**.
+**EMA configuration (June 8)**: Price ($4,329) is **below both** the 9-day EMA (~$4,498) and 50-day EMA (~$4,660). The 200-day SMA (~$4,340–$4,412) has also been breached. Last 2 rows of prices.csv are Jun 4 (GREEN: +$5 from Jun 3) and Jun 5 (RED: -$24 from Jun 4) — NOT 2 consecutive green days. Per the technical signal ruleset: Below both EMAs + NOT 2 consecutive green days = **Bearish**.
 
-**Key signal to watch**: A close above $4,477 (June 4 intraday high) would signal a recovery attempt. A close below $4,430 (support zone) would risk re-testing the $4,400 band. The June 16-17 FOMC (Warsh) remains the next major macro catalyst. Iran ceasefire extension deal — if fully signed — could provide the macro tailwind (lower oil → lower CPI → easier Fed → weaker USD → bullish gold).
+**Key signal to watch**: A close back above the 200-day SMA (~$4,350+) would signal a recovery attempt. June 16-17 FOMC (Warsh) is the next major macro catalyst — any dovish surprise would likely push gold above $4,400. If gold holds below $4,350 into the June 16-17 meeting, it risks testing $4,186 support (lower analyst range).
 
 ## Current Premium Drivers (as of May 2026)
 

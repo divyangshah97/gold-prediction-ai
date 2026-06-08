@@ -76,6 +76,22 @@ Major holders tracked in this log only (no dedicated page yet):
 
 ---
 
+### 2026-06-08
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-08 | 🌐 Global | Price shock — macro-driven | Gold fell **-3.28%** to $4,329 — largest single-day drop since Feb 2026 and LOWEST level in 2026. Gold **erased all 2026 gains**. US May NFP: +172K jobs (vs 85K forecast); April CPI: 3.8% YoY. DXY broke above 100. Markets now pricing rate HIKE by year-end. No new country-level CB gold buy/sell announcements in last 24-48h. WGC April data (net +17t, Poland 14t, China 8t, Czech 2t) published June 3 remains most recent confirmed data. | Bullionvault June 8 2026; TradingEconomics June 8 2026 |
+| 2026-06-08 | 🇵🇱 Poland (NBP) | No new data | YTD 2026 total: 45t (Jan–Apr); current reserves 595t (30% of FX). No new announcement. Most recent confirmed: April 2026 +14t per WGC June 3. See [[poland-gold-reserves]]. | Web search June 8, 2026 |
+| 2026-06-08 | 🇨🇳 China (PBoC) | No new data | 18-month buying streak confirmed; April 2026 +8t (WGC June 3). Total 2,322t. No May 2026 data available yet. See [[china-pboc-gold]]. | Web search June 8, 2026 |
+| 2026-06-08 | 🇩🇪 Germany (Bundesbank) | No new data | AfD Bundestag motion for repatriation (March 2026) not acted upon. CDU government: repatriation "not currently being considered." ~1,236t still at FRBNY. No new announcement. See [[germany-gold-reserves]]. | Web search June 8, 2026 |
+| 2026-06-08 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026 repatriation. No new bar upgrade programme announcements. See [[france-gold-reserves]]. | Web search June 8, 2026 |
+| 2026-06-08 | 🇮🇳 India (RBI) | No new data | 880.52t unchanged. 15% import duty unchanged. WGC: India 2026 demand expected to fall 50-60t (~10% y/y). MCX gold ₹1,52,720/10g (down ~₹30). See [[india-gold-market]], [[india-rbi-gold]]. | raw/india-gold-2026-06-08.md |
+| 2026-06-08 | 🇺🇸 USA | No new data | 8,133t unchanged since 1971. No Fort Knox audit calls or gold revaluation proposals found. See [[usa-gold-reserves]]. | Web search June 8, 2026 |
+| 2026-06-08 | 🇸🇦 Saudi Arabia | No new data | 323.07t static since 2010. No SAMA gold announcements or BRICS+ diversification news. See [[saudi-arabia-gold-reserves]]. | Web search June 8, 2026 |
+| 2026-06-08 | 🇮🇷 Iran (CBI) | Geopolitical update | US strikes on Iranian radar sites + Iranian drone activity reported in early June, testing fragile ceasefire. Nuclear deal by June 30 probability low (~36.5% per Polymarket). Ongoing US-Iran negotiations. No CBI reserve announcement. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | Wikipedia 2025–2026 Iran-US negotiations; Polymarket June 2026 |
+
+---
+
 ### 2026-06-05
 
 | Date | Country | Type | Details | Source |

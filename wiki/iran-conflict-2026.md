@@ -1,10 +1,10 @@
 # Iran Conflict 2026
 
-**Summary**: The 2026 US-Israel military strike on Iran and subsequent ceasefire was the single largest acute geopolitical shock to gold markets in 2026, driving prices from ~$4,000 to $5,200. As of June 4, a tentative agreement has been reached to extend the ceasefire 60 days and start nuclear talks — but intermittent military exchanges in early June are straining the deal. WTI at ~$95/bbl as market is not yet fully pricing Hormuz reopening. Polymarket: ~33% chance of US-Iran nuclear deal by June 30.
+**Summary**: The 2026 US-Israel military strike on Iran and subsequent ceasefire was the single largest acute geopolitical shock to gold markets in 2026, driving prices from ~$4,000 to $5,200. As of June 8, the ceasefire remains technically in place but fragile — US strikes on Iranian radar sites and Iranian drone activity in early June test the deal. Nuclear talks by June 30 are unlikely (~36.5% probability per Polymarket). Gold at $4,329, down from ATH of $5,200. WTI $93.63/bbl.
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks, https://commonslibrary.parliament.uk/research-briefings/cbp-10637/
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear, https://commonslibrary.parliament.uk/research-briefings/cbp-10637/, https://polymarket.com/event/us-iran-nuclear-deal-by-june-30
 
-**Last updated**: 2026-06-04
+**Last updated**: 2026-06-08
 
 ---
 
@@ -33,6 +33,8 @@
 | **June 2, 2026** | Gold ~$4,499/oz. Oil $91.23/bbl WTI. Talks still suspended; 3-green streak broken; DXY 99.19. |
 | **June 3, 2026** | Gold $4,465.73 (2nd consecutive decline). WTI surges to $93.51 (+2.5%). DXY 99.21. Polymarket assigns 67.5% probability to NO US-Iran nuclear deal by June 30. Iran's position: zero enrichment is "non-negotiable." US position: zero enrichment required. No dialogue while Lebanon fighting continues (per Iranian sources). MOU process effectively stalled. Gold falling DESPITE escalation — oil/inflation pressure raising real yield expectations more than safe-haven flows. |
 | **June 4, 2026** | **Tentative US-Iran agreement reached** to extend ceasefire 60 days + establish framework for broader nuclear talks (PBS News June 4). Deal terms: reopen Strait of Hormuz, address uranium stockpile disposal, limits on nuclear and ballistic programmes. Intermittent military exchanges in early June — including US strikes on Iranian sites and Iranian retaliation — have strained the ceasefire and slowed momentum. WTI ~$95/bbl (market still pricing risk; Hormuz not yet reopened). Gold ~$4,471 (recovering from $4,466 June 3). DXY 99.54 (strengthening on ADP +122K jobs data). Polymarket: ~33% probability of deal by June 30 (up from ~32.5%). |
+| **June 5–6, 2026** | US May NFP: +172K vs 85K forecast. Gold fell ~1% on June 5 then another 3.28% on June 8. Iran ceasefire framework holding nominally. Iran's Foreign Minister dismissed meaningful progress in nuclear talks. Polymarket: 63.5% probability of NO nuclear deal by July 31. |
+| **June 8, 2026** | Gold $4,329 (-3.28%) — erased all 2026 gains; primary driver is macro (strong NFP + DXY>100), not Iran geopolitics. Iran ceasefire continues but tested: US strikes on Iranian radar sites + Iranian drone activity reported in early June (Wikipedia/Axios). Core nuclear negotiation deadlock unchanged: US demands zero enrichment; Iran calls this non-negotiable. Polymarket: **63.5% no deal by July 31; ~36.5% probability of deal by June 30** (implied). WTI $93.63/bbl. |
 
 ---
 

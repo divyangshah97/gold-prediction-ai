@@ -4,6 +4,45 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-08 — Daily update: Gold erases all 2026 gains (-3.28%, $4,329); DXY breaks above 100; rate-hike bets surge; signal Wait (0)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-08.md` — MCX ₹1,52,720/10g (~-2%); USD/INR 95.19; DXY 100.05 (broke above 100 for first time in 2026); XAU/USD $4,329.33; WTI $93.63; silver ~$68.00/oz
+
+**Prices fetched** (via manual web search — yfinance 403 + metals.dev 403 fallback both failed):
+- Gold: $4,329.33/oz | Silver: ~$68.00/oz | DXY: 100.05 | WTI: $93.63/bbl | USD/INR: 95.19
+
+**Signal**: Wait, Score: 0
+- Factor 1 (Price vs targets): +1 — $4,329 is 19.8% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): 0 — Iran ceasefire fragile (US radar strikes + Iranian drones early June); but gold fell on macro/USD, not geo-specific flows; no clear safe-haven transmission → Neutral
+- Factor 3 (Fed/macro): -1 — US May NFP +172K (vs 85K forecast) = hawkish surprise; DXY broke above 100; markets pricing year-end rate HIKE; April CPI 3.8% YoY; gold fell 3.28% = Bearish
+- Factor 4 (CB demand): +1 — WGC June 3 report (within 7 days): April net +17t (Poland 14t, China 8t, Czech 2t) → Bullish
+- Factor 5 (Technicals): -1 — Gold $4,329 below 9d EMA ($4,498) AND 50d EMA ($4,660); also broke below 200-day SMA (~$4,341); last 2 CSV rows: June 4 GREEN, June 5 RED = NOT 2 consecutive green → Bearish
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — MCX ₹1,52,720 (June 8); DXY 100.05; USD/INR 95.19; WTI $93.63; WGC demand -10% y/y forecast added
+- `wiki/gold-geopolitical-risk-premium.md` — Gold $4,329 June 8 timeline entry; gold erased all 2026 gains; 200-day SMA breached; updated technical levels table; 9d EMA $4,498, 50d EMA $4,660
+- `wiki/fed-macro-factors.md` — DXY 100.05 (above 100 first time 2026); May NFP +172K vs 85K forecast; rate-hike bets emerging; April CPI 3.8% YoY; June 16-17 Warsh meeting 8 days away
+- `wiki/iran-conflict-2026.md` — June 8 timeline entry: ceasefire fragile but holding; US radar strikes + Iranian drones early June; deal by June 30 ~36.5% probability; gold drop macro-driven
+- `wiki/goldman-sachs-gold-forecast.md` — JPMorgan year-end target revised to $6,000 (from $6,300); JPM 2026 average cut to $5,243; "gold on back burner for investors"
+- `wiki/global-cb-activity-log.md` — June 8 section added (8 rows: Global macro shock, Poland, China, Germany, France, India, USA, Saudi Arabia, Iran)
+- `wiki/index.md` — descriptions updated for gold-geo-risk-premium, iran-conflict-2026, fed-macro-factors, india-gold-market, goldman-sachs-gold-forecast
+
+**Global CB sweep results (June 8)**:
+- No new country-level CB buy/sell announcements in last 24-48h
+- Poland: 45t YTD, 595t total — no new announcement
+- China: 18-month streak confirmed — no May 2026 data yet
+- Germany: AfD Bundestag repatriation motion unacted; CDU "not considering repatriation"; ~1,236t at FRBNY unchanged
+- France: All 2,437t on French soil since April 2026; no new BdF announcements
+- Italy: No new ownership dispute resolution or repatriation news
+- Japan: 845.97t static; no BoJ or MoF statements on gold allocation
+- USA: 8,133t unchanged; no Fort Knox audit or revaluation proposals
+- UK: 310.29t; no new BoE custodial changes found
+- Saudi Arabia: 323.07t static; no SAMA news
+- Iran: Fragile ceasefire; US/Iranian military skirmishes; no CBI announcement
+
+---
+
 ## 2026-06-06 — COT weekly update
 
 Report_Date: 2026-06-02 | MM_Net: +112,179 (+18,639 vs. 2026-05-19) | OI: 326,052 | Sentiment: Neutral zone (50,000–150,000) | Source: IndexBox.io CFTC COT summary, June 5, 2026 release (CFTC Disaggregated Futures Only, COMEX Gold code 088691)

@@ -1,29 +1,29 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty hike (May 13), PM Modi's public appeal to defer purchases, a sharp shift from physical to digital gold, and a structurally slower RBI buying pace offset by large-scale repatriation. As of June 5, MCX gold is at ₹1,58,300/10g (-1% on day); RBI MPC kept repo rate UNCHANGED at 5.25% (neutral stance) on June 5 — gold-neutral monetary outcome; RBI gold holdings confirmed 880.52t; strong US NFP (+251K) drove USD firm and gold lower globally.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty hike (May 13), PM Modi's public appeal to defer purchases, a sharp shift from physical to digital gold, and a structurally slower RBI buying pace offset by large-scale repatriation. As of June 8, MCX gold is at ₹1,52,720/10g (down ~₹30 on day); global gold fell 3.28% on strong US May NFP (+172K vs 85K forecast) and DXY breaking above 100; RBI gold holdings confirmed 880.52t unchanged; India import duty remains at 15%.
 
-**Sources**: `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, `raw/india-gold-2026-05-29.md`, `raw/india-gold-2026-05-27.md`, `raw/india-gold-2026-05-25.md`, https://www.gold.org/goldhub/gold-focus/2026/05/india-gold-market-update-import-tightening, https://www.businesstoday.in/india/story/rbi-mpc-2026-gov-malhotra-and-co-keep-repo-rate-unchanged-at-5-25-percent-maintain-neutral-stance-535022-2026-06-05, https://www.goodreturns.in/news/gold-rates-silver-rates-today-05-06-2026-live-mcx-gold-silver-price-crash-24k-22k-18k-gold-prices-1513299.html
+**Sources**: `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, `raw/india-gold-2026-05-29.md`, `raw/india-gold-2026-05-27.md`, `raw/india-gold-2026-05-25.md`, https://www.newsx.com/business/gold-rate-silver-rate-today-8-june-2026-gold-falls-at-rs-152750-silver-below-275-lakh-check-gold-price-in-hyderabad-delhi-bangalore-chennai-mumbai-mcx-silver-rate-231602/, https://www.gold.org/goldhub/gold-focus/2026/05/india-gold-market-update-import-tightening, https://www.indianjeweller.in/Indian-Jewellery-News/16231/indias-gold-import-duty-hike-may-reduce-demand-by-10-in-2026-wgc
 
-**Last updated**: 2026-06-05
+**Last updated**: 2026-06-08
 
 ---
 
-## MCX Gold Price (June 5, 2026)
+## MCX Gold Price (June 8, 2026)
 
 | Metric | Value |
 |---|---|
-| 24K gold per gram (INR) | ~₹15,830/gram |
-| 24K gold per 10g (MCX unit) | **₹1,58,300 per 10g** (down ~1% / -₹685/10g on day) |
-| 22K gold per gram (INR) | ~₹14,510/gram |
-| 18K gold per gram (INR) | ~₹11,954/gram |
-| MCX Silver | ~₹2.60 lakh/kg (down ~1.5%) |
-| USD/INR rate | ₹95.21 (slightly stronger vs ₹95.59 June 4) |
-| Global spot (XAU/USD) | ~$4,446.48 (range $4,424.38–$4,464.97) |
-| DXY | 99.30 |
-| WTI crude | ~$95.00/bbl |
+| 24K gold per gram (INR) | ~₹15,272/gram |
+| 24K gold per 10g (MCX unit) | **₹1,52,720 per 10g** (down ~₹30 on day) |
+| 22K gold per gram (INR) | ~₹13,999/gram |
+| MCX Silver | Below ₹2.75 lakh/kg |
+| USD/INR rate | ₹95.19 |
+| Global spot (XAU/USD) | ~$4,329.33 (range $4,311–$4,482; prev close $4,475.41) |
+| DXY | **100.05** (broke above 100 — first time in 2026) |
+| WTI crude | ~$93.63/bbl (+3.41% on day) |
 
-Note: MCX gold DOWN ~1% on June 5. Key drivers: (1) Strong US NFP May 2026 (+251K jobs) released today → USD firm → gold under pressure globally; (2) RBI MPC kept repo rate UNCHANGED at 5.25%, neutral stance — gold-neutral outcome; (3) Seasonal inauspicious period (mid-May to mid-June) limiting physical demand. The 15% import duty continues adding ~₹2,000–₹2,200/gram above duty-free import cost.
+Note: MCX gold DOWN ~2% on June 8. Gold has **erased all 2026 gains** at this level. Key drivers: (1) Strong US May NFP (+172K vs 85K forecast, released June 5/6) → markets pricing rate hike by year-end; DXY broke above 100; (2) Gold fell 3.28% globally, the largest daily decline since February 2026; (3) Seasonal inauspicious period (mid-May to mid-June) keeps physical demand subdued. The 15% import duty adds ~₹1,800–₹2,000/gram above duty-free import cost.
 
+**Prior session reference (June 5)**: MCX ₹1,58,300/10g; USD/INR 95.21; XAU/USD $4,446.48; WTI $95.00.
 **Prior session reference (June 4)**: MCX ₹1,58,985/10g; USD/INR 95.59; XAU/USD $4,470.89; WTI $95.00.
 **Prior session reference (June 3)**: MCX ₹1,56,210/10g; USD/INR 95.36; XAU/USD $4,465.73; WTI $93.51.
 **Prior session reference (June 2)**: MCX ₹1,56,810/10g; USD/INR 95.16; XAU/USD $4,499.
@@ -127,13 +127,13 @@ The RBI has completed its primary accumulation phase (72.6t in 2024) and is now 
 
 The INR/USD exchange rate is a critical multiplier for domestic gold prices:
 
-- **Current rate**: 1 USD = ₹95.21 (June 5, 2026; ₹95.59 on June 4, ₹95.36 on June 3, ₹95.16 on June 2, ₹95.01 on June 1, ₹96.13 on May 29, ₹95.45 on May 27)
+- **Current rate**: 1 USD = ₹95.19 (June 8, 2026; ₹95.21 on June 5, ₹95.59 on June 4, ₹95.36 on June 3, ₹95.16 on June 2, ₹95.01 on June 1, ₹96.13 on May 29, ₹95.45 on May 27)
 - **YTD depreciation**: INR has depreciated ~7% in 2026, adding ~₹1,000–₹1,500/gram to domestic gold costs; INR has staged a partial recovery from the ₹96+ lows
 - **Effect**: Weaker rupee raises the INR cost of importing gold; at ₹95+ vs. historical ~₹70–75 levels, gold is structurally more expensive in rupee terms even at the same USD spot price
 - **The 15% duty adds further cost**: total effective landed cost premium over international price is substantial
-- **Dollar index** (DXY 99.30, June 5) providing moderate USD support; marginally bearish for INR
+- **Dollar index** (DXY **100.05**, June 8) — **broke above 100** for the first time in 2026; strong bearish signal for INR and gold
 - **RBI MPC June 5**: Repo rate UNCHANGED at 5.25%, neutral stance. No rate cut signal — limits INR weakness correction via monetary channel. Neutral for gold demand.
-- **US NFP May 2026 (June 5)**: Strong +251K jobs → USD firm → DXY holding above 99. Hawkish reinforcement for USD/gold dynamics globally.
+- **US NFP May 2026 (released June 5-6)**: +172K jobs vs 85K forecast → USD firm → DXY above 100. Markets now pricing potential rate HIKE by year-end. Most hawkish single macro datapoint of 2026 for gold.
 - **Iran (ongoing)**: Tentative US-Iran 60-day ceasefire MOU being negotiated; not finalized. WTI at $95/bbl continues to strain India's import bill. Fresh rupee weakness toward ₹96+ would push MCX gold above ₹1,60,000/10g even with flat USD spot.
 - **US forced-labor tariffs (June 3)**: USTR proposed 12.5% additional duties on Indian exports; **gold and precious metals explicitly exempted** from tariff scope. Public comment period through July 7; not yet in effect. (source: https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html)
 - **Hormuz reopening scenario**: If US-Iran deal is signed → oil falls → India's import bill shrinks → INR strengthens → domestic gold price relief. However, the duty hike is structural and will persist regardless.
