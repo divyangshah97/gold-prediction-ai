@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-05
+**Last updated**: 2026-06-09
 
 ---
 
@@ -73,6 +73,23 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-09
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-09 | 🌐 Global | Price recovery + Iran-Israel re-escalation then halt | Gold **+$9.17 (+0.27%)** to $4,338.50 (range $4,268.74–$4,353.52) — partial recovery from June 8's -3.28% crash. IDF struck southern Beirut on June 7; Iran launched waves of ballistic missiles at Israel → first direct Iran-Israel military exchange since April ceasefire. By June 9 (Tuesday), both sides agreed to halt attacks. WTI eased to $91.28/bbl (-$2.35) from $93.63 on ceasefire signal. DXY ~100.0 (elevated; held above 100 for 2nd session). No new country-level CB buy/sell announcements in last 24-48h. | Web search June 9, 2026; multiple sources |
+| 2026-06-09 | 🇮🇷 Iran (CBI) | Geopolitical escalation — halt | IDF struck southern Beirut June 7; Iran retaliated with ballistic missiles. Both sides agreed to halt June 9. Nuclear deal by June 30: 75.5% probability AGAINST per market consensus. Ceasefire framework strained but formally intact. No CBI reserve announcement. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | Web search June 9, 2026; Wikipedia 2025–2026 Iran-US negotiations |
+| 2026-06-09 | 🇯🇵 Japan (BoJ) | No change confirmed | Gold reserves static at **845.97t** throughout Q1 2026 (unchanged from Q4 2025). USD value rose to $125.4B in April 2026 purely on price appreciation. No BoJ or Ministry of Finance statements on gold allocation changes. Japan remains the world's single largest potential swing buyer (only 3–4% of $1.2T reserves in gold; peer average ~10–15%). See [[japan-gold-reserves]]. | TradingEconomics Japan gold reserves; CEIC June 2026 |
+| 2026-06-09 | 🇸🇬 Singapore (MAS) | Minor accumulation — Q1 data | Singapore MAS gold reserves: **193.85t in Q1 2026** (up from 193.56t in Q4 2025; +0.29t marginal increase). No significant policy shift. Singapore was an active buyer 2021–2024 (purchased 176t in May 2023 alone). Current trend: stable-to-modest accumulation. No dedicated wiki page yet. | TradingEconomics Singapore gold reserves; CEIC 2026 |
+| 2026-06-09 | 🇩🇪 Germany (Bundesbank) | No new data | No new Bundesbank repatriation announcements. CDU government stance: "repatriation not currently being considered." ~1,236t still at FRBNY. Political pressure (AfD motion Jan 2026) not acted upon. See [[germany-gold-reserves]]. | Web search June 9, 2026 |
+| 2026-06-09 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026. No new BdF statements. See [[france-gold-reserves]]. | Web search June 9, 2026 |
+| 2026-06-09 | 🇺🇸 USA | No new data | 8,133t unchanged since 1971. No Fort Knox audit calls or gold revaluation proposals in last 24-48h. See [[usa-gold-reserves]]. | Web search June 9, 2026 |
+| 2026-06-09 | 🇸🇦 Saudi Arabia | No new data | 323.07t static since 2010. No SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search June 9, 2026 |
+| 2026-06-09 | 🇮🇳 India (RBI) | Price update | MCX gold ₹1,52,712–₹1,53,550/10g (down ~1–4% intraday); USD/INR 95.39. RBI 880.52t unchanged. Import duty 6%+AIDC+GST (~11.5% effective) unchanged. Dubai-India route briefly disrupted by Iran-Israel conflict June 7-8; normalising June 9. See [[india-gold-market]], [[india-rbi-gold]]. | raw/india-gold-2026-06-09.md |
+| 2026-06-09 | 🌐 WGC Survey | New publication | WGC released its **9th Annual Central Bank Gold Reserves Survey (2026)** in June 2026. Survey covers central banking community attitudes to gold as a reserve asset. No country-level tonnage data (attitudinal only). Confirms broad institutional commitment to gold accumulation. | Web search June 9, 2026 |
 
 ---
 

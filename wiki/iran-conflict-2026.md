@@ -1,10 +1,10 @@
 # Iran Conflict 2026
 
-**Summary**: The 2026 US-Israel military strike on Iran and subsequent ceasefire was the single largest acute geopolitical shock to gold markets in 2026, driving prices from ~$4,000 to $5,200. As of June 8, the ceasefire remains technically in place but fragile — US strikes on Iranian radar sites and Iranian drone activity in early June test the deal. Nuclear talks by June 30 are unlikely (~36.5% probability per Polymarket). Gold at $4,329, down from ATH of $5,200. WTI $93.63/bbl.
+**Summary**: The 2026 US-Israel military strike on Iran and subsequent ceasefire was the single largest acute geopolitical shock to gold markets in 2026, driving prices from ~$4,000 to $5,200. As of June 9, a fresh Iran-Israel direct military exchange occurred (IDF struck Beirut June 7; Iran launched ballistic missiles at Israel) — the first direct exchange since the April ceasefire — before both sides agreed to halt attacks on June 9. Nuclear talks by June 30 are increasingly unlikely (75.5% against per market consensus). Gold at $4,338.50, recovering from June 8's $4,329 low. WTI $91.28/bbl (eased on ceasefire).
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear, https://commonslibrary.parliament.uk/research-briefings/cbp-10637/, https://polymarket.com/event/us-iran-nuclear-deal-by-june-30
 
-**Last updated**: 2026-06-08
+**Last updated**: 2026-06-09
 
 ---
 
@@ -35,6 +35,8 @@
 | **June 4, 2026** | **Tentative US-Iran agreement reached** to extend ceasefire 60 days + establish framework for broader nuclear talks (PBS News June 4). Deal terms: reopen Strait of Hormuz, address uranium stockpile disposal, limits on nuclear and ballistic programmes. Intermittent military exchanges in early June — including US strikes on Iranian sites and Iranian retaliation — have strained the ceasefire and slowed momentum. WTI ~$95/bbl (market still pricing risk; Hormuz not yet reopened). Gold ~$4,471 (recovering from $4,466 June 3). DXY 99.54 (strengthening on ADP +122K jobs data). Polymarket: ~33% probability of deal by June 30 (up from ~32.5%). |
 | **June 5–6, 2026** | US May NFP: +172K vs 85K forecast. Gold fell ~1% on June 5 then another 3.28% on June 8. Iran ceasefire framework holding nominally. Iran's Foreign Minister dismissed meaningful progress in nuclear talks. Polymarket: 63.5% probability of NO nuclear deal by July 31. |
 | **June 8, 2026** | Gold $4,329 (-3.28%) — erased all 2026 gains; primary driver is macro (strong NFP + DXY>100), not Iran geopolitics. Iran ceasefire continues but tested: US strikes on Iranian radar sites + Iranian drone activity reported in early June (Wikipedia/Axios). Core nuclear negotiation deadlock unchanged: US demands zero enrichment; Iran calls this non-negotiable. Polymarket: **63.5% no deal by July 31; ~36.5% probability of deal by June 30** (implied). WTI $93.63/bbl. |
+| **June 7, 2026 (weekend)** | **IDF struck southern Beirut**; Iran retaliated with **waves of ballistic missiles** toward Israel — first direct Iran-Israel military exchange since the April 7 ceasefire. The exchange was the most serious breach of the ceasefire framework to date. |
+| **June 9, 2026 (today)** | Both Iran and Israel **agreed to halt attacks**. Gold stabilised at $4,338.50 (+0.27%). WTI eased to $91.28/bbl (-$2.35) on ceasefire signal. Nuclear deal by June 30: **75.5% probability AGAINST** per market consensus (vs. 63.5% a few days prior — pessimism increasing). Core deadlock: US insists on zero enrichment; Iran calls this "non-negotiable." Market reaction: gold rose modestly on Iran halt, but DXY remained ~100 — macro headwinds intact. |
 
 ---
 

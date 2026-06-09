@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; US-China Board of Trade being implemented post-May summit; new US forced-labor tariffs (12.5%) proposed on China June 3 (gold exempted); updated June 4 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | Price $4,329 (June 8, -3.28%); gold erased ALL 2026 gains; DXY broke above 100; 9d EMA ~$4,498, 50d EMA ~$4,660; gold below 200-day SMA; Iran fragile ceasefire; signal: Wait (score 0); updated June 8 |
+| [[gold-geopolitical-risk-premium]] | Price $4,338.50 (June 9, +0.27%); above 9d EMA ($4,335) but below 50d EMA ($4,629); Iran-Israel direct exchange then halt; WTI $91.28; signal: Wait (score +1); updated June 9 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | US-Iran 60-day ceasefire fragile; nuclear deal by June 30 unlikely (~36.5%); US radar strikes + Iranian drones early June; WTI $93.63; gold $4,329; updated June 8 |
-| [[fed-macro-factors]] | June 16-17 first Warsh meeting (8 days); May NFP +172K (vs 85K forecast); DXY 100.05 (above 100); rate HIKE bets emerging; April CPI 3.8%; updated June 8 |
+| [[iran-conflict-2026]] | IDF struck Beirut June 7; Iran ballistic missiles; both halt June 9; nuclear deal 75.5% against by June 30; WTI $91.28; gold $4,338.50; updated June 9 |
+| [[fed-macro-factors]] | June 16-17 first Warsh meeting (7 days); 99.3% no-change probability; 70% Dec hike bets; DXY ~100.0; WTI $91.28; updated June 9 |
 
 ### Institutional Flows
 
@@ -81,4 +81,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[goldman-sachs-gold-forecast]] | GS $5,400/oz (reaffirmed); JPM year-end $6,000 (cut avg to $5,243); UBS $5,500; Wells Fargo $6,100–$6,300; range $5,200–$6,000; updated June 8 |
-| [[india-gold-market]] | MCX ₹1,52,720/10g (June 8, ~-2%); DXY broke above 100; import duty 15% unchanged; WGC: demand -10% y/y; ETF AUM ₹1.71L crore; updated June 8 |
+| [[india-gold-market]] | MCX ₹1,52,712–₹1,53,550/10g (June 9, down 1–4%); USD/INR 95.39; WTI $91.28 on Iran halt; import duty 15%; ETF AUM ₹1.71L crore; updated June 9 |

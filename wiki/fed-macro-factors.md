@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-08
+**Last updated**: 2026-06-09
 
 ---
 
@@ -77,13 +77,20 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 8 days away as of June 8. Markets will be watching for:
-- Any rate cut (market-implied: ~95%+ probability of NO CHANGE — but with strong NFP, some now pricing a 25bp HIKE by year-end)
-- Warsh's tone on inflation vs. growth — strong jobs data may force a hawkish pivot, undermining his prior dovish signalling
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 7 days away as of June 9. Markets will be watching for:
+- Any rate cut or hike — **99.3% probability of NO CHANGE** at this meeting (CME FedWatch / Polymarket, June 9)
+- Despite 99.3% hold probability, markets are pricing a **70% probability of a 25bp HIKE by December 2026** — driven by May NFP (+172K vs 85K) and April CPI 3.8%
+- Warsh's tone on inflation vs. growth — strong jobs data challenges his earlier dovish signaling
 - Any signals on balance sheet policy
 - Impact on gold: a dovish hold or cut would likely push gold sharply above $4,400; a hawkish hold (with rate-hike language) would add further downward pressure toward $4,186 support
 
-**June 8 macro update (today)**:
+**June 9 macro update (today)**:
+- **DXY ~100.0** — holding above 100 for 2nd consecutive session
+- **Gold +$9.17 (+0.27%)** to $4,338.50 — modest recovery; Iran-Israel halt news provided mild support
+- **WTI crude $91.28/bbl** — eased from $93.63 on June 8 as Iran-Israel ceasefire confirmed June 9
+- **Fed hold near-certain** (99.3% at June 16-17), but post-meeting language will be critical
+
+**June 8 macro update (retrospective)**:
 - **DXY 100.05** — broke above 100 for first time in 2026. Highly significant: technical and psychological resistance breached. Gold fell 3.28% on this move. (source: CNBC, TradingEconomics)
 - **Gold erased all 2026 gains**: Gold is at $4,329, below its 200-day SMA ($4,341–$4,412). This is the lowest level since early 2026.
 - **WTI crude**: $93.63/bbl (+3.41% on day) — lower than recent $95 levels but rebounding; oil/inflation dynamics remain active.

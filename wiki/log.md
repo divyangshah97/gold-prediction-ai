@@ -4,6 +4,45 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-09 — Daily update: Iran-Israel direct military exchange then halt; gold recovers to $4,338.50 (+0.27%); WTI $91.28 on ceasefire; 9d EMA crossed; signal Wait (+1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-09.md` — MCX ₹1,52,712–₹1,53,550/10g (down 1–4%); USD/INR 95.39; XAU/USD $4,338.50; WTI $91.28 (Iran-Israel halt); DXY ~100.0
+
+**Prices fetched** (via manual web search — yfinance 403 + metals.dev 403 fallback both failed):
+- Gold: $4,338.50/oz | Silver: ~$67.66/oz | DXY: ~100.0 | WTI: $91.28/bbl | USD/INR: 95.39
+
+**Signal**: Wait, Score: +1
+- Factor 1 (Price vs targets): +1 — $4,338.50 is 19.65% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): 0 — Iran-Israel direct military exchange (IDF struck Beirut June 7; Iran ballistic missiles) then both agreed to halt June 9; gold +0.27% but ambiguous; DXY flat at 100 → Neutral
+- Factor 3 (Fed/macro): 0 — June 16-17 FOMC: 99.3% probability of NO CHANGE; rate held at 3.5–3.75%; unchanged = Neutral (rate hike bets at 70% by Dec but that is priced-in, not a new surprise today)
+- Factor 4 (CB demand): +1 — WGC April data: net +17t (Poland 14t, China 8t, Czech 3t) published June 3 — exactly 6 days ago, within 7-day window → Bullish
+- Factor 5 (Technicals): -1 — Gold $4,338.50 above 9d EMA ($4,335) but below 50d EMA ($4,629); 50d > 9d = downtrend configuration → Bearish per table rule
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — MCX ₹1,52,712–₹1,53,550 (June 9); USD/INR 95.39; WTI $91.28; import duty corrected to 15%; Dubai route disruption noted
+- `wiki/gold-geopolitical-risk-premium.md` — Gold $4,338.50 June 9 timeline entry; 9d EMA $4,335 (gold now above), 50d EMA $4,629; technical levels table updated
+- `wiki/iran-conflict-2026.md` — June 7 IDF-Beirut strike + Iran ballistic missiles; June 9 halt; nuclear deal 75.5% against by June 30
+- `wiki/fed-macro-factors.md` — June 9 DXY ~100; WTI $91.28; 99.3% hold at June 16-17; 70% Dec hike probability; 7 days to FOMC
+- `wiki/global-cb-activity-log.md` — June 9 section added (10 rows: Global, Iran, Japan, Singapore, Germany, France, USA, Saudi Arabia, India, WGC Survey)
+- `wiki/index.md` — descriptions updated for iran-conflict, geo-risk-premium, fed-macro, india-gold-market
+
+**Global CB sweep results (June 9)**:
+- No new country-level CB buy/sell announcements in last 24-48h
+- Poland: 45t YTD, 595t total — no new announcement
+- China: 18-month streak confirmed — no May 2026 data yet
+- Japan: 845.97t static throughout Q1 2026; unchanged
+- Singapore MAS: 193.85t Q1 2026 (up 0.29t from Q4 2025 — minor accumulation)
+- Germany: CDU "repatriation not considering"; ~1,236t at FRBNY unchanged
+- France: All 2,437t on French soil; no new BdF statements
+- Italy: No new ownership dispute resolution
+- USA: 8,133t unchanged; no Fort Knox audit news
+- UK: 310.29t; no new BoE custodial changes
+- Saudi Arabia: 323.07t static; no SAMA news
+- Iran: Fresh Iran-Israel military exchange (June 7) then halt (June 9); nuclear deal 75.5% against
+
+---
+
 ## 2026-06-08 — Daily update: Gold erases all 2026 gains (-3.28%, $4,329); DXY breaks above 100; rate-hike bets surge; signal Wait (0)
 
 **Raw file created**:
