@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-09
+**Last updated**: 2026-06-10
 
 ---
 
@@ -84,7 +84,15 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 - Any signals on balance sheet policy
 - Impact on gold: a dovish hold or cut would likely push gold sharply above $4,400; a hawkish hold (with rate-hike language) would add further downward pressure toward $4,186 support
 
-**June 9 macro update (today)**:
+**June 10 macro update (today)**:
+- **DXY ~99.73** — pulled back slightly from above-100 on dual geopolitical de-escalation (Iran-Israel + US-China); still elevated
+- **Gold $4,177.88** — down ~3.7%; broke below 200-day MA for first time since October 2023
+- **WTI crude $88.71/bbl** — eased significantly on Iran-Israel "conditional suspension" + US-China trade deal; dual de-escalation removed energy risk premium
+- **Silver $64.32/oz** — down ~1% on day
+- **USD/INR 95.36** — near unchanged
+- **Fed hold near-certain** (99%+ at June 16-17); Warsh first meeting with dot plot in 6 days — watch for potential hawkish signals; 70% probability of rate HIKE by December 2026
+
+**June 9 macro update**:
 - **DXY ~100.0** — holding above 100 for 2nd consecutive session
 - **Gold +$9.17 (+0.27%)** to $4,338.50 — modest recovery; Iran-Israel halt news provided mild support
 - **WTI crude $91.28/bbl** — eased from $93.63 on June 8 as Iran-Israel ceasefire confirmed June 9

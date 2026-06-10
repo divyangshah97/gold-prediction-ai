@@ -4,6 +4,46 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-10 — Daily update: Gold $4,177.88 (-3.7%) breaks 200d MA for first time since Oct 2023; Iran-Israel conditional suspension; US-China trade deal; PBoC 19th straight month (+9.95t); India gold ETF restrictions (4 AMCs); signal Wait (0)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-10.md` — MCX ₹1,50,258/10g (Aug futures, -1.43%); USD/INR 95.36; XAU/USD $4,177.88; WTI $88.71; DXY 99.73; ETF restrictions by 4 major AMCs (HDFC, Nippon, ICICI, Tata)
+
+**Prices fetched** (via manual web search — yfinance 403 + metals.dev 403 fallback both failed):
+- Gold: $4,177.88/oz | Silver: $64.32/oz | DXY: 99.73 | WTI: $88.71/bbl | USD/INR: 95.36
+
+**Signal**: Wait, Score: 0
+- Factor 1 (Price vs targets): +1 — $4,177.88 is 22.6% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): -1 — Iran-Israel "conditional suspension" (both sides halted after June 7-9 exchange); US-China trade deal announced (30% tariffs, higher tariffs paused 60 days) = dual de-escalation → Bearish
+- Factor 3 (Fed/macro): 0 — June 16-17 FOMC: 99%+ hold probability; rate unchanged at 3.50–3.75%; unchanged = Neutral
+- Factor 4 (CB demand): +1 — China PBoC +9.95t in May 2026 (announced June 8; within 7-day window); WGC April net +19t published June 3 (also within window) → Bullish
+- Factor 5 (Technicals): -1 — Gold $4,177.88 below BOTH 9d EMA (~$4,498) and 50d EMA (~$4,629); 50d > 9d = downtrend; last 2 days: June 9 green (+$9.17), June 10 red (-$160.62) = not 2 green → Bearish
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — MCX ₹1,50,258 (June 10, -1.43%); USD/INR 95.36; WTI $88.71; ETF restrictions (4 major AMCs); 200d MA breach noted
+- `wiki/china-pboc-gold.md` — May 2026 +9.95t confirmed; 19th consecutive month; total 2,331.52t; price-insensitive accumulation
+- `wiki/gold-geopolitical-risk-premium.md` — Gold $4,177.88; 200d MA breach; 9d EMA ~$4,498; 50d EMA $4,629; updated technical levels; support $4,100–$4,075
+- `wiki/iran-conflict-2026.md` — June 10 entry: Iran-Israel conditional suspension; US-China deal; gold -3.7%; WTI $88.71
+- `wiki/fed-macro-factors.md` — June 10: DXY 99.73; WTI $88.71; Gold $4,177.88; 6 days to FOMC
+- `wiki/global-cb-activity-log.md` — June 10 section added (10 rows: China buy confirmed, Global price breakdown, WGC CB data, Poland/Germany/France/USA/Saudi/Iran/India updates)
+- `wiki/index.md` — descriptions updated for gold-geo-risk-premium, china-pboc-gold, iran-conflict, fed-macro, india-gold-market, us-china-trade-war
+
+**Global CB sweep results (June 10)**:
+- **China PBoC**: +9.95t in May 2026 (19th consecutive month; announced June 8); total 2,331.52t — KEY UPDATE
+- **WGC April data** (published June 3): net +19t — Poland +14t, China +8t, Czech +2t; Russia -6t
+- Poland: 45t YTD, 595t total (150t programme approved Jan 2026) — no new announcement
+- Germany: CDU "repatriation not considering"; ~1,236t at FRBNY — no change
+- France: All 2,437t on French soil; no new BdF statements
+- Italy: No new ownership dispute news
+- Japan: 845.97t static; no change
+- USA: 8,133t unchanged; no Fort Knox audit news
+- UK: 310.29t; no new BoE custodial changes
+- Saudi Arabia: 323.07t static; no SAMA news
+- Iran: Conditional suspension; no CBI reserve announcement
+- India (RBI): 880.52t confirmed unchanged; ETF restrictions from 4 major AMCs (new development)
+
+---
+
 ## 2026-06-09 — Daily update: Iran-Israel direct military exchange then halt; gold recovers to $4,338.50 (+0.27%); WTI $91.28 on ceasefire; 9d EMA crossed; signal Wait (+1)
 
 **Raw file created**:

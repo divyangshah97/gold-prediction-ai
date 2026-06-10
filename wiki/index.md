@@ -31,7 +31,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[poland-gold-reserves]] | **YTD #1 buyer**: 45t Jan–Apr 2026; April +14t → total 595t (30% reserves); targeting 700t; NATO security-driven; updated June 5 |
-| [[china-pboc-gold]] | 2,322t reserves; 18-month consecutive buying streak; April 2026 +8t (WGC confirmed June 3); likely underreported; updated June 5 |
+| [[china-pboc-gold]] | **2,331.52t** reserves; **19-month** consecutive buying streak; May 2026 **+9.95t** announced June 8; price-insensitive accumulation confirmed; updated June 10 |
 | [[uzbekistan-gold-reserves]] | 2nd largest Q1 2026 buyer (25t); production-linked buying via Navoi Mining |
 | [[kazakhstan-gold-reserves]] | Q1 2026 buyer (12t); domestic mine purchase programme; ~65–70% gold-to-reserves ratio |
 | [[czech-republic-gold-reserves]] | Q1 2026 buyer (5t) + April +2t → total ~79t (6% reserves); CNB multi-year target; updated June 5 |
@@ -63,12 +63,12 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; US-China Board of Trade being implemented post-May summit; new US forced-labor tariffs (12.5%) proposed on China June 3 (gold exempted); updated June 4 |
+| [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; US-China Board of Trade being implemented post-May summit; new US forced-labor tariffs (12.5%) proposed on China June 3 (gold exempted); Trump announced trade deal June 10 (30% tariffs remain; higher tariffs paused 60 days); updated June 4 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | Price $4,338.50 (June 9, +0.27%); above 9d EMA ($4,335) but below 50d EMA ($4,629); Iran-Israel direct exchange then halt; WTI $91.28; signal: Wait (score +1); updated June 9 |
+| [[gold-geopolitical-risk-premium]] | **$4,177.88** (June 10, -3.7%); **below 200d MA for first time since Oct 2023**; below both 9d EMA (~$4,498) and 50d EMA ($4,629); Iran-Israel conditional suspension; US-China trade deal; WTI $88.71; signal: Wait (score 0); updated June 10 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | IDF struck Beirut June 7; Iran ballistic missiles; both halt June 9; nuclear deal 75.5% against by June 30; WTI $91.28; gold $4,338.50; updated June 9 |
-| [[fed-macro-factors]] | June 16-17 first Warsh meeting (7 days); 99.3% no-change probability; 70% Dec hike bets; DXY ~100.0; WTI $91.28; updated June 9 |
+| [[iran-conflict-2026]] | Iran-Israel "conditional suspension" June 9-10; nuclear deal 75.5% against; WTI $88.71; gold $4,177.88 (broke 200d MA); updated June 10 |
+| [[fed-macro-factors]] | June 16-17 first Warsh meeting (6 days); 99%+ no-change probability; 70% Dec hike bets; DXY 99.73; WTI $88.71; updated June 10 |
 
 ### Institutional Flows
 
@@ -81,4 +81,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[goldman-sachs-gold-forecast]] | GS $5,400/oz (reaffirmed); JPM year-end $6,000 (cut avg to $5,243); UBS $5,500; Wells Fargo $6,100–$6,300; range $5,200–$6,000; updated June 8 |
-| [[india-gold-market]] | MCX ₹1,52,712–₹1,53,550/10g (June 9, down 1–4%); USD/INR 95.39; WTI $91.28 on Iran halt; import duty 15%; ETF AUM ₹1.71L crore; updated June 9 |
+| [[india-gold-market]] | MCX (Aug futures) **₹1,50,258/10g** (June 10, -1.43%); USD/INR 95.36; WTI $88.71; import duty 15%; **4 major AMCs capping gold ETF inflows** (HDFC, Nippon, ICICI, Tata); updated June 10 |

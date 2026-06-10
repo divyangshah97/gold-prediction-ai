@@ -1,10 +1,10 @@
 # Iran Conflict 2026
 
-**Summary**: The 2026 US-Israel military strike on Iran and subsequent ceasefire was the single largest acute geopolitical shock to gold markets in 2026, driving prices from ~$4,000 to $5,200. As of June 9, a fresh Iran-Israel direct military exchange occurred (IDF struck Beirut June 7; Iran launched ballistic missiles at Israel) — the first direct exchange since the April ceasefire — before both sides agreed to halt attacks on June 9. Nuclear talks by June 30 are increasingly unlikely (75.5% against per market consensus). Gold at $4,338.50, recovering from June 8's $4,329 low. WTI $91.28/bbl (eased on ceasefire).
+**Summary**: The 2026 US-Israel military strike on Iran and subsequent ceasefire was the single largest acute geopolitical shock to gold markets in 2026, driving prices from ~$4,000 to $5,200. As of June 10, Iran-Israel are in a "conditional suspension" following the June 7-9 exchange; gold has dropped to $4,177.88 — below the 200-day moving average for first time since October 2023. De-escalation removing safe-haven premium. Nuclear deal increasingly unlikely (75.5% against). WTI $88.71/bbl.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear, https://commonslibrary.parliament.uk/research-briefings/cbp-10637/, https://polymarket.com/event/us-iran-nuclear-deal-by-june-30
 
-**Last updated**: 2026-06-09
+**Last updated**: 2026-06-10
 
 ---
 
@@ -36,7 +36,8 @@
 | **June 5–6, 2026** | US May NFP: +172K vs 85K forecast. Gold fell ~1% on June 5 then another 3.28% on June 8. Iran ceasefire framework holding nominally. Iran's Foreign Minister dismissed meaningful progress in nuclear talks. Polymarket: 63.5% probability of NO nuclear deal by July 31. |
 | **June 8, 2026** | Gold $4,329 (-3.28%) — erased all 2026 gains; primary driver is macro (strong NFP + DXY>100), not Iran geopolitics. Iran ceasefire continues but tested: US strikes on Iranian radar sites + Iranian drone activity reported in early June (Wikipedia/Axios). Core nuclear negotiation deadlock unchanged: US demands zero enrichment; Iran calls this non-negotiable. Polymarket: **63.5% no deal by July 31; ~36.5% probability of deal by June 30** (implied). WTI $93.63/bbl. |
 | **June 7, 2026 (weekend)** | **IDF struck southern Beirut**; Iran retaliated with **waves of ballistic missiles** toward Israel — first direct Iran-Israel military exchange since the April 7 ceasefire. The exchange was the most serious breach of the ceasefire framework to date. |
-| **June 9, 2026 (today)** | Both Iran and Israel **agreed to halt attacks**. Gold stabilised at $4,338.50 (+0.27%). WTI eased to $91.28/bbl (-$2.35) on ceasefire signal. Nuclear deal by June 30: **75.5% probability AGAINST** per market consensus (vs. 63.5% a few days prior — pessimism increasing). Core deadlock: US insists on zero enrichment; Iran calls this "non-negotiable." Market reaction: gold rose modestly on Iran halt, but DXY remained ~100 — macro headwinds intact. |
+| **June 9, 2026** | Both Iran and Israel **agreed to halt attacks**. Gold stabilised at $4,338.50 (+0.27%). WTI eased to $91.28/bbl (-$2.35) on ceasefire signal. Nuclear deal by June 30: **75.5% probability AGAINST** per market consensus (vs. 63.5% a few days prior — pessimism increasing). Core deadlock: US insists on zero enrichment; Iran calls this "non-negotiable." Market reaction: gold rose modestly on Iran halt, but DXY remained ~100 — macro headwinds intact. |
+| **June 10, 2026 (today)** | Iran-Israel in **"conditional suspension"** following June 7-9 exchange. Gold fell to **$4,177.88** (-3.7% from June 9) — **broke below 200-day MA for first time since October 2023** (Saxo Bank, June 10). US-China trade deal announced (30% tariffs remain, higher tariffs paused 60 days) further reduced geopolitical risk premium. WTI $88.71/bbl (eased on dual de-escalation). Both geopolitical de-escalations are removing safe-haven demand simultaneously. Nuclear deal talks remain deadlocked but conditional halt reduces immediate escalation risk. No new CBI reserve announcement. |
 
 ---
 

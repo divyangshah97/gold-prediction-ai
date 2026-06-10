@@ -24,7 +24,7 @@ These countries have full wiki pages — this log supplements them with daily ne
 | Country | Role | Page |
 |---|---|---|
 | 🇵🇱 Poland | Buyer (45t YTD Jan–Apr 2026; April: 14t; total 595t; 30% of reserves) | [[poland-gold-reserves]] |
-| 🇨🇳 China | Buyer (8.1t April 2026; 18-month streak; 2,322t total) | [[china-pboc-gold]] |
+| 🇨🇳 China | Buyer (9.95t May 2026; **19-month streak**; **2,331.52t** total) | [[china-pboc-gold]] |
 | 🇺🇿 Uzbekistan | Buyer (25t Q1 2026) | [[uzbekistan-gold-reserves]] |
 | 🇰🇿 Kazakhstan | Buyer (12t Q1 2026) | [[kazakhstan-gold-reserves]] |
 | 🇨🇿 Czech Republic | Buyer (5t Q1 2026) | [[czech-republic-gold-reserves]] |
@@ -73,6 +73,23 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-10
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-10 | 🇨🇳 China (PBoC) | Buy — May 2026 confirmed | **+9.95 tonnes in May 2026** (320,000 troy oz; announced June 8 by SAFE). Total now **2,331.52t** (74.96mn troy oz). **19th consecutive month** of buying — longest streak since PBoC began standardised monthly disclosures in 2015. Purchase came while gold fell for 3rd straight month (price-insensitive strategic accumulation confirmed). See [[china-pboc-gold]]. | Kitco June 8 2026; Bloomberg June 7 2026 |
+| 2026-06-10 | 🌐 Global | Price breakdown — 200-day MA breached | Gold fell to **$4,177.88** (-3.7% from June 9). **Broke below 200-day moving average for first time since October 2023** — significant technical event. Dual de-escalation driver: Iran-Israel "conditional suspension" + US-China trade deal (30% tariffs; higher tariffs paused 60 days). DXY 99.73 (pulled back from 100). WTI $88.71/bbl (-$2.57). Silver $64.32/oz. | Saxo Bank June 10; web search June 10 2026 |
+| 2026-06-10 | 🌐 WGC | CB demand data — April 2026 | WGC published June 2026 "Central banks resume net buying in April" — net +19t: Poland +14t (largest buyer), China +8t, Czech Republic +2t; Russia -6t. This is the most recent confirmed global CB monthly data (published within last 7 days). | https://www.gold.org/goldhub/gold-focus/2026/06/central-bank-gold-statistics-central-banks-resume-net-buying-april |
+| 2026-06-10 | 🇵🇱 Poland (NBP) | No new data | Latest confirmed: April 2026 +14t (WGC June 3). Total 595t, YTD 2026: 45t. 150t additional programme approved Jan 2026; targeting 700t. No new announcement today. See [[poland-gold-reserves]]. | Web search June 10, 2026 |
+| 2026-06-10 | 🇩🇪 Germany (Bundesbank) | No new data | CDU government: "repatriation not currently being considered." ~1,236t still at FRBNY. AfD Bundestag motion (March 2026) not acted upon. Political pressure growing but no policy action. See [[germany-gold-reserves]]. | Web search June 10, 2026 |
+| 2026-06-10 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026. No new BdF statements. Bar upgrade programme ongoing but no new public disclosure. See [[france-gold-reserves]]. | Web search June 10, 2026 |
+| 2026-06-10 | 🇺🇸 USA | No new data | 8,133t unchanged since 1971. No Fort Knox audit calls or gold revaluation proposals in Congress found in last 24-48h. See [[usa-gold-reserves]]. | Web search June 10, 2026 |
+| 2026-06-10 | 🇸🇦 Saudi Arabia | No new data | 323.07t static since 2010. No SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search June 10, 2026 |
+| 2026-06-10 | 🇮🇷 Iran (CBI) | Geopolitical — conditional suspension | Iran-Israel in "conditional suspension" following June 7-9 exchange (IDF struck Beirut; Iran ballistic missiles; both halt June 9). US-Iran nuclear deal deadlocked: 75.5% probability AGAINST by June 30. No CBI reserve announcement. Gold fell -3.7% on de-escalation. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | Web search June 10, 2026; globalsecurity.org June 9 |
+| 2026-06-10 | 🇮🇳 India (RBI) | Price update + ETF restrictions | MCX gold (Aug futures) **₹1,50,258/10g** (-1.43%); USD/INR 95.36; XAU/USD $4,177.88; WTI $88.71. RBI 880.52t unchanged. **Major new development**: HDFC, Nippon, ICICI Prudential, Tata AMC all capping gold ETF inflows (₹10L/PAN/month FoF; ₹25 crore direct cap). First time 4+ major AMCs simultaneously restrict gold ETF purchases. See [[india-gold-market]], [[india-rbi-gold]]. | raw/india-gold-2026-06-10.md; indmoney.com; upstox.com June 2026 |
 
 ---
 
