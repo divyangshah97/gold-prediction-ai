@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-06-11
 
 ---
 
@@ -77,20 +77,27 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 7 days away as of June 9. Markets will be watching for:
-- Any rate cut or hike — **99.3% probability of NO CHANGE** at this meeting (CME FedWatch / Polymarket, June 9)
-- Despite 99.3% hold probability, markets are pricing a **70% probability of a 25bp HIKE by December 2026** — driven by May NFP (+172K vs 85K) and April CPI 3.8%
-- Warsh's tone on inflation vs. growth — strong jobs data challenges his earlier dovish signaling
-- Any signals on balance sheet policy
-- Impact on gold: a dovish hold or cut would likely push gold sharply above $4,400; a hawkish hold (with rate-hike language) would add further downward pressure toward $4,186 support
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 5 days away as of June 11. Markets will be watching for:
+- Any rate cut or hike — **97–99% probability of NO CHANGE** at this meeting (CME FedWatch)
+- Markets now pricing **70% probability of at least one rate HIKE by December 2026** — upgraded from 68–70% following May CPI 4.2% confirmation
+- Warsh's dot plot: will any FOMC members show a hike in H2 2026? If median projection stays hold, gold likely rallies; if hawkish language added, further downside toward $3,800–$4,000
+- Goldman Sachs: raised hike probability to 20%; stripped ALL 2026 rate cuts; pushed expected easing to June–December 2027
+- Impact on gold: hawkish hold (increasingly expected) adds downward pressure; gold trading at $4,082 — may test $3,800–$4,000 range if Warsh signals hikes
 
-**June 10 macro update (today)**:
+**June 11 macro update (today)**:
+- **DXY ~100.01** — back above 100 on May CPI shock
+- **Gold ~$4,082.73** — confirmed below $4,100; May CPI 4.2% triggered gold crash of ~3.25% intraday; gold now 25% below Jan 28 ATH of $5,589
+- **May US CPI: 4.2% YoY** (highest since April 2023) — driven by 23.5% energy surge (Iran/Hormuz closure). Core CPI: 2.9%. Headline: above expectations
+- **WTI crude $91.55/bbl** — up $2.84 from June 10 on US-Iran military exchanges June 10
+- **Silver $64.52/oz** — roughly flat
+- **USD/INR 95.26** — rupee marginally stronger
+- Goldman Sachs (June 2026): raised 20% hike probability; stripped all 2026 rate cuts; but maintained $5,400 year-end gold target citing structural CB demand
+
+**June 10 macro update**:
 - **DXY ~99.73** — pulled back slightly from above-100 on dual geopolitical de-escalation (Iran-Israel + US-China); still elevated
 - **Gold $4,177.88** — down ~3.7%; broke below 200-day MA for first time since October 2023
-- **WTI crude $88.71/bbl** — eased significantly on Iran-Israel "conditional suspension" + US-China trade deal; dual de-escalation removed energy risk premium
-- **Silver $64.32/oz** — down ~1% on day
-- **USD/INR 95.36** — near unchanged
-- **Fed hold near-certain** (99%+ at June 16-17); Warsh first meeting with dot plot in 6 days — watch for potential hawkish signals; 70% probability of rate HIKE by December 2026
+- **WTI crude $88.71/bbl** — eased on Iran-Israel "conditional suspension" + US-China trade deal
+- **Fed hold near-certain** (99%+ at June 16-17); 70% probability of rate HIKE by December 2026
 
 **June 9 macro update**:
 - **DXY ~100.0** — holding above 100 for 2nd consecutive session

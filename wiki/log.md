@@ -4,6 +4,44 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-11 — Daily update: Gold ~$4,082 (below $4,100); May US CPI 4.2% (highest since Apr 2023) triggers ~3.25% gold crash; US-China new trade deal June 11; Iran MOU tentative unsigned; signal Wait (-1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-11.md` — MCX est. ₹1,46,700/10g (-~2.2%); USD/INR 95.26; XAU/USD ~$4,082.73; WTI $91.55; DXY 100.01; May US CPI 4.2% driver; US-China trade deal context; Iran MOU status
+
+**Prices fetched** (via manual web search — yfinance 403 + metals.dev 403 fallback both failed):
+- Gold: $4,082.73/oz | Silver: $64.52/oz | DXY: 100.01 | WTI: $91.55/bbl | USD/INR: 95.26
+
+**Signal**: Wait, Score: -1
+- Factor 1 (Price vs targets): +1 — $4,082.73 is 24.4% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): -1 — US-China June 11 new 60-day deal (de-escalation); Iran-Israel MOU tentative/unsigned; risk premium unwinding → Bearish
+- Factor 3 (Fed/macro): -1 — May CPI 4.2% (highest since Apr 2023; 23.5% energy surge); 70% odds of rate HIKE by Dec 2026; Goldman stripped all 2026 cuts; raised 20% hike probability → Hawkish = Bearish
+- Factor 4 (CB demand): +1 — PBoC +9.95t May 2026 announced June 8 (3 days ago, within 7-day window); WGC April +17t net data published June 3 → Bullish
+- Factor 5 (Technicals): -1 — Gold ~$4,082 below BOTH 9d EMA (~$4,380–$4,498) and 50d EMA (~$4,629); last 2 days: June 10 RED (-$160 from $4,338); June 11 RED (-$95 from $4,177) = NOT 2 green days → Bearish
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — MCX est. ₹1,46,700/10g June 11; USD/INR 95.26; XAU/USD $4,082.73; May CPI 4.2% context; DXY 100.01; WTI $91.55
+- `wiki/iran-conflict-2026.md` — June 11 entry: US-Iran MOU tentative unsigned; US struck Iran June 10; Iran missiles; WTI $91.55; gold $4,082
+- `wiki/fed-macro-factors.md` — May CPI 4.2%; Goldman hawkish pivot (20% hike probability, all 2026 cuts stripped); 5 days to FOMC; 70% Dec hike probability
+- `wiki/us-china-trade-war.md` — June 11 Trump trade deal (30% tariffs; higher paused 60 days); SCOTUS IEEPA ruling Feb 20; gold de-escalation signal
+- `wiki/gold-geopolitical-risk-premium.md` — $4,082.73 (below $4,100); 25% below ATH $5,589; updated technical levels (9d EMA ~$4,380–$4,498; 50d $4,629); support zone $4,075–$4,100 now being tested
+- `wiki/global-cb-activity-log.md` — June 11 section added (9 rows: Global price/CPI, USA trade deal, Iran, Poland, China, Germany, France, USA, Saudi Arabia, India)
+- `wiki/index.md` — updated descriptions for india-gold-market, us-china-trade-war, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors
+
+**Global CB sweep results (June 11)**:
+- **China PBoC**: No new announcement (latest: May 2026 +9.95t confirmed June 8; 19th consecutive month) — updated wiki
+- **Poland**: No new announcement (latest: April 2026 +14t per WGC June 3; 595t total) — no change
+- **WGC April data**: Net +17t (published June 3) — already captured
+- **Germany**: CDU "repatriation not considering"; ~1,236t at FRBNY — no change; AfD motion not acted on
+- **France**: All 2,437t on French soil; no new BdF statements
+- **Italy, Japan, UK**: No new announcements
+- **USA**: 8,133t unchanged; no Fort Knox audit news; SCOTUS IEEPA ruling is major structural development
+- **Saudi Arabia**: 323.07t static; no SAMA announcements
+- **Iran**: MOU tentative, unsigned; fresh military exchanges June 10 (US strikes Iranian radar; Iran launches missiles in Gulf)
+- **India (RBI)**: 880.52t unchanged; MCX ~₹1,46,700/10g; ETF restrictions continue; May US CPI bearish for gold demand narrative
+
+---
+
 ## 2026-06-10 — Daily update: Gold $4,177.88 (-3.7%) breaks 200d MA for first time since Oct 2023; Iran-Israel conditional suspension; US-China trade deal; PBoC 19th straight month (+9.95t); India gold ETF restrictions (4 AMCs); signal Wait (0)
 
 **Raw file created**:

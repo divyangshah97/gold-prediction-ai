@@ -76,6 +76,23 @@ Major holders tracked in this log only (no dedicated page yet):
 
 ---
 
+### 2026-06-11
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-11 | 🌐 Global | Price shock — CPI-driven | Gold fell to **~$4,082.73** — confirmed "held below $4,100 on Thursday" (June 11). May US CPI confirmed **4.2%** (highest since April 2023; 23.5% energy surge driven by Iran/Hormuz). Gold crashed ~3.25% intraday after CPI release. Markets now pricing **70% odds of at least one rate HIKE by December 2026**. Gold is now ~25% below its January 28 all-time high of **$5,589**. DXY back above 100 (100.01). Silver $64.52. WTI $91.55/bbl (up $2.84 — US-Iran military exchanges June 10). | Web search June 11, 2026; goldsilver.com; gurufocus.com; bullionvault.com |
+| 2026-06-11 | 🇺🇸 USA (trade deal) | Trade policy — US-China | **June 11: Trump announced new US-China trade deal** — keeps existing 30% tariffs (20% fentanyl + 10% reciprocal), pauses higher tariffs for 60 days. Replaces IEEPA-based tariffs (Supreme Court struck down IEEPA tariff authority on February 20, 2026). Section 301 forced-labor tariff proposal (12.5% on China; June 2-3) still in comment period. For gold: de-escalation removes some safe-haven premium. See [[us-china-trade-war]]. | CNBC June 11 2026; Supreme Court ruling Feb 20 2026 |
+| 2026-06-11 | 🇮🇷 Iran (CBI) | Geopolitical — MOU still pending | US-Iran 60-day MOU tentatively agreed by negotiators (Hormuz reopening, mines cleared, Iran no nuclear weapons, US sanctions waivers). But **Trump has NOT yet signed**. On June 10: US struck Iranian radar/drone sites; Iran launched missiles in Gulf — most recent military exchanges. Ceasefire framework extremely fragile. No CBI reserve announcement. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | PBS News, Axios, Al Jazeera June 2026 |
+| 2026-06-11 | 🇵🇱 Poland (NBP) | No new data | Latest confirmed: April 2026 +14t (WGC June 3). YTD 45t total, 595t reserves (30% of FX). No new announcement June 11. See [[poland-gold-reserves]]. | Web search June 11, 2026 |
+| 2026-06-11 | 🇨🇳 China (PBoC) | No new data | Latest confirmed: May 2026 +9.95t (announced June 8; **19th consecutive month**; total 2,331.52t). No new June announcement. See [[china-pboc-gold]]. | Web search June 11, 2026 |
+| 2026-06-11 | 🇩🇪 Germany (Bundesbank) | No new data | ~1,236t still at FRBNY. CDU: "repatriation not currently being considered." No Bundestag vote. See [[germany-gold-reserves]]. | Web search June 11, 2026 |
+| 2026-06-11 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026. No new BdF statements. See [[france-gold-reserves]]. | Web search June 11, 2026 |
+| 2026-06-11 | 🇺🇸 USA (Treasury/Fed) | No new data | 8,133t unchanged since 1971. No Fort Knox audit calls or revaluation proposals. See [[usa-gold-reserves]]. | Web search June 11, 2026 |
+| 2026-06-11 | 🇸🇦 Saudi Arabia (SAMA) | No new data | 323.07t static since 2010. No SAMA announcements. See [[saudi-arabia-gold-reserves]]. | Web search June 11, 2026 |
+| 2026-06-11 | 🇮🇳 India (RBI) | Price update | MCX gold est. **~₹1,46,700/10g** (-~2.2% from ₹1,50,258); USD/INR 95.26 (slightly stronger). XAU/USD $4,082.73 (below $4,100). WTI $91.55/bbl. RBI 880.52t unchanged. ETF restrictions (4 AMCs) remain in force. May US CPI 4.2% negative for Indian gold demand narrative. See [[india-gold-market]], [[india-rbi-gold]]. | raw/india-gold-2026-06-11.md |
+
+---
+
 ### 2026-06-10
 
 | Date | Country | Type | Details | Source |

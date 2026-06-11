@@ -1,20 +1,31 @@
 # US–China Trade War
 
-**Summary**: The ongoing US–China trade conflict — centred on tariffs, technology, and critical minerals — is a key driver of global geopolitical uncertainty and a structural support for gold as a safe-haven asset.
+**Summary**: The ongoing US–China trade conflict — centred on tariffs, technology, and critical minerals — is a key driver of global geopolitical uncertainty and a structural support for gold as a safe-haven asset. As of June 11, 2026: a new 60-day US-China trade deal was announced by Trump, keeping 30% tariffs (20% fentanyl + 10% reciprocal) and pausing higher tariffs. The Supreme Court struck down IEEPA-based tariffs on February 20, 2026; the administration is now rebuilding its tariff architecture on Section 122/301/232 grounds.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html, https://www.washingtonpost.com/business/2026/06/03/trump-administration-announces-new-tariffs-over-use-forced-labor/
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html, https://www.china-briefing.com/news/supreme-court-tariff-ruling-china-impact/, https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf
 
-**Last updated**: 2026-06-04
+**Last updated**: 2026-06-11
 
 ---
 
-## Current State (as of June 2026)
+## Current State (as of June 11, 2026)
 
 The US and China are in a **managed truce**, not a resolution:
 
 - The November 2025 trade truce suspended escalating tariffs and China's October 2025 export-control package
 - The truce runs until **November 10, 2026** — after which either side can reactivate measures
 - The May 2026 Beijing summit preserved and nominally extended this truce but added no structural resolution
+- **Supreme Court struck down IEEPA-based tariffs (February 20, 2026)**: Chief Justice Roberts wrote that IEEPA does not give the President authority to impose tariffs. This invalidated the core of Trump's 2025 tariff regime. Up to $175B in refunds projected. Administration is rebuilding tariff authority on Section 122/301/232 grounds. (source: Supreme Court opinion 24-1287, Feb 20, 2026)
+
+### June 11, 2026: New 60-Day US-China Trade Deal
+
+**Trump announced a new US-China trade deal on June 11, 2026**:
+- Keeps existing 30% tariffs (20% "fentanyl" tariff + 10% "reciprocal" tariff) in place
+- **Pauses higher tariffs for 60 days** — a second temporary truce on top of the November 2025 framework
+- This deal replaces IEEPA-based architecture (struck down by Supreme Court) with Section 122/301/232 framework
+- China's response: denied forced-labor allegations; called for "resolving economic issues through dialogue" (Foreign Ministry spokesperson Mao Ning)
+
+**Implication for gold**: The June 11 deal is a **de-escalation event** that reduces trade policy uncertainty and removes some safe-haven demand for gold. However, at 30% tariffs with paused escalation rather than removal, uncertainty remains elevated. The deal's 60-day window means a fresh escalation risk by August 2026.
 
 ### June 2026: New US-China Board of Trade + Forced Labour Tariffs
 

@@ -46,7 +46,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t reserves; near-zero new buying in 2026; major story is repatriation from London |
-| [[india-gold-market]] | MCX ₹1,58,300/10g (June 5, -1%); RBI MPC HELD repo rate 5.25% neutral (June 5); strong US NFP +251K gold-negative; demand -70% YoY; ETF AUM ₹1.71L crore FY26 (+191%); RBI 880.52t unchanged; updated June 5 |
+| [[india-gold-market]] | MCX est. ₹1,46,700/10g (June 11, -~2.2%); USD/INR 95.26; XAU/USD $4,082.73 (below $4,100); May US CPI 4.2% confirmed → Fed hike risk; ETF restrictions (4 AMCs) unchanged; RBI 880.52t unchanged; updated June 11 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; 2026 repatriation pressure growing; France's $15B move cited as template |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -63,12 +63,12 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[us-china-trade-war]] | Tariffs, rare earths, Taiwan; US-China Board of Trade being implemented post-May summit; new US forced-labor tariffs (12.5%) proposed on China June 3 (gold exempted); Trump announced trade deal June 10 (30% tariffs remain; higher tariffs paused 60 days); updated June 4 |
+| [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **$4,177.88** (June 10, -3.7%); **below 200d MA for first time since Oct 2023**; below both 9d EMA (~$4,498) and 50d EMA ($4,629); Iran-Israel conditional suspension; US-China trade deal; WTI $88.71; signal: Wait (score 0); updated June 10 |
+| [[gold-geopolitical-risk-premium]] | **~$4,082.73** (June 11, below $4,100); May CPI 4.2% triggered ~3.25% gold crash; 25% below Jan 28 ATH $5,589; below 9d EMA (~$4,380–$4,498) and 50d EMA ($4,629); US-China deal + Iran MOU pending; signal: Wait (score -1); updated June 11 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | Iran-Israel "conditional suspension" June 9-10; nuclear deal 75.5% against; WTI $88.71; gold $4,177.88 (broke 200d MA); updated June 10 |
-| [[fed-macro-factors]] | June 16-17 first Warsh meeting (6 days); 99%+ no-change probability; 70% Dec hike bets; DXY 99.73; WTI $88.71; updated June 10 |
+| [[iran-conflict-2026]] | US-Iran MOU tentative (Hormuz + ceasefire); Trump not signed yet; US struck Iran radar/drone June 10; Iran missiles in Gulf; WTI $91.55; gold $4,082; updated June 11 |
+| [[fed-macro-factors]] | June 16-17 first Warsh meeting (5 days); May CPI 4.2% confirmed; 70% Dec hike odds; Goldman stripped 2026 cuts; DXY 100.01; updated June 11 |
 
 ### Institutional Flows
 
