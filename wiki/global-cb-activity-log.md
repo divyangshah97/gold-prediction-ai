@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-09
+**Last updated**: 2026-06-12
 
 ---
 
@@ -23,7 +23,7 @@ These countries have full wiki pages — this log supplements them with daily ne
 
 | Country | Role | Page |
 |---|---|---|
-| 🇵🇱 Poland | Buyer (45t YTD Jan–Apr 2026; April: 14t; total 595t; 30% of reserves) | [[poland-gold-reserves]] |
+| 🇵🇱 Poland | Buyer (**~63t YTD Jan–May 2026**; May: ~18t; **total 613t**; 30% of reserves; 150t plan approved; targeting 700t) | [[poland-gold-reserves]] |
 | 🇨🇳 China | Buyer (9.95t May 2026; **19-month streak**; **2,331.52t** total) | [[china-pboc-gold]] |
 | 🇺🇿 Uzbekistan | Buyer (25t Q1 2026) | [[uzbekistan-gold-reserves]] |
 | 🇰🇿 Kazakhstan | Buyer (12t Q1 2026) | [[kazakhstan-gold-reserves]] |
@@ -73,6 +73,22 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-12
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-12 | 🇵🇱 Poland (NBP) | Buy — May 2026 confirmed | **NBP Governor Adam Glapiński confirms reserves at 613t** (up from 595t on May 7) → **~18t purchased in May 2026**. YTD Jan–May 2026: ~63t — maintaining position as world's #1 CB gold buyer in 2026. Gold = 30% of total FX reserves. NBP board approved additional 150t purchase plan; targeting 700t (world's 10th-largest holder). See [[poland-gold-reserves]]. | https://phemex.com/news/article/poland-increases-gold-reserves-to-613-tons-aims-for-700-tons-88034; https://www.scottsdalemint.com/articles/2026/breaking-polish-central-bank-approves-plan-to-buy-150-more-tons-gold/ |
+| 2026-06-12 | 🇨🇳 China (PBoC) | No new data | Latest confirmed: May 2026 +9.95t (announced June 8; 19th consecutive month; total 2,331.52t). No new June announcement. April +8t was highest since Dec 2024. See [[china-pboc-gold]]. | Web search June 12, 2026 |
+| 2026-06-12 | 🌐 Global | Price rebound — Iran peace | Gold rebounded to **$4,192.79** (+2.73% from $4,082.73 June 11). Trump stated Iran peace deal could come "**as early as this weekend**." US military completed latest Iran strikes, raising expectations of renewed peace negotiations. WTI fell sharply to **$86.65/bbl** (from $91.55 — down $4.90). DXY fell to 99.86 (below 100). Silver +2.9% to $66.53/oz. Energy inflation risk easing = Fed hawkishness modestly reduced ahead of FOMC June 16-17. | Web search June 12, 2026; tradingeconomics.com; investing.com |
+| 2026-06-12 | 🇩🇪 Germany (Bundesbank) | No new data | No new repatriation announcements. Bundesbank President Nagel expressed confidence in FRBNY custody. CDU-led coalition (Merz): "moving gold out of the US not currently under consideration." ~1,200–1,236t still at FRBNY. No Bundestag vote on repatriation. See [[germany-gold-reserves]]. | https://www.kitco.com/news/article/2026-01-26/our-gold-no-longer-safe-feds-vaults-german-lawmakers-and-economists-renew; goldinvest.de June 2026 |
+| 2026-06-12 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026 repatriation. No new BdF statements. Bar upgrade programme ongoing. See [[france-gold-reserves]]. | Web search June 12, 2026 |
+| 2026-06-12 | 🇺🇸 USA (Treasury/Fed) | No new data | 8,133t unchanged since 1971. No Fort Knox audit calls or gold revaluation proposals found in last 24-48h. See [[usa-gold-reserves]]. | Web search June 12, 2026 |
+| 2026-06-12 | 🇸🇦 Saudi Arabia (SAMA) | No new data | 323.07t static since 2010. No SAMA gold announcements or BRICS+ reserve diversification news. See [[saudi-arabia-gold-reserves]]. | Web search June 12, 2026 |
+| 2026-06-12 | 🇮🇷 Iran (CBI) | Geopolitical — peace deal imminent | Trump says Iran peace deal "as early as this weekend" (June 12). US military completed latest strikes on Iran. WTI fell $4.90 to $86.65/bbl. Iran-US peace deal = potentially transformative for Iran's sanctions situation and CBI gold reserves strategy. If deal signed, sanctions relief could enable Iran to unfreeze assets and reduce gold-as-sanctions-hedge accumulation. No CBI reserve announcement. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | Web search June 12, 2026; tradingeconomics.com |
+| 2026-06-12 | 🇮🇳 India (RBI) | Price update | MCX gold **₹1,47,566/10g** (settled slightly lower; stable); USD/INR ~95.26. XAU/USD $4,192.79 (+2.73%). WTI $86.65 (down from $91.55 — positive for India's oil import bill). Gold ETFs: **first net outflow in 13 months** in May 2026 (₹725 crore outflow — profit-booking + price correction). RBI 880.52t unchanged. See [[india-gold-market]], [[india-rbi-gold]]. | raw/india-gold-2026-06-12.md; https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/ |
 
 ---
 

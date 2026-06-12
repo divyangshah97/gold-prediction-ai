@@ -4,6 +4,44 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-12 — Daily update: Gold $4,192.79 (+2.73% Iran peace rebound); Poland 613t (May +18t confirmed); WTI $86.65; DXY 99.86; FOMC 4 days; signal Wait (+1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-12.md` — MCX ₹1,47,566/10g; USD/INR ~95.26; XAU/USD $4,192.79; WTI $86.65; Iran peace = oil easing = inflation relief; May ETF first outflow (₹725cr); 15% import duty driving 70% demand collapse
+
+**Prices fetched** (via manual web search — yfinance 403 + metals.dev 403 both failed):
+- Gold: $4,192.79/oz | Silver: $66.53/oz | DXY: 99.86 | WTI: $86.65/bbl | USD/INR: ~95.26
+
+**Signal**: Wait, Score: +1
+- Factor 1 (Price vs targets): +1 — $4,192.79 is 22.4% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): 0 — Iran peace deal "this weekend" = de-escalation (normally bearish) but USD also weakening (DXY 99.86) + WTI falling = inflation relief channel; net ambiguous = Neutral
+- Factor 3 (Fed/macro): 0 — FOMC June 16-17; 99.4% probability hold; unchanged = Neutral
+- Factor 4 (CB demand): +1 — Poland NBP governor confirmed 613t (May +18t) published early June (within 7-day window); ongoing bullish CB demand → Bullish
+- Factor 5 (Technicals): -1 — Gold $4,192 below BOTH 9d EMA (~$4,498) and 50d EMA (~$4,627–4,730); last 2 days in CSV: June 10 RED ($4,177.88), June 11 RED ($4,082.73) = NOT 2 green → Bearish
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — June 12: MCX ₹1,47,566/10g; XAU/USD $4,192.79; WTI $86.65; May ETF first outflow (₹725cr) in 13 months captured; import duty 15% demand destruction documented
+- `wiki/iran-conflict-2026.md` — June 12: Trump "deal as early as this weekend"; WTI $86.65; gold +2.73%
+- `wiki/fed-macro-factors.md` — June 12 macro update: DXY 99.86; WTI $86.65; FOMC 4 days; Iran peace = inflation relief
+- `wiki/gold-geopolitical-risk-premium.md` — June 12 price entry; updated technical table; EMA configuration note
+- `wiki/poland-gold-reserves.md` — **Major update**: NBP governor confirms 613t (May +18t); YTD ~63t; 150t plan approved; targeting 700t (world's 10th-largest)
+- `wiki/global-cb-activity-log.md` — June 12 section added (8 rows: Poland May +18t confirmed, China no new data, Global Iran peace rebound, Germany no new, France no new, USA no new, Saudi no new, Iran peace CBI context, India ETF outflow)
+- `wiki/index.md` — updated descriptions for poland-gold-reserves, india-gold-market, iran-conflict-2026, fed-macro-factors, gold-geopolitical-risk-premium, global-cb-activity-log
+
+**Global CB sweep results (June 12)**:
+- **Poland**: NBP Governor Glapiński confirms **613t** (May 2026 ~+18t; from 595t); YTD ~63t; 150t plan approved — **major new data point, updated wiki**
+- **China PBoC**: No new June announcement (latest: May 2026 +9.95t confirmed June 8; 19th consecutive month; 2,331.52t) — no change
+- **WGC**: April 2026 data published June 3 (already captured) — no new June report
+- **Germany**: No repatriation; Nagel confident in FRBNY; CDU "not under consideration"; ~1,200–1,236t at FRBNY
+- **France**: All 2,437t on French soil; no new BdF statements
+- **Italy, Japan, UK**: No new announcements found
+- **USA**: 8,133t unchanged; no Fort Knox audit news
+- **Saudi Arabia**: 323.07t static; no SAMA announcements
+- **Iran**: Trump says peace deal "this weekend"; no CBI reserve announcement; WTI $86.65 on de-escalation
+- **India**: MCX ₹1,47,566; ETF first outflow in 13 months (₹725cr May); 15% duty impact confirmed (70% demand drop)
+
+---
+
 ## 2026-06-11 — Daily update: Gold ~$4,082 (below $4,100); May US CPI 4.2% (highest since Apr 2023) triggers ~3.25% gold crash; US-China new trade deal June 11; Iran MOU tentative unsigned; signal Wait (-1)
 
 **Raw file created**:

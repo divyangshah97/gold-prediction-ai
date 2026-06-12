@@ -1,12 +1,28 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~17–18% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, a sharp shift from physical to digital gold, and multiple AMCs restricting gold ETF inflows. As of June 11, MCX gold (Aug futures) est. ₹1,46,700/10g (-2.2%); USD/INR 95.26; XAU/USD $4,082.73; RBI gold holdings confirmed 880.52t unchanged. May US CPI 4.2% (highest since Apr 2023) confirmed today — gold crashed ~3.25% intraday on Fed rate-hike fears.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~17–18% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, a sharp shift from physical to digital gold, and multiple AMCs restricting gold ETF inflows. As of June 12, MCX gold settled at **₹1,47,566/10g**; USD/INR ~95.26; XAU/USD $4,192.79 (+2.73% rebound on Iran peace optimism); WTI $86.65 (down from $91.55 — Iran peace deal progress). Gold ETFs recorded first outflow in 13 months (₹725 crore in May 2026). RBI 880.52t confirmed unchanged.
 
-**Sources**: `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, `raw/india-gold-2026-05-29.md`, `raw/india-gold-2026-05-27.md`, `raw/india-gold-2026-05-25.md`, https://www.analyticsinsight.net/business/gold-price-today-mcx-gold-falls-to-rs-150258-amid-concerns-of-interest-rate-hike-and-weak-global-trends, https://www.indmoney.com/blog/mutual-funds/hdfc-icici-nippon-gold-etf-caps-rupee-impact, https://upstox.com/news/personal-finance/mutual-funds/gold-etf-restrictions-widen-as-tata-amc-joins-hdfc-icici-and-others-in-capping-fresh-inflows/article-194978/
+**Sources**: `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.goodreturns.in/gold-rates/, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-12-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-536447-2026-06-12, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.businesstoday.in/latest/economy/story/government-raises-gold-import-duty-to-15-will-it-cool-indias-appetite-for-bullion-534099-2026-05-31
 
-**Last updated**: 2026-06-11
+**Last updated**: 2026-06-12
 
 ---
+
+## MCX Gold Price (June 12, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold (settled) | **₹1,47,566 per 10g** (slightly lower; markets steady amid global rebound) |
+| MCX retail (24K) | ~₹14,563/gram |
+| USD/INR rate | ~₹95.26 (unchanged; DXY fell to 99.86 on Iran peace optimism) |
+| Global spot (XAU/USD) | **$4,192.79** (+2.73% from $4,082.73 — sharp Iran-peace-driven rebound) |
+| DXY | **99.86** (below 100; Iran peace = USD weakening; down from 100.01 June 11) |
+| WTI crude | **$86.65/bbl** (DOWN from $91.55 June 11 — Trump says Iran deal "this weekend") |
+| Silver | $66.53/oz (up from $64.52 June 11) |
+
+Note: Gold rebounded **+2.73%** on June 12 (Friday) as Trump announced Iran peace agreement could come "as early as this weekend," completing US military strikes and signalling a return to negotiations. WTI dropped sharply ($91.55→$86.65) as energy-driven inflation fears eased. DXY fell back below 100 (99.86). This is gold's first meaningful up-day after 4 consecutive down sessions. MCX remained broadly stable (slightly lower at ₹1,47,566 vs est. ₹1,46,700 June 11) even as global XAU surged — the USD/INR stability explains the mild divergence.
+
+**Prior session reference (June 11)**: MCX est. ₹1,46,700/10g (-2.2%); USD/INR 95.26; XAU/USD $4,082.73; WTI $91.55; DXY 100.01.
 
 ## MCX Gold Price (June 11, 2026)
 
@@ -91,8 +107,8 @@ India's gold ETF sector saw explosive growth in FY26 before moderating sharply a
 | January 2026 inflows | ₹240.5 billion — monthly record peak |
 | April 2026 inflows | ₹30.4bn ($325mn) — 12th consecutive positive month (pre-duty-hike) |
 | March–April 2026 average | ₹26.5 billion/month — sharp moderation from January peak |
-| May 2026 flows | Further moderation; duty-hike impact on digital gold unclear |
-| June 2026 | ETF subscription restrictions introduced by 4 major AMCs |
+| May 2026 flows | **₹725 crore net OUTFLOW** — FIRST outflow in 13 months (profit-booking + price correction); (source: Upstox June 10, 2026) |
+| June 2026 | ETF subscription restrictions introduced by 4 major AMCs; gold ETF outflows continue |
 | Largest ETF | Nippon India ETF Gold BeES — AUM ₹58,323 crore |
 | #2/#3 | HDFC Gold ETF ₹23,239cr; SBI Gold ETF ₹24,550cr |
 

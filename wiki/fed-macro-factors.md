@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-11
+**Last updated**: 2026-06-12
 
 ---
 
@@ -84,7 +84,16 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 - Goldman Sachs: raised hike probability to 20%; stripped ALL 2026 rate cuts; pushed expected easing to June–December 2027
 - Impact on gold: hawkish hold (increasingly expected) adds downward pressure; gold trading at $4,082 — may test $3,800–$4,000 range if Warsh signals hikes
 
-**June 11 macro update (today)**:
+**June 12 macro update (today)**:
+- **DXY 99.86** — fell BELOW 100 as Iran peace optimism weakened USD; down from 100.01 June 11
+- **Gold $4,192.79** — sharp rebound (+2.73%) as Trump says Iran deal "as early as this weekend"; gold bounced from $4,082 lows
+- **WTI crude $86.65/bbl** — sharp drop from $91.55 June 11; Iran peace → energy inflation easing; most direct relief for Fed hawkishness
+- **Silver $66.53/oz** — +2.9% on gold's rebound
+- **USD/INR ~95.26** — broadly stable; DXY weakening provides mild INR support
+- **Key interpretation**: If Iran peace deal is signed this weekend, WTI could fall further toward $80/bbl, which would meaningfully reduce headline CPI (currently 4.2% driven by 23.5% energy surge). This is the most significant near-term potential macro catalyst for gold's direction ahead of FOMC June 16-17.
+- **FOMC meeting: 4 days away (June 16-17)** — 99.4% probability of NO CHANGE at this meeting (CME FedWatch); markets watching for dot plot
+
+**June 11 macro update**:
 - **DXY ~100.01** — back above 100 on May CPI shock
 - **Gold ~$4,082.73** — confirmed below $4,100; May CPI 4.2% triggered gold crash of ~3.25% intraday; gold now 25% below Jan 28 ATH of $5,589
 - **May US CPI: 4.2% YoY** (highest since April 2023) — driven by 23.5% energy surge (Iran/Hormuz closure). Core CPI: 2.9%. Headline: above expectations
