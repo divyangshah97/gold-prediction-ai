@@ -4,7 +4,7 @@
 
 **Sources**: SPDR GLD ETF (State Street), CFTC Commitment of Traders report (weekly, disaggregated futures).
 
-**Last updated**: 2026-06-06
+**Last updated**: 2026-06-13
 
 ---
 
@@ -64,8 +64,8 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-06-02
-> **Published by CFTC:** 2026-06-05
+> **Report_Date (as-of Tuesday):** 2026-06-02  
+> **Published by CFTC:** 2026-06-05  
 > **Source:** CFTC Disaggregated Futures Only report, COMEX Gold 100 troy oz (code 088691) — sourced via IndexBox.io CFTC COT summary (June 5, 2026 release)
 
 | Field | Value |
@@ -79,15 +79,53 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 | MM_Net % of OI | 34.4% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation
+### Sentiment Interpretation (as of June 2)
 
 MM_Net of +112,179 falls in the **Neutral zone (50,000–150,000 contracts)**. Managed Money has increased net-long exposure meaningfully — shorts dropped sharply from 29,354 to 17,188 (−12,166), while longs rose modestly from 122,894 to 129,367 (+6,473). The positioning move is being driven primarily by short-covering rather than fresh long accumulation.
 
-**Week-over-week change of +18,639 contracts** (from May 19 baseline of +93,540) is just below the ±20,000 significant shift threshold. Not a flag, but approaching notable territory — watch next week for continuation.
+**Week-over-week change of +18,639 contracts** (from May 19 baseline of +93,540) is just below the ±20,000 significant shift threshold. Not a flag, but approaching notable territory.
 
-**Open Interest contraction is notable:** OI fell from 379,325 (May 19) to 326,052 (June 2), a drop of ~53,000 contracts (−14%). This alongside a rising MM_Net suggests short-covering-driven position reduction rather than fresh speculative enthusiasm. Fewer total contracts outstanding with more net-long bias = a tighter, less liquid market.
+**Open Interest contraction is notable:** OI fell from 379,325 (May 19) to 326,052 (June 2), a drop of ~53,000 contracts (−14%). This alongside a rising MM_Net suggests short-covering-driven position reduction rather than fresh speculative enthusiasm.
 
-**Context:** Gold price was ~$4,446–$4,499 as of June 2 (June 2 close ~$4,499, June 5 close ~$4,446 post-NFP). The strong US NFP report (+251K) released June 5 is a gold headwind. MM positioning as of Tuesday June 2 pre-dates the NFP reaction, so the next COT report (as of June 9) may reflect NFP-driven repositioning.
+---
+
+## June 9, 2026 COT Update — Data Retrieval Failure
+
+> **Report_Date (as-of Tuesday):** 2026-06-09  
+> **Published by CFTC:** 2026-06-12 (Friday)  
+> **Retrieval attempted:** 2026-06-13 (Saturday routine)  
+> **Status:** ⚠️ Data not retrieved — all sources blocked by network egress policy
+
+### Sources Attempted
+
+All of the following returned 403 Forbidden or DNS resolution failure due to environment network restrictions:
+
+- **CFTC direct** (`www.cftc.gov`, `data.cftc.gov`, `publicreporting.cftc.gov`) — domain not in network allowlist
+- **GoldSeek** `goldseek.com/article/cot-gold-silver-usdx-report-june-12-2026` — 403
+- **Barchart, MetalCharts, MacroMicro, YCharts, Investing.com, Kitco, StoneX, Titan FX, InsiderWeek, TradingView** — all 403
+- **InvestMacro** — no June 2026 articles indexed yet at time of search
+- **Web search snippets** — returned qualitative commentary only; no specific disaggregated managed money contract counts for June 9
+
+The June 12, 2026 COT release exists and contains the June 9 data, but it could not be accessed from this environment. The `cot.csv` file has **not** been updated for this week.
+
+### Market Context for June 9 Positioning (Gold: $4,338.50)
+
+Gold price on June 9 (COT as-of date): **$4,338.50/oz** — down $160.50 (−3.57%) from the June 2 close of $4,499.00.
+
+Key drivers between June 2 and June 9 that would have influenced managed money positioning:
+- **June 5**: Strong US NFP (+251K) = gold headwind, DXY lift
+- **June 8**: Gold closed at $4,329.33, continuing NFP-driven selloff
+- **June 9**: Slight bounce to $4,338.50 (+$9.17) — moderate bearish week overall
+
+**What to expect in the June 9 data (qualitative):**
+- Multiple sources (web search snippets) suggest gold speculative net positions fell to a "six-week low" for the week ending June 9, though this could not be confirmed with specific contract counts
+- MM_Long likely decreased from 129,367 given the 3.6% price drop and NFP headwinds
+- MM_Short potentially rose from the 17-month low of 17,188 (June 2) as traders added defensive hedges
+- OI likely continued to fall (was at 19-month low as of June 2)
+- Estimated MM_Net direction: **lower** than 112,179 (June 2)
+- If "six-week low" characterization is accurate, MM_Net may have approached the May 19 level of ~93,540
+
+> **Action required:** Retry data fetch next Saturday. Check `www.cftc.gov` domain allowlist in network egress settings, or ensure one of the following data aggregators is reachable: GoldSeek, Barchart, MetalCharts, InvestMacro (June 2026 articles).
 
 ## Related pages
 

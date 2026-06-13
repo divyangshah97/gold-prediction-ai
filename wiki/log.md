@@ -4,6 +4,18 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-13 — COT weekly update attempt: Report_Date 2026-06-09 | Status: DATA NOT RETRIEVED | All CFTC/data sources blocked by network egress policy | cot.csv unchanged
+
+**Attempted sources**: CFTC direct (www.cftc.gov, data.cftc.gov), GoldSeek June 12 article, Barchart, MetalCharts, MacroMicro, YCharts, Investing.com, Barchart, StoneX, InvestMacro — all returned 403 Forbidden or DNS failure.
+
+**Market context on June 9 (COT as-of date)**: Gold $4,338.50 (−3.57% from June 2's $4,499.00); DXY 100.0; Silver $67.66. Qualitative signals from web search suggest speculative net longs fell to a "six-week low" for the week, consistent with NFP-driven headwinds. MM_Net direction: likely lower than 112,179. cot.csv **not updated** (no verified data).
+
+**Pages updated**:
+- `wiki/institutional-flows.md` — Last updated → 2026-06-13; Added "June 9, 2026 COT Update — Data Retrieval Failure" section with market context and retry instructions
+- `wiki/index.md` — Updated institutional-flows entry to note June 9 retrieval blocked
+
+---
+
 ## 2026-06-12 — Daily update: Gold $4,192.79 (+2.73% Iran peace rebound); Poland 613t (May +18t confirmed); WTI $86.65; DXY 99.86; FOMC 4 days; signal Wait (+1)
 
 **Raw file created**:
