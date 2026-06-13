@@ -4,6 +4,17 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-13 — COT weekly update (retry success via web search): Report_Date 2026-06-09 | MM_Net=+105,863 (−6,316 WoW) | OI=332,709 | Sentiment: Neutral zone | Source: Web search aggregators citing CFTC Disaggregated Futures Only (code 088691)
+
+Report_Date: 2026-06-09 | MM_Net: +105,863 (−6,316 vs. prior week +112,179) | OI: 332,709 | MM_Long: 126,280 | MM_Short: 20,417 | MM_Net % OI: 31.8% | Sentiment: Neutral zone (50,000–150,000) | Source: Web search (MacroMicro/CFTC data aggregators) — Nasdaq Data Link API and direct WebFetch blocked by network egress
+
+**Pages updated**:
+- `prices/cot.csv` — row appended for 2026-06-09
+- `wiki/institutional-flows.md` — "Latest COT Data" section updated to June 9; prior failure note replaced with confirmed data; Prior Week Reference section added
+- `wiki/index.md` — [[institutional-flows]] entry updated to show June 9 MM_Net=+105,863
+
+---
+
 ## 2026-06-13 — COT weekly update attempt: Report_Date 2026-06-09 | Status: DATA NOT RETRIEVED | All CFTC/data sources blocked by network egress policy | cot.csv unchanged
 
 **Attempted sources**: CFTC direct (www.cftc.gov, data.cftc.gov), GoldSeek June 12 article, Barchart, MetalCharts, MacroMicro, YCharts, Investing.com, Barchart, StoneX, InvestMacro — all returned 403 Forbidden or DNS failure.
