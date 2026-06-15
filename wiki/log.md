@@ -4,6 +4,34 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-15 — Daily update: Gold $4,323.18 (+3.1% on US-Iran Islamabad Declaration); WTI $81.06 (−5%+); DXY 99.56; Silver $70.29; FOMC tomorrow (June 16-17); Signal: Wait (+1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-15.md` — MCX ~₹1,49,080/10g (24k); USD/INR ~95.11; XAU/USD $4,323.18 (+3.1%); WTI $81.06 (−5%+); US-Iran peace deal signed; Q1 investment demand overtook jewellery (first ever); Q1 imports 186t (+58% YoY)
+
+**Prices fetched** (manual web search — yfinance 403 + metals.dev 403 both failed):
+- Gold: $4,323.18/oz | Silver: $70.29/oz | DXY: 99.56 | WTI: $81.06/bbl | USD/INR: ~95.11
+
+**Signal**: Wait, Score: +1
+- Factor 1 (Price vs targets): +1 — $4,323.18 is 20% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): 0 — US-Iran Islamabad Declaration peace deal confirmed = de-escalation (technically bearish for risk premium); BUT gold rose +3.1% and DXY fell to 99.56 (USD weakening). Competing signals: de-escalation reduces safe-haven bid, BUT lower oil/CPI reduces hawkish Fed pressure (bullish). Net: Neutral.
+- Factor 3 (Fed/macro): 0 — FOMC June 16-17 tomorrow; 97-99.5% probability hold at 3.50-3.75%; unchanged = Neutral. Goldman pulled all 2026 cuts but maintained $5,400 target.
+- Factor 4 (CB demand): +1 — Poland NBP governor confirmed 613t (May +18t), published June 12, within 7-day window → Bullish.
+- Factor 5 (Technicals): -1 — Price $4,323.18 above 9d EMA ($4,301 calculated); below 50d SMA ($4,627); 50d > 9d = downtrend config → Bearish (table row: "Above 9d, below 50d | 50d > 9d | Any | Bearish").
+
+**Holiday check**: June 15, 2026 is NOT an Indian market holiday (next holiday: June 26 = Muharram).
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — June 15 section added (12 rows: US-Iran peace deal, Poland confirmation, China/Germany/France/USA/Saudi/Iran/India/Japan/UK/Italy no-new-data)
+- `wiki/india-gold-market.md` — June 15 MCX price section added; summary updated; Q1 structural shift (investment > jewellery) documented
+- `wiki/iran-conflict-2026.md` — June 13-14 peace text agreed + June 15 deal effective added to timeline; summary updated
+- `wiki/fed-macro-factors.md` — June 15 macro update added; FOMC "tomorrow" note; Goldman guidance on no 2026 cuts
+- `wiki/gold-geopolitical-risk-premium.md` — June 15 price entry added to timeline; technical levels updated (9d EMA $4,301 calculated; gold now above 9d EMA; 50d SMA $4,627); current technical levels table updated
+- `wiki/log.md` — this entry
+- `wiki/index.md` — updated
+
+---
+
 ## 2026-06-13 — COT weekly update (retry success via web search): Report_Date 2026-06-09 | MM_Net=+105,863 (−6,316 WoW) | OI=332,709 | Sentiment: Neutral zone | Source: Web search aggregators citing CFTC Disaggregated Futures Only (code 088691)
 
 Report_Date: 2026-06-09 | MM_Net: +105,863 (−6,316 vs. prior week +112,179) | OI: 332,709 | MM_Long: 126,280 | MM_Short: 20,417 | MM_Net % OI: 31.8% | Sentiment: Neutral zone (50,000–150,000) | Source: Web search (MacroMicro/CFTC data aggregators) — Nasdaq Data Link API and direct WebFetch blocked by network egress

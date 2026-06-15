@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-12
+**Last updated**: 2026-06-15
 
 ---
 
@@ -77,20 +77,27 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** 5 days away as of June 11. Markets will be watching for:
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** TOMORROW as of June 15. Markets will be watching for:
 - Any rate cut or hike — **97–99% probability of NO CHANGE** at this meeting (CME FedWatch)
 - Markets now pricing **70% probability of at least one rate HIKE by December 2026** — upgraded from 68–70% following May CPI 4.2% confirmation
 - Warsh's dot plot: will any FOMC members show a hike in H2 2026? If median projection stays hold, gold likely rallies; if hawkish language added, further downside toward $3,800–$4,000
 - Goldman Sachs: raised hike probability to 20%; stripped ALL 2026 rate cuts; pushed expected easing to June–December 2027
 - Impact on gold: hawkish hold (increasingly expected) adds downward pressure; gold trading at $4,082 — may test $3,800–$4,000 range if Warsh signals hikes
 
-**June 12 macro update (today)**:
+**June 15 macro update (today)**:
+- **DXY 99.56** — further below 100; Iran peace deal signed = USD weakening continues; down from 99.86 June 12
+- **Gold $4,323.18** — +3.1% weekly open on US-Iran Islamabad Declaration confirmation; gold at weekly high; broke above technical resistance $4,313.67
+- **WTI crude $81.06/bbl** — plunged >5% from $86.65 on Iran peace deal (Hormuz to reopen within 30 days); energy-driven inflation relief materialising ahead of FOMC
+- **Silver $70.29/oz** — +5.7% surge on risk-on/weaker-dollar dynamic
+- **USD/INR ~95.11** — INR slightly stronger vs. June 12 (95.26); USD weakening supports INR
+- **FOMC meeting: TOMORROW (June 16-17)** — 97-99.5% probability of NO CHANGE to 3.50-3.75% target range. Warsh's first meeting as Chair. Dot plot and forward guidance are the key variables. Iran peace deal + lower WTI has REDUCED the hawkish pressure: if WTI stays at $81/bbl into June, July CPI will mechanically improve from 4.2%. Goldman Sachs maintained $5,400 year-end gold target despite pulling all 2026 rate cuts. JPMorgan: $6,000 target. Key question for FOMC: will dot plot signal a December hike or signal stable-to-lower rates for 2027?
+- **Goldman Sachs guidance**: pulled ALL 2026 rate cut expectations; pushed easing to June/December 2027; but maintained structural bull case on gold ($5,400 year-end). CB demand ~60t/month is price-inelastic and unaffected by rate levels.
+
+**June 12 macro update**:
 - **DXY 99.86** — fell BELOW 100 as Iran peace optimism weakened USD; down from 100.01 June 11
 - **Gold $4,192.79** — sharp rebound (+2.73%) as Trump says Iran deal "as early as this weekend"; gold bounced from $4,082 lows
 - **WTI crude $86.65/bbl** — sharp drop from $91.55 June 11; Iran peace → energy inflation easing; most direct relief for Fed hawkishness
 - **Silver $66.53/oz** — +2.9% on gold's rebound
-- **USD/INR ~95.26** — broadly stable; DXY weakening provides mild INR support
-- **Key interpretation**: If Iran peace deal is signed this weekend, WTI could fall further toward $80/bbl, which would meaningfully reduce headline CPI (currently 4.2% driven by 23.5% energy surge). This is the most significant near-term potential macro catalyst for gold's direction ahead of FOMC June 16-17.
 - **FOMC meeting: 4 days away (June 16-17)** — 99.4% probability of NO CHANGE at this meeting (CME FedWatch); markets watching for dot plot
 
 **June 11 macro update**:

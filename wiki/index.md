@@ -46,7 +46,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t reserves; near-zero new buying in 2026; major story is repatriation from London |
-| [[india-gold-market]] | MCX ₹1,47,566/10g (June 12); USD/INR ~95.26; XAU/USD $4,192.79 (+2.73% on Iran peace); WTI $86.65; May ETF first outflow (₹725cr) in 13 months; 15% import duty driving 70% demand collapse; updated June 12 |
+| [[india-gold-market]] | MCX ~₹1,49,080/10g (June 15); USD/INR ~95.11; XAU/USD $4,323.18 (+3.1% US-Iran peace deal); WTI $81.06; Q1 investment demand overtook jewellery (first ever); Q1 imports 186t (+58% YoY); 15% import duty; updated June 15 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; 2026 repatriation pressure growing; France's $15B move cited as template |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -57,7 +57,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; June 12: Poland 613t (+18t May); Iran peace; gold rebound; updated June 12 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; June 15: US-Iran peace deal confirmed (Hormuz to reopen); gold +3.1% to $4,323; WTI −5%+ to $81; Poland 613t confirmation; updated June 15 |
 
 ### Geopolitics & Macro
 
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **$4,192.79** (June 12, +2.73% rebound); Iran peace deal "this weekend" (Trump); WTI $86.65; DXY 99.86; ~22% below Goldman $5,400; below both EMAs; signal: Wait (score +1); updated June 12 |
+| [[gold-geopolitical-risk-premium]] | **$4,323.18** (June 15, +3.1% US-Iran peace deal); WTI $81.06 (−5%+); DXY 99.56; ~20% below Goldman $5,400; above 9d EMA ($4,301) but below 50d SMA ($4,627); signal: Wait (score +1); updated June 15 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | Trump says deal "**as early as this weekend**" (June 12); WTI $86.65 (from $91.55); gold rebounded to $4,192.79 (+2.73%); de-escalation reducing safe-haven premium but also easing energy inflation; FOMC June 16-17 next; updated June 12 |
-| [[fed-macro-factors]] | June 16-17 Warsh FOMC (4 days); 99.4% hold probability; Iran peace → WTI $86.65 = inflation relief; DXY 99.86 (below 100); updated June 12 |
+| [[iran-conflict-2026]] | **Islamabad Declaration confirmed effective June 15**; US lifts naval blockade; Hormuz to reopen 30 days; WTI $81.06 (−5%+); gold +3.1% to $4,323; 440kg uranium stays for 60-day nuclear talks; FOMC TOMORROW (June 16-17); updated June 15 |
+| [[fed-macro-factors]] | **FOMC TOMORROW June 16-17** (Warsh first meeting); 97-99.5% hold probability at 3.50-3.75%; Iran peace → WTI $81.06 = inflation relief; DXY 99.56; Goldman maintained $5,400 target despite pulling 2026 cuts; updated June 15 |
 
 ### Institutional Flows
 
@@ -81,4 +81,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[goldman-sachs-gold-forecast]] | GS $5,400/oz (reaffirmed); JPM year-end $6,000 (cut avg to $5,243); UBS $5,500; Wells Fargo $6,100–$6,300; range $5,200–$6,000; updated June 8 |
-| [[india-gold-market]] | MCX (Aug futures) **₹1,50,258/10g** (June 10, -1.43%); USD/INR 95.36; WTI $88.71; import duty 15%; **4 major AMCs capping gold ETF inflows** (HDFC, Nippon, ICICI, Tata); updated June 10 |
+| [[india-gold-market]] | MCX ~**₹1,49,080/10g** (June 15, 24k retail); USD/INR ~95.11; XAU/USD $4,323.18; WTI $81.06; import duty 15%; **4 major AMCs still capping gold ETF inflows**; Q1 investment demand overtook jewellery (first ever); updated June 15 |

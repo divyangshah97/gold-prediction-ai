@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-12
+**Last updated**: 2026-06-15
 
 ---
 
@@ -73,6 +73,25 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-15
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-15 | 🌐 Global | Peace deal — Iran-US | **US-Iran peace deal finalised: Islamabad Declaration text agreed** (Pakistan brokered). Trump confirms US lifts naval blockade on Iranian ports; Strait of Hormuz to reopen within 30 days. Iran's 440kg enriched uranium stockpile stays in Tehran for 60-day follow-on nuclear talks. WTI crude plunged **5%+ to ~$81/bbl** (from $86.65 June 12). Gold rose **+3.1% to $4,323.18** — "weekly high" — as deal eases inflation/rate-hike fears (lower oil → lower CPI → less hawkish Fed). DXY fell to 99.56. Silver surged +5.7% to $70.29/oz. See [[iran-conflict-2026]], [[gold-geopolitical-risk-premium]]. | https://www.fxstreet.com/news/gold-rises-to-weekly-high-as-us-iran-reach-peace-deal-202606150124; https://tradingeconomics.com/commodity/gold/news/540173 |
+| 2026-06-15 | 🇵🇱 Poland (NBP) | Confirmed buy — May 2026 (within 7d) | NBP Governor Glapiński confirmed reserves at **613t** (published ~June 12, within 7-day window). ~18t purchased in May 2026. YTD Jan–May 2026: ~63t. Gold = 30% of total FX reserves. 150t additional programme approved. Targeting 700t (world's 10th-largest). No new June 2026 announcement today. See [[poland-gold-reserves]]. | https://phemex.com/news/article/poland-increases-gold-reserves-to-613-tons-aims-for-700-tons-88034 |
+| 2026-06-15 | 🇨🇳 China (PBoC) | No new data | Latest confirmed: May 2026 +9.95t (announced June 8; 19th consecutive month; total 2,331.52t). No new June announcement. April +8t was highest since Dec 2024; now 18th month confirmed by WGC (June 3). China gold = 9% of FX reserves. See [[china-pboc-gold]]. | Web search June 15, 2026 |
+| 2026-06-15 | 🇩🇪 Germany (Bundesbank) | No new data | No new repatriation announcements. CDU coalition: "moving gold out of the US not currently under consideration." ~1,236t still at FRBNY. AfD Bundestag motion (March 2026) not acted upon. Former Bundesbank official Mönch called FRBNY storage "dangerous" (Jan 2026) — no official policy shift. See [[germany-gold-reserves]]. | https://www.moneymetals.com/news/2026/01/25/german-officials-renew-calls-to-bring-gold-home-004637; goldinvest.de June 2026 |
+| 2026-06-15 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026 repatriation (completed after selling 129t from FRBNY for €13B profit). No new BdF statements. Bar upgrade programme ongoing. See [[france-gold-reserves]]. | Web search June 15, 2026 |
+| 2026-06-15 | 🇺🇸 USA (Treasury/Fed) | No new data | 8,133t unchanged since 1971. No Fort Knox audit calls or gold revaluation proposals in last 24-48h. FOMC June 16-17 — rate expected to hold at 3.50-3.75% (97% probability). See [[usa-gold-reserves]], [[fed-macro-factors]]. | Web search June 15, 2026 |
+| 2026-06-15 | 🇸🇦 Saudi Arabia (SAMA) | No new data | 323.07t static since 2010. No SAMA gold announcements or BRICS+ reserve diversification news. Secret 160t acquisition from Switzerland (via Swiss customs Aug 2024) remains unconfirmed by SAMA. See [[saudi-arabia-gold-reserves]]. | Web search June 15, 2026 |
+| 2026-06-15 | 🇮🇷 Iran (CBI) | Geopolitical — peace deal signed | **US-Iran Islamabad Declaration text agreed June 13; effective June 15**. Strait of Hormuz to reopen within 30 days. Iran's frozen assets to be progressively released. 440kg enriched uranium remains in Tehran during 60-day follow-on talks. This is transformative for Iran's gold-as-sanctions-hedge strategy: if sanctions are lifted, CBI gold accumulation rationale diminishes. No CBI reserve announcement. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | https://www.techtimes.com/articles/318319/20260613/iran-peace-deal-text-agreed-440kg-enriched-uranium-stays-tehran-during-60-day-talks.htm; https://www.fxstreet.com/news/gold-rises-to-weekly-high-as-us-iran-reach-peace-deal-202606150124 |
+| 2026-06-15 | 🇮🇳 India (RBI) | Price update | MCX gold ~**₹1,49,080/10g** (24k retail; +1% from June 12 ₹1,47,566); USD/INR ~95.11 (INR slightly stronger). XAU/USD **$4,323.18** (+3.1%). WTI **$81.06/bbl** (−$5.59 — Iran peace deal). India structural: Q1 2026 investment demand overtook jewellery demand for first time ever (82t vs 66t). India Q1 imports: 186t (+58% YoY). RBI 880.52t unchanged; ~680t now domestic. See [[india-gold-market]], [[india-rbi-gold]]. | raw/india-gold-2026-06-15.md; https://www.goodreturns.in/gold-rates/ |
+| 2026-06-15 | 🇯🇵 Japan (BoJ) | No new data | 845.97t static Q1 2026. No BoJ or Ministry of Finance statements on gold allocation changes. Japan = world's largest potential swing buyer (only 3-4% of $1.2T reserves in gold; peer average 10-15%). No FOMC-linked BoJ policy shift expected. See [[japan-gold-reserves]]. | Web search June 15, 2026 |
+| 2026-06-15 | 🇬🇧 UK (Bank of England) | No new data | 310.29t static. 2nd-largest gold custodian globally (72+ CBs). No LBMA vault flow data or BoE custodial change announcements. See [[uk-gold-reserves]]. | Web search June 15, 2026 |
+| 2026-06-15 | 🇮🇹 Italy (Banca d'Italia) | No new data | 2,452t static. Fratelli d'Italia ownership dispute (ECB blocked transfer to Treasury) ongoing — no resolution in last 24-48h. No Banca d'Italia repatriation announcement. See [[italy-gold-reserves]]. | Web search June 15, 2026 |
 
 ---
 

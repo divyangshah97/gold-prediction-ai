@@ -1,10 +1,28 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~17–18% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, a sharp shift from physical to digital gold, and multiple AMCs restricting gold ETF inflows. As of June 12, MCX gold settled at **₹1,47,566/10g**; USD/INR ~95.26; XAU/USD $4,192.79 (+2.73% rebound on Iran peace optimism); WTI $86.65 (down from $91.55 — Iran peace deal progress). Gold ETFs recorded first outflow in 13 months (₹725 crore in May 2026). RBI 880.52t confirmed unchanged.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~17–18% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 15, MCX gold ~**₹1,49,080/10g** (24k retail); USD/INR ~95.11; XAU/USD **$4,323.18** (+3.1% on US-Iran peace deal signed); WTI **$81.06/bbl** (−5%+ on Hormuz reopening). RBI 880.52t unchanged; ~680t now domestic.
 
-**Sources**: `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.goodreturns.in/gold-rates/, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-12-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-536447-2026-06-12, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.businesstoday.in/latest/economy/story/government-raises-gold-import-duty-to-15-will-it-cool-indias-appetite-for-bullion-534099-2026-05-31
+**Sources**: `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.goodreturns.in/gold-rates/, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-12-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-536447-2026-06-12, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.businesstoday.in/latest/economy/story/government-raises-gold-import-duty-to-15-will-it-cool-indias-appetite-for-bullion-534099-2026-05-31
 
-**Last updated**: 2026-06-12
+**Last updated**: 2026-06-15
+
+---
+
+## MCX Gold Price (June 15, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold retail (24K) | ~**₹1,49,080 per 10g** (goodreturns.in; MCX Aug futures est. ~₹1,49,500–₹1,50,000) |
+| MCX retail (24K per gram) | ~₹14,908/gram |
+| USD/INR rate | ~**₹95.11** (INR slightly stronger vs. June 12's 95.26 — USD weakening on peace deal) |
+| Global spot (XAU/USD) | **$4,323.18** (+3.1% from June 12's $4,192.79) |
+| DXY | **99.56** (below 100; Iran peace deal = USD weakening) |
+| WTI crude | **$81.06/bbl** (DOWN 5%+ from $86.65 — Strait of Hormuz reopening deal) |
+| Silver | $70.29/oz (+5.7% from $66.53 June 12) |
+
+Note: Gold rose strongly (+3.1%) on June 15 (Monday) as the **US-Iran Islamabad Declaration peace deal** was confirmed. Trump announced lifting of naval blockade on Iranian ports; Strait of Hormuz to reopen within 30 days. WTI crude plunged >5% to ~$81/bbl — the key gold-positive transmission mechanism is: **lower oil → lower CPI → less hawkish Fed → supportive for gold**. DXY fell to 99.56 (below 100). In INR terms, MCX rose more modestly (+~1%) as USD weakening partially offset XAU/USD gains. The technical resistance at $4,313.67 was briefly breached to the upside ($4,323.18). FOMC meets June 16-17 (tomorrow) — rate expected to hold at 3.50-3.75%.
+
+**Prior session reference (June 12)**: MCX ₹1,47,566/10g; USD/INR 95.26; XAU/USD $4,192.79; WTI $86.65; DXY 99.86.
 
 ---
 
