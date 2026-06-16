@@ -4,6 +4,49 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-16 — Daily update: Gold $4,314.53 (−0.2%); FOMC Day 1 (Warsh first meeting, decision June 17); Germany "bring our gold home" pressure escalates; India June ETF recovery +₹2,081cr; Signal: Wait (0)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-16.md` — MCX ~₹1,51,500/10g (24k; Mumbai ₹1,51,370, Delhi ₹1,51,680); XAU/USD $4,314.53 (−0.2%); Silver $69.91; WTI $80.41; DXY 99.56; USD/INR ~95.40; FOMC Day 1 underway; June ETF recovery +₹2,081cr; 6 AMCs capping ETF subscriptions
+
+**Prices fetched** (manual web search — yfinance 403 + metals.dev 403 both failed):
+- Gold: $4,314.53/oz | Silver: $69.91/oz | DXY: 99.56 | WTI: $80.41/bbl | USD/INR: ~95.40 (est.)
+- MCX gold (24k retail): ~₹1,51,500/10g (Mumbai ₹1,51,370, Delhi ₹1,51,680 per goodreturns.in)
+
+**Signal**: Wait, Score: **0**
+- Factor 1 (Price vs targets): +1 — $4,314.53 is 20.1% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): 0 — US-Iran Islamabad Declaration active; 60-day nuclear talks window; de-escalation = technically bearish for risk premium. BUT FOMC uncertainty, WTI declining, DXY sub-100. Net: Neutral
+- Factor 3 (Fed/macro): 0 — FOMC Day 1 (June 16); decision June 17. Rate hold 3.50–3.75% expected (97% probability). No change = Neutral. Possible hawkish dot-plot bias shift = downside risk for gold but not yet confirmed
+- Factor 4 (CB demand): 0 — WGC April data (net +17t: Poland +14t, China +8t, Czech +3t, Russia -6t) published June 3 — outside 7-day window. WGC 9th Annual CB Survey (68% plan to increase) logged June 9 — borderline outside 7 days. No new CB purchase announcement found in today's global CB sweep → Neutral
+- Factor 5 (Technicals): -1 — Price $4,314.53 above 9d EMA (~$4,304 est.) but below 50d EMA (~$4,590 est.). 50d > 9d = downtrend config. Table row: "Above 9d, below 50d | 50d > 9d (downtrend) | Any | Bearish" → Bearish
+
+**Holiday check**: June 16, 2026 is NOT an Indian market holiday. Next holiday: June 26 (Muharram).
+
+**Global CB sweep results**:
+- Poland: No new data (latest: 613t confirmed June 12)
+- China: No new data (May +9.95t, 19-month streak, confirmed June 8)
+- Czech Republic: April WGC recap (+3t, 38th consecutive month)
+- Russia: April WGC recap (−6t, YTD −22t)
+- Uzbekistan: April WGC recap (−1t April but net buyer YTD)
+- **Germany**: FXStreet June 11 "Germans demand bring our gold home" — cross-party pressure escalating; CDU still refusing; no Bundestag vote
+- France: No new data
+- USA: FOMC in progress; no gold policy changes
+- Saudi Arabia: No new data
+- Iran: Islamabad Declaration 60-day nuclear talks underway; no CBI reserve announcement
+- India: MCX ₹1,51,500; June ETF recovery +₹2,081cr; 6 AMCs capping large subscriptions
+- Japan/UK/Italy: No new data
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — June 16 section added (15 rows)
+- `wiki/india-gold-market.md` — June 16 MCX price section added; summary updated; June ETF recovery; 6-AMC cap noted
+- `wiki/fed-macro-factors.md` — June 16 macro update added; FOMC Day 1 note; three outcome scenarios documented
+- `wiki/gold-geopolitical-risk-premium.md` — June 16 price entry added; technical levels updated (9d EMA ~$4,304 est.; 50d EMA ~$4,590 est.)
+- `wiki/germany-gold-reserves.md` — June 11 FXStreet escalation added; Daily Update Log updated; sources updated
+- `wiki/index.md` — updated descriptions for gold-geopolitical-risk-premium, fed-macro-factors, india-gold-market, global-cb-activity-log, germany-gold-reserves
+- `wiki/log.md` — this entry
+
+---
+
 ## 2026-06-15 — Daily update: Gold $4,323.18 (+3.1% on US-Iran Islamabad Declaration); WTI $81.06 (−5%+); DXY 99.56; Silver $70.29; FOMC tomorrow (June 16-17); Signal: Wait (+1)
 
 **Raw file created**:

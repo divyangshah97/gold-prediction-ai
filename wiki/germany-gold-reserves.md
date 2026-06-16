@@ -2,9 +2,9 @@
 
 **Summary**: Germany holds **3,352 tonnes** of gold — the world's second-largest reserve after the USA. The Bundesbank completed a landmark repatriation from Paris and New York in 2017, but ~50% of its gold remains stored abroad (New York + London). In 2026, renewed political calls to bring the New York gold home are growing louder — partly inspired by France's successful $15B repatriation in early 2026.
 
-**Sources**: Web research — [Bundesbank repatriation](https://www.bundesbank.de/en/tasks/topics/bundesbank-completes-gold-transfer-ahead-of-schedule-646102), [Euronews Apr 2026](https://www.euronews.com/business/2026/04/27/germany-has-worlds-second-biggest-gold-reserve-time-to-cash-it-in), [Kitco Jan 2026](https://www.kitco.com/news/article/2026-01-26/our-gold-no-longer-safe-feds-vaults-german-lawmakers-and-economists-renew), [Mining.com](https://www.mining.com/germany-faces-renewed-pressure-to-bring-back-gold-held-in-us/), [Money Metals Jan 2026](https://www.moneymetals.com/news/2026/01/25/german-officials-renew-calls-to-bring-gold-home-004637)
+**Sources**: Web research — [Bundesbank repatriation](https://www.bundesbank.de/en/tasks/topics/bundesbank-completes-gold-transfer-ahead-of-schedule-646102), [Euronews Apr 2026](https://www.euronews.com/business/2026/04/27/germany-has-worlds-second-biggest-gold-reserve-time-to-cash-it-in), [Kitco Jan 2026](https://www.kitco.com/news/article/2026-01-26/our-gold-no-longer-safe-feds-vaults-german-lawmakers-and-economists-renew), [Mining.com](https://www.mining.com/germany-faces-renewed-pressure-to-bring-back-gold-held-in-us/), [Money Metals Jan 2026](https://www.moneymetals.com/news/2026/01/25/german-officials-renew-calls-to-bring-gold-home-004637), [FXStreet June 11, 2026](https://www.fxstreet.com/analysis/germans-demand-bring-our-gold-home-202506110638)
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-06-16
 
 ---
 
@@ -54,6 +54,8 @@ In early 2026, the debate has re-opened — more urgently than before:
 
 **Current government position**: The CDU-led government has stated repatriation is **not currently being considered**. The Bundesbank's official stance: New York remains a secure and reliable storage location.
 
+**June 11, 2026 — Escalation of political discourse**: FXStreet published analysis "**Germans demand bring our gold home**" — the most prominent mainstream financial media headline on this topic in 2026. The article notes repatriation demand has crossed partisan lines: AfD, Green Party finance spokesperson Katharina Beck, and broader public opinion all now favouring repatriation. The Yahoo Finance headline described Germany as "urged to repatriate £122bn in gold from Trump's 'risky' America." Despite growing pressure, the Merz coalition government remains opposed. No formal Bundestag vote scheduled as of June 16, 2026.
+
 ---
 
 ## Why Germany Has So Much Gold Abroad
@@ -83,6 +85,8 @@ The geopolitical logic that justified foreign storage in 1950–1970 has now rev
 | Date | Event |
 |---|---|
 | 2026-05-27 | Page created. 3,352t confirmed. Storage: Frankfurt ~1,710t, FRBNY ~1,236t, BoE ~404t. Jan 2026: Mönch calls FRBNY storage "dangerous". Mar 2026: AfD Bundestag motion for full repatriation. CDU government not acting. France's $15B repatriation increasing German pressure. |
+| 2026-06-11 | FXStreet: "Germans demand bring our gold home" — repatriation calls cross partisan lines (AfD, Green Party). Yahoo Finance: Germany urged to repatriate "£122bn in gold from Trump's 'risky' America". CDU coalition still refuses. No Bundestag vote scheduled. |
+| 2026-06-16 | No new policy action. Political pressure growing. Gold $4,314.53; FOMC in progress. Situation unchanged: ~1,236t at FRBNY remains. |
 
 ## Related pages
 

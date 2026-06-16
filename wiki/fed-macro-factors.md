@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-06-15
+**Last updated**: 2026-06-16
 
 ---
 
@@ -77,14 +77,29 @@ Dollar weakness provides partial support for gold denominated in USD. This is a 
 
 ## Key Upcoming Event
 
-**June 16-17, 2026 — First Kevin Warsh FOMC meeting.** TOMORROW as of June 15. Markets will be watching for:
+**June 16-17, 2026 — First Kevin Warsh FOMC meeting. IN PROGRESS TODAY (June 16).** Decision June 17, 14:00 ET. Markets are watching for:
 - Any rate cut or hike — **97–99% probability of NO CHANGE** at this meeting (CME FedWatch)
 - Markets now pricing **70% probability of at least one rate HIKE by December 2026** — upgraded from 68–70% following May CPI 4.2% confirmation
 - Warsh's dot plot: will any FOMC members show a hike in H2 2026? If median projection stays hold, gold likely rallies; if hawkish language added, further downside toward $3,800–$4,000
 - Goldman Sachs: raised hike probability to 20%; stripped ALL 2026 rate cuts; pushed expected easing to June–December 2027
 - Impact on gold: hawkish hold (increasingly expected) adds downward pressure; gold trading at $4,082 — may test $3,800–$4,000 range if Warsh signals hikes
 
-**June 15 macro update (today)**:
+**June 16 macro update (today — FOMC Day 1)**:
+- **Gold $4,314.53** — −$8.65 (−0.2%) from June 15; FOMC uncertainty keeping market range-bound; gold at $4,219–$4,345 intraday range
+- **DXY 99.56** — unchanged from June 15; below 100; Iran deal and FOMC ambiguity balanced
+- **WTI crude $80.41/bbl** — −$0.65 from June 15; oil continuing to fall on Hormuz deal (Hormuz to reopen within 30 days; countdown ongoing); energy-CPI relief channel active
+- **Silver $69.91/oz** — −$0.38 from June 15 $70.29; pulling back marginally
+- **USD/INR ~95.40** (est.) — slight INR weakening vs June 15's ~95.11
+- **MCX gold (24k retail): ~₹1,51,500/10g** (Mumbai ₹1,51,370; Delhi ₹1,51,680 per goodreturns.in)
+- **Key event: FOMC decision tomorrow (June 17)**. Three scenarios and their gold impact:
+  1. **Neutral hold (base case, 97% prob)**: No change to 3.50–3.75%, dot plot holds current path → Neutral for gold; some relief rally possible
+  2. **Hawkish shift**: Dot plot signals potential December 2026 hike; Warsh tone hardened → Bearish for gold (downside toward $4,000–$4,200)
+  3. **Dovish surprise**: Warsh signals September cut or weakens hike probability → Bullish for gold (upside toward $4,400–$4,500)
+- Inflation context: CPI 4.2% (May 2026); oil falling to $80/bbl → mechanical relief in July CPI; core CPI 2.9% (within control); Warsh will note energy disinflation path from Iran deal
+- Goldman Sachs maintained $5,400 year-end gold target despite stripping all 2026 rate cuts
+- JPMorgan: $6,000 year-end target (unchanged); cut avg to $5,243
+
+**June 15 macro update**:
 - **DXY 99.56** — further below 100; Iran peace deal signed = USD weakening continues; down from 99.86 June 12
 - **Gold $4,323.18** — +3.1% weekly open on US-Iran Islamabad Declaration confirmation; gold at weekly high; broke above technical resistance $4,313.67
 - **WTI crude $81.06/bbl** — plunged >5% from $86.65 on Iran peace deal (Hormuz to reopen within 30 days); energy-driven inflation relief materialising ahead of FOMC

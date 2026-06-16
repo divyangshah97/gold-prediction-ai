@@ -1,10 +1,32 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~17–18% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 15, MCX gold ~**₹1,49,080/10g** (24k retail); USD/INR ~95.11; XAU/USD **$4,323.18** (+3.1% on US-Iran peace deal signed); WTI **$81.06/bbl** (−5%+ on Hormuz reopening). RBI 880.52t unchanged; ~680t now domestic.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~17–18% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 16, MCX gold ~**₹1,51,500/10g** (24k retail; Mumbai ₹1,51,370, Delhi ₹1,51,680); USD/INR ~95.40 (est.); XAU/USD **$4,314.53** (−0.2%); WTI **$80.41/bbl**; MCX silver ~₹2,53,520/kg. June ETF recovery: +₹2,081cr (vs May's ₹725cr outflow). 6 AMCs now capping large ETF subscriptions. RBI 880.52t unchanged; ~680t now domestic.
 
-**Sources**: `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.goodreturns.in/gold-rates/, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-12-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-536447-2026-06-12, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.businesstoday.in/latest/economy/story/government-raises-gold-import-duty-to-15-will-it-cool-indias-appetite-for-bullion-534099-2026-05-31
+**Sources**: `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.goodreturns.in/gold-rates/, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-12-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-536447-2026-06-12, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.businesstoday.in/latest/economy/story/government-raises-gold-import-duty-to-15-will-it-cool-indias-appetite-for-bullion-534099-2026-05-31
 
-**Last updated**: 2026-06-15
+**Last updated**: 2026-06-16
+
+---
+
+## MCX Gold Price (June 16, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold retail (24K) — Mumbai | **₹1,51,370 per 10g** (goodreturns.in) |
+| MCX gold retail (24K) — Delhi | **₹1,51,680 per 10g** |
+| MCX gold retail (24K avg.) | ~**₹1,51,500/10g** |
+| MCX silver | ~**₹2,53,520/kg** (+~3% MoM) |
+| USD/INR rate | ~**₹95.40** (est. from MCX-XAU parity; slight INR weakening vs June 15) |
+| Global spot (XAU/USD) | **$4,314.53** (−$8.65, −0.2% from June 15) |
+| DXY | **99.56** (unchanged; below 100 psychological level) |
+| WTI crude | **$80.41/bbl** (−$0.65 from June 15; declining on Hormuz deal) |
+| Silver (XAG/USD) | $69.91/oz |
+
+Note: MCX 24k retail +1.6% despite XAU/USD falling −0.2%, likely due to slight INR weakening. **FOMC Day 1 underway (June 16)**; decision and Warsh press conference June 17, 14:00 ET — the primary near-term catalyst for both XAU and MCX gold. Rate expected HOLD at 3.50–3.75% but possible hawkish bias shift toward neutral could pressure gold. Iran 60-day nuclear talks ongoing post-Islamabad Declaration. Oil trending toward $80/bbl supports India macro (lower import bill).
+
+**June ETF recovery**: +₹2,081cr (rebounding from May's ₹725cr outflow). **6 AMCs** now capping large ETF subscriptions (≥₹25cr direct; ₹10L/PAN/month FoF).
+
+**Prior session reference (June 15)**: MCX ~₹1,49,080/10g (24k); XAU $4,323.18 (+3.1%); USD/INR ~95.11; WTI $81.06.
 
 ---
 

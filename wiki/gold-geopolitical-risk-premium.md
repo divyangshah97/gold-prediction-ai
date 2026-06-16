@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 15, 2026, gold is at **$4,323.18** (+3.1% weekly open) on the confirmed US-Iran Islamabad Declaration peace deal. WTI crude fell >5% to $81.06/bbl (Hormuz to reopen within 30 days). DXY 99.56 (below 100). Gold ~20% below Goldman $5,400 target. Technical: price ($4,323.18) above 9d EMA (~$4,301, calculated); below 50d SMA (~$4,627). Signal: Wait (score +1).
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 16, 2026, gold is at **$4,314.53** (−0.2% from June 15) as FOMC meeting Day 1 begins. US-Iran 60-day nuclear talks underway; Hormuz to reopen within 30 days of June 15. DXY 99.56 (below 100). Gold ~20% below Goldman $5,400 target. Technical: price ($4,314.53) above 9d EMA (~$4,304, est.); below 50d EMA/SMA (~$4,590, est.). Signal: Wait (score 0).
 
 **Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.benzinga.com/markets/commodities/26/06/53003430/gold-price-200-day-moving-average-support-history-buy
 
-**Last updated**: 2026-06-15
+**Last updated**: 2026-06-16
 
 ---
 
@@ -41,34 +41,35 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 | **June 10** | **$4,177.88** (range $4,173.36–$4,259.52) — **down ~3.7%** from June 9; geopolitical de-escalation (Iran-Israel "conditional suspension," US-China 30% tariff deal); gold **broke below 200-day MA for first time since October 2023** (Saxo Bank June 10); DXY 99.73 (pulled back from 100); WTI $88.71/bbl (eased on both geopolitical de-escalations); Silver $64.32/oz |
 | **June 11** | **~$4,082.73** — confirmed "held below $4,100 on Thursday" (June 11); **May US CPI 4.2%** (highest since April 2023; 23.5% energy surge) confirmed today; gold crashed ~3.25% intraday on CPI; extended losses to $4,082; **DXY 100.01** (back above 100); WTI $91.55/bbl (+$2.84 — US-Iran military exchanges); US-China June 11 deal announced (30% tariffs, higher paused 60 days); gold now **25% below January 28 ATH of $5,589**; Silver $64.52/oz |
 | **June 12** | **$4,192.79** (+2.73%) — sharp rebound on Iran peace optimism; Trump: deal "as early as this weekend"; US military completed latest strikes; WTI fell to **$86.65/bbl** (from $91.55); **DXY 99.86** (below 100); Silver $66.53/oz |
-| **June 15 (today)** | **$4,323.18** (+3.1% from June 12 close) — US-Iran Islamabad Declaration confirmed; peace deal effective; Hormuz to reopen within 30 days; WTI **$81.06/bbl** (−5%+); **DXY 99.56** (further below 100); Silver **$70.29/oz** (+5.7%); gold broke above technical resistance at $4,313.67; now ~20% below Goldman $5,400 target. FOMC June 16-17 TOMORROW — key catalyst. |
-| 200-day MA (overhead resistance) | ~$4,300–$4,350 (technical analysts June 2026) — gold price at $4,323 is testing this zone from below; a sustained close above $4,350 would be a bullish recapture |
-| 9-day EMA (calculated) | ~**$4,301** (calculated from prices.csv; gold TODAY just above 9d EMA — positive crossing signal) |
-| 50-day SMA (resistance) | ~**$4,627** (Barchart/web search June 2026) — gold well below; major overhead resistance |
+| **June 15** | **$4,323.18** (+3.1% from June 12 close) — US-Iran Islamabad Declaration confirmed; peace deal effective; Hormuz to reopen within 30 days; WTI **$81.06/bbl** (−5%+); **DXY 99.56** (further below 100); Silver **$70.29/oz** (+5.7%); gold broke above technical resistance at $4,313.67; now ~20% below Goldman $5,400 target. |
+| **June 16 (today)** | **$4,314.53** (−$8.65, −0.2% from June 15) — FOMC Day 1 underway (decision June 17). Range: $4,219.32–$4,345.40. Gold stabilising in range; Iran 60-day nuclear talks underway. WTI $80.41/bbl (−$0.65). DXY 99.56 (unchanged). Silver $69.91/oz (−0.5%). MCX (24k): ~₹1,51,500/10g (+1.6% in INR terms despite USD fall — INR slight weakness). |
+| 200-day MA (overhead resistance) | ~$4,300–$4,350 (technical analysts June 2026) — gold at $4,314 in this zone |
+| 9-day EMA (est. June 16) | ~**$4,304** (est. based on June 15's ~$4,301; small upward EMA shift; gold at $4,314.53 is above 9d EMA) |
+| 50-day SMA/EMA (resistance) | ~**$4,590** (est. June 16; down from ~$4,627 as of June 10 — 50d slowly declining) — gold well below; major overhead resistance |
 | All-time high (Jan 28, 2026) | **$5,589** — gold now ~23% below ATH |
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
-## Current Technical Levels (June 15, 2026)
+## Current Technical Levels (June 16, 2026)
 
 | Level | Price | Notes |
 |---|---|---|
 | All-time high | $5,589 | January 28, 2026 — gold now ~23% below |
-| Goldman target | $5,400 | Year-end 2026 — gold now 20% below |
+| Goldman target | $5,400 | Year-end 2026 — gold now ~20% below |
 | Resistance C | $4,700 | Backside of broken trendline |
-| Resistance B | ~$4,627 | 50-day SMA (web search June 2026) — major overhead resistance |
-| 9-day EMA | ~$4,301 | **Calculated from prices.csv** — gold ($4,323) is now ABOVE 9d EMA |
-| 200-day SMA | ~$4,300–$4,350 | Prior structural floor — overhead resistance zone; gold testing from below |
-| Technical resistance | $4,313.67 | June 15 pre-market resistance (LiteFinance June 15 forecast) — gold breached this today |
-| Current price | **$4,323.18** | June 15 (+3.1% from June 12); US-Iran peace deal; DXY 99.56; WTI $81.06 |
-| Support A (immediate) | $4,059.90 | Technical support per June 15 analysts (LiteFinance) |
-| Support B (critical) | $3,800–$3,900 | Next major support; Fibonacci level |
+| Resistance B (50d EMA, est.) | ~$4,590 | 50-day SMA/EMA (est. June 16; was $4,627 June 10, slowly declining) — major overhead resistance |
+| 9-day EMA (est.) | ~$4,304 | Est. June 16 — gold ($4,314.53) is ABOVE 9d EMA |
+| 200-day SMA/MA zone | ~$4,300–$4,350 | Gold at $4,314 is IN this zone; FOMC outcome determines recapture vs breakdown |
+| Current price | **$4,314.53** | June 16 (−0.2% from June 15); FOMC Day 1; DXY 99.56; WTI $80.41 |
+| Support A (immediate) | ~$4,242 | Volume reversal level (FXStreet June 14 analysis) — "breakout trigger" |
+| Support B | ~$4,059.90 | Technical support per analysts |
+| Support C (critical) | $3,800–$3,900 | Next major support; Fibonacci level |
 | Extreme downside target | ~$3,440 | -20% target if $4,280 support lost (FinanceMagnates June 2026) |
-| June 2026 analyst range | $4,186–$4,933 | Per technical analysts — price now at mid-range |
+| June 2026 analyst range | $4,186–$4,933 | Per technical analysts — price now in mid-lower range |
 
-**EMA configuration (June 15)**: Price ($4,323.18) is now **ABOVE 9-day EMA** (~$4,301, calculated). Still BELOW 50-day SMA (~$4,627). With 50d > 9d = **downtrend MA configuration** per the technical table → **Bearish (-1)** in the signal framework despite today's strong price action. Last 2 days in CSV: June 12 ($4,192.79, GREEN vs $4,082.73 June 11) and June 15 ($4,323.18, GREEN vs June 12) = 2 consecutive GREEN days.
+**EMA configuration (June 16)**: Price ($4,314.53) is **ABOVE 9-day EMA** (~$4,304, est.). Still BELOW 50-day SMA/EMA (~$4,590, est.). With 50d > 9d = **downtrend MA configuration** → **Bearish (−1)** in the signal framework. Last 2 days in CSV: June 15 ($4,323.18, GREEN vs June 12's $4,192.79) and June 16 ($4,314.53, RED vs June 15). Per technical table row "Above 9d, below 50d | 50d > 9d (downtrend) | Any | Bearish" → technicals score −1.
 
-**200-day MA situation**: Gold has recovered from its June 11 low of $4,082.73 and is now testing the 200-day MA zone (~$4,300-4,350) from below. Today's close at $4,323.18 is inside this zone. A sustained close above $4,350 would suggest 200d MA recapture — a materially bullish signal for systematic/momentum funds. FOMC outcome (June 16-17) is the next key catalyst for this technical battle.
+**200-day MA situation**: Gold is IN the 200-day MA zone ($4,300–$4,350). FOMC decision June 17 is the binary catalyst — a hawkish hold could break gold back below $4,200; a neutral/dovish hold could enable 200d MA recapture and launch toward $4,400–$4,500. Volume reversal pattern noted at $4,242 (FXStreet June 14) suggests strong technical floor at that level.
 
 ## Current Premium Drivers (as of May 2026)
 

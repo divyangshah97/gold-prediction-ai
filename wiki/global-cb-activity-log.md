@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-15
+**Last updated**: 2026-06-16
 
 ---
 
@@ -73,6 +73,29 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-16
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-16 | 🌐 Global (FOMC) | Macro event — FOMC in progress | **Kevin Warsh opens his FIRST FOMC meeting June 16-17**. Rate hold at 3.50–3.75% expected (97% probability per CME FedWatch). Key watch: dot plot projection (could push first cut to 2027) and Warsh's press conference tone (June 17, 14:00 ET). Possible BIAS SHIFT from easing to neutral/tightening. Inflation at 4.2% (CPI May 2026). Gold at $4,314.53 (−0.2% from June 15). A hawkish dot plot = gold negative. A hold-with-no-shift = Neutral for gold. See [[fed-macro-factors]], [[gold-geopolitical-risk-premium]]. | https://www.fxstreet.com/analysis/kevin-warsh-opens-first-fed-meeting-june-16-with-rate-hold-expected-202606151326; https://www.indexbox.io/blog/fed-meeting-preview-june-1617-fomc-decision-and-potential-bias-shift/ |
+| 2026-06-16 | 🇩🇪 Germany (Bundesbank) | Policy — growing repatriation pressure | **FXStreet June 11 article: "Germans demand bring our gold home"** — repatriation calls intensifying across political spectrum. AfD motion (March 2026), Green Party (Katharina Beck), and now broader coalition pressure. Merz CDU government still says "not currently under consideration." FXStreet article marks escalation of political discourse. Bundesbank still holds **~1,236t at FRBNY**. No formal Bundestag vote yet. See [[germany-gold-reserves]]. | https://www.fxstreet.com/analysis/germans-demand-bring-our-gold-home-202506110638; https://www.moneymetals.com/news/2026/01/25/german-officials-renew-calls-to-bring-gold-home-004637 |
+| 2026-06-16 | 🇵🇱 Poland (NBP) | No new data | Latest: 613t (May +~18t confirmed June 12 by NBP Governor Glapiński); YTD ~63t; gold = 30% of FX reserves; targeting 700t. April WGC data: +14t (published June 3). No new June announcement. See [[poland-gold-reserves]]. | Web search June 16, 2026 |
+| 2026-06-16 | 🇨🇳 China (PBoC) | No new data | Latest: May 2026 +9.95t (announced June 8; **19-month streak**; total 2,331.52t). No new June disclosure. Next announcement expected in July 2026 cycle. See [[china-pboc-gold]]. | Web search June 16, 2026 |
+| 2026-06-16 | 🇨🇿 Czech Republic (CNB) | No new data — April WGC recap | April 2026: +3t (WGC published June 3) → 38th consecutive monthly purchase; total ~82t. No new June announcement. See [[czech-republic-gold-reserves]]. | https://www.indexbox.io/blog/central-banks-report-net-gold-purchases-of-17-tonnes-in-april-2026/ |
+| 2026-06-16 | 🇷🇺 Russia (Bank of Russia) | No new data — April WGC recap | April 2026: −6t (WGC June 3); YTD −22t. Sanctions-driven fiscal liquidation continues. Total ~2,282t. See [[russia-gold-reserves]]. | https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc |
+| 2026-06-16 | 🇺🇿 Uzbekistan | No new data — April WGC recap | April 2026: −1t (WGC June 3); still net buyer YTD (24t purchased in Jan–Mar); production-linked cycle. See [[uzbekistan-gold-reserves]]. | https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc |
+| 2026-06-16 | 🇮🇳 India (RBI) | Price update + ETF flows | MCX gold (24k retail): **~₹1,51,500/10g** (Mumbai ₹1,51,370; Delhi ₹1,51,680; goodreturns.in June 16). MCX silver: ~₹2,53,520/kg. XAU/USD $4,314.53 (−0.2%). USD/INR est. ~95.40. **June ETF recovery: +₹2,081cr** (rebounding from May's ₹725cr outflow). **6th AMC cap**: Aditya Birla Sun Life caps large gold ETF subscriptions ≥₹25cr effective June 9. RBI 880.52t unchanged. See [[india-gold-market]], [[india-rbi-gold]]. | raw/india-gold-2026-06-16.md; https://www.goodreturns.in/gold-rates/mumbai.html; https://upstox.com/news/personal-finance/mutual-funds/mutual-fund-houses-restrict-large-gold-etf-subscriptions-aditya-birla-sun-life-becomes-sixth-amc-to-cap-inflows/article-195084/ |
+| 2026-06-16 | 🇩🇪 Germany | No new data | No new Bundesbank policy announcements beyond the repatriation political pressure noted above. Official position unchanged. See [[germany-gold-reserves]]. | Web search June 16, 2026 |
+| 2026-06-16 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026. No new BdF statements. See [[france-gold-reserves]]. | Web search June 16, 2026 |
+| 2026-06-16 | 🇺🇸 USA (Treasury/Fed) | FOMC in progress | 8,133t gold unchanged since 1971. FOMC meeting Day 1 (June 16); decision June 17. No new Fort Knox audit calls or gold revaluation proposals found today. See [[usa-gold-reserves]], [[fed-macro-factors]]. | Web search June 16, 2026 |
+| 2026-06-16 | 🇸🇦 Saudi Arabia (SAMA) | No new data | 323.07t static since 2010. No SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search June 16, 2026 |
+| 2026-06-16 | 🇮🇷 Iran (CBI) | Geopolitical — nuclear talks active | Islamabad Declaration effective June 15. **60-day nuclear talks window now running** (deadline ~mid-August 2026). Iran's 440kg enriched uranium remains in Tehran during talks. Hormuz to reopen within 30 days. No CBI reserve announcement. Sanctions relief partial (oil + some financial). CBI gold accumulation rationale diminishing if deal holds. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | https://www.cnbc.com/2026/06/15/us-iran-deal-hormuz-markets.html |
+| 2026-06-16 | 🇯🇵 Japan (BoJ) | No new data | 845.97t static Q1 2026. No BoJ or Ministry of Finance gold allocation statements. See [[japan-gold-reserves]]. | Web search June 16, 2026 |
+| 2026-06-16 | 🇬🇧 UK (Bank of England) | No new data | 310.29t static. No LBMA vault flow data or BoE custodial changes. See [[uk-gold-reserves]]. | Web search June 16, 2026 |
+| 2026-06-16 | 🇮🇹 Italy (Banca d'Italia) | No new data | 2,452t static. Fratelli d'Italia ownership dispute ongoing; no resolution. See [[italy-gold-reserves]]. | Web search June 16, 2026 |
 
 ---
 
