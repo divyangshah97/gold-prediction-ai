@@ -1,10 +1,10 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold — creating both headwinds (higher real yields) and tailwinds (dollar weakness, fiscal credibility erosion) for the gold price.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 17 UPDATE**: Kevin Warsh held his first FOMC meeting June 16-17. Fed **HELD rates at 3.50–3.75%** (4th consecutive hold). Gold's +0.43% gain on the day suggests the dot plot did not deliver a major hawkish shock. Key watch now: next FOMC meeting (late July 2026). Inflation 4.2% (May CPI). DXY 99.57 (below 100). WTI $76.54/bbl (−4.8% on Iran Hormuz deal).
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm
 
-**Last updated**: 2026-06-16
+**Last updated**: 2026-06-17
 
 ---
 
@@ -14,7 +14,15 @@
 
 **Powell's status post-May 15**: He remains on the Fed Board as a governor (term runs to January 2028), but is subject to an ongoing investigation into handling of the Fed headquarters construction project. He does not chair meetings.
 
-**First Warsh FOMC meeting: June 16-17, 2026** — a significant risk event for gold markets.
+**First Warsh FOMC meeting: June 16-17, 2026 — COMPLETED.**
+
+### June 17, 2026 — Warsh's First FOMC Decision
+
+- **Rate decision**: HELD at 3.50–3.75% (4th consecutive hold; 97% probability priced in — no surprise)
+- **Dot plot** (key focus): Expected to show hawkish shift — removal of remaining 2026 cut projection; some members may have added 2026 hike dots. Markets expected 55% probability of "hawkish hold"
+- **Warsh press conference** (14:30 ET): First public statement as Fed Chair — focus on inflation at 4.2%, commitment to price stability, willingness to hike if needed
+- **Market reaction**: Gold +0.43% ($4,314.53 → $4,333.20) — suggests no major hawkish shock. WTI crude also fell 4.8% independently (Iran deal), making macro factor read ambiguous
+- **Net signal for gold**: Neutral — hold as expected; no surprise hawkish pivot; but dot plot hawkishness risk remains for future meetings
 
 ### Warsh's Policy Posture — More Dovish Than Expected
 

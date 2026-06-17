@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 16, 2026, gold is at **$4,314.53** (−0.2% from June 15) as FOMC meeting Day 1 begins. US-Iran 60-day nuclear talks underway; Hormuz to reopen within 30 days of June 15. DXY 99.56 (below 100). Gold ~20% below Goldman $5,400 target. Technical: price ($4,314.53) above 9d EMA (~$4,304, est.); below 50d EMA/SMA (~$4,590, est.). Signal: Wait (score 0).
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 17, 2026, gold is at **$4,333.20** (+0.43% from June 16) following FOMC hold (Warsh first meeting, no hawkish shock). US-Iran 60-day nuclear talks Day 2; WTI crude plunged 4.8% to $76.54/bbl as Hormuz reopening (~July 15) is priced in. DXY 99.57. Gold ~19.8% below Goldman $5,400 target. Technical: price ($4,333.20) above 9d EMA (~$4,305 est.); below 50d EMA (~$4,545); 50d > 9d = downtrend. WGC CB Survey (June 16): record 45% of CBs plan to increase gold. Signal: Wait (score +1).
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.benzinga.com/markets/commodities/26/06/53003430/gold-price-200-day-moving-average-support-history-buy
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.kitco.com/news/article/2026-06-16/record-45-central-banks-plan-increase-gold-holdings-wgc-survey-finds
 
-**Last updated**: 2026-06-16
+**Last updated**: 2026-06-17
 
 ---
 
@@ -42,11 +42,12 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 | **June 11** | **~$4,082.73** — confirmed "held below $4,100 on Thursday" (June 11); **May US CPI 4.2%** (highest since April 2023; 23.5% energy surge) confirmed today; gold crashed ~3.25% intraday on CPI; extended losses to $4,082; **DXY 100.01** (back above 100); WTI $91.55/bbl (+$2.84 — US-Iran military exchanges); US-China June 11 deal announced (30% tariffs, higher paused 60 days); gold now **25% below January 28 ATH of $5,589**; Silver $64.52/oz |
 | **June 12** | **$4,192.79** (+2.73%) — sharp rebound on Iran peace optimism; Trump: deal "as early as this weekend"; US military completed latest strikes; WTI fell to **$86.65/bbl** (from $91.55); **DXY 99.86** (below 100); Silver $66.53/oz |
 | **June 15** | **$4,323.18** (+3.1% from June 12 close) — US-Iran Islamabad Declaration confirmed; peace deal effective; Hormuz to reopen within 30 days; WTI **$81.06/bbl** (−5%+); **DXY 99.56** (further below 100); Silver **$70.29/oz** (+5.7%); gold broke above technical resistance at $4,313.67; now ~20% below Goldman $5,400 target. |
-| **June 16 (today)** | **$4,314.53** (−$8.65, −0.2% from June 15) — FOMC Day 1 underway (decision June 17). Range: $4,219.32–$4,345.40. Gold stabilising in range; Iran 60-day nuclear talks underway. WTI $80.41/bbl (−$0.65). DXY 99.56 (unchanged). Silver $69.91/oz (−0.5%). MCX (24k): ~₹1,51,500/10g (+1.6% in INR terms despite USD fall — INR slight weakness). |
-| 200-day MA (overhead resistance) | ~$4,300–$4,350 (technical analysts June 2026) — gold at $4,314 in this zone |
-| 9-day EMA (est. June 16) | ~**$4,304** (est. based on June 15's ~$4,301; small upward EMA shift; gold at $4,314.53 is above 9d EMA) |
-| 50-day SMA/EMA (resistance) | ~**$4,590** (est. June 16; down from ~$4,627 as of June 10 — 50d slowly declining) — gold well below; major overhead resistance |
-| All-time high (Jan 28, 2026) | **$5,589** — gold now ~23% below ATH |
+| **June 16** | **$4,314.53** (−$8.65, −0.2% from June 15) — FOMC Day 1 underway (decision June 17). Range: $4,219.32–$4,345.40. Gold stabilising in range; Iran 60-day nuclear talks underway. WTI $80.41/bbl (−$0.65). DXY 99.56 (unchanged). Silver $69.91/oz (−0.5%). MCX (24k): ~₹1,51,500/10g. |
+| **June 17 (today)** | **$4,333.20** (+$18.67, +0.43% from June 16) — **FOMC DECISION**: Warsh held rates at 3.50–3.75% (no surprise). Gold's gain suggests no major hawkish shock from dot plot or Warsh press conference. **WTI plunged 4.8% to $76.54/bbl** — markets pricing Hormuz reopening (~July 15). DXY 99.57 (flat). Silver $70.42/oz (+0.73%). USD/INR ~₹94.32 (INR +1.2% on lower oil). MCX gold: ~₹1,53,000/10g. **WGC CB Survey (June 16)**: record 45% of CBs plan to increase gold. Gold ~19.8% below Goldman $5,400. |
+| 200-day MA (overhead resistance) | ~$4,300–$4,350 (technical analysts June 2026) — gold at $4,333 has pushed into/through this zone |
+| 9-day EMA (est. June 17) | ~**$4,305** (est.; 10d EMA per web search: $4,304.81; gold at $4,333.20 is above 9d EMA) |
+| 50-day EMA (resistance) | ~**$4,545** (per web search: 50d EMA $4,544.81; down from ~$4,590 June 16 est. — 50d slowly declining) — gold well below; major overhead resistance |
+| All-time high (Jan 28, 2026) | **$5,589** — gold now ~22.5% below ATH |
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
