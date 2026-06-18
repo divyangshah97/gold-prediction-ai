@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 17, 2026, gold is at **$4,333.20** (+0.43% from June 16) following FOMC hold (Warsh first meeting, no hawkish shock). US-Iran 60-day nuclear talks Day 2; WTI crude plunged 4.8% to $76.54/bbl as Hormuz reopening (~July 15) is priced in. DXY 99.57. Gold ~19.8% below Goldman $5,400 target. Technical: price ($4,333.20) above 9d EMA (~$4,305 est.); below 50d EMA (~$4,545); 50d > 9d = downtrend. WGC CB Survey (June 16): record 45% of CBs plan to increase gold. Signal: Wait (score +1).
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 18, 2026, gold is at **$4,312.49** (+1.24% recovery from ~$4,259 COMEX post-FOMC close). Iran MOU formal signing scheduled June 19 at Bürgenstock; WTI $75.49/bbl (−1.70%). **FOMC hawkish dot plot**: half of FOMC project rate hikes in 2026 — gold fell ~2% post-FOMC. DXY 99.61. Gold ~20.1% below Goldman $5,400 target. Technical: price above 9d EMA (~$4,305 est.); below 50d EMA (~$4,545); 50d > 9d = downtrend. Signal: Wait (score −1).
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.kitco.com/news/article/2026-06-16/record-45-central-banks-plan-increase-gold-holdings-wgc-survey-finds
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/
 
-**Last updated**: 2026-06-17
+**Last updated**: 2026-06-18
 
 ---
 

@@ -1,10 +1,30 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~17–18% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 17, MCX gold ~**₹1,53,000/10g** (24k retail); USD/INR **~₹94.32** (INR strengthening on lower oil); XAU/USD **$4,333.20** (+0.43%); WTI **$76.54/bbl** (−4.8% — Hormuz deal); Silver **$70.42/oz**. FOMC held 3.50–3.75% as expected; Warsh first meeting complete. June ETF recovery +₹2,081cr (vs May's ₹725cr outflow); 6 AMCs capping large ETF subscriptions. RBI 880.52t unchanged; ~680t domestic.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~23% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 18, MCX gold **₹1,52,748/10g** (settled); USD/INR **₹94.4770** (INR at multi-week high on lower oil); XAU/USD **$4,312.49** (+1.24%); WTI **$75.49/bbl** (−1.70%); Silver **$69.71/oz**. FOMC dot plot hawkish surprise (half FOMC project hikes). Iran MOU formal signing June 19 at Bürgenstock. **RBI denied $12B gold sale rumours** — 880.52t unchanged, gold share of FX reserves now 16.85%. $3.48B YTD ETF inflows; 6 AMCs capping large subscriptions.
 
-**Sources**: `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-17-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-537342-2026-06-17, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.republicworld.com/business/india-gold-market-retail-demand-moderates-as-high-prices-and-season-end-impact-sales-2026-06-05-127036
+**Sources**: `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-17-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-537342-2026-06-17, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.republicworld.com/business/india-gold-market-retail-demand-moderates-as-high-prices-and-season-end-impact-sales-2026-06-05-127036
 
-**Last updated**: 2026-06-17
+**Last updated**: 2026-06-18
+
+---
+
+## MCX Gold Price (June 18, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold settled (24K) | **₹1,52,748 per 10g** |
+| MCX gold (24K per gram) | ~₹15,275/gram |
+| USD/INR rate | **₹94.4770** (−0.36%; INR at multi-week high) |
+| Global spot (XAU/USD) | **$4,312.49** (+1.24% recovery from ~$4,259 post-FOMC COMEX close) |
+| Silver (XAG/USD) | **$69.71/oz** (range $67.87–$69.77) |
+| DXY | **99.61** (+0.07%; ticked higher post-FOMC) |
+| WTI crude | **$75.49/bbl** (−1.70% from $76.54 June 17) |
+
+Note: Gold's +1.24% recovery on June 18 is from the post-FOMC COMEX close (~$4,259), NOT from the London spot close ($4,333.20) shown in prices.csv for June 17. The London close preceded the 14:00 ET FOMC decision. Key events: (1) **FOMC hawkish dot plot** (half of FOMC project rate hikes in 2026) — gold fell ~2% post-FOMC; (2) **Trump signed interim Iran agreement** to end conflict and reopen Hormuz — gold recovered. Formal MOU signing scheduled **June 19 at Bürgenstock, Switzerland**. WTI fell further to $75.49 (Hormuz reopening). INR strengthened to ₹94.4770 (strongest multi-week; oil-import benefit). MCX settled slightly lower than June 17 estimate due to INR strength partially offsetting XAU/USD gain.
+
+**RBI denied $12B gold sale reports**: RBI categorically stated 880.52t holdings unchanged; gold's share of FX reserves has RISEN to 16.85% (May 22, 2026) — due entirely to price appreciation, not purchases.
+
+**Prior session (June 17)**: MCX ~₹1,53,000/10g; XAU $4,333.20 (+0.43% London close before FOMC); WTI $76.54 (−4.8%); DXY 99.57; USD/INR ~₹94.32.
 
 ---
 

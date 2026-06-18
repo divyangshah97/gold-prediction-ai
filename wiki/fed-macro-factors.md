@@ -1,10 +1,10 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 17 UPDATE**: Kevin Warsh held his first FOMC meeting June 16-17. Fed **HELD rates at 3.50–3.75%** (4th consecutive hold). Gold's +0.43% gain on the day suggests the dot plot did not deliver a major hawkish shock. Key watch now: next FOMC meeting (late July 2026). Inflation 4.2% (May CPI). DXY 99.57 (below 100). WTI $76.54/bbl (−4.8% on Iran Hormuz deal).
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 18 UPDATE (REVISED)**: The June 17 FOMC dot plot was a **hawkish surprise** — half of FOMC members projected possible rate hikes in 2026. Gold fell ~2% COMEX post-FOMC (to ~$4,259) before recovering +1.24% on June 18 to $4,312.49 on Iran deal news. DXY 99.61. WTI $75.49/bbl. USD/INR ₹94.4770 (INR multi-week high). Inflation 4.2% (May CPI). Next FOMC: late July 2026.
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/
 
-**Last updated**: 2026-06-17
+**Last updated**: 2026-06-18
 
 ---
 
@@ -16,13 +16,15 @@
 
 **First Warsh FOMC meeting: June 16-17, 2026 — COMPLETED.**
 
-### June 17, 2026 — Warsh's First FOMC Decision
+### June 17–18, 2026 — Warsh's First FOMC Decision (REVISED WITH JUNE 18 DATA)
 
-- **Rate decision**: HELD at 3.50–3.75% (4th consecutive hold; 97% probability priced in — no surprise)
-- **Dot plot** (key focus): Expected to show hawkish shift — removal of remaining 2026 cut projection; some members may have added 2026 hike dots. Markets expected 55% probability of "hawkish hold"
-- **Warsh press conference** (14:30 ET): First public statement as Fed Chair — focus on inflation at 4.2%, commitment to price stability, willingness to hike if needed
-- **Market reaction**: Gold +0.43% ($4,314.53 → $4,333.20) — suggests no major hawkish shock. WTI crude also fell 4.8% independently (Iran deal), making macro factor read ambiguous
-- **Net signal for gold**: Neutral — hold as expected; no surprise hawkish pivot; but dot plot hawkishness risk remains for future meetings
+- **Rate decision**: HELD at 3.50–3.75% (4th consecutive hold; 97% probability priced in — no surprise on the rate itself)
+- **Dot plot (hawkish surprise)**: **Half of FOMC members projected rate HIKES may be necessary in 2026** — consistent with 4.2% CPI and strong jobs data (NFP +172K May). This is a material hawkish signal: the median projection now reflects potential tightening rather than easing, stripping out remaining cut expectations.
+- **Warsh press conference**: Signalled growing FOMC support for rate hikes; referenced 4.2% inflation; commitment to price stability; willingness to hike if needed. More hawkish tone than pre-meeting expectations.
+- **Market reaction**: The prices.csv June 17 shows $4,333.20 (London spot close, BEFORE the 14:00 ET FOMC decision). COMEX closed ~$4,259 post-FOMC — gold fell **~2%** after the hawkish dot plot. On June 18, gold recovered **+1.24% to $4,312.49** driven by Iran deal (Trump signed interim agreement; formal MOU signing June 19 at Bürgenstock, Switzerland).
+- **Net signal for gold (June 17–18)**: **Hawkish surprise** → bearish macro factor. Iran deal partially offsets via lower oil/inflation channel, but dot plot was clearly bearish for gold.
+- **DXY June 18**: 99.61 (ticked up slightly — USD modestly stronger post-FOMC)
+- **WTI June 18**: $75.49/bbl (−1.70% continuing Hormuz-driven decline)
 
 ### Warsh's Policy Posture — More Dovish Than Expected
 

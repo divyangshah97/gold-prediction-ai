@@ -4,6 +4,50 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-18 — Daily update: Gold $4,312.49 (+1.24% recovery from post-FOMC $4,259); FOMC DOT PLOT HAWKISH (half project hikes); Iran MOU formal signing June 19 Bürgenstock; RBI denied $12B gold sale; WTI $75.49; Signal: Wait (−1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-18.md` — MCX ₹1,52,748/10g (settled); XAU/USD $4,312.49 (+1.24%); Silver $69.71; WTI $75.49 (−1.70%); DXY 99.61; USD/INR ₹94.4770 (multi-week high); RBI denied $12B gold sale; 880.52t unchanged; gold = 16.85% of FX reserves; 6 AMCs still capping ETF subscriptions
+
+**Prices fetched** (manual web search — yfinance 403 + metals.dev 403 both failed):
+- Gold: $4,312.49/oz (+1.24%) | Silver: $69.71/oz | DXY: 99.61 | WTI: $75.49/bbl | USD/INR: ₹94.4770
+- MCX gold (24k settled): ₹1,52,748/10g
+
+**Signal**: Wait, Score: **−1**
+- Factor 1 (Price vs targets): +1 — $4,312.49 is 20.1% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): −1 — Trump signed interim Iran agreement; formal MOU signing June 19 at Bürgenstock. Clear de-escalation. WTI fell further to $75.49. Rule: "de-escalation = Bearish"
+- Factor 3 (Fed/macro): −1 — **FOMC dot plot hawkish surprise**: half of FOMC members projected possible rate HIKES in 2026. Gold fell ~2% COMEX post-FOMC (to ~$4,259). Hawkish surprise = Bearish
+- Factor 4 (CB demand): +1 — WGC CB Survey 2026 published June 16 (2 days ago, within 7-day window): record 45% CBs plan to increase gold. Confirmed CB demand data → Bullish
+- Factor 5 (Technicals): −1 — Price $4,312.49 above 9d EMA (~$4,305 est.) but below 50d EMA (~$4,545). 50d > 9d = downtrend. Last 2 days: June 17 green (+$18.67), June 18 red (−$20.71) → NOT 2 consecutive green days. Table: "Above 9d, below 50d | 50d > 9d | Any | Bearish" → Bearish
+
+**Holiday check**: June 18, 2026 is NOT an Indian market holiday. Next holiday: June 26 (Muharram).
+
+**Global CB sweep results**:
+- **Iran**: Trump signed interim agreement; formal MOU at Bürgenstock June 19 (major de-escalation)
+- **FOMC (revised)**: June 17 dot plot was hawkish — half of FOMC project rate hikes → gold fell ~2% post-FOMC
+- **India (RBI)**: Denied $12B gold sale reports; 880.52t confirmed unchanged; gold = 16.85% FX reserves
+- Poland: No new data (latest: 613t, May +18t confirmed June 12)
+- China: No new data (May +9.95t, 19-month streak)
+- Czech Republic: No new data
+- Russia: No new data
+- Germany: No new repatriation data (CDU still refusing; AfD motion pending)
+- France: No new data (all 2,437t on French soil)
+- USA: FOMC hawkish dot plot noted; 8,133t gold unchanged
+- Saudi Arabia: No new data
+- Japan/UK/Italy: No new data
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — June 18 section added (13 rows)
+- `wiki/iran-conflict-2026.md` — June 18 timeline entries added (interim agreement signed; MOU signing June 19 Bürgenstock); summary updated
+- `wiki/fed-macro-factors.md` — June 17–18 FOMC section revised with hawkish dot plot details; summary updated
+- `wiki/india-gold-market.md` — June 18 MCX price section added; summary updated
+- `wiki/india-rbi-gold.md` — June 2026 RBI gold sale denial section added; FX reserves share updated to 16.85%; last updated date revised
+- `wiki/gold-geopolitical-risk-premium.md` — price updated to $4,312.49; summary updated
+- `wiki/log.md` — this entry
+- `wiki/index.md` — descriptions updated
+
+---
+
 ## 2026-06-17 — Daily update: Gold $4,333.20 (+0.43%); FOMC HELD (Warsh first decision, no hawkish shock); WTI −4.8% on Hormuz deal; WGC CB Survey record 45% CBs plan to buy; Uganda new CB buyer; Signal: Wait (+1)
 
 **Raw file created**:
