@@ -42,7 +42,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[serbia-gold-reserves]] | Q1 2026 buyer (1t); geopolitical neutrality hedge; EU candidate |
 | [[uae-gold-reserves]] | Q1 2026 buyer (1t); major physical gold hub (DMCC); BRICS+ member |
 | [[turkey-gold-reserves]] | ~70t Q1 reduction via gold swaps; not a structural bearish signal |
-| [[russia-gold-reserves]] | 2,304t reserves; 4th consecutive month selling in April (-6t); YTD -22t; sanctions-driven fiscal deficit; updated June 5 |
+| [[russia-gold-reserves]] | 2,305t reserves; YTD -22t; all sales domestic (no LBMA impact since Apr 2023); NWF gold 155t (Feb 2026) rapidly depleting; G7 ban + export routes closed; 16-year accumulation history; updated June 18 |
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t unchanged; **RBI denied $12B gold sale** (June 2026); gold = 16.85% FX reserves (up from 13.92% Sep 2025, price appreciation only); near-zero new buying; repatriation from London ongoing; updated June 18 |
@@ -75,6 +75,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; latest COT: **2026-06-09**, MM_Net=+105,863 (−6,316 WoW), OI=332,709, MM_Net 31.8% of OI — **Neutral zone**; Factor 6 in trading signal |
+| [[signal-methodology]] | Full 6-factor scoring system: Price vs Targets, Geopolitical Risk, Fed/Macro, CB Demand, Technicals, Dollar Pressure (DXY + USD/INR); range -6 to +6; thresholds; added Jun 18 |
 
 ### Forecasts & Institutions
 

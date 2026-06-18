@@ -173,6 +173,40 @@ Report_Date: 2026-06-09 | MM_Net: +105,863 (−6,316 vs. prior week +112,179) | 
 
 ---
 
+## 2026-06-18 — Signal methodology: new page + Factor 6 (Dollar Pressure) added
+
+**Page created**: `wiki/signal-methodology.md`
+
+**What changed:**
+- New dedicated page documenting all 6 signal factors with full scoring rules, data sources, and rationale
+- Factor 6 (Dollar Pressure) added to the scoring system as of today: uses DXY + USD/INR day-over-day % change from `prices/prices.csv`; threshold ±1%; `factor6 = clamp(dxy_signal + inr_signal, -1, +1)`
+- Scoring range updated from -5 to +5 → **-6 to +6**
+- Wait band: -1 to +1 → **-2 to +2** (harder to reach Buy/Sell without majority alignment)
+- Routine prompt (`trig_01Q7FfuV2Y2Fqk4f8dtokd2J`) updated simultaneously — live from 2026-06-19 run onward
+
+**Index updated**: `wiki/index.md` — signal-methodology row added under Institutional Flows.
+
+---
+
+## 2026-06-18 — Russia gold reserves page: major expansion via web research
+
+**Page updated**: `wiki/russia-gold-reserves.md`
+
+**Research sources**: Kitco (May 25, Apr 21, Jun 3 2026), Moscow Times (Nov 2025), The Bell (Nov 2025), RAND Gold Rush report, Atlantic Council (sanctions evasion), bne IntelliNews, New Eastern Europe (Feb 2026), Modern Diplomacy (Apr 2026), Ukraine24 media, The Conversation (Putin gold strategy), WGC.
+
+**What was added:**
+1. **Two-pot structure** — NWF (Finance Ministry, ~155.1t as of Feb 1 2026, down from 292.5t Oct 2024) vs Bank of Russia total (~2,305t). NWF is the primary selling pool; had 405t at peak (Jan 2022), down 61% in 4 years.
+2. **16-year accumulation history** — Putin started 2006, accelerated after 2014 Crimea sanctions. Goals: de-dollarise, create domestic liquidity outside SWIFT, support miners. ~400t → ~2,330t by 2022 peak.
+3. **5,000 RUB/gram peg** — March 2022 BoR fixed-price buying at 19% below spot; support mechanism for miners losing G7 export markets; suspended April 2022.
+4. **Selling mechanism** — All sales are domestic: BoR sells to Russian banks/state companies in rubles. No LBMA/CME involvement. Zero international market impact since April 2023.
+5. **G7 ban (Jun 26 2022) and circumvention routes** — UAE, Turkey, Armenia transit used 2022–early 2023. All routes closed by April 2023 (secondary sanctions + compliance pressure). No Russian gold exported outside EAEU since.
+6. **Domestic gold production** — ~330t in 2024 (2nd globally); Russia claims 480–485t for 2025 (disputed; independent estimate 345t). Polyus (Olimpiada: 926k oz in 2025) and Polymetal are key producers. Sukhoi Log is world's largest undeveloped deposit (Polyus, end of decade).
+7. **Depletion trajectory** — NWF gold (~155t) could be exhausted by 2027 at current pace. Total BoR (2,305t) at 84t/year would take ~4 years to reach 2,000t — not existential but NWF buffer is nearly gone.
+
+**Index updated**: `wiki/index.md` — russia-gold-reserves row updated.
+
+---
+
 ## 2026-06-13 — COT weekly update attempt: Report_Date 2026-06-09 | Status: DATA NOT RETRIEVED | All CFTC/data sources blocked by network egress policy | cot.csv unchanged
 
 **Attempted sources**: CFTC direct (www.cftc.gov, data.cftc.gov), GoldSeek June 12 article, Barchart, MetalCharts, MacroMicro, YCharts, Investing.com, Barchart, StoneX, InvestMacro — all returned 403 Forbidden or DNS failure.
