@@ -4,6 +4,50 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-19 — Daily update: Gold ~$4,210 (Asian session; COMEX closed Juneteenth); Iran MOU SIGNED AT VERSAILLES (not Bürgenstock); India imports -70% (official); DXY 100.72; Silver -7.8%; Signal: Wait (−2)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-19.md` — MCX ~₹1,47,000–₹1,49,660/10g; XAU/USD ~$4,210 (Asian session); Silver $64.26/oz (−7.8%); MCX Silver −₹6,000/kg; DXY 100.72 (+1.11%); WTI $77.10 (+2.1% bounce); USD/INR ~₹94.50; **India gold imports confirmed −70% to 25–30t/month** (government official June 18); May import VALUE +34% y/y to $3.41B; RBI 880.52t unchanged; 6 AMCs ETF caps remain
+
+**Prices fetched** (manual web search — yfinance 403 + metals.dev 403 both failed; COMEX closed Juneteenth):
+- Gold: ~$4,210/oz (Asian session, extending losses) | Silver: $64.26/oz (−7.8%) | DXY: 100.72 (+1.11%) | WTI: $77.10/bbl (+2.1%) | USD/INR: ~₹94.50 (est.)
+- MCX gold (24k retail): ~₹1,49,660/10g (BusinessToday); MCX futures est. ~₹1,47,000/10g (sundayguardianlive)
+
+**Holiday check**: June 19, 2026 — Juneteenth (US federal holiday; COMEX closed). Indian markets (MCX/NSE/BSE) open normally — next Indian holiday: June 26 (Muharram).
+
+**Signal**: Wait, Score: **−2**
+- Factor 1 (Price vs targets): +1 — ~$4,210 is ~22% below Goldman $5,400 target (>15% = Bullish)
+- Factor 2 (Geopolitical): −1 — Iran MOU signed at Versailles (de-escalation dominant even with Trump "war may not be over" residual uncertainty); Rule: "de-escalation = Bearish"
+- Factor 3 (Fed/macro): −1 — FOMC hawkish dot plot (9/19 back hikes); markets price one 25bp hike by Oct 2026; DXY at 100.72 (highest since May 2025); Kitco warns gold could fall to $4,000 next week; Hawkish = Bearish
+- Factor 4 (CB demand): +1 — WGC CB Gold Reserves Survey published June 16 (3 days ago, within 7-day window): record 45% CBs plan to increase holdings. Confirmed CB demand data → Bullish
+- Factor 5 (Technicals): −1 — Price ~$4,210; 9d EMA ~$4,286 (calculated: $4,305×0.8 + $4,210×0.2); 50d EMA ~$4,540. Price BELOW BOTH EMAs. Last 2 trading days: June 18 (red) + June 19 (red) = NOT 2 green. Table: "Below both EMAs | Not 2 green | Bearish" → Bearish
+- Factor 6 (Dollar Pressure): −1 — DXY June 18: 99.61 → June 19: 100.72; dxy_pct = +1.11% ≥ +1% → dxy_signal = −1. USD_INR missing from prices.csv → inr_signal = 0. factor6 = −1 → Bearish
+
+**Global CB sweep results**:
+- **Iran**: MOU signed at Palace of Versailles June 17-18; Iran signed remotely; Trump hinted "war may not be over"; Israel unhappy; WTI bounced to $77.10; 60-day nuclear talks clock running
+- **India (official, June 18)**: Gold imports fell 70% in volume to 25-30t/month; May imports $3.41B (+34% YoY value); duty hike working on volumes but not forex outflows
+- Poland: No new data (latest: 613t, targeting 700t)
+- China: No new data (May +9.95t, 19-month streak, 2,331.52t total)
+- Czech Republic: No new data
+- Russia: No new data (April −6t, YTD −22t)
+- Germany: No new data (CDU still refusing repatriation; AfD motion pending)
+- France: No new data (all 2,437t on French soil)
+- USA: COMEX closed (Juneteenth); 8,133t unchanged
+- Saudi Arabia, Japan, UK, Italy: No new data
+
+**Pages updated**:
+- `prices/prices.csv` — June 19 row added: Gold $4,210, Silver $64.26, DXY 100.72, WTI $77.10 (Juneteenth; COMEX closed; Asian spot prices)
+- `wiki/global-cb-activity-log.md` — June 19 section added (13 rows); last updated 2026-06-19
+- `wiki/iran-conflict-2026.md` — CORRECTION: MOU signed at Versailles (not Bürgenstock); June 19 timeline entry added; summary updated
+- `wiki/india-gold-market.md` — June 19 MCX price section added; import data (−70% to 25-30t) added to Demand Breakdown; INR rate updated; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — price updated to ~$4,210; DXY 100.72; both EMAs bearish; Signal −2; summary updated
+- `wiki/fed-macro-factors.md` — DXY 100.72; market pricing one hike by Oct 2026; Kitco $4,000 downside risk flagged; summary updated
+- `signals/signals.csv` — June 19 signal: Wait, −2
+- `wiki/log.md` — this entry
+- `wiki/index.md` — all affected page descriptions updated
+
+---
+
 ## 2026-06-18 — Daily update: Gold $4,312.49 (+1.24% recovery from post-FOMC $4,259); FOMC DOT PLOT HAWKISH (half project hikes); Iran MOU formal signing June 19 Bürgenstock; RBI denied $12B gold sale; WTI $75.49; Signal: Wait (−1)
 
 **Raw file created**:

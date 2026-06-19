@@ -1,10 +1,10 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 18 UPDATE (REVISED)**: The June 17 FOMC dot plot was a **hawkish surprise** — half of FOMC members projected possible rate hikes in 2026. Gold fell ~2% COMEX post-FOMC (to ~$4,259) before recovering +1.24% on June 18 to $4,312.49 on Iran deal news. DXY 99.61. WTI $75.49/bbl. USD/INR ₹94.4770 (INR multi-week high). Inflation 4.2% (May CPI). Next FOMC: late July 2026.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 19 UPDATE**: FOMC dot plot hawkish surprise (June 17 decision) continues to weigh on gold. Markets now price **one 25bp hike by October 2026** (9/19 FOMC members back hikes). DXY surged to **100.72** (highest since May 2025) on June 19. Gold fell to ~$4,210 in Asian session — on track for 3rd weekly decline. Kitco: "Hawkish Fed could push gold back to $4,000 next week." Inflation: 4.2% May CPI. Next FOMC: late July 2026.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-06-19
 
 ---
 

@@ -1,10 +1,32 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~23% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 18, MCX gold **₹1,52,748/10g** (settled); USD/INR **₹94.4770** (INR at multi-week high on lower oil); XAU/USD **$4,312.49** (+1.24%); WTI **$75.49/bbl** (−1.70%); Silver **$69.71/oz**. FOMC dot plot hawkish surprise (half FOMC project hikes). Iran MOU formal signing June 19 at Bürgenstock. **RBI denied $12B gold sale rumours** — 880.52t unchanged, gold share of FX reserves now 16.85%. $3.48B YTD ETF inflows; 6 AMCs capping large subscriptions.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~23% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 19, MCX gold **~₹1,47,000–₹1,49,660/10g**; USD/INR **~₹94.50**; XAU/USD **~$4,210** (Asian session; US Juneteenth holiday); WTI **$77.10/bbl**; Silver **$64.26/oz**; DXY **100.72** (highest since May 2025). **MAJOR: India gold imports confirmed down 70% to 25–30t/month** (government official, June 18). MCX silver crashed ~₹6,000/kg. US-Iran MOU signed at Palace of Versailles June 17–18 (60-day nuclear talks clock running). RBI 880.52t unchanged; 6 AMCs capping ETF subscriptions; $3.48B YTD ETF inflows.
 
-**Sources**: `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-17-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-537342-2026-06-17, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.republicworld.com/business/india-gold-market-retail-demand-moderates-as-high-prices-and-season-end-impact-sales-2026-06-05-127036
+**Sources**: `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-17-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-537342-2026-06-17, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.republicworld.com/business/india-gold-market-retail-demand-moderates-as-high-prices-and-season-end-impact-sales-2026-06-05-127036
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-06-19
+
+---
+
+## MCX Gold Price (June 19, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold (24K retail, city average) | ~**₹1,49,660 per 10g** (BusinessToday, June 19) |
+| MCX gold futures (Aug contract, est.) | ~**₹1,47,000 per 10g** (slipped near ₹1.47 lakh — sundayguardianlive) |
+| MCX gold (24K per gram) | ~₹14,700–₹14,966/gram |
+| USD/INR rate | ~**₹94.50** (slight weakening; DXY surged to 100.72) |
+| Global spot (XAU/USD) | **~$4,210** (Asian session; COMEX closed for Juneteenth) |
+| Silver (XAG/USD) | **$64.26/oz** (−7.8% from $69.71 June 18) |
+| MCX Silver | Crashed ~**₹6,000/kg** on the day |
+| DXY | **100.72** (+1.11% from 99.61 — highest since May 2025) |
+| WTI crude | **$77.10/bbl** (+2.1% from $75.49; Iran deal uncertainty bounce) |
+
+Note: US COMEX closed for Juneteenth; Indian MCX traded normally. Gold extended losses in Asian session to ~$4,210, down −2.4% from June 18 close. Three key drivers: (1) **Hawkish Fed repricing** — DXY surged past 100; (2) **Silver collapse** — XAG/USD fell 7.8% on DXY strength + industrial demand concerns; (3) **Iran deal nuance** — MOU signed at Palace of Versailles (not Bürgenstock), but Trump suggested "war may not be over" and Israel "fumes" — WTI bounced from intraday low ~$74 back to $77.10 on residual risk. Gold on track for **3rd consecutive weekly decline** (-3.9% week to date from $4,333.20 high June 17).
+
+**MAJOR India policy data** (government official statement June 18): India gold imports fell **70% in volume** to 25–30t/month from 75–100t/month. In VALUE terms, May imports were $3.41B (+34% y/y) — duty suppresses volumes but high prices keep forex outflow elevated.
+
+**Prior session (June 18)**: MCX ₹1,52,748/10g (settled); XAU $4,312.49 (+1.24%); WTI $75.49 (−1.70%); DXY 99.61; USD/INR ₹94.4770.
 
 ---
 
@@ -172,6 +194,8 @@ Investment demand surged in Q1 2026, driven by gold's strong price performance. 
 
 Physical demand channels (jewellery, bar, coin) have collapsed. Industry data from the fortnight ended May 27, 2026 showed demand of ~7.5t vs ~25t in the same period last year — a **~70% year-on-year decline** (source: BusinessToday, May 31, 2026). The duty hike + PM Modi's public appeal creates a dual policy headwind for physical gold consumption through H2 2026.
 
+**Official government confirmation (June 18, 2026)**: A government official confirmed India's gold import volumes have fallen **70% to 25–30 tonnes/month** from 75–100t/month pre-duty. Key nuance: in VALUE terms, May 2026 imports were **$3.41 billion (+34% y/y)** because prices are substantially higher — the government's forex-outflow reduction objective is only partially met. (source: Business Standard, ANI, Deccan Herald June 18, 2026)
+
 ---
 
 ## Gold ETF Market
@@ -242,7 +266,7 @@ The RBI has completed its primary accumulation phase (72.6t in 2024) and is now 
 
 The INR/USD exchange rate is a critical multiplier for domestic gold prices:
 
-- **Current rate**: 1 USD = **₹94.32** (June 17, 2026; ₹95.40 est. June 16, ₹95.11 June 15, ₹95.26 June 12/11, ₹95.36 June 10, ₹95.39 June 9, ₹95.19 June 8, ₹95.21 June 5, ₹95.59 June 4, ₹95.36 June 3, ₹95.16 June 2, ₹95.01 June 1, ₹96.13 May 29, ₹95.45 May 27)
+- **Current rate**: 1 USD = **~₹94.50** (June 19 est.; ₹94.4770 June 18; ₹94.32 June 17, ₹95.40 est. June 16, ₹95.11 June 15, ₹95.26 June 12/11, ₹95.36 June 10, ₹95.39 June 9, ₹95.19 June 8, ₹95.21 June 5, ₹95.59 June 4, ₹95.36 June 3, ₹95.16 June 2, ₹95.01 June 1, ₹96.13 May 29, ₹95.45 May 27)
 - **YTD depreciation**: INR has depreciated ~7% in 2026, adding ~₹1,000–₹1,500/gram to domestic gold costs; INR has staged a partial recovery from the ₹96+ lows
 - **Effect**: Weaker rupee raises the INR cost of importing gold; at ₹95+ vs. historical ~₹70–75 levels, gold is structurally more expensive in rupee terms even at the same USD spot price
 - **The 15% duty adds further cost**: total effective landed cost premium over international price is substantial

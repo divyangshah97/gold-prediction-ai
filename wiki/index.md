@@ -46,7 +46,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t unchanged; **RBI denied $12B gold sale** (June 2026); gold = 16.85% FX reserves (up from 13.92% Sep 2025, price appreciation only); near-zero new buying; repatriation from London ongoing; updated June 18 |
-| [[india-gold-market]] | MCX **₹1,52,748/10g** (June 18 settled); XAU/USD $4,312.49 (+1.24%; post-FOMC recovery); WTI $75.49 (−1.70%); USD/INR ₹94.4770 (INR multi-week high); **RBI denied $12B gold sale** — 880.52t unchanged, gold = 16.85% FX reserves; 6 AMCs capping ETF subscriptions; $3.48B YTD ETF inflows; 15% import duty; updated June 18 |
+| [[india-gold-market]] | MCX ~**₹1,47,000–₹1,49,660/10g** (June 19); XAU/USD ~$4,210 (Asian session, Juneteenth); DXY 100.72; Silver crashed −7.8% to $64.26; **India gold imports confirmed −70% to 25–30t/month** (official June 18); RBI 880.52t unchanged; 6 AMCs capping ETF subscriptions; updated June 19 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; **June 11 FXStreet: "Germans demand bring our gold home"** — cross-party repatriation pressure growing (AfD + Green Party); CDU still refuses; France's $15B move cited as template; updated June 16 |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -57,7 +57,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 18**: FOMC hawkish dot plot; Iran MOU signing June 19; **RBI denied $12B gold sale**; WTI $75.49; MCX ₹1,52,748; No new country CB purchase/sale data; updated June 18 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 19**: US Juneteenth (COMEX closed); Iran MOU signed at Versailles (not Bürgenstock); **India imports confirmed -70% to 25–30t/month** (official June 18); Gold ~$4,210 Asian session; DXY 100.72; Silver -7.8%; updated June 19 |
 
 ### Geopolitics & Macro
 
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **$4,312.49** (June 18, +1.24% post-FOMC recovery); FOMC hawkish dot plot; Iran MOU June 19; WTI $75.49; DXY 99.61; ~20.1% below Goldman $5,400; above 9d EMA (~$4,305) below 50d EMA (~$4,545); Signal: Wait (score −1); updated June 18 |
+| [[gold-geopolitical-risk-premium]] | **~$4,210** (June 19 Asian session; COMEX closed Juneteenth); Iran MOU signed Versailles; DXY 100.72 (highest since May 2025); Silver −7.8%; ~22% below Goldman $5,400; below BOTH EMAs (9d ~$4,286, 50d ~$4,540); Signal: Wait (score −2); updated June 19 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | **Trump signed interim agreement** June 18; formal **MOU signing June 19 at Bürgenstock, Switzerland**; WTI $75.49 (−1.70%); Hormuz reopening fully priced in; gold +1.24% recovery from post-FOMC lows; updated June 18 |
-| [[fed-macro-factors]] | **FOMC dot plot HAWKISH** (June 17): half of FOMC project rate hikes in 2026; gold fell ~2% post-FOMC (COMEX ~$4,259); DXY 99.61; WTI $75.49; gold recovered +1.24% June 18 on Iran deal; next FOMC late July 2026; updated June 18 |
+| [[iran-conflict-2026]] | MOU signed at **Palace of Versailles** June 17-18 (NOT Bürgenstock); Iran signed remotely; Trump: "war may not be over"; Israel "fumes"; WTI bounced to $77.10; 60-day nuclear talks clock running; updated June 19 |
+| [[fed-macro-factors]] | **FOMC hawkish dot plot** (June 17): 9/19 members back hikes; markets price one 25bp hike by Oct 2026; DXY surged to **100.72** (highest since May 2025); gold at ~$4,210 heading for 3rd weekly loss; Kitco: "Hawkish Fed could push gold to $4,000 next week"; next FOMC late July 2026; updated June 19 |
 
 ### Institutional Flows
 

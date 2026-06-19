@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-17
+**Last updated**: 2026-06-19
 
 ---
 
@@ -73,6 +73,26 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-19
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-19 | 🌐 Global (Macro) | **Juneteenth — US markets closed; gold extends losses in Asian session** | US COMEX closed for Juneteenth National Independence Day. Gold fell to **~$4,210/oz** in Asian session (from $4,312.49 June 18 close; −2.4%). Silver collapsed to **$64.26/oz** (−7.8% from $69.71). DXY surged to **100.72** (+1.11% — highest since May 2025). WTI crude **$77.10/bbl** (+2.1% bounce from $75.49 as Trump hinted "war with Iran may not be over"). Gold on track for 3rd consecutive weekly decline. Primary drivers: FOMC hawkish dot plot (9/19 members back hikes) + surging dollar. See [[fed-macro-factors]], [[gold-geopolitical-risk-premium]]. | https://www.tmgm.com/en/analysis/market-news/article/gold-declines-to-near-4-200-as-hawkish-fed-stance-offsets-support-from-us-iran-peace-deal-202606182317; https://www.kitco.com/news/article/2026-06-18/hawkish-fed-could-push-gold-prices-back-4000-next-week |
+| 2026-06-19 | 🇮🇷 Iran (CBI/Policy) | **CORRECTION: MOU signed at Versailles (NOT Bürgenstock); 60-day clock running** | **US-Iran MOU was signed at the Palace of Versailles** on June 17-18, 2026 — not at Bürgenstock, Switzerland as originally planned. Trump signed physically at Versailles just before dinner June 17; Iran signed remotely in early hours June 18. 14-point MOU text: cessation of hostilities, Strait of Hormuz reopening, Iran pledges no nuclear weapons acquisition/production, partial sanctions relief (oil exports). Three Saudi-flagged supertankers carrying 6M barrels transited Hormuz hours after signing. **Key risk**: Trump suggested "the war may not be over" after signing; Israel furious; Iranian officials have yet to confirm US version of text. 60-day follow-on nuclear negotiation clock is now running (deadline ~mid-August 2026). WTI bounced from ~$74 intraday to $77.10 on June 19 on residual deal uncertainty. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | https://www.foxnews.com/live-news/iran-war-news-trump-deal-strait-hormuz-oil-prices-june-17; https://www.oann.com/newsroom/trump-signs-iran-mou-in-versailles-60-day-clock-starts-to-hammer-out-final-agreement/; https://www.washingtonexaminer.com/policy/defense/4613919/trump-signs-mou-while-suggesting-war-with-iran-may-not-be-over/ |
+| 2026-06-19 | 🇮🇳 India (RBI + Trade) | **MAJOR: India gold imports drop 70% to 25-30t/month after duty hike (official June 18)** | Government official confirmed on June 18: India's gold import **volumes fell ~70%** to 25–30 tonnes/month (from 75–100t/month pre-duty). Import duty raised from 6%→15% effective May 13, 2026. In VALUE terms, May imports rose +34% y/y to $3.41B — high gold prices offset volume compression. MCX gold fell to ~**₹1,47,000-₹1,49,660/10g** (June 19; down from ₹1,52,748 June 18). MCX Silver crashed ~₹6,000/kg. USD/INR ~₹94.50 (stable). RBI 880.52t unchanged. ETF caps (6 AMCs) remain in place. No new RBI reserve announcements. See [[india-gold-market]], [[india-rbi-gold]]. | https://www.business-standard.com/economy/news/india-s-gold-imports-drop-70-to-30-tonnes-after-duty-hike-official-126061800447_1.html; https://aninews.in/news/business/gold-imports-fall-to-25-30-tonnesmonth-from-70-100-tonnes-after-duty-hike-govt-source20260618125730/; raw/india-gold-2026-06-19.md |
+| 2026-06-19 | 🇵🇱 Poland (NBP) | No new data | Latest: 613t (May +18t confirmed June 12); YTD ~63t; targeting 700t; 150t additional plan approved. No new June announcement. Next disclosure expected July cycle. See [[poland-gold-reserves]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇨🇳 China (PBoC) | No new data | Latest: May 2026 +9.95t (announced June 8; 19-month streak; total 2,331.52t). No new June 19 disclosure. Next announcement expected July 2026 cycle. See [[china-pboc-gold]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇩🇪 Germany (Bundesbank) | No new data | ~1,236t at FRBNY; CDU government repatriation "not currently under consideration." AfD Bundestag motion pending. Cross-party pressure ongoing. No new June 19 announcement. See [[germany-gold-reserves]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026. Bar upgrade programme ongoing. No new BdF statements. See [[france-gold-reserves]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇺🇸 USA (Treasury/Fed) | COMEX closed — Juneteenth; 8,133t gold unchanged | Juneteenth National Independence Day — US financial markets closed. 8,133t US gold reserve unchanged since 1971. No Fort Knox audit or revaluation proposals found. See [[usa-gold-reserves]], [[fed-macro-factors]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇸🇦 Saudi Arabia (SAMA) | No new data | 323.07t static since 2010. No SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇯🇵 Japan (BoJ) | No new data | 845.97t static Q1 2026. No BoJ or MoF statements on gold allocation. See [[japan-gold-reserves]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇬🇧 UK (Bank of England) | No new data | 310.29t static. No LBMA vault flow data or BoE custodial changes. See [[uk-gold-reserves]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇮🇹 Italy (Banca d'Italia) | No new data | 2,452t static. Fratelli d'Italia ownership dispute ongoing; no resolution. See [[italy-gold-reserves]]. | Web search June 19, 2026 |
+| 2026-06-19 | 🇷🇺 Russia (Bank of Russia) | No new data | Latest: April 2026 −6t (WGC June 3); YTD −22t; total ~2,282t. No new June 19 announcement. See [[russia-gold-reserves]]. | Web search June 19, 2026 |
 
 ---
 
