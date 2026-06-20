@@ -4,6 +4,22 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-20 — COT weekly update attempt: Report_Date 2026-06-16 | Status: DATA RETRIEVAL FAILURE | All CFTC/data sources blocked by network egress | cot.csv unchanged
+
+**Attempted sources**: Nasdaq Data Link API (CFTC/088691_FO_ALL, CFTC/088691_DCOT_FO_ALL) — HTTP 403 host not in allowlist. WebFetch: CFTC.gov, barchart.com, metalcharts.org, tradingster.com, macromicro.me, ycharts.com, research.titanfx.com, investing.com, metalprices.live, insider-week.com — all HTTP 403. Direct curl: same network policy block. CFTC Public Reporting Environment (publicreporting.cftc.gov) — also blocked.
+
+**Qualitative signals from WebSearch**: Search results surfaced the article "Metals Speculators Boost Gold Bets For 3rd Week To 14-Week Highs" (investing.com analysis, ~June 19–20, 2026), suggesting: (1) Managed Money net positioning increased as of June 16 for the third consecutive week; (2) positions reached a 14-week high (implying above all readings since approx. early March 2026). Exact MM_Long, MM_Short, Open_Interest figures could not be verified — no exact numbers available from accessible sources.
+
+**Market context on June 16 (COT as-of date)**: Gold $4,314.53 (−0.2% per June 16 daily log); DXY 99.56; WTI $80.41; FOMC Day 1 underway; WGC CB Survey (record 45% plan to increase gold) published June 16. Gold was in its 3rd weekly loss trajectory (from ~$4,499 high on June 2).
+
+**cot.csv**: NOT updated — no verified numerical data available.
+
+**Pages updated**:
+- `wiki/institutional-flows.md` — "Latest COT Data" section replaced with June 16 failure note; qualitative search findings documented; prior confirmed reading (June 9) retained as reference; last updated → 2026-06-20
+- `wiki/index.md` — [[institutional-flows]] entry updated to reflect June 16 retrieval failure + qualitative signal
+
+---
+
 ## 2026-06-19 — Daily update: Gold ~$4,210 (Asian session; COMEX closed Juneteenth); Iran MOU SIGNED AT VERSAILLES (not Bürgenstock); India imports -70% (official); DXY 100.72; Silver -7.8%; Signal: Wait (−2)
 
 **Raw file created**:
