@@ -1,0 +1,97 @@
+name: Fetch CFTC COT Gold Data
+
+on:
+  schedule:
+    # Mon–Fri at 20:30 UTC = 3:30 PM Eastern (right after CFTC publishes)
+    # Covers normal Friday publications AND Monday holiday-delay publications
+    - cron: '30 20 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  fetch-cot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch CFTC disaggregated COT data for COMEX Gold
+        run: |
+          python - <<'EOF'
+          import requests, zipfile, io, csv, json, datetime, os, sys
+
+          year = datetime.date.today().year
+          url = f"https://www.cftc.gov/sites/default/files/files/dea/history/fut_disagg_txt_{year}.zip"
+
+          print(f"Fetching: {url}")
+          resp = requests.get(url, timeout=60, headers={"User-Agent": "Mozilla/5.0"})
+          if resp.status_code != 200:
+              print(f"ERROR: HTTP {resp.status_code}")
+              sys.exit(1)
+
+          z = zipfile.ZipFile(io.BytesIO(resp.content))
+          fname = z.namelist()[0]
+          content = z.read(fname).decode('utf-8', errors='replace')
+          reader = csv.DictReader(io.StringIO(content))
+
+          gold_rows = [r for r in reader
+                       if r.get('Market_and_Exchange_Names', '').strip() == 'GOLD - COMMODITY EXCHANGE INC.']
+          if not gold_rows:
+              print("ERROR: No COMEX gold rows found in file")
+              sys.exit(1)
+
+          latest = sorted(gold_rows, key=lambda r: r['Report_Date_as_YYYY-MM-DD'])[-1]
+          report_date   = latest['Report_Date_as_YYYY-MM-DD'].strip()
+          open_interest = int(latest['Open_Interest_All'].strip())
+          mm_long       = int(latest['M_Money_Positions_Long_All'].strip())
+          mm_short      = int(latest['M_Money_Positions_Short_All'].strip())
+          mm_net        = mm_long - mm_short
+
+          # Check if this is actually newer than what we already have
+          existing_path = 'prices/cot_latest.json'
+          if os.path.exists(existing_path):
+              with open(existing_path) as f:
+                  existing = json.load(f)
+              if existing.get('report_date') == report_date:
+                  print(f"NO_NEW_DATA: {report_date} already in cot_latest.json — skipping commit")
+                  sys.exit(0)
+
+          data = {
+              "report_date":   report_date,
+              "open_interest": open_interest,
+              "mm_long":       mm_long,
+              "mm_short":      mm_short,
+              "mm_net":        mm_net,
+              "fetched_at":    datetime.datetime.utcnow().isoformat() + "Z",
+              "source":        "CFTC direct disaggregated futures"
+          }
+
+          os.makedirs('prices', exist_ok=True)
+          with open(existing_path, 'w') as f:
+              json.dump(data, f, indent=2)
+
+          print(f"NEW_DATA: {report_date} | OI={open_interest:,} | MM_Long={mm_long:,} | MM_Short={mm_short:,} | MM_Net={mm_net:+,}")
+          EOF
+
+      - name: Commit and push if new data
+        run: |
+          git config user.email "divyangshah97@gmail.com"
+          git config user.name "dshah97"
+          git add prices/cot_latest.json
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            REPORT_DATE=$(python3 -c "import json; d=json.load(open('prices/cot_latest.json')); print(d['report_date'])")
+            MM_NET=$(python3 -c "import json; d=json.load(open('prices/cot_latest.json')); print(f\"{d['mm_net']:+,}\")")
+            git commit -m "COT data: ${REPORT_DATE} MM_Net=${MM_NET}"
+            git push
+          fi
