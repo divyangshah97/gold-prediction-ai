@@ -57,7 +57,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 19**: US Juneteenth (COMEX closed); Iran MOU signed at Versailles (not Bürgenstock); **India imports confirmed -70% to 25–30t/month** (official June 18); Gold ~$4,210 Asian session; DXY 100.72; Silver -7.8%; updated June 19 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 22**: **Goldman cuts $5,400→$4,900** (most bearish major bank; PCE 3.6%); Iran-US 60d roadmap confirmed ($24B asset release; monitoring committee); Gold $4,197.75 (+1.11%); DXY 100.82; USD/INR ₹94.61 (first value); 14 rows added; updated June 22 |
 
 ### Geopolitics & Macro
 
@@ -67,8 +67,8 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
 | [[gold-geopolitical-risk-premium]] | **~$4,210** (June 19 Asian session; COMEX closed Juneteenth); Iran MOU signed Versailles; DXY 100.72 (highest since May 2025); Silver −7.8%; ~22% below Goldman $5,400; below BOTH EMAs (9d ~$4,286, 50d ~$4,540); Signal: Wait (score −2); updated June 19 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | MOU signed at **Palace of Versailles** June 17-18 (NOT Bürgenstock); Iran signed remotely; Trump: "war may not be over"; Israel "fumes"; WTI bounced to $77.10; 60-day nuclear talks clock running; updated June 19 |
-| [[fed-macro-factors]] | **FOMC hawkish dot plot** (June 17): 9/19 members back hikes; markets price one 25bp hike by Oct 2026; DXY surged to **100.72** (highest since May 2025); gold at ~$4,210 heading for 3rd weekly loss; Kitco: "Hawkish Fed could push gold to $4,000 next week"; next FOMC late July 2026; updated June 19 |
+| [[iran-conflict-2026]] | MOU signed at Palace of Versailles June 17-18; **June 21: 60-day roadmap formalised** (nuclear monitoring committee; $24B asset release; Lebanese hostilities ending); 60-day nuclear talks Day 5; Gold $4,197.75; WTI $77.54; updated June 22 |
+| [[fed-macro-factors]] | **PCE revised to 3.6%** (from 2.7%) — key Goldman cut driver; FOMC hawkish dot plot June 17 (Oct hike possible); DXY 100.82; **Goldman cut gold target $5,400→$4,900**; Fed cuts pushed to 2027; next FOMC late July 2026; updated June 22 |
 
 ### Institutional Flows
 
@@ -81,5 +81,5 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | GS $5,400/oz (reaffirmed); JPM year-end $6,000 (cut avg to $5,243); UBS $5,500; Wells Fargo $6,100–$6,300; range $5,200–$6,000; updated June 8 |
-| [[india-gold-market]] | MCX ~**₹1,49,080/10g** (June 15, 24k retail); USD/INR ~95.11; XAU/USD $4,323.18; WTI $81.06; import duty 15%; **4 major AMCs still capping gold ETF inflows**; Q1 investment demand overtook jewellery (first ever); updated June 15 |
+| [[goldman-sachs-gold-forecast]] | **GS CUT to $4,900/oz** (from $5,400 on June 22 — most bearish major bank); JPM $6,000; UBS $5,500; Deutsche Bank $6,000; range $4,900–$6,000; downside $4,400 if Fed hikes; updated June 22 |
+| [[india-gold-market]] | MCX ~**₹1,46,220–₹1,53,000/10g** (June 22, 24k retail range); USD/INR ₹94.61 (first confirmed value); XAU/USD $4,197.75; Goldman cut $4,900 implies domestic ~₹1,33,000–₹1,38,000; imports −70% (25–30t/month); 6 AMCs ETF caps; updated June 22 |

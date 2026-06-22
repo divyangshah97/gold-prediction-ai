@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-06-22
 
 ---
 
@@ -73,6 +73,28 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-22
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-22 | 🌐 Global (Macro) | **Goldman Sachs CUT year-end gold target: $5,400 → $4,900** | Goldman Sachs reduced its 2026 year-end gold price target by **$500 to $4,900/oz** — the first downward revision since GS initiated its bull call. Drivers: (1) PCE revised sharply to 3.6% (from 2.7%) reinforcing Fed hawkishness; (2) weaker global ETF inflows post-FOMC; (3) Fed cuts pushed to 2027; (4) October 2026 rate hike now in active pricing. Downside scenario if Fed hikes: **$4,400/oz**. Goldman is now the **most bearish major bank** — JPM $6,000, Deutsche Bank $6,000, UBS $5,500, Morgan Stanley $5,200 all above GS $4,900. Gold $4,197.75 (+1.11% intraday; partial recovery) — 6.1% below Goldman's revised $4,900 target. See [[goldman-sachs-gold-forecast]], [[fed-macro-factors]]. | Web search June 22, 2026; Reuters; Kitco |
+| 2026-06-22 | 🌐 Global (Geopolitical) | **US-Iran 60-day peace roadmap formalised (June 21)** | US and Iran agreed to a comprehensive 60-day peace roadmap on June 21 (NPR). Key terms: (1) **Nuclear monitoring committee** established; (2) Lebanese hostilities to end; (3) **$24 billion in frozen Iranian assets to be released** during talks (phased). Strait of Hormuz reopening proceeding (three Saudi supertankers transited June 18). WTI $77.54/bbl (+0.27% — flat, risk priced in). This is a significant de-escalation step — bearish for gold's geopolitical risk premium (Factor 2 = −1). See [[iran-conflict-2026]], [[gold-geopolitical-risk-premium]]. | https://www.npr.org/2026/06/21/nx-s1-5858590/us-iran-deal-roadmap-monitoring-committee; Web search June 22, 2026 |
+| 2026-06-22 | 🌐 Global (WGC/CB) | WGC April CB Statistics — net +17t; within 7-day window for signal | WGC April 2026 CB statistics (published June 3, 2026): net central bank purchases +17t in April 2026. Poland +14t (largest); China +8t (18th consecutive month); Czech Republic +3t (38th consecutive month); Russia −6t; Uzbekistan −1t. Managed Money speculator positioning boosted gold bets for **3rd consecutive week to 14-week highs** (qualitative, per web search — exact COT numbers blocked). All within 7-day window → Factor 4 = Bullish (+1) for June 22 signal. See [[central-bank-gold-demand]], [[institutional-flows]]. | https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc |
+| 2026-06-22 | 🇵🇱 Poland (NBP) | No new data | Latest: 613t (May +18t, confirmed ~June 12 by NBP Governor Glapiński); YTD Jan–May ~63t; gold = 30% FX reserves; targeting 700t; 150t additional plan approved. No new June announcement. See [[poland-gold-reserves]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇨🇳 China (PBoC) | No new data | Latest: May 2026 +9.95t (announced June 8; 19-month consecutive buying streak; total 2,331.52t). No new June disclosure. Next announcement expected July 2026 cycle. See [[china-pboc-gold]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇩🇪 Germany (Bundesbank) | No new data | ~1,236t at FRBNY; CDU government: repatriation "not currently under consideration." AfD Bundestag motion pending — no vote taken. Cross-party political pressure ongoing. No new June 22 announcement. See [[germany-gold-reserves]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026. Bar upgrade programme ongoing. No new BdF statements. See [[france-gold-reserves]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇺🇸 USA (Treasury/Fed) | PCE revised to 3.6%; 8,133t gold unchanged | **PCE (Fed preferred inflation measure) revised to 3.6%** (from 2.7%) — key driver of Goldman's gold target cut. 8,133t US gold reserve unchanged since 1971. No Fort Knox audit calls or gold revaluation proposals found today. October 2026 rate hike probability remains elevated in futures pricing. See [[usa-gold-reserves]], [[fed-macro-factors]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇸🇦 Saudi Arabia (SAMA) | No new data | 323.07t static since 2010. No SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇮🇷 Iran (CBI) | Geopolitical — 60-day roadmap confirmed; 60-day talks Day 5 | US-Iran 60-day peace roadmap formalised June 21 (nuclear monitoring committee; $24B asset release). Strait of Hormuz reopening proceeding. 60-day follow-on nuclear talks window running (deadline ~mid-August 2026). Iran CBI gold accumulation rationale diminishing as sanctions relief progresses. No new CBI reserve announcements. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | https://www.npr.org/2026/06/21/nx-s1-5858590/us-iran-deal-roadmap-monitoring-committee |
+| 2026-06-22 | 🇯🇵 Japan (BoJ) | No new data | 845.97t static Q1 2026. No BoJ or Ministry of Finance gold allocation statements. See [[japan-gold-reserves]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇬🇧 UK (Bank of England) | No new data | 310.29t static. No LBMA vault flow data or BoE custodial changes. See [[uk-gold-reserves]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇮🇹 Italy (Banca d'Italia) | No new data | 2,452t static. Fratelli d'Italia ownership dispute ongoing; no resolution. See [[italy-gold-reserves]]. | Web search June 22, 2026 |
+| 2026-06-22 | 🇮🇳 India (RBI + Market) | Price update + Goldman cut impact | MCX gold ~**₹1,46,220–₹1,53,000/10g** (June 22; 24k retail range). XAU/USD $4,197.75 (+1.11%). Silver $66.36/oz (+2.33%). USD/INR **₹94.61** (+0.11% — first confirmed value). DXY 100.82 (+0.10% — flat). WTI $77.54/bbl (+0.27%). Goldman $4,900 target implies domestic gold at ~₹1,33,000–₹1,38,000/10g — significantly below current MCX prices. RBI 880.52t unchanged. 6 AMCs ETF caps remain. India imports still down 70% (25–30t/month). See [[india-gold-market]], [[india-rbi-gold]]. | `raw/india-gold-2026-06-22.md` |
+| 2026-06-22 | 🇷🇺 Russia (Bank of Russia) | No new data | Latest: April 2026 −6t (WGC June 3); YTD −22t; total ~2,282t. No new June 22 announcement. See [[russia-gold-reserves]]. | Web search June 22, 2026 |
 
 ---
 

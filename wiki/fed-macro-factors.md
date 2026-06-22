@@ -1,10 +1,28 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 19 UPDATE**: FOMC dot plot hawkish surprise (June 17 decision) continues to weigh on gold. Markets now price **one 25bp hike by October 2026** (9/19 FOMC members back hikes). DXY surged to **100.72** (highest since May 2025) on June 19. Gold fell to ~$4,210 in Asian session — on track for 3rd weekly decline. Kitco: "Hawkish Fed could push gold back to $4,000 next week." Inflation: 4.2% May CPI. Next FOMC: late July 2026.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 22 UPDATE**: FOMC dot plot hawkish surprise (June 17) continues to weigh — markets price **one 25bp hike by October 2026**. PCE revised sharply to **3.6%** (from 2.7%) — the single clearest reason Goldman Sachs cut gold target $5,400→$4,900 on June 22. DXY 100.82 (flat from 100.72 June 19). Gold $4,197.75 — 5th week of losses. Fed cuts now pushed to 2027. Next FOMC: late July 2026.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-06-22
+
+---
+
+## June 22, 2026 — PCE Revision + Goldman Target Cut
+
+**Key June 22 development**: PCE (Personal Consumption Expenditure deflator) was revised sharply higher to **3.6%** (from 2.7% prior estimate). This is the Fed's preferred inflation measure. The revision was cited by Goldman Sachs as a primary reason for cutting its gold year-end target from $5,400 to $4,900 on June 22 — because a higher PCE reinforces the Fed's inability to cut rates in 2026 and keeps October hike probability elevated.
+
+**June 22 macro snapshot**:
+- **Gold $4,197.75** (+1.11% intraday; partial recovery)
+- **DXY 100.82** (+0.10% — flat; holding above 100)
+- **WTI $77.54/bbl** (+0.27%)
+- **USD/INR ₹94.61** (+0.11% — first confirmed value in prices.csv)
+- **PCE revised to 3.6%** (from 2.7%): single clearest hawkish macro signal of June 2026
+- **Goldman Sachs cut gold target**: $5,400 → $4,900; downside $4,400 if Fed hikes
+- **Fed cuts pushed to 2027**: Goldman stripped all 2026 easing expectations; October 2026 hike in active market pricing
+- **Next FOMC**: Late July 2026 — no meeting until then; data-dependent path from here
+
+**US-Iran 60-day roadmap (June 21)**: Nuclear monitoring committee established; $24B frozen Iranian assets to be released during talks; Lebanese hostilities ending. This reduces energy-driven inflation tail risk — mildly favorable for eventual Fed easing path but insufficient to offset PCE shock. WTI $77.54 (down from $86+ in early June).
 
 ---
 

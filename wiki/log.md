@@ -4,6 +4,46 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-22 — Daily update: Gold $4,197.75 (+1.11%); Goldman CUTS $5,400→$4,900; Iran-US 60d roadmap confirmed; PCE 3.6%; Signal: Wait (−1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-22.md` — MCX ~₹1,46,220–₹1,53,000/10g; XAU/USD $4,197.75; Silver $66.36/oz (+2.33%); DXY 100.82 (+0.10% flat); WTI $77.54 (+0.27%); USD/INR ₹94.61 (+0.11% — first confirmed value); Goldman cuts $4,900 target; imports still −70%
+
+**Prices fetched** (web search — yfinance 403 + metals.dev 403 both failed):
+- Gold: $4,197.75/oz (+1.11%) | Silver: $66.36/oz (+2.33%) | DXY: 100.82 (+0.10%) | WTI: $77.54/bbl (+0.27%) | USD/INR: ₹94.61 (+0.11%)
+- prices.csv migrated: USD_INR column added; June 22 is the first row with a USD_INR value
+
+**Holiday check**: June 22, 2026 — Monday. Not an Indian market holiday. Next Indian holiday: June 26 (Muharram).
+
+**Signal**: Wait, Score: **−1**
+- Factor 1 (Price vs targets): +1 — $4,197.75 is 22.3% below Goldman $5,400 benchmark (>15% = Bullish; note: Goldman cut target to $4,900 but benchmark still $5,400 for scoring consistency)
+- Factor 2 (Geopolitical): −1 — Iran-US 60-day peace roadmap formalised June 21 (NPR); nuclear monitoring committee; $24B asset release → sustained de-escalation → Bearish
+- Factor 3 (Fed/macro): −1 — PCE revised to 3.6%; October 2026 hike in active pricing; Fed cuts pushed to 2027; Warsh hawkish; Goldman cited this for $4,900 cut → Bearish
+- Factor 4 (CB demand): +1 — WGC April CB statistics (published June 3, within 7-day extended window: net +17t; Poland +14t; China +8t; WGC Survey June 16 record 45% plan to buy) → Bullish
+- Factor 5 (Technicals): −1 — Price $4,197.75; 9d EMA ~$4,268; 50d EMA ~$4,529. Price BELOW BOTH EMAs. Last 2 trading days: June 19 (red, $4,210 vs $4,312.49 prior) + June 22 (below June 19) → not 2 green. → Bearish
+- Factor 6 (Dollar Pressure): 0 — DXY June 19: 100.72 → June 22: 100.82; dxy_pct = +0.10% (within 1% → dxy_signal = 0). USD_INR: no prior row → inr_signal = 0. factor6 = 0 → Neutral
+
+**Global CB sweep results**:
+- **Goldman Sachs**: CUT end-2026 gold target $5,400→$4,900 (most bearish major bank; PCE 3.6% revision; Fed cuts to 2027)
+- **Iran**: 60-day peace roadmap confirmed June 21 (nuclear monitoring committee; $24B asset release; Lebanese hostilities ending)
+- Poland, China, Czech Republic, Russia, Germany, France, Italy, Japan, UK, Saudi Arabia: No new data
+- India: Gold imports still down 70% (25-30t/month, official June 18); USD/INR ₹94.61 stable; Goldman $4,900 cut impacts domestic outlook
+
+**Wiki pages updated**:
+- `wiki/goldman-sachs-gold-forecast.md` — **MAJOR: target cut $5,400→$4,900**; comparison table updated; GS now most bearish major bank
+- `wiki/india-gold-market.md` — June 22 MCX price section added; summary updated; USD_INR ₹94.61 first confirmed value
+- `wiki/fed-macro-factors.md` — June 22 PCE revision (3.6%); Goldman cut linkage; macro snapshot added
+- `wiki/iran-conflict-2026.md` — June 21 roadmap row + June 22 timeline row added
+- `wiki/global-cb-activity-log.md` — 14 new rows for 2026-06-22
+- `wiki/poland-gold-reserves.md` — Last-updated date updated
+- `wiki/index.md` — Goldman, India, Iran, Fed, CB log entries updated
+- `wiki/log.md` — This entry
+
+**Commit (reconstructed from routine log)**: `462d000` — "Daily update 2026-06-22: Goldman cuts $5,400→$4,900; Iran-US roadmap; Wait signal (-1)"
+*(Note: original commit was not pushed due to expired GitHub PAT; this entry reconstructed from routine output log)*
+
+---
+
 ## 2026-06-20 — COT weekly update attempt: Report_Date 2026-06-16 | Status: DATA RETRIEVAL FAILURE | All CFTC/data sources blocked by network egress | cot.csv unchanged
 
 **Attempted sources**: Nasdaq Data Link API (CFTC/088691_FO_ALL, CFTC/088691_DCOT_FO_ALL) — HTTP 403 host not in allowlist. WebFetch: CFTC.gov, barchart.com, metalcharts.org, tradingster.com, macromicro.me, ycharts.com, research.titanfx.com, investing.com, metalprices.live, insider-week.com — all HTTP 403. Direct curl: same network policy block. CFTC Public Reporting Environment (publicreporting.cftc.gov) — also blocked.

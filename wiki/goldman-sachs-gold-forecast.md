@@ -1,22 +1,39 @@
 # Goldman Sachs Gold Forecast
 
-**Summary**: Goldman Sachs is the most widely followed institutional forecaster on gold, with a $5,400/oz end-2026 target driven primarily by central bank demand and [[de-dollarisation]].
+**Summary**: Goldman Sachs is the most widely followed institutional forecaster on gold. **MAJOR REVISION June 22, 2026: Goldman cut its end-2026 target from $5,400 to $4,900/oz** — the first GS target cut since initiating coverage — citing post-FOMC hawkish repricing, weaker ETF inflows, and Fed cuts pushed to 2027. Goldman is now the most bearish major bank; JPM still at $6,000, Deutsche Bank $6,000, UBS $5,500.
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026
 
-**Last updated**: 2026-06-08
+**Last updated**: 2026-06-22
 
 ---
 
-## Current Forecasts (as of May 22, 2026)
+## ⚠️ June 22, 2026 — Goldman Sachs CUTS Year-End Target: $5,400 → $4,900
+
+**Goldman Sachs reduced its 2026 year-end gold price target from $5,400 to $4,900/oz** — a $500 cut — the first downward revision since Goldman initiated its bull call. This is the single biggest institutional forecast revision of June 2026.
+
+**Reasons cited:**
+1. **Weaker ETF inflows** globally post-FOMC — gold ETF demand faltering
+2. **Fed cuts pushed to 2027** — FOMC hawkish dot plot (June 17) removed all 2026 easing; October 2026 hike now in active pricing
+3. **Warsh hawkish tone** — PCE revised sharply higher to 3.6% (from 2.7%); commitment to price stability
+4. **Downside scenario**: If Fed hikes, Goldman sees gold at $4,400/oz
+
+Goldman is now the **most bearish major bank**: JPM still $6,000, Deutsche Bank $6,000, UBS $5,500, Morgan Stanley $5,200. Goldman $4,900 sits below the institutional consensus range.
+
+**Market context at time of cut**: Gold $4,197.75 (+1.11% intraday June 22). $4,197.75 is 14.3% below the new $4,900 target — still implies meaningful upside but sharply reduced vs the prior $5,400 benchmark.
+
+---
+
+## Current Forecasts (as of June 22, 2026)
 
 | Metric | Goldman Sachs Estimate |
 |---|---|
-| Gold price target (end-2026) | $5,400 / oz |
+| **Gold price target (end-2026)** | **$4,900 / oz** *(cut from $5,400 on June 22, 2026)* |
+| Downside scenario (if Fed hikes) | $4,400 / oz |
 | CB nowcast — March 2026 | ~50 t/month (revised up from 29t) |
 | CB nowcast — April 2026 | ~80 t/month (latest data point) |
 | CB purchases forecast — 2026 full-year average | ~60 t/month (~720t annually) |
-| Prior nowcast (old methodology, pre-May 18) | ~29 t/month |
+| Prior target (pre-June 22) | $5,400 / oz |
 
 **Important distinction**: The "60t/month" figure is the full-year 2026 average. The monthly nowcast has been accelerating — March was ~50t and April was ~80t. The full-year average of ~60t/month reflects earlier weaker months pulling down the H1 average.
 
@@ -46,7 +63,7 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 
 | Institution | 2026 Avg Forecast | End-2026 Target | Notes | Last Updated |
 |---|---|---|---|---|
-| Goldman Sachs | — | $5,400/oz | Most conservative; CB demand thesis intact | May 2026 (reaffirmed) |
+| Goldman Sachs | — | **$4,900/oz** *(cut from $5,400 on June 22, 2026)* | **Most bearish**; hawkish Fed repricing; ETF inflows weak; cuts pushed to 2027 | **June 22, 2026 (CUT)** |
 | JPMorgan | **$5,243/oz** (was $5,708) | **$6,000/oz** (was $6,300) | Avg cut; year-end target revised down to $6,000; JPM concerned about weaker investor participation and subdued positioning; "gold on back burner for most investors" | June 8, 2026 (latest) |
 | Morgan Stanley | — | $5,200/oz H2 2026 (was $5,700) | Cut ~10% — "supply shock" + delayed Fed cuts; still sees structural support | May 2026 |
 | ANZ | — | $5,600/oz | Trimmed from $6,000; pushed $6,000 target to mid-2027 | May 2026 |
@@ -58,13 +75,13 @@ Goldman warned that gold could face **near-term downward pressure** if investors
 | RBC Capital Markets | — | $5,723/oz | Raised from prior $4,800 estimate | May 2026 |
 | LBMA Consensus | $4,741.97 avg | — | Annual average; year-end directional targets much higher | 2026 survey |
 
-Goldman's $5,400 target remains conservative but has been surpassed by JPMorgan's latest revision. **JPMorgan raised** its end-2026 target to **$6,300/oz** (latest research as of June 2026), placing it at the top of Wall Street. **Morgan Stanley** is now at parity with Goldman at $5,200. JPMorgan's full-year average was cut to $5,243 but the year-end target rose — reflecting an H1 consolidation + H2 re-acceleration thesis. **Wells Fargo** remains aggressive at $6,100–$6,300. ANZ trim to $5,600 is the most cautious recent revision.
+**Goldman CUT (June 22, 2026)**: Goldman Sachs lowered its end-2026 gold target from **$5,400 to $4,900/oz** — first downward revision. Drivers: post-FOMC hawkish repricing (PCE revised to 3.6%; October hike possible), weaker global ETF inflows, Fed cuts pushed to 2027. Downside scenario if Fed hikes: **$4,400/oz**. Goldman is now the **most bearish major bank** at $4,900 — below JPM ($6,000), Deutsche Bank ($6,000), UBS ($5,500), and Morgan Stanley ($5,200).
 
 **UBS cut (May 27, 2026)**: UBS lowered its 2026 gold price target from **$6,200 to $5,500/oz**, citing three pressures: stronger USD, rising oil prices, and a shift in rate expectations (higher real yields). UBS's near-term target is $5,200/oz by June 2026. Key quote: *"Markets are rediscovering the concept of opportunity cost."* UBS still expects ~950t of official CB purchases in 2026. (source: Kitco, TheStreet, May 27 2026)
 
-**JPMorgan raise (June 2026)**: J.P. Morgan now sees gold at **$6,300/oz** by end-2026, placing it at the upper end of the Wall Street range. Forecasts underpinned by continued strong investor and central bank gold demand averaging ~585t/quarter. (source: TheStreet, J.P. Morgan Global Research June 2026)
+**JPMorgan (June 2026)**: J.P. Morgan sees gold at **$6,000/oz** by end-2026 (revised down from $6,300; full-year average cut to $5,243). Underpinned by continued strong investor and central bank gold demand averaging ~585t/quarter. (source: TheStreet, J.P. Morgan Global Research June 2026)
 
-The range of institutional targets is now **$5,200–$6,300** for end-2026. After a round of near-term downgrades and the Wells Fargo / JPM / RBC upgrades, the consensus for end-2026 clusters in the $5,200–$6,300 range. The LBMA average consensus sits at $4,741.97 — gold is currently at $4,539 on June 1, still 16% below Goldman's $5,400 and 28% below JPM's $6,300 target.
+The range of institutional targets is now **$4,900–$6,000** for end-2026 (Goldman at the bottom after June 22 cut; JPM at top). Goldman's cut has narrowed and lowered the Wall Street consensus range. The LBMA average consensus sits at $4,741.97 — gold is at $4,197.75 on June 22, now 6.1% below Goldman's revised $4,900 target and 43% below JPM's $6,000 target.
 
 ## Related pages
 

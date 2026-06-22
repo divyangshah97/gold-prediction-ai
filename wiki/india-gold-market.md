@@ -1,10 +1,29 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~23% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 19, MCX gold **~₹1,47,000–₹1,49,660/10g**; USD/INR **~₹94.50**; XAU/USD **~$4,210** (Asian session; US Juneteenth holiday); WTI **$77.10/bbl**; Silver **$64.26/oz**; DXY **100.72** (highest since May 2025). **MAJOR: India gold imports confirmed down 70% to 25–30t/month** (government official, June 18). MCX silver crashed ~₹6,000/kg. US-Iran MOU signed at Palace of Versailles June 17–18 (60-day nuclear talks clock running). RBI 880.52t unchanged; 6 AMCs capping ETF subscriptions; $3.48B YTD ETF inflows.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective ~23% landed cost with AIDC+GST), PM Modi's May 2026 public appeal to defer purchases, and Q1 2026 seeing investment demand overtake jewellery demand for the first time ever. As of June 22, MCX gold **~₹1,46,220–₹1,53,000/10g**; USD/INR **₹94.61** (stable); XAU/USD **$4,197.75** (+1.11% intraday); WTI **$77.54/bbl**; DXY **100.82** (flat). **MAJOR (June 22): Goldman Sachs cut end-2026 gold target $5,400→$4,900** — most bearish major bank; JPM still $6,000. India gold imports confirmed down 70% to 25–30t/month (government official, June 18). RBI 880.52t unchanged; 6 AMCs capping ETF subscriptions; $3.48B YTD ETF inflows.
 
-**Sources**: `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-17-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-537342-2026-06-17, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.republicworld.com/business/india-gold-market-retail-demand-moderates-as-high-prices-and-season-end-impact-sales-2026-06-05-127036
+**Sources**: `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-rates-on-june-17-2026-check-latest-prices-for-24k-22k-18k-in-delhi-mumbai-chennai-kolkata-537342-2026-06-17, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.republicworld.com/business/india-gold-market-retail-demand-moderates-as-high-prices-and-season-end-impact-sales-2026-06-05-127036
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-06-22
+
+---
+
+## MCX Gold Price (June 22, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold (24K retail, city range) | ~**₹1,46,220–₹1,53,000 per 10g** |
+| USD/INR rate | **₹94.61** (+0.11%; stable) |
+| Global spot (XAU/USD) | **$4,197.75** (+1.11% intraday) |
+| Silver (XAG/USD) | **$66.36/oz** (+2.33%) |
+| DXY | **100.82** (+0.10% — flat) |
+| WTI crude | **$77.54/bbl** (+0.27%) |
+
+Note: Gold rose modestly +1.11% on June 22 (Monday) — partial recovery from 3rd consecutive weekly decline. Key macro drivers: **Goldman Sachs cut year-end gold target from $5,400 → $4,900** (most bearish major bank), partially offset by silver's strong recovery (+2.33%). US-Iran 60-day nuclear talks roadmap confirmed June 21 (NPR) — de-escalation sustained. USD/INR first entry with confirmed value (₹94.61) — prior rows had no USD_INR data. DXY flat at 100.82 (+0.10% from 100.72 June 19). **MCX range** ₹1,46,220–₹1,53,000/10g reflects city-level variation; USD/INR stable at ₹94.61.
+
+**Goldman Sachs target cut impact on India**: GS $4,900 implies gold at ~₹1,33,000–₹1,38,000/10g at current USD/INR (₹94.61). India retail currently trades at ₹1,46,220–₹1,53,000 — a significant premium to Goldman's year-end implied level. This creates a bearish outlook for domestic prices if the GS cut triggers wider institutional conviction.
+
+**Prior session (June 19)**: MCX ~₹1,47,000–₹1,49,660/10g; XAU ~$4,210 (Asian session; COMEX closed Juneteenth); DXY 100.72; WTI $77.10; USD/INR ~₹94.50.
 
 ---
 

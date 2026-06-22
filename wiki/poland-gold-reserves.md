@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.gold.org/goldhub/gold-focus/2026/06/central-bank-gold-statistics-central-banks-resume-net-buying-april, https://phemex.com/news/article/poland-increases-gold-reserves-to-613-tons-aims-for-700-tons-88034, https://www.scottsdalemint.com/articles/2026/breaking-polish-central-bank-approves-plan-to-buy-150-more-tons-gold/, https://www.indexbox.io/blog/central-banks-report-net-gold-purchases-of-17-tonnes-in-april-2026/
 
-**Last updated**: 2026-06-12
+**Last updated**: 2026-06-22
 
 ---
 
