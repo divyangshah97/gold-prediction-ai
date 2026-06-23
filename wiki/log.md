@@ -4,6 +4,44 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-23 — Daily update: Gold $4,129.07 (−1.49%); Death cross forming; Iran IAEA milestone; MS base $4,400 | Signal: Wait (−1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-23.md` — MCX ₹1,47,818/10g (+0.42%; outperforming XAU on INR weakness); XAU/USD $4,129.07 (−1.49%); Silver $64.54 (+0.4%); MCX Silver crashed ~₹9,000/kg; DXY 100.93; WTI $73.67; USD/INR ₹94.68 (7% weaker YTD); death cross forming; Goldman $4,900; MS base $4,400
+
+**Prices fetched** (web search — yfinance 403 + metals.dev 403 failed):
+- Gold: $4,129.07/oz (−1.49%) | Silver: $64.54/oz (+0.4%) | DXY: 100.93 (+0.21%) | WTI: $73.67/bbl (−0.26%) | USD/INR: ₹94.68
+
+**Holiday check**: June 23, 2026 — Tuesday. Not an Indian market holiday. Proceeding with full update.
+
+**Signal**: Wait, Score: **−1**
+- Factor 1 (Price vs targets): +1 — $4,129.07 is 15.7% below Goldman's new $4,900 target (>15% = Bullish)
+- Factor 2 (Geopolitical): −1 — US-Iran 60-day roadmap active (Day 6); IAEA inspectors invited back; de-escalation sustained → Bearish
+- Factor 3 (Fed/macro): −1 — Hawkish hold June 17; dot plot median 3.8%; ~70% market probability of hike by Sep; DXY 100.93 near 1-year high → Bearish
+- Factor 4 (CB demand): +1 — WGC CB Survey published June 16 (within 7-day window): record 45% CBs plan to increase holdings → Bullish
+- Factor 5 (Technicals): −1 — Below 9d EMA (~$4,305) AND 50d EMA (~$4,545); 50d > 9d = downtrend; 2 red days (June 22 and June 23) → Bearish
+- Factor 6 (Dollar Pressure): 0 — DXY June 22: 100.82 → June 23: 100.93; dxy_pct = +0.11% (within 1% → dxy_signal = 0). USD_INR prior row (June 22) not detected → inr_signal = 0. factor6 = 0 → Neutral
+
+**Global CB sweep results**:
+- No new country-specific CB purchase/sale data found today
+- **Iran**: IAEA inspectors invited back — VP Vance cited as "major milestone"; three working groups active (oversight, sanctions, nuclear)
+- **All major holders** (Germany, France, Italy, Japan, USA, UK, Saudi Arabia): No new data
+- **Macro**: Death cross forming (50d EMA ~$4,545 converging to 200d EMA ~$4,334); downside target $3,440 cited; Morgan Stanley base case $4,400 (H2 upside $5,200)
+
+**Wiki pages updated**:
+- `wiki/global-cb-activity-log.md` — 14 new rows for 2026-06-23
+- `wiki/goldman-sachs-gold-forecast.md` — Morgan Stanley base case $4,400 added; last updated
+- `wiki/iran-conflict-2026.md` — June 23 timeline row added (IAEA milestone)
+- `wiki/india-gold-market.md` — June 23 MCX price section added; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — Summary updated; June 19-23 timeline rows added
+- `wiki/index.md` — Goldman, Iran, India, geopolitical, CB log entries updated
+- `wiki/log.md` — This entry
+
+**Commit (reconstructed from routine log)**: `251ad6b` — "Daily update 2026-06-23: Goldman cuts to $4,900; Iran roadmap; death cross | Signal: Wait (-1)"
+*(Note: original commit was not pushed due to expired GitHub PAT; this entry reconstructed from routine output log)*
+
+---
+
 ## 2026-06-22 — Daily update: Gold $4,197.75 (+1.11%); Goldman CUTS $5,400→$4,900; Iran-US 60d roadmap confirmed; PCE 3.6%; Signal: Wait (−1)
 
 **Raw file created**:

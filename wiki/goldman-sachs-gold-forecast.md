@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-06-23
 
 ---
 
@@ -18,7 +18,7 @@
 3. **Warsh hawkish tone** — PCE revised sharply higher to 3.6% (from 2.7%); commitment to price stability
 4. **Downside scenario**: If Fed hikes, Goldman sees gold at $4,400/oz
 
-Goldman is now the **most bearish major bank**: JPM still $6,000, Deutsche Bank $6,000, UBS $5,500, Morgan Stanley $5,200. Goldman $4,900 sits below the institutional consensus range.
+Goldman is now the **most bearish major bank** on year-end target: JPM $6,000, Deutsche Bank $6,000, UBS $5,500 all above GS $4,900. However, **Morgan Stanley's base case scenario is $4,400** (H2 upside capped at $5,200) — making MS the most bearish on a base-case basis. Goldman $4,900 sits below prior institutional consensus range but above MS base case.
 
 **Market context at time of cut**: Gold $4,197.75 (+1.11% intraday June 22). $4,197.75 is 14.3% below the new $4,900 target — still implies meaningful upside but sharply reduced vs the prior $5,400 benchmark.
 

@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump, https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates, https://www.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-06-23
 
 ---
 
@@ -47,6 +47,7 @@
 | **June 19, 2026** | **Gold extends losses in Asian session** to ~$4,210 (−2.4% from $4,312.49 June 18 close). US markets closed (Juneteenth). DXY surged to **100.72** (highest since May 2025) as FOMC hawkish repricing continues. WTI bounced to **$77.10/bbl** (+2.1% from $75.49) — residual Iran deal uncertainty (Trump's "may not be over" comment; Israel angry; Iran silent on US text). Gold on track for **3rd consecutive weekly decline**. Silver collapsed to $64.26/oz (−7.8%). India: **gold imports confirmed down 70% to 25–30t/month** (government official June 18). 60-day nuclear follow-on talks window: Day 2. |
 | **June 21, 2026 (weekend)** | **US and Iran agreed to a 60-day peace roadmap** — formalised framework for final deal within 60 days (NPR, June 21). A **nuclear monitoring committee** was established; Lebanese hostilities to end; **$24 billion in frozen Iranian assets to be released** during talks (phased). Strait of Hormuz reopening proceeding. Israel continues to object but is not blocking the process. This is the clearest diplomatic step since the Versailles MOU signing June 17-18. 60-day talks clock Day 4. |
 | **June 22, 2026** | **Gold $4,197.75** (+1.11% intraday; slight recovery). DXY 100.82 (+0.10% — flat). WTI $77.54/bbl (+0.27%). USD/INR ₹94.61 (+0.11% — stable). Iran-US 60-day roadmap confirmed from June 21 → de-escalation sustained → **bearish for gold's geopolitical risk premium** (Factor 2 = −1). **Goldman Sachs cut year-end gold target from $5,400 → $4,900** — the most bearish bank on Wall Street. 60-day nuclear follow-on talks window: Day 5. MCX gold ~₹1,46,220–₹1,53,000/10g. |
+| **June 23, 2026** | **Gold $4,129.07** (−1.49%; significant daily drop). DXY 100.93 (+0.21% — near 1-year high). WTI $73.67/bbl (−0.26%). USD/INR ₹94.68. Iran-US 60-day talks Day 6: **VP Vance cited IAEA inspectors returning to Iran as "major milestone."** Three working groups active (oversight, sanctions, nuclear). De-escalation thesis intact → **bearish for geopolitical risk premium**. **Death cross forming**: 50d EMA (~$4,545) converging toward 200d EMA (~$4,334); downside target $3,440 if completed. Morgan Stanley base case $4,400. MCX gold ₹1,47,818/10g (+0.42% — INR weakness offsetting XAU drop). |
 
 ---
 

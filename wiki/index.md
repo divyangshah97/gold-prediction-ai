@@ -57,7 +57,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 22**: **Goldman cuts $5,400→$4,900** (most bearish major bank; PCE 3.6%); Iran-US 60d roadmap confirmed ($24B asset release; monitoring committee); Gold $4,197.75 (+1.11%); DXY 100.82; USD/INR ₹94.61 (first value); 14 rows added; updated June 22 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 23**: death cross forming (50d→200d EMA); IAEA inspectors invited back (Iran "major milestone"); Gold $4,129 (−1.49%); DXY 100.93; WTI $73.67; MS base $4,400; 14 rows added; updated June 23 |
 
 ### Geopolitics & Macro
 
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **~$4,210** (June 19 Asian session; COMEX closed Juneteenth); Iran MOU signed Versailles; DXY 100.72 (highest since May 2025); Silver −7.8%; ~22% below Goldman $5,400; below BOTH EMAs (9d ~$4,286, 50d ~$4,540); Signal: Wait (score −2); updated June 19 |
+| [[gold-geopolitical-risk-premium]] | **$4,129.07** (June 23, −1.49%); **death cross forming** (50d EMA $4,545 → 200d EMA $4,334; downside $3,440); Iran IAEA milestone; DXY 100.93; Goldman $4,900; MS base $4,400; Signal: Wait (−1); updated June 23 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | MOU signed at Palace of Versailles June 17-18; **June 21: 60-day roadmap formalised** (nuclear monitoring committee; $24B asset release; Lebanese hostilities ending); 60-day nuclear talks Day 5; Gold $4,197.75; WTI $77.54; updated June 22 |
-| [[fed-macro-factors]] | **PCE revised to 3.6%** (from 2.7%) — key Goldman cut driver; FOMC hawkish dot plot June 17 (Oct hike possible); DXY 100.82; **Goldman cut gold target $5,400→$4,900**; Fed cuts pushed to 2027; next FOMC late July 2026; updated June 22 |
+| [[iran-conflict-2026]] | MOU signed Versailles June 17-18; 60d roadmap June 21-22; **June 23: IAEA inspectors invited back** (VP Vance: "major milestone"); 3 working groups active; Gold $4,129; WTI $73.67; updated June 23 |
+| [[fed-macro-factors]] | PCE 3.6%; FOMC dot plot June 17 (~70% hike by Sep); DXY 100.93 near 1-year high; Goldman $4,900; **Morgan Stanley base case $4,400**; death cross forming; next FOMC late July 2026; updated June 22 |
 
 ### Institutional Flows
 
@@ -81,5 +81,5 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | **GS CUT to $4,900/oz** (from $5,400 on June 22 — most bearish major bank); JPM $6,000; UBS $5,500; Deutsche Bank $6,000; range $4,900–$6,000; downside $4,400 if Fed hikes; updated June 22 |
-| [[india-gold-market]] | MCX ~**₹1,46,220–₹1,53,000/10g** (June 22, 24k retail range); USD/INR ₹94.61 (first confirmed value); XAU/USD $4,197.75; Goldman cut $4,900 implies domestic ~₹1,33,000–₹1,38,000; imports −70% (25–30t/month); 6 AMCs ETF caps; updated June 22 |
+| [[goldman-sachs-gold-forecast]] | **GS $4,900/oz** (cut from $5,400); **Morgan Stanley base case $4,400** (H2 upside $5,200); JPM $6,000; UBS $5,500; Deutsche Bank $6,000; death cross forming (downside $3,440); range $4,400–$6,000; updated June 23 |
+| [[india-gold-market]] | MCX **₹1,47,818/10g** (+0.42%; June 23 — outperforming XAU on INR weakness); USD/INR ₹94.68; XAU/USD $4,129 (−1.49%); Goldman $4,900 implies MCX ~₹1,33,500; Silver crashed ~₹9,000/kg; imports −70%; 6 AMCs ETF caps; updated June 23 |

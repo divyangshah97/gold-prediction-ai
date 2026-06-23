@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-06-23
 
 ---
 
@@ -73,6 +73,28 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-06-23
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-06-23 | 🌐 Global (Macro) | **Death cross forming; gold $4,129; DXY 100.93 near 1-year high** | Gold fell **−1.49% to $4,129.07**. **Death cross forming**: 50d EMA (~$4,545) converging toward 200d EMA (~$4,334). If completed, technicians cite downside target $3,440. DXY 100.93 (+0.21% — near 1-year high; hawkish Fed). WTI $73.67/bbl (−0.26%). Silver $64.54/oz (+0.4% — small recovery). Morgan Stanley base case: **$4,400/oz** (H2 upside capped $5,200). Goldman $4,900 year-end target confirmed. WGC CB Survey (June 16): record 45% CBs plan to increase gold; 89% expect global holdings to rise. See [[gold-geopolitical-risk-premium]], [[goldman-sachs-gold-forecast]], [[fed-macro-factors]]. | Web search June 23, 2026; Kitco; Reuters |
+| 2026-06-23 | 🌐 Global (Geopolitical) | **Iran-US talks Day 6: IAEA inspectors invited back — "major milestone"** | US-Iran 60-day nuclear talks Day 6. **VP Vance cited Iran inviting IAEA inspectors back as a "major milestone."** Three working groups active: oversight, sanctions, nuclear. $24B frozen Iranian assets release proceeding (phased). Lebanese hostilities ending. Strait of Hormuz reopening on track. De-escalation thesis intact and deepening → **bearish for gold's geopolitical risk premium**. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | https://www.npr.org/2026/06/21/nx-s1-5858590/us-iran-deal-roadmap-monitoring-committee; Web search June 23, 2026 |
+| 2026-06-23 | 🌐 Global (WGC/CB) | WGC CB Survey 2026 — within 7d window for signal | WGC 9th Annual Central Bank Gold Reserves Survey 2026 (published June 16): record **45%** of CBs plan to increase gold reserves; **89%** expect global holdings to rise in 12 months; gold surpassed US Treasuries as world's #1 reserve asset. Within 7-day window → Factor 4 = Bullish (+1). No new country-specific CB purchase/sale data found today. See [[central-bank-gold-demand]]. | https://www.kitco.com/news/article/2026-06-16/record-45-central-banks-plan-increase-gold-holdings-wgc-survey-finds |
+| 2026-06-23 | 🇵🇱 Poland (NBP) | No new data | Latest: 613t (May +18t confirmed ~June 12); YTD ~63t; targeting 700t; 150t additional plan approved. No new June announcement. See [[poland-gold-reserves]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇨🇳 China (PBoC) | No new data | Latest: May 2026 +9.95t (announced June 8; 19-month streak; total 2,331.52t). No new June disclosure. Next announcement expected July 2026 cycle. See [[china-pboc-gold]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇩🇪 Germany (Bundesbank) | No new data | ~1,236t at FRBNY; CDU still blocking repatriation. AfD Bundestag motion pending — no vote taken. No new June 23 announcement. See [[germany-gold-reserves]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇫🇷 France (Banque de France) | No new data | All 2,437t on French soil since April 2026. No new BdF statements. See [[france-gold-reserves]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇺🇸 USA (Treasury/Fed) | Hawkish Fed; 8,133t gold unchanged | **~70% market probability of rate hike by September 2026** (dot plot June 17: 9/18 FOMC project hikes; median 3.8%). DXY 100.93. 8,133t US gold reserve unchanged since 1971. No Fort Knox audit or revaluation proposals. See [[usa-gold-reserves]], [[fed-macro-factors]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇸🇦 Saudi Arabia (SAMA) | No new data | 323.07t static since 2010. No SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇮🇷 Iran (CBI) | Geopolitical — Day 6; IAEA inspectors invited back | 60-day follow-on nuclear talks Day 6. IAEA inspectors invited back — cited by VP Vance as "major milestone." Three working groups (oversight, sanctions, nuclear). De-escalation on track. CBI gold accumulation rationale diminishing. No new CBI reserve announcements. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇯🇵 Japan (BoJ) | No new data | 845.97t static Q1 2026. No BoJ or MoF gold allocation statements. See [[japan-gold-reserves]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇬🇧 UK (Bank of England) | No new data | 310.29t static. No LBMA vault flow data or BoE custodial changes. See [[uk-gold-reserves]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇮🇹 Italy (Banca d'Italia) | No new data | 2,452t static. Fratelli d'Italia ownership dispute ongoing; no resolution. See [[italy-gold-reserves]]. | Web search June 23, 2026 |
+| 2026-06-23 | 🇮🇳 India (RBI + Market) | Price update — MCX outperforms on INR weakness | MCX gold **₹1,47,818/10g** (+0.42%); XAU/USD **$4,129.07** (−1.49%); USD/INR **₹94.68** (7% weaker YTD — driving MCX divergence). Silver crashed ~₹9,000/kg. DXY 100.93. WTI $73.67/bbl. Goldman $4,900 target implies MCX ~₹1,33,500/10g (10% below current). RBI 880.52t unchanged. 6 AMCs ETF caps in place. See [[india-gold-market]], [[india-rbi-gold]]. | `raw/india-gold-2026-06-23.md` |
+| 2026-06-23 | 🇷🇺 Russia (Bank of Russia) | No new data | Latest: April 2026 −6t (WGC June 3); YTD −22t; total ~2,282t. No new June 23 announcement. See [[russia-gold-reserves]]. | Web search June 23, 2026 |
 
 ---
 
