@@ -18,7 +18,7 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 
 | Event | XAU/USD |
 |---|---|
-| **June 24, 2026** | **~$4,089** (−0.95%) — 7-month low; DXY **101.45** (fresh 13-month high; PMI 52.2); WTI $73.90; Silver $62.06 (−3.85%); Iran IAEA dispute clouds deal; death cross still forming; MCX ₹1,44,114/10g (−2.5%); Signal: Wait (−1) |
+| **June 24, 2026** | **$4,104.90** (−0.58%) — 7-month low; DXY **101.50** (fresh 13-month high; PMI 52.2); WTI $72.67 (−1.36%); Silver $62.10 (−3.78%); Iran IAEA dispute clouds deal; death cross still forming; MCX ₹1,44,114/10g (−2.5%); USD/INR ₹94.69 (flat); Signal: Wait (−1) |
 | **June 23, 2026** | **$4,129.07** (−1.49%) — death cross forming (50d EMA $4,545 → 200d EMA $4,334); DXY 100.93; WTI $73.67; Goldman $4,900 target; Morgan Stanley base $4,400; downside target $3,440 if death cross completes |
 | **June 22, 2026** | **$4,197.75** (+1.11%) — partial recovery; Goldman CUT $5,400→$4,900; Iran-US 60d roadmap confirmed; DXY 100.82; WTI $77.54; USD/INR ₹94.61 (first confirmed value) |
 | **June 21, 2026 (weekend)** | US-Iran 60-day peace roadmap formalised (NPR June 21): nuclear monitoring committee; $24B frozen assets to be released; Lebanese hostilities ending; IAEA inspectors invited back |

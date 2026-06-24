@@ -4,13 +4,13 @@ Append-only record of all wiki operations.
 
 ---
 
-## 2026-06-24 — Daily update: Gold ~$4,089 (−0.95%; 7-month low); DXY 101.45 (13-month high); Iran IAEA dispute; MCX ₹1,44,114 (−2.5%) | Signal: Wait (−1)
+## 2026-06-24 — Daily update: Gold $4,104.90 (−0.58%; 7-month low); DXY 101.50 (13-month high); Iran IAEA dispute; MCX ₹1,44,114 (−2.5%) | Signal: Wait (−1)
 
 **Raw file created**:
 - `raw/india-gold-2026-06-24.md` — MCX ₹1,44,114/10g (−2.5%; 7-month low); XAU/USD ~$4,089 (−0.95%); Silver $62.06 (−3.85%); DXY 101.45 (13-month high; PMI 52.2); WTI $73.90; USD/INR ₹94.84 (+0.17%); 15% import duty; ETF June recovery ~₹2,081cr
 
 **Prices fetched** (web search — yfinance 403 + metals.dev 403 failed):
-- Gold: ~$4,089/oz (−0.95%) | Silver: $62.06/oz (−3.85%) | DXY: 101.45 (fresh 13-month high) | WTI: $73.90/bbl | USD/INR: ₹94.84
+- Gold: $4,104.90/oz (−0.58%) | Silver: $62.10/oz (−3.78%) | DXY: 101.50 (fresh 13-month high) | WTI: $72.67/bbl | USD/INR: ₹94.69 | Volume: 35,534 contracts
 
 **Holiday check**: June 24, 2026 — Tuesday. Not an Indian market holiday (next holiday June 26 Muharram). Proceeding with full update.
 
