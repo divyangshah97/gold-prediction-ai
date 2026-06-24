@@ -6,7 +6,9 @@ Fallback chain:
   Gold, Silver : yfinance (3 retries + browser UA)  →  metals.dev API
   DXY, WTI     : yfinance only — prints DXY_MISSING / WTI_MISSING if yfinance fails
                  (the calling routine should patch those via web search)
-  Volume       : yfinance only — left blank if yfinance fails
+  Volume       : Yahoo Finance JSON API (primary, direct HTTP — bypasses yfinance 403)
+                 → yfinance (fallback)
+                 → prints VOLUME_MISSING if both fail
 
 Usage:
   python fetch_prices.py                        # append today / last trading day
@@ -112,6 +114,43 @@ def _fetch_yf(symbol: str, start: str, end: str, session: requests.Session):
 
 
 # ---------------------------------------------------------------------------
+# Yahoo Finance JSON API — primary volume source
+# ---------------------------------------------------------------------------
+
+def _fetch_yahoo_api_volume(days_back: int = 10) -> dict:
+    """
+    Fetch COMEX gold futures daily volume via Yahoo Finance JSON API.
+    Returns {date_str: volume_int} for the last `days_back` trading days.
+    This endpoint works in cloud environments where the yfinance library gets 403-blocked.
+    """
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/GC=F?interval=1d&range={days_back}d"
+    try:
+        resp = requests.get(url, timeout=10, headers=_BROWSER_HEADERS)
+        resp.raise_for_status()
+        body = resp.json()
+        result_list = body.get("chart", {}).get("result") or []
+        if not result_list:
+            print("  [yahoo-api/volume] empty result")
+            return {}
+        result = result_list[0]
+        timestamps = result.get("timestamp", [])
+        quote = result.get("indicators", {}).get("quote", [{}])[0]
+        volumes = quote.get("volume", [])
+        out = {}
+        import datetime
+        for ts, vol in zip(timestamps, volumes):
+            if vol is None:
+                continue
+            day = datetime.datetime.utcfromtimestamp(ts).strftime("%Y-%m-%d")
+            out[day] = int(vol)
+        print(f"  [yahoo-api/volume] fetched {len(out)} day(s): {sorted(out.keys())[-3:]}")
+        return out
+    except Exception as exc:
+        print(f"  [yahoo-api/volume] error: {exc}")
+        return {}
+
+
+# ---------------------------------------------------------------------------
 # metals.dev fallback (Gold + Silver only)
 # ---------------------------------------------------------------------------
 
@@ -175,6 +214,17 @@ def fetch_range(start: str, end: str, metals_key: str = None) -> list[dict]:
                 if vol is not None:
                     data[day]["Gold_Volume_Contracts"] = int(vol)
 
+    # --- Yahoo Finance direct API: primary volume source ---
+    yahoo_volumes = _fetch_yahoo_api_volume()
+    for day, vol in yahoo_volumes.items():
+        if day in data:
+            if vol > 0:
+                data[day]["Gold_Volume_Contracts"] = vol
+                print(f"  [yahoo-api/volume] {day} volume = {vol}")
+        # Also seed volume for days not yet in data (e.g. when yfinance failed entirely)
+        elif vol > 0:
+            data.setdefault(day, {})["Gold_Volume_Contracts"] = vol
+
     # --- metals.dev fallback for Gold / Silver ---
     needs_fallback = yf_failed & {"Gold_USD", "Silver_USD"}
     if needs_fallback and metals_key:
@@ -192,12 +242,14 @@ def fetch_range(start: str, end: str, metals_key: str = None) -> list[dict]:
             f"  [metals.dev] METALS_DEV_KEY not set — cannot fall back for {needs_fallback}"
         )
 
-    # --- signal missing DXY / WTI / USD_INR for caller to patch via web search ---
+    # --- signal missing fields for caller to patch via web search ---
     today_str = str(date.today())
     latest_day = max(data.keys()) if data else today_str
     for col in ("DXY", "WTI_Crude", "USD_INR"):
         if col in yf_failed or not data.get(latest_day, {}).get(col):
             print(f"{col}_MISSING")   # sentinel read by the routine prompt
+    if not data.get(latest_day, {}).get("Gold_Volume_Contracts"):
+        print("VOLUME_MISSING")       # sentinel: both yahoo-api and yfinance failed
 
     # Build output rows
     rows = []
