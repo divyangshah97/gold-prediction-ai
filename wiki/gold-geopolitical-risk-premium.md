@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 23, 2026, gold is at **$4,129.07** (−1.49%) — **death cross forming** (50d EMA ~$4,545 converging toward 200d EMA ~$4,334; downside target $3,440 cited). DXY **100.93** (near 1-year high). US-Iran 60-day roadmap confirmed June 21-22 (nuclear monitoring committee; $24B asset release; IAEA inspectors invited back). Goldman $4,900 target; Morgan Stanley base case $4,400. WGC CB Survey (June 16): record 45% CBs plan to increase gold. Signal: Wait (score −1).
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 24, 2026, gold is at **~$4,089** (−0.95%) — 7-month low. **DXY 101.45** (fresh 13-month high; hawkish Fed / strong US PMI 52.2). Iran-US IAEA inspection dispute complicates deal finalisation but 60-day roadmap intact. **Death cross forming** (50d EMA ~$4,545 converging toward 200d EMA ~$4,334; downside target $3,440). Goldman $4,900; JPM $6,000; UBS $5,500; Morgan Stanley $5,200. Signal: Wait (score −1).
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal
 
-**Last updated**: 2026-06-23
+**Last updated**: 2026-06-24
 
 ---
 
@@ -18,6 +18,7 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 
 | Event | XAU/USD |
 |---|---|
+| **June 24, 2026** | **~$4,089** (−0.95%) — 7-month low; DXY **101.45** (fresh 13-month high; PMI 52.2); WTI $73.90; Silver $62.06 (−3.85%); Iran IAEA dispute clouds deal; death cross still forming; MCX ₹1,44,114/10g (−2.5%); Signal: Wait (−1) |
 | **June 23, 2026** | **$4,129.07** (−1.49%) — death cross forming (50d EMA $4,545 → 200d EMA $4,334); DXY 100.93; WTI $73.67; Goldman $4,900 target; Morgan Stanley base $4,400; downside target $3,440 if death cross completes |
 | **June 22, 2026** | **$4,197.75** (+1.11%) — partial recovery; Goldman CUT $5,400→$4,900; Iran-US 60d roadmap confirmed; DXY 100.82; WTI $77.54; USD/INR ₹94.61 (first confirmed value) |
 | **June 21, 2026 (weekend)** | US-Iran 60-day peace roadmap formalised (NPR June 21): nuclear monitoring committee; $24B frozen assets to be released; Lebanese hostilities ending; IAEA inspectors invited back |

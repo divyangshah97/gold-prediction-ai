@@ -1,10 +1,27 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 22 UPDATE**: FOMC dot plot hawkish surprise (June 17) continues to weigh — markets price **one 25bp hike by October 2026**. PCE revised sharply to **3.6%** (from 2.7%) — the single clearest reason Goldman Sachs cut gold target $5,400→$4,900 on June 22. DXY 100.82 (flat from 100.72 June 19). Gold $4,197.75 — 5th week of losses. Fed cuts now pushed to 2027. Next FOMC: late July 2026.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 24 UPDATE**: DXY hits fresh **13-month high of 101.45** driven by strong US S&P Global Composite PMI (52.2) — reinforcing hawkish Fed expectations. **~66% probability of rate hike by December 2026** in market pricing. PCE at 3.6%; FOMC dot plot hawkish (June 17). Fed cuts pushed to 2027. Next FOMC: late July 2026. Gold ~$4,089 — continuing multi-week decline.
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-06-24
+
+---
+
+## June 24, 2026 — DXY Hits 13-Month High; Rate Hike Odds Firm
+
+**Key June 24 development**: The US Dollar Index (DXY) surged to **101.45** — a fresh 13-month high — driven by strong US S&P Global Composite PMI of **52.2** (well above expansion threshold of 50). This reinforces expectations that the Fed will not cut rates in 2026 and markets are now pricing a **~66% probability of at least one 25bp rate hike by December 2026**.
+
+**June 24 macro snapshot**:
+- **Gold ~$4,089** (−0.95% — 7-month low)
+- **DXY 101.45** (+0.51% from 100.93 — fresh 13-month high)
+- **WTI $73.90/bbl** (+0.31%)
+- **USD/INR ₹94.84** (+0.17% — stable)
+- **Silver $62.06/oz** (−3.85%)
+- **Rate hike probability**: ~66% for December 2026 (strong economic data maintaining hawkish path)
+- **PMI 52.2**: S&P Global Composite PMI for June — robust expansion; reduces case for Fed easing
+
+**US-Iran IAEA dispute**: Complicates nuclear deal finalisation but 60-day roadmap still active. No macro impact from geopolitics today — DXY strength is the dominant driver of gold weakness. MCX gold crashed −2.5% to ₹1,44,114/10g (7-month low).
 
 ---
 

@@ -4,6 +4,40 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-24 — Daily update: Gold ~$4,089 (−0.95%; 7-month low); DXY 101.45 (13-month high); Iran IAEA dispute; MCX ₹1,44,114 (−2.5%) | Signal: Wait (−1)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-24.md` — MCX ₹1,44,114/10g (−2.5%; 7-month low); XAU/USD ~$4,089 (−0.95%); Silver $62.06 (−3.85%); DXY 101.45 (13-month high; PMI 52.2); WTI $73.90; USD/INR ₹94.84 (+0.17%); 15% import duty; ETF June recovery ~₹2,081cr
+
+**Prices fetched** (web search — yfinance 403 + metals.dev 403 failed):
+- Gold: ~$4,089/oz (−0.95%) | Silver: $62.06/oz (−3.85%) | DXY: 101.45 (fresh 13-month high) | WTI: $73.90/bbl | USD/INR: ₹94.84
+
+**Holiday check**: June 24, 2026 — Tuesday. Not an Indian market holiday (next holiday June 26 Muharram). Proceeding with full update.
+
+**Signal**: Wait, Score: **−1**
+- Factor 1 (Price vs targets): +1 — ~$4,089 is 16.6% below Goldman's $4,900 target (>15% = Bullish)
+- Factor 2 (Geopolitical): 0 — Iran IAEA inspection dispute complicates deal but 60-day roadmap still active; ambiguous signal (complication vs. still-intact de-escalation) → Neutral
+- Factor 3 (Fed/macro): −1 — DXY 101.45 (13-month high); PMI 52.2 strong; ~66% Dec 2026 rate hike probability; hawkish → Bearish
+- Factor 4 (CB demand): 0 — WGC CB Survey (June 16) now 8 days old, outside 7-day window; no new CB purchase/sale found today → Neutral
+- Factor 5 (Technicals): −1 — Below 9d EMA (~$4,305) AND 50d EMA (~$4,545); 50d > 9d = downtrend; June 23 red + June 24 red = not 2 green → Bearish
+- Factor 6 (Dollar Pressure): 0 — DXY: 100.93→101.45; dxy_pct = +0.51% (within 1% → 0). USD/INR: 94.68→94.84; inr_pct = +0.17% (within 1% → 0). factor6 = 0 → Neutral
+
+**Global CB sweep results**:
+- No new country-specific CB purchase/sale data in last 24-48h
+- **Singapore (MAS)**: Launching gold clearing hub and central bank vaulting services — policy/infrastructure initiative (193.85t reserves unchanged)
+- **Turkey**: Recovery buying from March losses ongoing (April data; not fresh today)
+- **All major holders** (Germany, France, Italy, Japan, USA, UK, Saudi Arabia): No new data
+- **Iran**: IAEA inspection dispute clouds deal; 60-day roadmap Day 9 still active
+
+**Wiki pages updated**:
+- `wiki/india-gold-market.md` — new June 24 MCX section prepended
+- `wiki/global-cb-activity-log.md` — 17-row June 24 section added
+- `wiki/gold-geopolitical-risk-premium.md` — summary + price timeline updated
+- `wiki/fed-macro-factors.md` — June 24 DXY/macro section added
+- `wiki/index.md` — descriptions updated for 4 pages
+
+---
+
 ## 2026-06-23 — Daily update: Gold $4,129.07 (−1.49%); Death cross forming; Iran IAEA milestone; MS base $4,400 | Signal: Wait (−1)
 
 **Raw file created**:
