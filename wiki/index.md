@@ -51,13 +51,13 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; **June 11 FXStreet: "Germans demand bring our gold home"** — cross-party repatriation pressure growing (AfD + Green Party); CDU still refuses; France's $15B move cited as template; updated June 16 |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
 | [[france-gold-reserves]] | 2,437t — 4th largest; ALL gold now on French soil; sold 129t from FRBNY, rebought in Europe, made €13B ($15B) profit (Apr 2026) |
-| [[uk-gold-reserves]] | 310.29t own reserves; 2nd largest gold custodian (72+ central banks); Brown's Bottom 1999–2002 sale cost UK ~£48bn |
+| [[uk-gold-reserves]] | 310.29t own reserves; 2nd largest custodian (72+ CBs); **LBMA London vaults: 9,392t ($1.4T) end May 2026**; Brown's Bottom sale cost UK ~£48bn; updated June 25 |
 | [[japan-gold-reserves]] | 845.97t — 9th largest; static Q1 2026; only ~3–4% of $1.2T reserves; no active accumulation; largest potential swing buyer |
 | [[canada-gold-reserves]] | 0t — only G7 country with zero gold; sold everything by 2016; 1,023t peak in 1965 would be worth $132B today |
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 24**: DXY 101.45 (13-month high); Gold ~$4,089 (−0.95%; 7-month low); Iran IAEA dispute; Singapore MAS gold hub; MCX ₹1,44,114 (−2.5%); 17 rows added; updated June 24 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 25**: DXY 101.57 (14-month high); Gold $3,975 (−3.1%; 8-month low); 3 Fed hikes priced; Iran IAEA stalemate; LBMA 9,392t London vaults (end May 2026); MCX ₹1,45,216 (−0.9%); 15 rows added; updated June 25 |
 
 ### Geopolitics & Macro
 
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **$4,104.90** (June 24, −0.58%; 7-month low); **death cross forming** (50d EMA $4,545 → 200d EMA $4,334; downside $3,440); DXY **101.50** (13-month high); Iran IAEA dispute; Goldman $4,900; MS base $4,400; Signal: Wait (−1); updated June 24 |
+| [[gold-geopolitical-risk-premium]] | **$3,975** (June 25, −3.1%; **8-month low**); **death cross confirmed** (50d EMA ~$4,183–$4,334 declining; below 200d EMA); DXY **101.57** (14-month high); 3 Fed hikes priced; Iran IAEA stalemate; Goldman $4,900; MS base $4,400; Signal: Wait (−2); updated June 25 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
 | [[iran-conflict-2026]] | MOU signed Versailles June 17-18; 60d roadmap June 21-22; IAEA inspectors invited back (June 23); **June 24: IAEA inspection dispute clouds deal finalisation**; 3 working groups active; Gold ~$4,089; WTI $73.90; updated June 23 |
-| [[fed-macro-factors]] | PCE 3.6%; FOMC dot plot June 17 (~66% hike by Dec); **DXY 101.45** (fresh 13-month high; PMI 52.2); Goldman $4,900; **Morgan Stanley base case $4,400**; death cross forming; next FOMC late July 2026; updated June 24 |
+| [[fed-macro-factors]] | PCE 3.6%; **3 Fed hikes priced for 2026** (up from 1 pre-FOMC); **DXY 101.57** (14-month high); Gold $3,975 (8-month low); Silver $57.34 (−7.7%); Goldman $4,900; **Morgan Stanley base case $4,400**; death cross confirmed; next FOMC late July 2026; updated June 25 |
 
 ### Institutional Flows
 
@@ -82,4 +82,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[goldman-sachs-gold-forecast]] | **GS $4,900/oz** (cut from $5,400); **Morgan Stanley base case $4,400** (H2 upside $5,200); JPM $6,000; UBS $5,500; Deutsche Bank $6,000; death cross forming (downside $3,440); range $4,400–$6,000; updated June 23 |
-| [[india-gold-market]] | MCX **₹1,44,114/10g** (−2.5%; June 24 — 7-month low; DXY-driven); USD/INR ₹94.69; XAU/USD $4,104.90 (−0.58%); Goldman $4,900 implies MCX ~₹1,33,000; Silver $62.10/oz (−3.78%); imports −70%; 6 AMCs ETF caps; June ETF recovery ~₹2,081cr; updated June 24 |
+| [[india-gold-market]] | MCX **₹1,45,216/10g** (−0.9%; June 25); USD/INR ₹94.47 (slightly firmer); XAU/USD $3,975 (−3.1%; 8-month low); Goldman $4,900 implies MCX ~₹1,76,000 (domestic now 17% BELOW GS implied); Silver $57.34/oz (−7.7%); imports −39% May to $3.4B; 6 AMCs ETF caps; **MCX CLOSED June 26 (Muharram)**; updated June 25 |

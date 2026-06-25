@@ -1,10 +1,28 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 24 UPDATE**: DXY hits fresh **13-month high of 101.45** driven by strong US S&P Global Composite PMI (52.2) — reinforcing hawkish Fed expectations. **~66% probability of rate hike by December 2026** in market pricing. PCE at 3.6%; FOMC dot plot hawkish (June 17). Fed cuts pushed to 2027. Next FOMC: late July 2026. Gold ~$4,089 — continuing multi-week decline.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 25 UPDATE**: Markets now pricing **3 rate hikes in 2026** (up from 1 pre-June FOMC). DXY **101.57** — fresh 14-month high. Gold $3,975 (8-month low, −3.1%). Silver $57.34 (−7.7%). PCE at 3.6%; Fed rates held 3.50–3.75% (4th consecutive hold). Next FOMC late July 2026. Gold has shed ~32% from its Iran-conflict peak.
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.usagold.com/daily-precious-metals-market-report-june-24-2026/
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-06-25
+
+---
+
+## June 25, 2026 — Markets Price 3 Fed Hikes; Gold $3,975 (8-Month Low)
+
+**Key June 25 development**: Following the June FOMC meeting's hawkish dot plot and strong economic data, traders are now pricing **three interest rate hikes** from the US Federal Reserve in 2026 — compared with just one hike being priced before the June 16-17 meeting. This is the single most bearish macro development for gold since the Iran conflict ended. The US dollar rose to a **14-month high** (DXY 101.57), making gold more expensive for overseas buyers and amplifying the sell-off.
+
+**June 25 macro snapshot**:
+- **Gold $3,975** (−3.1% — 8-month low)
+- **DXY 101.57** (+0.07% from 101.495 — fresh 14-month high; continuing climb)
+- **WTI $71.48/bbl** (−1.64% — "crude oil dropped near/below $70 on extended losses")
+- **Silver $57.34/oz** (−7.7% — metals across the board under pressure)
+- **USD/INR ₹94.47** (−0.23% — rupee slightly stronger; not offsetting COMEX drop for MCX)
+- **Rate hike expectation**: 3 hikes priced for 2026 (CME FedWatch), up from 1 pre-FOMC
+- **Fed Chair Warsh**: Maintained hawkish tone; rates at 3.50–3.75% but guidance leans toward multiple hikes if inflation stays elevated
+- **Next FOMC**: Late July 2026 — data window between now and then critical
+
+**Bullion impact**: Gold has now shed ~32% from its Iran-conflict peak (~$5,200 in March 2026) and ~29% from its all-time high ($5,589 Jan 28, 2026). The CNBC headline from June 24 called it a "two-week low"; by June 25 the 8-month-low threshold was breached. Silver's -7.7% single-day drop signals industrial metals complex under broad pressure. (source: https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html; https://www.usagold.com/daily-precious-metals-market-report-june-24-2026/)
 
 ---
 

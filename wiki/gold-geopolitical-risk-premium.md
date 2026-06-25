@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 24, 2026, gold is at **~$4,089** (−0.95%) — 7-month low. **DXY 101.45** (fresh 13-month high; hawkish Fed / strong US PMI 52.2). Iran-US IAEA inspection dispute complicates deal finalisation but 60-day roadmap intact. **Death cross forming** (50d EMA ~$4,545 converging toward 200d EMA ~$4,334; downside target $3,440). Goldman $4,900; JPM $6,000; UBS $5,500; Morgan Stanley $5,200. Signal: Wait (score −1).
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of June 25, 2026, gold is at **~$3,975** (−3.1%) — 8-month low. **DXY 101.57** (14-month high); markets pricing **3 Fed rate hikes** in 2026. Iran-US IAEA inspection dispute stalling (Iran won't allow inspectors until full sanctions lift). **Death cross confirmed** (50d EMA ~$4,334 crossing below 200d EMA). Goldman $4,900; JPM $6,000; Morgan Stanley base $4,400. Signal: Wait (score −2).
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.vantagemarkets.com/market-analysis/xauusd-gold-price-analysis-june-24-2026/
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-06-25
 
 ---
 
@@ -18,6 +18,7 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 
 | Event | XAU/USD |
 |---|---|
+| **June 25, 2026** | **$3,975** (−3.1%) — **8-month low**; DXY **101.57** (14-month high); WTI $71.48 (−1.64%); Silver $57.34 (−7.7%); Iran IAEA dispute: Iran insists no inspectors until all sanctions lifted (NPR June 24); markets pricing 3 Fed hikes in 2026; death cross confirmed (50d ~$4,183 declining fast; 200d ~$4,334 — crossed); MCX ₹1,45,216/10g (−0.9%); USD/INR ₹94.47 (rupee slightly firmer); Signal: Wait (−2) |
 | **June 24, 2026** | **$4,104.90** (−0.58%) — 7-month low; DXY **101.50** (fresh 13-month high; PMI 52.2); WTI $72.67 (−1.36%); Silver $62.10 (−3.78%); Iran IAEA dispute clouds deal; death cross still forming; MCX ₹1,44,114/10g (−2.5%); USD/INR ₹94.69 (flat); Signal: Wait (−1) |
 | **June 23, 2026** | **$4,129.07** (−1.49%) — death cross forming (50d EMA $4,545 → 200d EMA $4,334); DXY 100.93; WTI $73.67; Goldman $4,900 target; Morgan Stanley base $4,400; downside target $3,440 if death cross completes |
 | **June 22, 2026** | **$4,197.75** (+1.11%) — partial recovery; Goldman CUT $5,400→$4,900; Iran-US 60d roadmap confirmed; DXY 100.82; WTI $77.54; USD/INR ₹94.61 (first confirmed value) |
@@ -56,26 +57,23 @@ It is distinct from **structural demand** (e.g. [[central-bank-gold-demand]], [[
 
 The [[iran-conflict-2026]] drove the single largest acute risk premium spike of 2026 (~$1,200/oz from baseline to peak). The Trump-Xi summit then compressed the remaining premium by a further ~$120–$220/oz. Gold holding above the 200-day SMA ($4,341) reflects the intact structural floor from [[central-bank-gold-demand]].
 
-## Current Technical Levels (June 16, 2026)
+## Current Technical Levels (June 25, 2026)
 
 | Level | Price | Notes |
 |---|---|---|
-| All-time high | $5,589 | January 28, 2026 — gold now ~23% below |
-| Goldman target | $5,400 | Year-end 2026 — gold now ~20% below |
-| Resistance C | $4,700 | Backside of broken trendline |
-| Resistance B (50d EMA, est.) | ~$4,590 | 50-day SMA/EMA (est. June 16; was $4,627 June 10, slowly declining) — major overhead resistance |
-| 9-day EMA (est.) | ~$4,304 | Est. June 16 — gold ($4,314.53) is ABOVE 9d EMA |
-| 200-day SMA/MA zone | ~$4,300–$4,350 | Gold at $4,314 is IN this zone; FOMC outcome determines recapture vs breakdown |
-| Current price | **$4,314.53** | June 16 (−0.2% from June 15); FOMC Day 1; DXY 99.56; WTI $80.41 |
-| Support A (immediate) | ~$4,242 | Volume reversal level (FXStreet June 14 analysis) — "breakout trigger" |
-| Support B | ~$4,059.90 | Technical support per analysts |
-| Support C (critical) | $3,800–$3,900 | Next major support; Fibonacci level |
-| Extreme downside target | ~$3,440 | -20% target if $4,280 support lost (FinanceMagnates June 2026) |
-| June 2026 analyst range | $4,186–$4,933 | Per technical analysts — price now in mid-lower range |
+| All-time high | $5,589 | January 28, 2026 — gold now ~29% below |
+| Goldman target | $4,900 | Year-end 2026 (cut from $5,400 on June 20) — gold now ~19% below |
+| Resistance B (50d EMA, est.) | ~$4,334 | 50-day EMA (est. June 25; now converging with 200d as death cross completes) |
+| 200-day SMA/MA zone | ~$4,334 | Gold well below; now overhead resistance |
+| 9-day EMA (est.) | ~$4,183 | Est. June 25 — gold ($3,975) is BELOW 9d EMA |
+| Current price | **$3,975** | June 25 (−3.1% from $4,104.90 June 24); DXY 101.57; WTI $71.48 |
+| Morgan Stanley base case | $4,400 | H2 upside $5,200 — current price 9.7% below MS base |
+| Support A | ~$3,800–$3,900 | Next major support; Fibonacci level |
+| Extreme downside target | ~$3,440 | -20% target if $4,280 support lost; death cross active (FinanceMagnates June 2026) |
 
-**EMA configuration (June 16)**: Price ($4,314.53) is **ABOVE 9-day EMA** (~$4,304, est.). Still BELOW 50-day SMA/EMA (~$4,590, est.). With 50d > 9d = **downtrend MA configuration** → **Bearish (−1)** in the signal framework. Last 2 days in CSV: June 15 ($4,323.18, GREEN vs June 12's $4,192.79) and June 16 ($4,314.53, RED vs June 15). Per technical table row "Above 9d, below 50d | 50d > 9d (downtrend) | Any | Bearish" → technicals score −1.
+**EMA configuration (June 25)**: Price ($3,975) is **BELOW both 9-day EMA** (~$4,183, est.) AND **50-day EMA** (~$4,334, est.). Death cross confirmed (50d now declining through 200d). Last 2 days both RED: June 24 (−0.58%) and June 25 (−3.1%). Per signal table: "Below both EMAs, not 2 green → **Bearish (−1)**".
 
-**200-day MA situation**: Gold is IN the 200-day MA zone ($4,300–$4,350). FOMC decision June 17 is the binary catalyst — a hawkish hold could break gold back below $4,200; a neutral/dovish hold could enable 200d MA recapture and launch toward $4,400–$4,500. Volume reversal pattern noted at $4,242 (FXStreet June 14) suggests strong technical floor at that level.
+**Death cross confirmed**: The 50-day EMA (~$4,183–$4,334 range, declining) has crossed or is crossing the 200-day EMA (~$4,334). Technical analysts cite downside target $3,440 if price cannot recapture the 200-day MA. Gold is now 29% below its January 28 ATH of $5,589 and has shed ~32% from its post-Iran-conflict peak of ~$5,200.
 
 ## Current Premium Drivers (as of May 2026)
 
