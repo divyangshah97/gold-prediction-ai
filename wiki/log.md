@@ -1102,3 +1102,26 @@ Report_Date: 2026-05-19 | MM_Net: +93,540 (N/A change — first entry) | OI: 379
 - `wiki/log.md` — created (this file)
 
 
+
+---
+
+## 2026-06-27 — COT weekly update FAILED: fetch_cot.yml failing since 2026-06-22 (5 consecutive days)
+
+**Status**: cot_latest.json absent from repo. cot.csv NOT updated. Last confirmed COT data: 2026-06-09 (MM_Net=+105,863).
+
+**Root cause**: `ModuleNotFoundError: No module named 'requests'` — the GitHub Actions runner (ubuntu-latest) was updated to Python 3.14.6 which does not bundle `requests` as a stdlib module. The workflow never included a `pip install requests` step. All 5 scheduled runs failed at the "Fetch CFTC disaggregated COT data" step within 1–2 seconds.
+
+**Affected runs** (all conclusion=failure):
+- 2026-06-26 21:47 UTC (run 28267122428)
+- 2026-06-25 22:01 UTC (run 28203251460)
+- 2026-06-24 21:53 UTC (run 28132048118)
+- 2026-06-23 21:55 UTC (run 28059775383)
+- 2026-06-22 22:21 UTC (run 27987969112)
+
+**Fix applied**: Added `pip install requests` before the Python heredoc in `.github/workflows/fetch_cot.yml`. Committed and pushed 2026-06-27. Workflow manually re-triggered.
+
+**Missing COT reports**: June 16 and June 23 CFTC reports were not captured during the outage. These will need to be backfilled manually or will be superseded by the next successful run (June 27 report if available, or June 30 on Monday).
+
+**Pages updated**:
+- `wiki/log.md` — this failure entry
+- `.github/workflows/fetch_cot.yml` — pip install fix applied
