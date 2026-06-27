@@ -26,6 +26,7 @@ jobs:
 
       - name: Fetch CFTC disaggregated COT data for COMEX Gold
         run: |
+          pip install requests
           python - <<'EOF'
           import requests, zipfile, io, csv, json, datetime, os, sys
 
