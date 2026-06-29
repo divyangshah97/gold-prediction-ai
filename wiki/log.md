@@ -4,6 +4,41 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-29 — Daily update: Gold ~$4,060 (+2.1% recovery); DXY 101.33; PCE 4.1% in-line; WTI $69.23 (4-month low); Uganda BoU first gold buy; MCX ₹1,43,305 (post-Muharram reopening) | Signal: Wait (−2)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-29.md` — MCX ₹1,43,305/10g (−1.3%; post-Muharram reopening); XAU/USD ~$4,060 (+2.1% recovery from $3,975 8-month low); Silver ~$59.70/oz; DXY 101.33 (easing); WTI $69.23 (4-month low); USD/INR ₹94.40 (+0.13%); 15% import duty in force; June demand slowing; 6+ AMCs ETF caps; Goldman $4,900 implies MCX ~₹1,69,000 (domestic 15% below GS target); Uganda BoU first gold purchase noted
+
+**Holiday check**: June 29, 2026 — Monday. Not an Indian market holiday. Previous trading day was Thursday June 25 (June 26 was Muharram holiday; June 27-28 weekend). Proceeding with full update.
+
+**Prices fetched** (web search — yfinance 403 + metals.dev 403 both failed; all manual via web search):
+- Gold: ~$4,060/oz (+2.1% from $3,975) | Silver: ~$59.70/oz | DXY: 101.33 (−0.24%) | WTI: ~$69.23/bbl | USD/INR: ₹94.40 (+0.13%) | Volume: not available
+
+**Signal**: Wait, Score: **−2**
+- Factor 1 (Price vs targets): +1 — ~$4,060 is ~17.2% below Goldman's $4,900 target (>15% = Bullish)
+- Factor 2 (Geopolitical): −1 — Iran-US preliminary deal framework progressing; WTI $69.23 (4-month low, Hormuz reopening priced in); de-escalation → geopolitical risk premium compressing → Bearish
+- Factor 3 (Fed/macro): −1 — PCE May 4.1% (in-line but elevated; Core 3.4%); 3 Fed hikes still priced (September 62%); DXY still 101.33 (elevated) → Hawkish environment → Bearish
+- Factor 4 (CB demand): 0 — WGC CB Survey (June 16) now 13 days old, outside 7-day window; Uganda BoU first buy April 18 (not a formal WGC publication within 7 days); no new CB data within 7-day window → Neutral
+- Factor 5 (Technicals): −1 — Below 9d EMA (~$4,150 est.) AND 50d EMA (~$4,240 est.); last 2 entries in prices.csv: June 24 RED (−0.58%) + June 25 RED (−3.1%) = not 2 green → Bearish
+- Factor 6 (Dollar Pressure): 0 — DXY: 101.57→101.33; dxy_pct = −0.24% (within ±1% band → 0). USD/INR: 94.47→94.40; inr_pct = −0.07% (within ±1% band → 0). factor6 = 0 → Neutral
+
+**Wiki pages updated**:
+- `wiki/global-cb-activity-log.md` — Added June 29 section (15 rows); Uganda BoU first gold purchase April 18 captured; Kenya CBK intentions noted; Iran Day ~18 roadmap update; PCE 4.1% macro logged
+- `wiki/gold-geopolitical-risk-premium.md` — Updated summary with June 29 data; added June 29 to price timeline (first row); updated Technical Levels section for June 29
+- `wiki/india-gold-market.md` — Added June 29 MCX price section (₹1,43,305/10g, −1.3%); updated summary; updated INR/USD tracking
+- `wiki/fed-macro-factors.md` — Added June 29 section (PCE 4.1% in-line; September 62% probability; key macro data calendar this week); updated summary
+- `wiki/iran-conflict-2026.md` — Updated summary with June 29 status (Day ~18 of 60; IAEA access unresolved; WTI $69.23)
+- `wiki/index.md` — Updated descriptions for global-cb-activity-log, gold-geopolitical-risk-premium, india-gold-market, fed-macro-factors, iran-conflict-2026
+
+**Central bank sweep findings (June 26–29)**:
+- Uganda: Bank of Uganda first gold purchase April 18, 2026 (new to wiki — logged in global-cb-activity-log)
+- Kenya: CBK Governor signalled gold-buying intentions (new to wiki — logged in global-cb-activity-log)
+- Poland, China, Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, Russia: No new June 26-29 announcements
+- WGC April data (Poland +14t, China +8t, Czech +3t) already in wiki from prior updates
+- No new individual country CB transactions found in 24-48h window
+
+---
+
 ## 2026-06-25 — Daily update: Gold $3,975 (−3.1%; 8-month low); DXY 101.57 (14-month high); 3 Fed hikes priced; Iran IAEA stalemate; MCX ₹1,45,216 (−0.9%) | Signal: Wait (−2)
 
 **Raw file created**:

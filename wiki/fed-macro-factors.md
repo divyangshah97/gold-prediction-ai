@@ -1,10 +1,29 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 25 UPDATE**: Markets now pricing **3 rate hikes in 2026** (up from 1 pre-June FOMC). DXY **101.57** — fresh 14-month high. Gold $3,975 (8-month low, −3.1%). Silver $57.34 (−7.7%). PCE at 3.6%; Fed rates held 3.50–3.75% (4th consecutive hold). Next FOMC late July 2026. Gold has shed ~32% from its Iran-conflict peak.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 29 UPDATE**: PCE May headline **4.1%** (in-line with estimates; slightly accelerated from April). Markets paring back rate hike bets slightly — **September hike now at 62% probability** (from ~70%). DXY **101.33** (easing from 101.57 14-month high). Gold ~$4,060 (recovering from $3,975 8-month low). Fed rates held at 3.50–3.75%; next FOMC late July 2026. Key macro data this week: PMI, JOLTS, NFP (June jobs report).
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.usagold.com/daily-precious-metals-market-report-june-24-2026/
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.usagold.com/daily-precious-metals-market-report-june-24-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/
 
-**Last updated**: 2026-06-25
+**Last updated**: 2026-06-29
+
+---
+
+## June 29, 2026 — PCE In-Line; Markets Pare Back Rate Hike Bets Slightly
+
+**Key June 29 development**: US PCE May data (released June 26) came in **broadly in line with expectations** — headline PCE **4.1%** (slightly higher than April's ~3.8%; Core PCE 3.4% in May vs 3.3% in April). The data was not worse than feared, triggering a modest pare-back in Fed rate hike bets. September hike probability eased from ~70% to **62%**. Markets still price 3 rate hikes total for 2026. This week brings additional macro catalysts: PMI data (June), JOLTS (May), and the June NFP/unemployment report.
+
+**June 29 macro snapshot**:
+- **Gold ~$4,060** (recovering from $3,975 June 25 8-month low)
+- **DXY 101.33** (−0.24% from 101.57 June 25 — slight easing from 14-month high)
+- **WTI $69.23/bbl** (near 4-month low; Iran de-escalation weighing on oil)
+- **Silver ~$59.70/oz** (recovering from $57.34 June 25 crash)
+- **USD/INR ₹94.40** (+0.13% — essentially flat)
+- **Fed funds rate**: 3.50–3.75% (held June 17; next FOMC late July 2026)
+- **September 2026 hike probability**: ~62% (down from ~70% pre-PCE)
+- **Core PCE (May 2026)**: 3.4% y/y (Fed's preferred measure; above 2% target)
+- **PCE headline (May 2026)**: 4.1% (highest since ~early 2026; tariff-driven partly)
+
+**June FOMC projections (released June 17)**: Median yearend 2026 fed funds rate: 3.75%–4.00% (quarter-point above current). Q4 2026 core PCE revised to 3.3% (from 2.7%). 9/18 FOMC members projecting at least one additional hike. Warsh tone: hawkish; emphasis on price stability. (source: https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm)
 
 ---
 

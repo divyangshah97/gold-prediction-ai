@@ -57,7 +57,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 25**: DXY 101.57 (14-month high); Gold $3,975 (−3.1%; 8-month low); 3 Fed hikes priced; Iran IAEA stalemate; LBMA 9,392t London vaults (end May 2026); MCX ₹1,45,216 (−0.9%); 15 rows added; updated June 25 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 29**: Gold $4,060 (+2.1% recovery); DXY 101.33 (easing); PCE 4.1% in-line; WTI $69.23 (4-month low); Uganda BoU first gold purchase April 18; Kenya CBK intentions noted; MCX ₹1,43,305; 15 rows added; updated June 29 |
 
 ### Geopolitics & Macro
 
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **$3,975** (June 25, −3.1%; **8-month low**); **death cross confirmed** (50d EMA ~$4,183–$4,334 declining; below 200d EMA); DXY **101.57** (14-month high); 3 Fed hikes priced; Iran IAEA stalemate; Goldman $4,900; MS base $4,400; Signal: Wait (−2); updated June 25 |
+| [[gold-geopolitical-risk-premium]] | **~$4,060** (June 29; +2.1% recovery from $3,975 8-month low June 25); death cross pattern intact (9d EMA ~$4,150; 50d EMA ~$4,240; both above price); DXY **101.33** (easing); PCE 4.1% in-line; Iran preliminary deal; Signal: Wait (−2); updated June 29 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | MOU signed Versailles June 17-18; 60d roadmap June 21-22; IAEA inspectors invited back (June 23); **June 24: IAEA inspection dispute clouds deal finalisation**; 3 working groups active; Gold ~$4,089; WTI $73.90; updated June 23 |
-| [[fed-macro-factors]] | PCE 3.6%; **3 Fed hikes priced for 2026** (up from 1 pre-FOMC); **DXY 101.57** (14-month high); Gold $3,975 (8-month low); Silver $57.34 (−7.7%); Goldman $4,900; **Morgan Stanley base case $4,400**; death cross confirmed; next FOMC late July 2026; updated June 25 |
+| [[iran-conflict-2026]] | Preliminary deal framework agreed; 60d roadmap Day ~18 (deadline mid-August); **IAEA inspection access unresolved** (Iran: only after full sanctions lifted); WTI **$69.23** (4-month low; Hormuz reopening priced in); 3 working groups active; updated June 29 |
+| [[fed-macro-factors]] | **PCE May 4.1%** (headline, in-line; Core 3.4%); 3 Fed hikes still priced (September 62% probability); **DXY 101.33** (easing from 14-month high); Gold ~$4,060 (recovering); Goldman $4,900; Morgan Stanley base $4,400; key data this week (PMI, JOLTS, NFP); next FOMC late July 2026; updated June 29 |
 
 ### Institutional Flows
 
@@ -82,4 +82,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[goldman-sachs-gold-forecast]] | **GS $4,900/oz** (cut from $5,400); **Morgan Stanley base case $4,400** (H2 upside $5,200); JPM $6,000; UBS $5,500; Deutsche Bank $6,000; death cross forming (downside $3,440); range $4,400–$6,000; updated June 23 |
-| [[india-gold-market]] | MCX **₹1,45,216/10g** (−0.9%; June 25); USD/INR ₹94.47 (slightly firmer); XAU/USD $3,975 (−3.1%; 8-month low); Goldman $4,900 implies MCX ~₹1,76,000 (domestic now 17% BELOW GS implied); Silver $57.34/oz (−7.7%); imports −39% May to $3.4B; 6 AMCs ETF caps; **MCX CLOSED June 26 (Muharram)**; updated June 25 |
+| [[india-gold-market]] | MCX **₹1,43,305/10g** (−1.3%; June 29 post-Muharram reopening); USD/INR ₹94.40; XAU/USD ~$4,060 (+2.1% recovery); Goldman $4,900 implies MCX ~₹1,69,000 (domestic 15% BELOW GS implied); Silver ~$59.70/oz; 6+ AMCs ETF caps in force; June demand slowing (seasonal lull + high prices); updated June 29 |
