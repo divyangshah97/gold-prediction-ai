@@ -4,6 +4,50 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-30 — Daily update: Gold $4,062 (flat); DXY 101.32 (flat); Iran IAEA access confirmed; WTI $70.44 (+1.76% rebound); MCX ~₹1,43,020 (flat); NFP July 3 key | Signal: Wait (0)
+
+**Raw file created**:
+- `raw/india-gold-2026-06-30.md` — MCX ~₹1,43,020/10g (flat from June 29); XAU/USD $4,062.49 (+0.07%); Silver $58.29/oz (−2.4%); DXY 101.3209 (flat); WTI $70.44 (+1.76%); USD/INR ₹94.5525 (+0.16%); 15% import duty in force; seasonal demand lull; 6+ AMCs ETF caps; 77% RBI gold now domestic (104.23t repatriated H2 FY25-26); Goldman $4,900 implies MCX ~₹1,69,000 (domestic 16–18% below GS target); NFP July 3 key catalyst
+
+**Holiday check**: June 30, 2026 — Tuesday. Not an Indian market holiday. June 26 was Muharram (closed); June 27-28 weekend; June 29 was first post-Muharram trading session. June 30 is a regular trading day. Proceeding with full update.
+
+**Prices fetched** (web search — yfinance 403 + metals.dev 403 both failed; all manual via web search):
+- Gold: $4,062.49/oz (+0.07%) | Silver: $58.29/oz (−2.4%) | DXY: 101.3209 (−0.009%) | WTI: $70.44/bbl (+1.76%) | USD/INR: ₹94.5525 (+0.16%) | Volume: not available
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — added June 30 price section; updated summary; updated RBI domestic storage (77%/680t); updated INR/USD rate; **Last updated: 2026-06-30**
+- `wiki/global-cb-activity-log.md` — added 16-row June 30 section: IAEA access confirmation; Poland 595.647t/45.4t YTD; Czech 7.6t YTD/38 consecutive months; Kazakhstan 13.3t YTD; all major holders/buyers/sellers updated; Factor 4 = Neutral (no new data in 7d); **Last updated: 2026-06-30**
+- `wiki/gold-geopolitical-risk-premium.md` — updated summary; added June 30 to price timeline ($4,062 flat; IAEA access confirmed); updated signal to Wait (0); **Last updated: 2026-06-30**
+- `wiki/iran-conflict-2026.md` — updated summary (IAEA access confirmed June 26); added June 24-25, June 26, June 29, June 30 timeline entries; **Last updated: 2026-06-30**
+- `wiki/fed-macro-factors.md` — updated summary; added June 30 section (NFP July 3 preview; scenario analysis); **Last updated: 2026-06-30**
+- `wiki/index.md` — updated descriptions for india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors
+- `prices/prices.csv` — appended 2026-06-30 row: Gold $4,062.49, Silver $58.29, DXY 101.3209, WTI $70.44, USD/INR 94.5525
+- `signals/signals.csv` — appended 2026-06-30: Wait, Score 0
+
+**Trading signal generated — Wait (Score: 0)**:
+- Factor 1 (Price vs targets): $4,062 is ~17% below GS $4,900 → Bullish (+1)
+- Factor 2 (Geopolitical): Iran IAEA access confirmed June 26 → deeper de-escalation → Bearish (−1)
+- Factor 3 (Fed/Macro): Hawkish FOMC June 17; 9 members project hikes; 3 hikes priced; PCE 3.6% forecast → Bearish (−1)
+- Factor 4 (CB demand): No new CB data in last 7 days (WGC survey June 16 = 14d old; WGC April stats = >7d old) → Neutral (0)
+- Factor 5 (Technicals): Price ($4,062) below 9d EMA (~$4,150) and below 50d EMA (~$4,240); last 2 days green (+$85 and +$3) → Bullish (+1)
+- Factor 6 (Dollar): DXY −0.009% (within 1%); USD/INR +0.162% (within 1%) → Neutral (0)
+- **Total: +1 −1 −1 +0 +1 +0 = 0 → Wait**
+
+**CB sweep results**:
+- Germany: No new Bundesbank repatriation announcement; cross-party political pressure continues
+- France: All 2,437t on French soil; no new BdF statements
+- Italy: Ownership dispute ongoing; no resolution
+- Japan: 845.97t static; no BoJ/MoF announcements
+- USA: 8,133t unchanged; 3 Fed hikes priced; DXY flat; NFP July 3
+- UK: 310.29t static; London vaults 9,392t (end May)
+- Saudi Arabia: 323.07t static; no SAMA announcements
+- Iran: IAEA access confirmed June 26 (major development); CBI accumulation rationale diminishing
+- Poland: 595.647t (April confirmed); YTD 45.4t
+- PBoC: 2,331.52t; June data expected July announcement
+- Czech Republic: 7.6t YTD; 38 consecutive monthly purchases
+
+---
+
 ## 2026-06-29 — Daily update: Gold ~$4,060 (+2.1% recovery); DXY 101.33; PCE 4.1% in-line; WTI $69.23 (4-month low); Uganda BoU first gold buy; MCX ₹1,43,305 (post-Muharram reopening) | Signal: Wait (−2)
 
 **Raw file created**:

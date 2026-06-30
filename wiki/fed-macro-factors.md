@@ -1,10 +1,30 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 29 UPDATE**: PCE May headline **4.1%** (in-line with estimates; slightly accelerated from April). Markets paring back rate hike bets slightly — **September hike now at 62% probability** (from ~70%). DXY **101.33** (easing from 101.57 14-month high). Gold ~$4,060 (recovering from $3,975 8-month low). Fed rates held at 3.50–3.75%; next FOMC late July 2026. Key macro data this week: PMI, JOLTS, NFP (June jobs report).
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 30 UPDATE**: DXY **101.32** (flat). Gold **$4,062** (consolidating). Markets still pricing **3 Fed rate hikes** (September hike 62% probability). **US June NFP due Friday July 3** — critical catalyst: strong print would reinforce 3-hike narrative and push gold lower; weak print could trigger short-covering rally toward $4,080–$4,100. FOMC June 17 dot plot raised PCE forecast to 3.6% (from 2.7%). Macro factor = Bearish (−1).
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.usagold.com/daily-precious-metals-market-report-june-24-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/
 
-**Last updated**: 2026-06-29
+**Last updated**: 2026-06-30
+
+---
+
+## June 30, 2026 — NFP Preview; Markets Await July 3 Jobs Data
+
+**Key June 30 development**: Markets are in wait-and-see mode ahead of the US June NFP report due **Friday July 3, 2026**. DXY **101.32** (essentially flat from June 29 101.33). Gold flat at $4,062. Fed funds futures still pricing **3 rate hikes** for 2026. September hike probability: 62% (little changed from June 29).
+
+**June 30 macro snapshot**:
+- **Gold $4,062** (+0.07% — consolidating)
+- **DXY 101.3209** (−0.009% — essentially flat from 101.33)
+- **WTI $70.44/bbl** (+1.76% from June 29 $69.23 — slight rebound)
+- **Silver $58.29/oz** (−2.4% pullback from recovery)
+- **USD/INR ₹94.5525** (+0.16% — rupee very slightly weaker)
+- **Fed funds rate**: 3.50–3.75% (held June 17; next FOMC late July 2026)
+- **September 2026 hike probability**: ~62% (unchanged)
+
+**NFP scenario analysis (July 3)**:
+- Strong NFP (+200K+): DXY rises, gold likely breaks below $4,030–$4,045 support; next target $3,975 (June 25 low)
+- In-line NFP (+130–200K): Limited market reaction; gold consolidates $4,040–$4,080
+- Weak NFP (<100K): Short-covering rally possible; gold could test $4,080–$4,100 resistance
 
 ---
 
