@@ -4,7 +4,7 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump, https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates, https://www.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://news.un.org/en/story/2026/06/1167748
 
-**Last updated**: 2026-06-30
+**Last updated**: 2026-07-01
 
 ---
 
@@ -52,6 +52,7 @@
 | **June 26, 2026 (CNBC)** | **MAJOR MILESTONE: US-Iran peace deal grants UN nuclear inspectors access to Tehran's nuclear sites** (CNBC June 26, 2026: "US-Iran peace deal grants access to Tehran's nuclear sites, UN watchdog says"). IAEA Director-General confirmed inspectors will visit Iran's nuclear sites under the interim agreement. Iran officially maintained it had "not agreed to new plans" but the UN nuclear chief stated the access was secured. This substantially resolves the IAEA inspection dispute that was cited as the key sticking point. **Signal impact: De-escalation deepens → bearish for gold geopolitical risk premium** (Factor 2 = −1 maintained). |
 | **June 29, 2026** | Gold **$4,059.70** (+2.1% recovery from 8-month low). PCE May 4.1% (in-line). DXY 101.33 (easing). WTI $69.23/bbl (near 4-month low). 60-day talks Day ~18. MCX ₹1,43,305/10g (−1.3%; first post-Muharram session). |
 | **June 30, 2026** | Gold **$4,062.49** (+0.07% — flat; consolidating). DXY 101.3209 (flat). WTI **$70.44/bbl** (+1.76% rebound). Silver $58.29/oz (−2.4% pullback). USD/INR ₹94.5525 (+0.16% — flat). 60-day talks Day ~31. IAEA access confirmed (June 26). NFP July 3 is next major catalyst. |
+| **July 1, 2026** | **Iran nuclear talks SUSPENDED** after Israeli attacks on Beirut. Iran's proposed terms did NOT include nuclear stockpile transfer (Trump's core demand). Trump: "totally unacceptable." 2nd major suspension (prior: June 1 → resumed June 4). 60-day roadmap Day ~10 from June 21; now at formal risk. **Gold FELL −1.15% to $4,016** — market NOT treating as safe-haven trigger; focus on NFP July 3. WTI $70.42 (flat — no oil spike on suspension news). MCX gold ₹1,41,124/10g (−1.33%). |
 
 ---
 

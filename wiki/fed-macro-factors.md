@@ -1,10 +1,32 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **June 30 UPDATE**: DXY **101.32** (flat). Gold **$4,062** (consolidating). Markets still pricing **3 Fed rate hikes** (September hike 62% probability). **US June NFP due Friday July 3** — critical catalyst: strong print would reinforce 3-hike narrative and push gold lower; weak print could trigger short-covering rally toward $4,080–$4,100. FOMC June 17 dot plot raised PCE forecast to 3.6% (from 2.7%). Macro factor = Bearish (−1).
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 1 UPDATE**: DXY **101.30** (flat). Gold **$4,016** (−1.15%). Markets pricing **3 Fed rate hikes** (September hike ~62% probability). **US June NFP due TOMORROW Friday July 3** — the single most important catalyst this week. May NFP surprised sharply (+172K vs 85K forecast). FOMC June 17: held 3.5–3.75%; hawkish dot plot; Warsh "unanimous" commitment to price stability. PCE May 4.1% (headline). Macro factor = Bearish (−1).
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.usagold.com/daily-precious-metals-market-report-june-24-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/
 
-**Last updated**: 2026-06-30
+**Last updated**: 2026-07-01
+
+---
+
+## July 1, 2026 — NFP Eve; Gold Falls −1.15%; Iran Talks Suspended (But Market Ignores Geo Risk)
+
+**Key July 1 developments**: Gold fell to **$4,016** (−1.15%) despite Iran nuclear talks being suspended (Trump rejected Iran's terms as "totally unacceptable"). This confirms the macro-first dynamic: markets are singularly focused on **tomorrow's June NFP (July 3)** rather than Iran geopolitics. The pattern matches June 3-8 (Iran suspended talks → gold fell on macro/Fed concerns, not Iran). DXY **101.30** (essentially flat). 3 rate hikes still priced; September probability unchanged at ~62%.
+
+**July 1 macro snapshot**:
+- **Gold $4,016** (−1.15% — below $4,030 support)
+- **DXY 101.30** (essentially flat from June 30 101.32)
+- **WTI $70.42/bbl** (essentially flat — no oil spike despite Iran escalation)
+- **Silver $57.75/oz** (−0.93%)
+- **USD/INR ₹94.55** (flat)
+- **Fed funds rate**: 3.50–3.75% (held June 17; next FOMC late July 2026)
+- **September 2026 hike probability**: ~62% (unchanged)
+
+**May NFP context (June 5 release)**: +172K vs consensus 85K — a major upside surprise that drove the hawkish repricing. June NFP (July 3 release): no specific consensus available yet; prior print was +172K.
+
+**NFP scenario analysis (July 3 — TOMORROW)**:
+- Strong NFP (+150K+): DXY rises, gold tests $3,975 June 25 low; MCX targets ₹1,39,000–₹1,40,000
+- In-line NFP (+100–150K): Limited reaction; gold consolidates $3,990–$4,030
+- Weak NFP (<75K): Short-covering rally; gold could test $4,065–$4,080 resistance
 
 ---
 

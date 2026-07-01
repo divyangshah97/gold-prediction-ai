@@ -4,6 +4,58 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-01 — Daily update: Gold $4,016 (−1.15%); Iran talks SUSPENDED; NFP tomorrow; MCX ₹1,41,124 (−1.33%); DXY 101.30 (flat) | Signal: Wait (−1)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-01.md` — MCX ₹1,41,124/10g (−1.33%; intraday low ₹1,40,450); XAU/USD $4,016 (−1.15%); Silver $57.75/oz (−0.93%); DXY 101.30 (flat); WTI $70.42 (flat); USD/INR ₹94.55 (flat); Iran talks suspended but gold fell; NFP July 3 key; 15% import duty in force; seasonal lull; 6+ AMCs ETF caps
+
+**Holiday check**: July 1, 2026 — Wednesday. Not an Indian market holiday (confirmed: NSE/BSE holiday list for 2026 does not include July 1). Muharram was June 26. Proceeding with full update.
+
+**Prices fetched** (web search — yfinance 403 + metals.dev 403 both failed; all manual via web search):
+- Gold: ~$4,016/oz (−1.15%) | Silver: ~$57.75/oz (−0.93%) | DXY: ~101.30 (flat) | WTI: ~$70.42/bbl (flat) | USD/INR: ~₹94.55 (flat) | Volume: not available
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — added July 1 price section; updated summary; MCX ₹1,41,124 (−1.33%); Iran talks suspended; **Last updated: 2026-07-01**
+- `wiki/global-cb-activity-log.md` — added 13-row July 1 section: Iran talks suspended; PBoC June data expected; all major holders/buyers/sellers updated; Factor 4 = Neutral (no new data in 7d); **Last updated: 2026-07-01**
+- `wiki/gold-geopolitical-risk-premium.md` — updated summary; added July 1 to price timeline ($4,016 −1.15%; Iran talks suspended); signal Wait (−1); **Last updated: 2026-07-01**
+- `wiki/iran-conflict-2026.md` — added July 1 timeline entry (talks suspended; Trump "totally unacceptable"; Day ~10 of 60-day roadmap at risk); **Last updated: 2026-07-01**
+- `wiki/fed-macro-factors.md` — updated summary; added July 1 section (NFP eve; May +172K context; scenario analysis); **Last updated: 2026-07-01**
+- `wiki/index.md` — updated descriptions for india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors
+- `prices/prices.csv` — appended 2026-07-01 row: Gold $4,016, Silver $57.75, DXY 101.30, WTI 70.42, USD/INR 94.55
+- `signals/signals.csv` — appended 2026-07-01: Wait, Score −1
+
+**Trading signal generated — Wait (Score: −1)**:
+- Factor 1 (Price vs targets): $4,016 is ~17.6% below GS $4,900 → Bullish (+1)
+- Factor 2 (Geopolitical): Iran talks suspended but gold FELL −1.15% — no safe-haven transmission; ambiguous → Neutral (0)
+- Factor 3 (Fed/Macro): 3 hikes priced; PCE 4.1%; May NFP +172K; Warsh hawkish June 17; NFP tomorrow → Bearish (−1)
+- Factor 4 (CB demand): No new CB data in last 7 days (WGC April stats published June 3 = 28d old; WGC survey June 16 = 15d old) → Neutral (0)
+- Factor 5 (Technicals): Price ($4,016) below 9d EMA (~$4,075) and below 50d EMA (~$4,479); today red (−1.15%) after green June 30 = NOT 2 consecutive green → Bearish (−1)
+- Factor 6 (Dollar): DXY −0.02% (within 1%); USD/INR −0.003% (within 1%) → Neutral (0)
+- **Total: +1 +0 −1 +0 −1 +0 = −1 → Wait**
+
+**CB sweep results (July 1)**:
+- No new country-level CB gold purchase/sale data found in last 24-48h sweep
+- PBoC June 2026 data expected imminently (first week of July) — not yet released
+- Germany: No new Bundesbank announcement; repatriation debate ongoing
+- France: All 2,437t on French soil; no new BdF statements
+- Italy: Ownership dispute ongoing; no resolution
+- Japan: 845.97t static; no BoJ/MoF statements
+- USA: 8,133t unchanged; DXY 101.30 (flat); NFP July 3 key
+- UK: 310.29t; no new custodial changes
+- Saudi Arabia: 323.07t static; no SAMA announcement
+- Iran: Talks suspended; Day ~10 of 60-day roadmap at risk; no CBI reserve announcement
+
+**Key new findings**:
+- Iran nuclear talks suspended July 1 after Israeli attacks on Beirut; Trump rejected Iran terms — 2nd major suspension of process (prior: June 1, resumed June 4)
+- Gold fell despite Iran escalation — macro/Fed focus dominates
+- WGC 2026 CB Survey (June 16): record 45% of CBs plan to increase reserves; 89% expect global holdings to rise
+- WGC April 2026 data (June 3): net +17t; Poland +14t; China +8t; Czech +3t; Russia −6t
+- May US NFP +172K (double the 85K consensus) — hawkish for Fed
+- PCE May 4.1% (headline); core 3.4%
+- 3 Fed rate hikes priced for 2026
+
+---
+
 ## 2026-06-30 — Daily update: Gold $4,062 (flat); DXY 101.32 (flat); Iran IAEA access confirmed; WTI $70.44 (+1.76% rebound); MCX ~₹1,43,020 (flat); NFP July 3 key | Signal: Wait (0)
 
 **Raw file created**:

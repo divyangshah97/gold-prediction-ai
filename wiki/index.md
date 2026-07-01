@@ -57,7 +57,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **June 30**: Gold $4,062 (flat); DXY 101.32 (flat); **IAEA nuclear inspection access CONFIRMED June 26** (CNBC); WTI $70.44 (+1.76% rebound); Poland 595.647t (YTD 45.4t confirmed); Czech 7.6t YTD (38 consecutive months); Kazakhstan 13.3t YTD; MCX ₹1,43,020; 16 rows added; updated June 30 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **July 1**: Gold $4,016 (−1.15%); DXY 101.30 (flat); **Iran nuclear talks SUSPENDED** (Trump rejects terms; 60-day roadmap Day ~10 at risk); WTI $70.42 (flat); MCX ₹1,41,124 (−1.33%); PBoC June data expected this week; 13 rows added; updated July 1 |
 
 ### Geopolitics & Macro
 
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **~$4,062** (June 30; flat); death cross intact; **IAEA access confirmed June 26** (key de-escalation milestone); DXY **101.32** (flat); NFP July 3 next major catalyst; Signal: Wait (0); updated June 30 |
+| [[gold-geopolitical-risk-premium]] | **~$4,016** (July 1; −1.15%); death cross intact; **Iran talks SUSPENDED July 1** (gold fell despite escalation; macro dominates); DXY **101.30** (flat); NFP July 3 TOMORROW; Signal: Wait (−1); updated July 1 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | **IAEA inspection access CONFIRMED June 26** (CNBC: "US-Iran peace deal grants access to Tehran's nuclear sites"); 60d roadmap Day ~31 (deadline mid-August); WTI **$70.44** (slight rebound; still near 4-month lows); 3 working groups active; updated June 30 |
-| [[fed-macro-factors]] | **PCE May 4.1%** (headline; Core 3.4%); 3 Fed hikes still priced (September 62% probability); **DXY 101.32** (flat); Gold $4,062 (consolidating); **NFP June report due July 3** — key catalyst for Fed rate path and gold direction; next FOMC late July 2026; updated June 30 |
+| [[iran-conflict-2026]] | **Iran nuclear talks SUSPENDED July 1** after Israeli attacks on Beirut; Trump rejected Iran terms as "totally unacceptable" (no nuclear stockpile transfer); 60d roadmap Day ~10 at risk; gold FELL −1.15% despite escalation; WTI $70.42 (flat — no oil spike); updated July 1 |
+| [[fed-macro-factors]] | **PCE May 4.1%** (headline; Core 3.4%); 3 Fed hikes priced (September ~62%); **DXY 101.30** (flat); Gold $4,016 (−1.15%); **NFP June due TOMORROW July 3** — critical directional catalyst; May NFP +172K (double 85K forecast); Warsh hawkish June 17; next FOMC late July 2026; updated July 1 |
 
 ### Institutional Flows
 
@@ -82,4 +82,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[goldman-sachs-gold-forecast]] | **GS $4,900/oz** (cut from $5,400); **Morgan Stanley base case $4,400** (H2 upside $5,200); JPM $6,000; UBS $5,500; Deutsche Bank $6,000; death cross forming (downside $3,440); range $4,400–$6,000; updated June 23 |
-| [[india-gold-market]] | MCX **~₹1,43,020/10g** (flat; June 30); USD/INR ₹94.5525; XAU/USD $4,062 (+0.07%); Goldman $4,900 implies MCX ~₹1,69,000 (domestic 16–18% BELOW GS implied); Silver $58.29/oz; 6+ AMCs ETF caps in force; 77% of RBI gold now domestic (104.23t repatriated H2 FY25-26); June demand in seasonal lull; NFP July 3 key; updated June 30 |
+| [[india-gold-market]] | MCX **~₹1,41,124/10g** (−1.33%; July 1; intraday low ₹1,40,450); USD/INR ₹94.55 (flat); XAU/USD $4,016 (−1.15%); Goldman $4,900 implies MCX ~₹1,69,000 (domestic 16–18% BELOW GS implied); Silver $57.75/oz; 6+ AMCs ETF caps in force; seasonal lull; NFP July 3 TOMORROW key; updated July 1 |

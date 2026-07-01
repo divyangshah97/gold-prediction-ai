@@ -1,10 +1,29 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), PM Modi's appeal to defer purchases, and a sharp correction in gold prices. As of June 30, MCX gold **~₹1,43,020/10g** (flat; XAU/USD $4,062.49 +0.07%). USD/INR **₹94.5525** (+0.16% — essentially flat). Goldman $4,900 target implies MCX ~₹1,69,000/10g — domestic prices ~16–18% BELOW Goldman's implied year-end level. RBI 880.52t unchanged; ~680t (77%) now held domestically. 6+ AMCs capping ETF subscriptions; June demand in seasonal lull; NFP July 3 is key catalyst.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), PM Modi's appeal to defer purchases, and a sharp correction in gold prices. As of July 1, MCX gold **~₹1,41,124/10g** (−1.33%; XAU/USD $4,016 −1.15%). USD/INR **₹94.55** (essentially flat). Goldman $4,900 target implies MCX ~₹1,69,000/10g — domestic prices ~16–18% BELOW Goldman's implied year-end level. RBI 880.52t unchanged; ~680t (77%) now held domestically. 6+ AMCs capping ETF subscriptions; July start in seasonal lull; NFP July 3 is key catalyst.
 
 **Sources**: `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.goodreturns.in/gold-rates/, https://www.india.com/business/gold-rate-today-june-250626-gold-silver-mcx-comex-bullion-market-18-22-24-carat-gold-prices-in-mumbai-delhi-kolkata-noida-gold-silver-yellow-metal-hiked-traded-higher-lower-costlier-cheaper-updates-8456464/
 
-**Last updated**: 2026-06-30
+**Last updated**: 2026-07-01
+
+---
+
+## MCX Gold Price (July 1, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold futures (Aug contract) | **~₹1,41,124/10g** (−1.33% from June 30 ₹1,43,020; intraday low ₹1,40,450 at ~11:50 AM) |
+| USD/INR rate | **₹94.55** (essentially flat from June 30 ₹94.5525; −0.003%) |
+| Global spot (XAU/USD) | **$4,016** (−1.15% from June 30 $4,062.49) |
+| Silver (XAG/USD) | **$57.75/oz** (−0.93% from June 30 $58.29) |
+| DXY | **101.30** (essentially flat from June 30 101.3209) |
+| WTI crude | **$70.42/bbl** (essentially flat from June 30 $70.44) |
+
+Note: MCX gold fell −1.33% today, matching the XAU/USD decline of −1.15% with no rupee cushion (USD/INR essentially flat at ₹94.55). The primary driver is the upcoming US June NFP report (July 3) which the market expects to be strong, reinforcing the hawkish Fed narrative (3 rate hikes priced). Iran nuclear talks were suspended after Israeli attacks on Beirut and Trump rejected Iran terms as "totally unacceptable" — but gold fell despite this escalation, confirming the market is focused on macro over geopolitics. Support: ₹1,40,000–₹1,40,500; Resistance: ₹1,43,000–₹1,44,000.
+
+**Goldman $4,900 target implies for India**: At USD/INR ₹94.55 and with 15% duty + 3% GST (~18% total), Goldman's $4,900/oz target = MCX gold ~₹1,69,000–₹1,72,000/10g. Today's MCX ~₹1,41,124 is **~16–18% BELOW Goldman's implied year-end level**.
+
+**Prior session (June 30)**: MCX ₹1,43,020/10g (flat); XAU $4,062.49 (+0.07%); DXY 101.32; WTI $70.44; USD/INR ₹94.5525.
 
 ---
 
