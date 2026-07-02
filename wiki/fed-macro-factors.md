@@ -1,10 +1,36 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 1 UPDATE**: DXY **101.30** (flat). Gold **$4,016** (−1.15%). Markets pricing **3 Fed rate hikes** (September hike ~62% probability). **US June NFP due TOMORROW Friday July 3** — the single most important catalyst this week. May NFP surprised sharply (+172K vs 85K forecast). FOMC June 17: held 3.5–3.75%; hawkish dot plot; Warsh "unanimous" commitment to price stability. PCE May 4.1% (headline). Macro factor = Bearish (−1).
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 2 UPDATE**: DXY **101.11** (−0.19%). Gold **$4,026.39** (+0.26%). Markets pricing **3 Fed rate hikes** (September hike ~67% probability). **US June NFP due TOMORROW Friday July 3** — the single most important near-term catalyst. May NFP surprised sharply (+172K vs 85K forecast). FOMC June 17: held 3.5–3.75%; hawkish dot plot; Warsh "unanimous" commitment to price stability. PCE May 4.1% (headline). Goldman: no Fed rate cuts in 2026; rates cut only in mid-2027. Macro factor = Bearish (−1).
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.usagold.com/daily-precious-metals-market-report-june-24-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year
 
-**Last updated**: 2026-07-01
+**Last updated**: 2026-07-02
+
+---
+
+## July 2, 2026 — Pre-NFP Day; Gold Rebounds +0.26%; Rate Hike 67%; Goldman: No 2026 Cuts
+
+**Key July 2 developments**: Gold recovered modestly to **$4,026.39** (+0.26%) ahead of tomorrow's June NFP release (July 3). The rebound is tentative — gold touched an intraday low near **$3,942** recently (multi-month low). DXY eased to **101.11** (−0.19%) but remains elevated. Fed rate hike probability for September has climbed to **67%** (up from 62% yesterday). Goldman Sachs confirmed: **no Fed rate cuts in 2026**, with first cut only in June 2027; gold to $4,400 downside risk if Fed hikes. Treasury yields higher, weighing on non-yielding gold.
+
+**July 2 macro snapshot**:
+- **Gold $4,026.39** (+0.26%)
+- **DXY 101.11** (−0.19% from July 1 101.30 — slight dollar softness)
+- **WTI $68.73/bbl** (−2.4% — Iran deal/oil de-escalation)
+- **Silver $59.48/oz** (+2.99%)
+- **USD/INR ₹95.10** (+0.58% — rupee weakened)
+- **Fed funds rate**: 3.50–3.75% (held June 17; next FOMC late July 2026)
+- **September 2026 hike probability**: **~67%** (CME FedWatch — up from 62%)
+- **Goldman forecast**: No rate cuts 2026; first cut June 2027; if Fed hikes → gold $4,400
+
+**June NFP context (July 3 release — TOMORROW)**:
+- May NFP: +172K vs 85K forecast (massive upside surprise that drove hawkish repricing)
+- June NFP consensus: not yet established (market expects ~120-140K based on ADP and underlying trends)
+- Pre-NFP positioning: thin volume; gold bouncing from lows but rebound capped by rate expectations
+
+**NFP scenario analysis (July 3 — TOMORROW)**:
+- Strong NFP (+140K+): DXY surges, gold tests $3,942 or lower; MCX targets ₹1,39,000–₹1,40,000
+- In-line NFP (+90–140K): Limited reaction; gold consolidates $4,000–$4,040
+- Weak NFP (<80K): Short-covering rally; gold could test $4,065–$4,080 resistance
 
 ---
 

@@ -4,6 +4,44 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-02 — Daily update: Gold $4,026.39 (+0.26%); pre-NFP rebound; Iran Doha talks resumed; MCX ₹1,43,889 (+1.96%); USD/INR ₹95.10 (+0.58%); DXY 101.11 (−0.19%) | Signal: Wait (−2)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-02.md` — MCX ~₹1,43,889/10g (+1.96%); XAU/USD $4,026.39 (+0.26%); Silver $59.48 (+2.99%); DXY 101.11 (−0.19%); WTI $68.73 (−2.4%); USD/INR ₹95.10 (+0.58%); India 15% import duty; ETF caps; 6+ AMCs; NFP June due tomorrow July 3; retail 24K ₹14,078/g
+
+**Holiday check**: July 2, 2026 — Thursday. No weekday holidays in NSE/BSE July 2026 calendar (confirmed: 8 closed days in July = 4 Saturdays + 4 Sundays only). Proceeding with full update.
+
+**Prices fetched** (web search — yfinance 403 + metals.dev 403 both failed; all manual via web search):
+- Gold: $4,026.39/oz (+0.26%) | Silver: $59.48/oz (+2.99%) | DXY: 101.11 (−0.19%) | WTI: $68.73/bbl (−2.4%) | USD/INR: ₹95.10 (+0.58%) | Volume: not available
+
+**EMA computed from prices.csv** (Python script):
+- 9-day EMA (incl. today): $4,090.53
+- 50-day EMA (incl. today): $4,413.61
+- Gold ($4,026.39) below both EMAs; 50d > 9d (downtrend confirmed)
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — added July 2 price section at top; updated summary and INR rate; MCX ₹1,43,889 (+1.96%); **Last updated: 2026-07-02**
+- `wiki/global-cb-activity-log.md` — added 13-row July 2 section: Doha talks resumed; PBoC June pending; all major holders/buyers/sellers updated; Factor 4 = Neutral; **Last updated: 2026-07-02**
+- `wiki/gold-geopolitical-risk-premium.md` — updated summary; added July 2 to price timeline ($4,026 +0.26%; pre-NFP rebound); 9d/50d EMAs updated; Signal Wait (−2); **Last updated: 2026-07-02**
+- `wiki/iran-conflict-2026.md` — updated summary; added July 2 timeline entry (Doha talks resumed; Vance "going well"; WTI $68.73); **Last updated: 2026-07-02**
+- `wiki/fed-macro-factors.md` — updated summary; added July 2 section (pre-NFP; rate hike 67%; Goldman no 2026 cuts); **Last updated: 2026-07-02**
+- `wiki/index.md` — updated descriptions for india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors
+- `prices/prices.csv` — appended 2026-07-02 row: Gold $4,026.39, Silver $59.48, DXY 101.11, WTI 68.73, USD/INR 95.10
+- `signals/signals.csv` — appended 2026-07-02: Wait, Score −2
+
+**Trading signal generated — Wait (Score: −2)**:
+- Factor 1 (Price vs targets): $4,026 is ~17.8% below GS $4,900 → Bullish (+1)
+- Factor 2 (Geopolitical): Iran Doha talks resumed (Vance "going well"); de-escalation trend continues; WTI −2.4% → Bearish (−1)
+- Factor 3 (Fed/Macro): 67% September rate hike probability; Goldman no 2026 cuts; Treasury yields elevated; NFP due tomorrow → Bearish (−1)
+- Factor 4 (CB Demand): No new CB data in last 7 days; PBoC June pending → Neutral (0)
+- Factor 5 (Technicals): Gold below 9d EMA ($4,091) and 50d EMA ($4,414); 50d > 9d (downtrend); not 2 consecutive green days → Bearish (−1)
+- Factor 6 (Dollar Pressure): DXY −0.187% (within 1%); USD/INR +0.582% (within 1%); both below threshold → Neutral (0)
+- **Total: +1 −1 −1 +0 −1 +0 = −2 → Wait**
+
+**CB sweep summary**: No new country-level CB gold purchases/sales found in last 24-48h. PBoC June data pending (expected July 5-10). Germany Bundesbank: no repatriation action; France: all gold home; all other monitored countries unchanged.
+
+---
+
 ## 2026-07-01 — Daily update: Gold $4,016 (−1.15%); Iran talks SUSPENDED; NFP tomorrow; MCX ₹1,41,124 (−1.33%); DXY 101.30 (flat) | Signal: Wait (−1)
 
 **Raw file created**:

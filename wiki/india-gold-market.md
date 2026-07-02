@@ -1,10 +1,31 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), PM Modi's appeal to defer purchases, and a sharp correction in gold prices. As of July 1, MCX gold **~₹1,41,124/10g** (−1.33%; XAU/USD $4,016 −1.15%). USD/INR **₹94.55** (essentially flat). Goldman $4,900 target implies MCX ~₹1,69,000/10g — domestic prices ~16–18% BELOW Goldman's implied year-end level. RBI 880.52t unchanged; ~680t (77%) now held domestically. 6+ AMCs capping ETF subscriptions; July start in seasonal lull; NFP July 3 is key catalyst.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), PM Modi's appeal to defer purchases, and a sharp correction in gold prices. As of July 2, MCX gold **~₹1,43,889/10g** (+1.96%; XAU/USD $4,026.39 +0.26%). USD/INR **₹95.10** (INR weakened +0.58%). Goldman $4,900 target implies MCX ~₹1,69,000/10g — domestic prices ~15% BELOW Goldman's implied year-end level. RBI 880.52t unchanged. 6+ AMCs capping ETF subscriptions. US June NFP due TOMORROW July 3 — key directional catalyst.
 
-**Sources**: `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, `raw/india-gold-2026-06-05.md`, `raw/india-gold-2026-06-04.md`, `raw/india-gold-2026-06-03.md`, `raw/india-gold-2026-06-02.md`, `raw/india-gold-2026-06-01.md`, https://www.goodreturns.in/gold-rates/, https://www.india.com/business/gold-rate-today-june-250626-gold-silver-mcx-comex-bullion-market-18-22-24-carat-gold-prices-in-mumbai-delhi-kolkata-noida-gold-silver-yellow-metal-hiked-traded-higher-lower-costlier-cheaper-updates-8456464/
+**Sources**: `raw/india-gold-2026-07-02.md`, `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, https://www.goodreturns.in/gold-rates/, https://www.india.com/business/gold-rate-today-july-020726-gold-silver-mcx-comex-bullion-market-18-22-24-carat-gold-prices-in-mumbai-delhi-kolkata-noida-gold-silver-yellow-metal-hiked-traded-higher-lower-costlier-cheaper-updates-8463203/, https://www.indexbox.io/blog/india-gold-demand-slows-in-mayjune-2026-as-import-duties-and-currency-depreciation-push-prices-up/
 
-**Last updated**: 2026-07-01
+**Last updated**: 2026-07-02
+
+---
+
+## MCX Gold Price (July 2, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold futures (Aug contract) | **~₹1,43,889/10g** (+1.96% from July 1 ₹1,41,124) |
+| USD/INR rate | **₹95.10** (+0.58% from July 1 ₹94.55 — INR weakened modestly) |
+| Global spot (XAU/USD) | **$4,026.39** (+0.26% from July 1 $4,016) |
+| Silver (XAG/USD) | **$59.48/oz** (+2.99% from July 1 $57.75) |
+| DXY | **101.11** (−0.187% from July 1 101.30 — dollar slightly weaker) |
+| WTI crude | **$68.73/bbl** (−2.40% from July 1 $70.42) |
+
+Note: MCX gold recovered +1.96% today as global spot rose +0.26% AND the rupee weakened +0.58% (USD/INR 95.10), providing a dual tailwind. XAU/USD touched an intraday low near $3,942 earlier in the week (multi-month low) before rebounding. Key dynamic: gold is bouncing modestly but the rebound is capped by hawkish macro — **June NFP is due TOMORROW July 3** and traders are cautious ahead of the data release. 67% probability of Fed rate hike by September (CME FedWatch). Vance says Iran-Doha talks "going well" (July 1) — partial de-escalation. WTI crude fell −2.4% to $68.73 (Iran deal pipeline intact). 9d EMA $4,091; 50d EMA $4,414 — gold below both. Downtrend intact.
+
+**Goldman $4,900 target implies for India**: At USD/INR ₹95.10 and with 15% duty + 3% GST (~18% total), Goldman's $4,900/oz target = MCX gold ~₹1,70,000–₹1,73,000/10g. Today's MCX ~₹1,43,889 is **~15–17% BELOW Goldman's implied year-end level**.
+
+**Retail prices July 2, 2026**: 24K ₹14,078/g | 22K ₹12,905/g | 18K ₹10,559/g
+
+**Prior session (July 1)**: MCX ₹1,41,124/10g (−1.33%); XAU $4,016 (−1.15%); DXY 101.30; WTI $70.42; USD/INR ₹94.55.
 
 ---
 
@@ -406,7 +427,7 @@ The RBI has completed its primary accumulation phase (72.6t in 2024) and is now 
 
 The INR/USD exchange rate is a critical multiplier for domestic gold prices:
 
-- **Current rate**: 1 USD = **₹94.5525** (June 30; ₹94.40 June 29; ₹94.47 June 25; ~₹94.50 June 19 est.; ₹94.4770 June 18; ₹94.32 June 17, ₹95.40 est. June 16, ₹95.11 June 15, ₹95.26 June 12/11, ₹95.36 June 10, ₹95.39 June 9, ₹95.19 June 8, ₹95.21 June 5, ₹95.59 June 4, ₹95.36 June 3, ₹95.16 June 2, ₹95.01 June 1, ₹96.13 May 29, ₹95.45 May 27)
+- **Current rate**: 1 USD = **₹95.10** (July 2; ₹94.55 July 1; ₹94.5525 June 30; ₹94.40 June 29; ₹94.47 June 25; ~₹94.50 June 19 est.; ₹94.4770 June 18; ₹94.32 June 17, ₹95.40 est. June 16, ₹95.11 June 15, ₹95.26 June 12/11, ₹95.36 June 10, ₹95.39 June 9, ₹95.19 June 8, ₹95.21 June 5, ₹95.59 June 4, ₹95.36 June 3, ₹95.16 June 2, ₹95.01 June 1, ₹96.13 May 29, ₹95.45 May 27)
 - **YTD depreciation**: INR has depreciated ~7% in 2026, adding ~₹1,000–₹1,500/gram to domestic gold costs; INR has staged a partial recovery from the ₹96+ lows
 - **Effect**: Weaker rupee raises the INR cost of importing gold; at ₹95+ vs. historical ~₹70–75 levels, gold is structurally more expensive in rupee terms even at the same USD spot price
 - **The 15% duty adds further cost**: total effective landed cost premium over international price is substantial
