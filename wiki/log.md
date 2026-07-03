@@ -4,6 +4,32 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-03 — Daily update: Gold $4,137.41 (+2.75%); June NFP 57K MISS → Sep hike removed; Iran Khamenei funeral July 4-9; MCX ₹1,47,720 (+2.67%); USD/INR ₹95.22; DXY 100.82 (−0.29%) | Signal: Buy (+3)
+
+**Key findings**: June Nonfarm Payrolls came in at 57K (expected 115K) — largest miss in months. Prior months revised down. September Fed rate hike probability: 0% (was 67%). Gold surged 2.75% to $4,137.41 — largest daily gain in weeks. Silver +5.2% to $62.57. COMEX closed (US Independence Day observed — July 4 on Saturday).
+
+**Iran**: Doha talks concluded without addressing nuclear issue (Hormuz + frozen funds only). Trump claims "Iran agreed to just about everything." Khamenei body on display July 4; burial July 9; next nuclear meeting after burial. New Supreme Leader Mojtaba Khamenei's nuclear stance untested.
+
+**India**: MCX gold ₹1,47,720/10g (+2.67%). USD/INR ₹95.22 (flat). WGC (July 1): 15% import duty to cut India gold demand 50-60t in 2026. India ETF AUM ₹1.7T (115t). RBI 880.52t unchanged.
+
+**CB demand**: No new country-level data. PBoC June 2026 data expected July 5-10. WGC April stats: net buying confirmed (published June). No Goldman CB nowcast update.
+
+**Signal**: Buy (+3). Breakdown: Price vs targets +1 (15.6% below GS $4,900); Geopolitical 0 (Iran MOU intact; nuclear deferred; Khamenei funeral creates ambiguity); Fed/Macro +1 (NFP miss; September hike removed); CB Demand 0 (no new data 7d); Technicals +1 (above both EMAs per web search values; 2 green days); Dollar Pressure 0 (DXY −0.29%, INR +0.13%, both within 1%).
+
+**Pages updated**:
+- `wiki/gold-geopolitical-risk-premium.md` — July 3 entry; summary updated; signal changed to Buy (+3)
+- `wiki/fed-macro-factors.md` — July 3 NFP result (57K miss); September hike 0%; macro = Bullish
+- `wiki/iran-conflict-2026.md` — Doha talks concluded; Khamenei funeral; next talks after July 9
+- `wiki/india-gold-market.md` — MCX ₹1,47,720; WGC demand impact data
+- `wiki/global-cb-activity-log.md` — 13 rows added for July 3 (all tracked countries)
+- `wiki/index.md` — descriptions updated for all changed pages
+- `wiki/log.md` — this entry
+- `prices/prices.csv` — July 3 row appended (Gold $4,137.41, Silver $62.57, DXY 100.82, WTI $68.45, USD/INR 95.22)
+- `signals/signals.csv` — Buy (+3) appended
+- `raw/india-gold-2026-07-03.md` — created
+
+---
+
 ## 2026-07-02 — Daily update: Gold $4,026.39 (+0.26%); pre-NFP rebound; Iran Doha talks resumed; MCX ₹1,43,889 (+1.96%); USD/INR ₹95.10 (+0.58%); DXY 101.11 (−0.19%) | Signal: Wait (−2)
 
 **Raw file created**:

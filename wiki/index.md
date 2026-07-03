@@ -46,7 +46,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t unchanged; **RBI denied $12B gold sale** (June 2026); gold = 16.85% FX reserves (up from 13.92% Sep 2025, price appreciation only); near-zero new buying; repatriation from London ongoing; updated June 18 |
-| [[india-gold-market]] | MCX ~**₹1,47,000–₹1,49,660/10g** (June 19); XAU/USD ~$4,210 (Asian session, Juneteenth); DXY 100.72; Silver crashed −7.8% to $64.26; **India gold imports confirmed −70% to 25–30t/month** (official June 18); RBI 880.52t unchanged; 6 AMCs capping ETF subscriptions; updated June 19 |
+| [[india-gold-market]] | MCX **₹1,47,720/10g** (+2.67%; July 3); XAU/USD $4,137 (+2.75%); USD/INR ₹95.22; **WGC July 1: duty to cut India demand 50-60t in 2026**; ETF AUM ₹1.7T (115t); RBI 880.52t unchanged; imports 25-30t/month; updated July 3 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; **June 11 FXStreet: "Germans demand bring our gold home"** — cross-party repatriation pressure growing (AfD + Green Party); CDU still refuses; France's $15B move cited as template; updated June 16 |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -57,7 +57,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **July 2**: Gold $4,026 (+0.26%); DXY 101.11 (−0.19%); **Iran Doha talks resumed** (Vance "going well"); WTI $68.73 (−2.4%); MCX ₹1,43,889 (+1.96%); PBoC June data pending (July 5-10); 13 rows added; Signal: Wait (−2); updated July 2 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **July 3**: Gold **$4,137 (+2.75%)** on NFP miss (57K vs 115K exp); Sep hike removed; Iran Doha talks excluded nuclear; Khamenei funeral July 4-9; PBoC June data pending (July 5-10); 13 rows added; Signal: **Buy (+3)**; updated July 3 |
 
 ### Geopolitics & Macro
 
@@ -65,10 +65,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **~$4,026** (July 2; +0.26%); 9d EMA $4,091; 50d EMA $4,414; gold below both; **Iran Doha talks resumed** (Vance "going well" July 1); DXY **101.11** (−0.19%); **NFP June due TOMORROW July 3**; Signal: Wait (−2); updated July 2 |
+| [[gold-geopolitical-risk-premium]] | **~$4,137** (July 3; **+2.75%**); 9d EMA ~$4,065 (est.); 50d MA $4,018.68 (web); gold above both; **NFP 57K miss → Sep hike 0%**; Iran Doha: nuclear skipped, Khamenei funeral July 4-9; DXY 100.82 (−0.29%); Signal: **Buy (+3)**; updated July 3 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | **Iran Doha talks resumed July 2**; Vance says "going well" after brief July 1 suspension; 60d MOU ceasefire Day ~12 of 60 (deadline mid-August); WTI $68.73 (−2.4% — de-escalation); gold NOT rising on Iran; NFP July 3 macro dominates; updated July 2 |
-| [[fed-macro-factors]] | **PCE May 4.1%** (headline; Core 3.4%); 3 Fed hikes priced (**September ~67%**); **DXY 101.11** (−0.19%); Gold $4,026 (+0.26%); **NFP June due TOMORROW July 3**; Goldman: no rate cuts 2026, first cut June 2027; if Fed hikes → gold $4,400 downside; Warsh hawkish; next FOMC late July; updated July 2 |
+| [[iran-conflict-2026]] | **Doha talks concluded July 3 (Hormuz+funds; NO nuclear)**; Khamenei burial July 9; next nuclear talks TBD; Day ~13 of 60-day MOU; WTI $68.45 (−0.4%); gold +2.75% on NFP (not Iran); Factor 2 = Neutral (0); updated July 3 |
+| [[fed-macro-factors]] | **June NFP: 57K (exp 115K) — MASSIVE MISS**; September hike: **0%** (was 67%); July hike: 0%; Gold **+2.75%** to $4,137; DXY 100.82 (−0.29%); next key: June CPI July 14; Macro factor = **Bullish (+1)**; updated July 3 |
 
 ### Institutional Flows
 
@@ -82,4 +82,4 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[goldman-sachs-gold-forecast]] | **GS $4,900/oz** (cut from $5,400); **Morgan Stanley base case $4,400** (H2 upside $5,200); JPM $6,000; UBS $5,500; Deutsche Bank $6,000; death cross forming (downside $3,440); range $4,400–$6,000; updated June 23 |
-| [[india-gold-market]] | MCX **~₹1,43,889/10g** (+1.96%; July 2); USD/INR **₹95.10** (+0.58% — INR weakened); XAU/USD $4,026.39 (+0.26%); Goldman $4,900 implies MCX ~₹1,70,000 (domestic 15–17% BELOW GS implied); Silver $59.48/oz; 6+ AMCs ETF caps; May ETF outflow ₹725cr; June fresh inflows; NFP July 3 TOMORROW key; updated July 2 |
+| [[india-gold-market]] | MCX **₹1,47,720/10g** (+2.67%; July 3); USD/INR **₹95.22** (+0.13%); XAU/USD $4,137.41 (+2.75%); WGC: 15% duty to cut demand 50-60t; ETF AUM ₹1.7T; Goldman $4,900 implies MCX ~₹1,70,000 (domestic ~13% below GS); updated July 3 |

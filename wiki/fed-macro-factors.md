@@ -1,10 +1,35 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 2 UPDATE**: DXY **101.11** (−0.19%). Gold **$4,026.39** (+0.26%). Markets pricing **3 Fed rate hikes** (September hike ~67% probability). **US June NFP due TOMORROW Friday July 3** — the single most important near-term catalyst. May NFP surprised sharply (+172K vs 85K forecast). FOMC June 17: held 3.5–3.75%; hawkish dot plot; Warsh "unanimous" commitment to price stability. PCE May 4.1% (headline). Goldman: no Fed rate cuts in 2026; rates cut only in mid-2027. Macro factor = Bearish (−1).
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 3 UPDATE — MAJOR PIVOT**: **June NFP: 57K vs 115K expected — massive miss**. September rate hike COMPLETELY REMOVED (was 67%); July hike at 0% (was 30%). 2-year Treasury yields falling. Gold surged **+2.75% to $4,137.41**. DXY **100.82** (−0.29%). Warsh (July 1 ECB Forum) maintained "prices too high" but markets overriding with soft labor data. Key next: June CPI (July 14). Macro factor = **Bullish (+1)**.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-07-03
+
+---
+
+## July 3, 2026 — NFP RESULT: 57K vs 115K Expected; September Hike Removed; Gold +2.75%
+
+**Headline**: June Nonfarm Payrolls came in at **57,000** — sharply below the 115,000 consensus. This is the lowest monthly gain in four months. Prior months revised DOWN: April −31K (to 148K), May −43K (to 129K).
+
+**Market reaction**: Gold surged **+2.75% to $4,137.41** — largest single-day gain since late June. 2-year Treasury yields fell. DXY dipped to **100.82** (−0.29%). September Fed hike probability: **0%** (down from 67% as of July 2). July hike: 0% (was 30%). Traders now focused on June CPI (July 14) as the next major catalyst.
+
+**Labor market details**: Unemployment rate fell to 4.2% (from 4.1%) but driven by decline in labor force participation (fell 0.3pp to 61.5% — lowest since March 2021). Key sectors: Professional/business +36K; healthcare +22K; social assistance +25K; leisure/hospitality −61K (World Cup seasonal effect cited). Net interpretation: soft demand for labor, not supply-side exit.
+
+**Macro context**: Warsh spoke at ECB Forum (Sintra, July 1) saying inflation "too high" and declining to provide forward guidance — first Fed chair to withhold dot plot projection in 14 years. Yet the NFP data overrides Warsh's cautious rhetoric for now. Next FOMC: late July 2026. June CPI (July 14) is the swing factor for September hike odds.
+
+**July 3 macro snapshot**:
+- **Gold $4,137.41** (+2.75% — largest daily gain in weeks)
+- **DXY 100.82** (−0.29%)
+- **WTI $68.45/bbl** (−0.4% — flat; Iran de-escalation intact)
+- **Silver $62.57/oz** (+5.2% — outperforming gold)
+- **USD/INR ₹95.22** (+0.13% — rupee very slightly weaker)
+- **COMEX**: Closed (US Independence Day observed — July 4 falls Saturday, observed Friday)
+- **September 2026 hike probability**: **0%** (down from 67% July 2)
+- **July hike**: **0%** (down from 30%)
+- **Next key date**: June CPI, July 14
+
+**Macro factor = Bullish (+1)**: NFP miss removes near-term rate hike risk; gold responds positively.
 
 ---
 
