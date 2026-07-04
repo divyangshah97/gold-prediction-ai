@@ -4,6 +4,10 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-04 — COT weekly update
+Report_Date: 2026-06-23 | MM_Net: +115,395 (+9,532 vs prior confirmed 2026-06-09) | OI: 352,167 | MM_Long: 131,102 | MM_Short: 15,707 | MM_Net % OI: 32.8% | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-06-27T07:05:32Z
+Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Historical COT Reference extended), wiki/index.md (institutional-flows entry updated), prices/cot.csv (2026-06-23 row appended)
+
 ## 2026-07-03 — Daily update: Gold $4,137.41 (+2.75%); June NFP 57K MISS → Sep hike removed; Iran Khamenei funeral July 4-9; MCX ₹1,47,720 (+2.67%); USD/INR ₹95.22; DXY 100.82 (−0.29%) | Signal: Buy (+3)
 
 **Key findings**: June Nonfarm Payrolls came in at 57K (expected 115K) — largest miss in months. Prior months revised down. September Fed rate hike probability: 0% (was 67%). Gold surged 2.75% to $4,137.41 — largest daily gain in weeks. Silver +5.2% to $62.57. COMEX closed (US Independence Day observed — July 4 on Saturday).
