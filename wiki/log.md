@@ -1324,3 +1324,55 @@ Report_Date: 2026-05-19 | MM_Net: +93,540 (N/A change — first entry) | OI: 379
 **Pages updated**:
 - `wiki/log.md` — this failure entry
 - `.github/workflows/fetch_cot.yml` — pip install fix applied
+
+---
+
+## 2026-07-06 — Daily update: Gold $4,163.46 (+0.63%); WGC May CB net +41t (Poland+18t China+10t Singapore+4t resumes); MCX ₹1,46,730 (−0.01%); USD/INR ₹95.44; DXY 100.88 (+0.06%) | Signal: Wait (+1)
+
+**Holiday check**: July 6, 2026 — Monday. No NSE/BSE holiday. Proceeding with full update.
+
+**Prices fetched** (all manual via web search — yfinance 403 + metals.dev 403 both failed):
+- Gold: $4,163.46/oz (+0.63%) | Silver: $62.60/oz (~+0.04%) | DXY: 100.88 (+0.06%) | WTI: $68.78/bbl (+0.48%) | USD/INR: ₹95.4380 | Volume: not available (yfinance blocked)
+
+**Key finding — WGC July 2026 CB Statistics published today**:
+- May 2026 net central bank buying: **+41 tonnes**
+- Poland: +18t (4th consecutive double-digit month; total ~631t; YTD ~81t)
+- China PBoC: ~+10t (20th consecutive month; total ~2,341.52t)
+- Uzbekistan: +9t (YTD ~33t)
+- Kazakhstan: +7t (YTD ~20t)
+- Singapore MAS: +4t (first since Sep 2025 — **8-month pause ended**)
+- Czech Republic: +2t (39th consecutive month; total ~81t)
+- Jordan: +1t (new buyer — first time appearing in data)
+- Russia BoR: −6t (YTD −34t; total ~2,292t; all domestic — no LBMA impact)
+- WGC survey: record **45% of CBs** plan to increase own gold holdings; **89% expect global CB gold to rise**
+- Full-year 2026 WGC forecast: **850 tonnes**
+
+**EMA / Technicals**:
+- 9-day EMA (computed from prices.csv): ~$4,109 (gold above → slightly bullish)
+- 50-day SMA (from CSV avg): ~$4,392 (gold below → bearish; 50d > 9d → downtrend confirmed)
+- Death cross / downtrend still active → Technicals = Bearish (−1)
+
+**Signal**: Wait (+1). Breakdown: Price vs targets +1 ($4,163 is 15.1% below GS $4,900); Geopolitical 0 (Iran Khamenei burial July 9; Day ~16 of MOU; nuclear deferred; priced in); Fed/Macro 0 (NFP miss vs 9/18 hawkish dots — mixed); CB Demand +1 (WGC May data published today, within 7 days); Technicals −1 (above 9d EMA, below 50d SMA, downtrend); Dollar Pressure 0 (DXY +0.06% and INR +0.23% both within 1%).
+
+**Pages created**:
+- `wiki/singapore-mas-gold.md` — NEW PAGE: MAS +4t May 2026 (first since Sep 2025); 197t total; Oct 2026 gold vaulting hub strategy; ASEAN context
+- `raw/india-gold-2026-07-06.md` — daily raw source: MCX ₹1,46,730/10g; XAU/USD $4,163.46; USD/INR ₹95.44; WGC CB data July 2026; RBI 880.52t unchanged
+
+**Pages updated**:
+- `wiki/central-bank-gold-demand.md` — WGC July 2026 May data: net +41t; all buyer/seller details; 45%/89% CB survey; last updated July 6
+- `wiki/poland-gold-reserves.md` — May +18t confirmed; total ~631t; YTD ~81t; last updated July 6
+- `wiki/china-pboc-gold.md` — May ~+10t (WGC); 20th consecutive month; total ~2,341.52t; June pending; last updated July 6
+- `wiki/russia-gold-reserves.md` — May −6t; YTD −34t; total ~2,292t; reserve value ~$282B; last updated July 6
+- `wiki/india-gold-market.md` — July 6 MCX ₹1,46,730 (−0.01%); Goldman implied MCX target; EMA levels; last updated July 6
+- `wiki/gold-geopolitical-risk-premium.md` — July 6 price $4,163; 9d/50d levels; signal Wait (+1); last updated July 6
+- `wiki/fed-macro-factors.md` — rates held 3.50-3.75%; PCE 3.6%; 9/18 hawkish; FOMC minutes week; Macro = Neutral (0); last updated July 6
+- `wiki/global-cb-activity-log.md` — full July 6 section (~20 rows): WGC May CB data; all major countries; Signal: Wait (+1); last updated July 6
+- `wiki/index.md` — all changed page descriptions updated; singapore-mas-gold added; uzbekistan/kazakhstan YTDs updated
+- `wiki/log.md` — this entry
+- `prices/prices.csv` — 2026-07-06 row appended (Gold $4,163.46, Silver $62.60, DXY 100.88, WTI 68.78, USD/INR 95.438)
+- `signals/signals.csv` — Wait (+1) appended
+
+**Minor country pages updated** (YTD figures):
+- `wiki/uzbekistan-gold-reserves.md` — May +9t; YTD ~33t
+- `wiki/kazakhstan-gold-reserves.md` — May +7t; YTD ~20t
+- `wiki/czech-republic-gold-reserves.md` — May +2t; 39 consecutive months

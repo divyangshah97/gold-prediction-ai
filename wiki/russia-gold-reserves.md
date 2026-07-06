@@ -4,7 +4,7 @@
 
 **Sources**: `raw/india-russia-gold-reserves-2026-05-21.md`, `raw/central-bank-gold-purchases-2026-05-19.md`, Kitco June 3 2026, Kitco May 25 2026, Moscow Times Nov 2025, The Bell Nov 2025, bne IntelliNews, RAND Gold Rush report, Atlantic Council, New Eastern Europe Feb 2026, Modern Diplomacy Apr 2026.
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-07-06
 
 ---
 
@@ -13,11 +13,12 @@
 | Metric | Value |
 |---|---|
 | Total reserves (April 1, 2026) | **2,304.76 tonnes** (74.1M troy oz) |
-| Total reserves (May 1, 2026) | **~2,298t** (73.9M troy oz) |
-| Total reserves (January 1, 2026) | 2,326.52 tonnes |
-| YTD change (Jan–Apr 2026) | **−21.8 tonnes** (−700,000 oz) |
-| YTD selling pace | ~5–7 tonnes/month |
-| Reserve value (April 2026) | ~$334 billion |
+| Total reserves (May 2026) | **~2,298t** |
+| **Total reserves (June 2026 est.)** | **~2,292t** (post-May −6t per WGC July 2026 data) |
+| Total reserves (January 1, 2026) | 2,326.52 tonnes (2,305t effective per prior data) |
+| **YTD change (Jan–May 2026)** | **−34 tonnes** (updated from −22t through April; May −6t) |
+| YTD selling pace | ~6–7 tonnes/month |
+| Reserve value (June 2026 est.) | ~$282 billion (at $4,163/oz) |
 | Reserve value (January 2026) | ~$325 billion |
 | Reserve value (Jan 2022) | ~$140 billion |
 

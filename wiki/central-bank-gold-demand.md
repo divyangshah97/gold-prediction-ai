@@ -1,10 +1,10 @@
 # Central Bank Gold Demand
 
-**Summary**: Central banks are the single largest source of structural gold demand, collectively buying hundreds of tonnes per year as they diversify reserves away from the US dollar.
+**Summary**: Central banks are the single largest source of structural gold demand, collectively buying hundreds of tonnes per year as they diversify reserves away from the US dollar. **WGC July 2026**: May net +41t (Poland +18t, China +10t, Uzbekistan +9t, Kazakhstan +7t, Singapore MAS +4t resuming, Czech +2t, Jordan +1t new; Russia −6t). Record 45% of CBs plan to increase own gold; 89% expect global holdings to rise. Full-year 2026 WGC forecast: 850t. Goldman CB nowcast: ~60t/month.
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
 
-**Last updated**: 2026-05-22
+**Last updated**: 2026-07-06
 
 ---
 

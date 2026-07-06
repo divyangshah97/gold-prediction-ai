@@ -1,10 +1,10 @@
 # Poland Gold Reserves
 
-**Summary**: Poland's National Bank is the largest single central bank buyer of gold in 2026 YTD. **May 2026: NBP Governor Glapiński confirmed reserves rose to 613t — implying +18t in May 2026** (from 595t post-April). YTD 2026: ~63t (Jan–May). Gold = 30% of total FX reserves. Long-term target: 700t; NBP approved 150t additional purchase plan. NATO eastern flank security-driven.
+**Summary**: Poland's National Bank is the largest single central bank buyer of gold in 2026 YTD. **WGC July 2026 data confirms: May +18t → total ~631t; YTD ~81t; 4th consecutive double-digit monthly buy.** Gold = 30% of total FX reserves. Long-term target: 700t; NBP approved 150t additional purchase plan. NATO eastern flank security-driven.
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.gold.org/goldhub/gold-focus/2026/06/central-bank-gold-statistics-central-banks-resume-net-buying-april, https://phemex.com/news/article/poland-increases-gold-reserves-to-613-tons-aims-for-700-tons-88034, https://www.scottsdalemint.com/articles/2026/breaking-polish-central-bank-approves-plan-to-buy-150-more-tons-gold/, https://www.indexbox.io/blog/central-banks-report-net-gold-purchases-of-17-tonnes-in-april-2026/
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-07-06
 
 ---
 
@@ -14,9 +14,9 @@
 |---|---|
 | Q1 2026 purchases | 31 tonnes (largest single buyer globally) |
 | April 2026 purchases | **14 tonnes** (largest April buyer per WGC June 3 report) |
-| **May 2026 purchases (est.)** | **~18 tonnes** (implied: governor confirmed 613t total in early June 2026) |
-| Total reserves (post-May 2026) | **613 tonnes** (~30% of total FX reserves) |
-| YTD 2026 purchases (Jan–May) | **~63 tonnes** |
+| **May 2026 purchases** | **+18 tonnes** (confirmed by WGC July 2026 data — 4th consecutive double-digit monthly buy, highest since Feb) |
+| Total reserves (post-May 2026) | **~631 tonnes** (~30% of total FX reserves) |
+| YTD 2026 purchases (Jan–May) | **~81 tonnes** (largest annual accumulation on pace in NBP history) |
 | Long-term target | **700 tonnes** |
 | Additional purchase plan approved | **150 tonnes** (NBP board approved; targeting world's 10th-largest holder) |
 

@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`, https://www.zerohedge.com/news/2026-05-08/china-pboc-buys-gold-18-months-straight-adds-81-tonnes, https://www.gold.org/goldhub/gold-focus/2026/05/china-gold-market-update-notable-rise-gold-reserves, http://www.kitco.com/news/article/2026-06-08/china-increases-gold-reserves-995-tonnes-may-19th-straight-month-purchases, https://www.bloomberg.com/news/articles/2026-06-07/china-s-pboc-adds-gold-again-as-bullion-remains-under-pressure
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-07-06
 
 ---
 
@@ -14,10 +14,11 @@
 |---|---|
 | Q1 2026 purchases | 7 tonnes (reported) |
 | April 2026 purchases | **8.1 tonnes** — highest since December 2024 |
-| May 2026 purchases | **9.95 tonnes** — announced June 8, 2026 (SAFE) |
-| Total reserves (post-May 2026) | **2,331.52 tonnes** (74.96 million troy oz) |
+| May 2026 purchases | **~10 tonnes** (WGC July 2026 data; ~9.95t per SAFE June announcement) |
+| Total reserves (post-May 2026) | **~2,341.52 tonnes** (~75.3 million troy oz) |
 | Gold as % of total FX reserves | ~9% (FX reserves ~$3.8tn) |
-| Notable event | 19th consecutive month of buying — longest streak since PBoC began standardised monthly disclosures in 2015 |
+| Notable event | **20th consecutive month** of buying — longest streak since PBoC began standardised monthly disclosures in 2015 |
+| June 2026 data | Still pending (expected July 5-10 window) |
 | Consecutive buying months | **19 months** as of May 2026 (unbroken streak — November 2024 through May 2026) |
 
 China holds the world's 6th largest gold reserves by official count, but its gold-to-reserve ratio (~9%) remains far below Western central banks (US: ~70%, Germany: ~70%, Italy: ~68%). This gap suggests significant room to accumulate further.

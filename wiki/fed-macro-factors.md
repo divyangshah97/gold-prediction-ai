@@ -1,10 +1,10 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 3 UPDATE — MAJOR PIVOT**: **June NFP: 57K vs 115K expected — massive miss**. September rate hike COMPLETELY REMOVED (was 67%); July hike at 0% (was 30%). 2-year Treasury yields falling. Gold surged **+2.75% to $4,137.41**. DXY **100.82** (−0.29%). Warsh (July 1 ECB Forum) maintained "prices too high" but markets overriding with soft labor data. Key next: June CPI (July 14). Macro factor = **Bullish (+1)**.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 6 UPDATE**: Fed held at 3.50–3.75% (June 17). PCE inflation 3.6% (elevated). 9 of 18 FOMC officials project ≥1 hike in 2026. **FOMC minutes due this week** (key uncertainty). July 28-29 FOMC: expected hold. Gold +0.63% to $4,163; DXY 100.88 (+0.06% flat). June NFP miss (57K, July 3) still the dominant recent print — September hike at 0%. But elevated inflation creates upside rate risk. Macro factor = **Neutral (0)** (mixed: dovish jobs + hawkish inflation).
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year
 
-**Last updated**: 2026-07-03
+**Last updated**: 2026-07-06
 
 ---
 
