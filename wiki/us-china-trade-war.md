@@ -1,10 +1,10 @@
 # US–China Trade War
 
-**Summary**: The ongoing US–China trade conflict — centred on tariffs, technology, and critical minerals — is a key driver of global geopolitical uncertainty and a structural support for gold as a safe-haven asset. As of June 11, 2026: a new 60-day US-China trade deal was announced by Trump, keeping 30% tariffs (20% fentanyl + 10% reciprocal) and pausing higher tariffs. The Supreme Court struck down IEEPA-based tariffs on February 20, 2026; the administration is now rebuilding its tariff architecture on Section 122/301/232 grounds.
+**Summary**: The ongoing US–China trade conflict — centred on tariffs, technology, and critical minerals — is a key driver of global geopolitical uncertainty and a structural support for gold as a safe-haven asset. As of June 11, 2026: a new 60-day US-China trade deal was announced by Trump, keeping 30% tariffs and pausing higher tariffs. The Supreme Court struck down IEEPA-based tariffs February 20, 2026. **July 7 update**: USTR Section 301 forced-labor tariff hearing held today; additional 12.5% China tariffs possible; USTR decision deadline July 20. US-China truce expires November 2026. Gold/silver explicitly EXEMPTED from India tariff scope.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html, https://www.china-briefing.com/news/supreme-court-tariff-ruling-china-impact/, https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html, https://www.china-briefing.com/news/supreme-court-tariff-ruling-china-impact/, https://www.tariffstool.com/guides/tariff-news-2026
 
-**Last updated**: 2026-06-11
+**Last updated**: 2026-07-07
 
 ---
 

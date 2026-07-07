@@ -1,10 +1,10 @@
 # Goldman Sachs Gold Forecast
 
-**Summary**: Goldman Sachs is the most widely followed institutional forecaster on gold. **MAJOR REVISION June 22, 2026: Goldman cut its end-2026 target from $5,400 to $4,900/oz** — the first GS target cut since initiating coverage — citing post-FOMC hawkish repricing, weaker ETF inflows, and Fed cuts pushed to 2027. Goldman is now the most bearish major bank; JPM still at $6,000, Deutsche Bank $6,000, UBS $5,500.
+**Summary**: Goldman Sachs is the most widely followed institutional forecaster on gold. **MAJOR REVISION June 22, 2026: Goldman cut end-2026 target from $5,400 to $4,900/oz**. **MAJOR: JPMorgan cut Q4 2026 target to $4,500** (from ~$6,000) on July 5, 2026 — the most dramatic downward revision by any bank this cycle. Avg 2026 forecast cut to $5,243 from $5,708. Bank consensus range now $4,400–$6,000; Goldman $4,900; JPM Q4 $4,500; Deutsche Bank $6,000; UBS $5,500; MS base case $4,400.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/
 
-**Last updated**: 2026-06-23
+**Last updated**: 2026-07-07
 
 ---
 
@@ -18,9 +18,45 @@
 3. **Warsh hawkish tone** — PCE revised sharply higher to 3.6% (from 2.7%); commitment to price stability
 4. **Downside scenario**: If Fed hikes, Goldman sees gold at $4,400/oz
 
-Goldman is now the **most bearish major bank** on year-end target: JPM $6,000, Deutsche Bank $6,000, UBS $5,500 all above GS $4,900. However, **Morgan Stanley's base case scenario is $4,400** (H2 upside capped at $5,200) — making MS the most bearish on a base-case basis. Goldman $4,900 sits below prior institutional consensus range but above MS base case.
+Goldman is now the **second most bearish major bank** on year-end target: Deutsche Bank $6,000, UBS $5,500 above Goldman $4,900. **Morgan Stanley's base case scenario is $4,400** (H2 upside capped at $5,200) — making MS the most bearish on a base-case basis. **JPMorgan's Q4 target is now $4,500** (down from $6,000; see July 5, 2026 section below) — making JPM the most dramatically revised bank.
 
 **Market context at time of cut**: Gold $4,197.75 (+1.11% intraday June 22). $4,197.75 is 14.3% below the new $4,900 target — still implies meaningful upside but sharply reduced vs the prior $5,400 benchmark.
+
+---
+
+## ⚠️ July 5, 2026 — JPMorgan CUTS Q4 Target: ~$6,000 → $4,500 (−25%)
+
+**JPMorgan reduced its Q4 2026 gold target by approximately 25% to $4,500/oz**, down from its previous target of approximately $6,000. This is the most dramatic single forecast revision by any major bank in 2026.
+
+**Key details:**
+- **Q3 2026 forecast**: $4,300/oz (new)
+- **Q4 2026 forecast**: $4,500/oz (new; vs prior ~$6,000 — a $1,500 cut)
+- **Average 2026 forecast**: $5,243/oz (cut from $5,708 previously)
+- **Reason**: Softer investor demand; gold has become more sensitive to real interest rates; purchasing power weakening among major demand centers
+- **Long-term stance**: JPMorgan still expects gold to "approach $6,000 per troy ounce by year-end" in its longer-term view — contradicting the Q4 target cut (internal inconsistency noted)
+
+**Impact on India (MCX implied)**:
+- JPMorgan Q4 $4,500 at USD/INR ₹95.36 + 15% duty + 3% GST → MCX ~₹1,56,000/10g
+- Current MCX ~₹1,46,000 is ~6.8% below JPM Q4 implied
+- Goldman $4,900 still implies MCX ~₹1,70,000 (~16% above current)
+
+**Contradiction**: JPMorgan's separate research piece cited in the same week maintains $6,000 as a long-term objective while the Q4 target is $4,500 — likely a mismatch between a near-term tactical cut and a structural bull thesis. The Q4 $4,500 figure is the actionable near-term revision.
+
+(source: https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/)
+
+---
+
+## Updated Bank Forecast Table (July 7, 2026)
+
+| Bank | End-2026 Target | Q3 Target | Q4 Target | Direction | Updated |
+|---|---|---|---|---|---|
+| JPMorgan | ~$5,243 avg | $4,300 | $4,500 | ⬇️ CUT −25% Q4 | July 5, 2026 |
+| Goldman Sachs | $4,900 | — | $4,900 | ⬇️ (from $5,400) | June 22, 2026 |
+| Morgan Stanley | $4,400 (base) | — | $5,200 (upside) | ⬇️ Bearish | June 23, 2026 |
+| UBS | $5,500 | — | — | ⬇️ (from $6,200) | May 27, 2026 |
+| Deutsche Bank | $6,000 | — | — | → | May 2026 |
+
+**Consensus shift**: The bank consensus has moved materially bearish from the $5,400–$6,200 range of May 2026 to the current $4,300–$6,000 range. JPMorgan's cut is the most influential given the bank's market-making role in precious metals.
 
 ---
 

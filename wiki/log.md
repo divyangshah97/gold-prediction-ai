@@ -4,6 +4,55 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-07 — Daily update: Gold $4,147.94 (−0.37%); JPMorgan Q4 cut to $4,500; Iran talks suspended indefinitely; MCX ~₹1,46,000 (−0.5%); USD/INR ₹95.36; DXY 100.91 | Signal: Wait (+1)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-07.md` — MCX ~₹1,46,000/10g (−0.5%); XAU/USD $4,147.94 (−0.37%); Silver $61.14/oz (−2.3%); DXY 100.91 (+0.03%); WTI $69.14 (+0.52%); USD/INR ₹95.36 (−0.08%); 15% import duty; first ETF net outflows in 13 months; RBI 880.52t unchanged; USTR Section 301 hearing July 7
+
+**Holiday check**: July 7, 2026 — Tuesday. No NSE/BSE/MCX holidays in July 2026 on weekdays confirmed. Proceeding with full update.
+
+**Prices fetched** (web search — yfinance 403 + metals.dev 403 both failed; all manual via web search):
+- Gold: $4,147.94/oz (−0.37%) | Silver: $61.14/oz (−2.3%) | DXY: 100.91 (+0.03%) | WTI: $69.14/bbl (+0.52%) | USD/INR: ₹95.36 (−0.08%) | Volume: not available
+
+**Key new findings**:
+1. **JPMorgan Q4 2026 gold target CUT to $4,500** (from ~$6,000; −25%); avg 2026 forecast: $5,243 (from $5,708). Most dramatic bank revision of 2026 cycle.
+2. **Iran nuclear talks suspended INDEFINITELY** after Israeli attacks on Beirut — but gold is falling (−0.37%), confirming geopolitical risk is priced in and macro factors dominate.
+3. **New LatAm CB buyers**: Chile +8t YTD, Bolivia +1t, Uruguay +1t — first-time or decade-absent buyers; from WGC/web data sweep.
+4. **Germany Bundesbank**: CDU government reconfirmed no repatriation plans despite growing cross-party pressure; ~1,236t at FRBNY remains.
+5. **Japan**: 845.97t static; no BoJ/MoF statements. **Saudi Arabia**: 323.07t static.
+6. **USTR Section 301 forced-labor tariff hearing** held July 7; decision deadline July 20 — could affect China gold/silver supply chains; precious metals EXEMPT from India tariff scope.
+7. **MCX gold down ~0.5%** at ~₹1,46,000/10g; India: first gold ETF net outflows in 13+ months (May 2026); HDFC Gold ETF restricting large institutional inflows; 15% duty demand destruction persisting.
+
+**EMA estimates (from prior wiki + 1-day forward)**:
+- 9d EMA July 7: ~$4,117 (est.; gold ABOVE → mild bullish config for 9d only)
+- 50d EMA July 7: ~$4,382 (est.; gold BELOW → downtrend intact)
+- 50d > 9d → downtrend configuration → Bearish (-1) for Technicals
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — added July 7 price section; summary + Last updated updated; JPM Q4 implied MCX noted
+- `wiki/global-cb-activity-log.md` — added July 7 section (7 rows): global macro; LatAm new buyers; Germany no repatriation; Japan static; Saudi static; Iran talks suspended; USA USTR hearing; India MCX update; **Last updated: 2026-07-07**
+- `wiki/goldman-sachs-gold-forecast.md` — added JPMorgan July 5 cut section; updated bank forecast table; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — added July 7 to price timeline; summary updated; Last updated 2026-07-07
+- `wiki/iran-conflict-2026.md` — summary updated: nuclear talks suspended indefinitely
+- `wiki/fed-macro-factors.md` — summary updated: CPI July 14 flagged; FOMC Jul 28-29
+- `wiki/us-china-trade-war.md` — summary updated: Section 301 hearing July 7; deadline July 20
+- `wiki/index.md` — updated entries for india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, goldman-sachs-gold-forecast
+- `prices/prices.csv` — 2026-07-07 row appended (Gold $4,147.94, Silver $61.14, DXY 100.91, WTI 69.14, USD/INR 95.36)
+- `signals/signals.csv` — 2026-07-07: Wait, Score +1
+
+**Trading signal generated — Wait (Score: +1)**:
+- Factor 1 (Price vs targets): $4,147.94 is 15.3% below GS $4,900 → Bullish (+1)
+- Factor 2 (Geopolitical): Iran talks suspended indefinitely but gold FALLING — priced in; no safe-haven transmission → Neutral (0)
+- Factor 3 (Fed/Macro): FOMC July 28-29 expected hold; PCE 3.6%; 9/18 hawkish dots; June CPI July 14 key → Neutral (0)
+- Factor 4 (CB Demand): WGC May CB data published July 2026 (within 7 days); new LatAm buyers Chile/Bolivia/Uruguay discovered → Bullish (+1)
+- Factor 5 (Technicals): Above 9d EMA ~$4,117 but below 50d EMA ~$4,382; 50d > 9d (downtrend); July 7 red day, July 6 green → not 2 green → Bearish (−1)
+- Factor 6 (Dollar Pressure): DXY +0.03% (within 1%); USD/INR −0.08% (within 1%) → Neutral (0)
+- **Total: +1 +0 +0 +1 −1 +0 = +1 → Wait**
+
+**CB sweep summary**: No new single-country CB gold purchases/sales announced in last 24-48h. Key new discovery: Chile (+8t YTD), Bolivia (+1t), Uruguay (+1t) joining buyer list per WGC sweep. PBoC June data still pending. Germany: Bundesbank reconfirms no repatriation. Japan/Saudi Arabia: static. All major holders unchanged.
+
+---
+
 ## 2026-07-04 — COT weekly update
 Report_Date: 2026-06-23 | MM_Net: +115,395 (+9,532 vs prior confirmed 2026-06-09) | OI: 352,167 | MM_Long: 131,102 | MM_Short: 15,707 | MM_Net % OI: 32.8% | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-06-27T07:05:32Z
 Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Historical COT Reference extended), wiki/index.md (institutional-flows entry updated), prices/cot.csv (2026-06-23 row appended)

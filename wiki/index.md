@@ -47,7 +47,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t unchanged; **RBI denied $12B gold sale** (June 2026); gold = 16.85% FX reserves (up from 13.92% Sep 2025, price appreciation only); near-zero new buying; repatriation from London ongoing; updated June 18 |
-| [[india-gold-market]] | MCX **₹1,46,730/10g** (−0.01%; July 6); XAU/USD **$4,163.46** (+0.63%); USD/INR ₹95.44; 15% import duty; ETF AUM ₹1.7T; Goldman $4,900 → MCX ~₹1,70,000; updated July 6 |
+| [[india-gold-market]] | MCX **~₹1,46,000/10g** (−0.5%; July 7); XAU/USD **$4,147.94** (−0.37%); USD/INR ₹95.36; 15% import duty; first ETF outflows in 13 months; JPM Q4 $4,500 implies MCX ~₹1,56,000; GS $4,900 implies ~₹1,70,000; updated July 7 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; **June 11 FXStreet: "Germans demand bring our gold home"** — cross-party repatriation pressure growing (AfD + Green Party); CDU still refuses; France's $15B move cited as template; updated June 16 |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -58,7 +58,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **July 6**: WGC May CB stats: net **+41t** (Poland+18t China+10t Singapore+4t); Russia -34t YTD; Signal: **Wait (+1)**; updated July 6 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **July 7**: new LatAm buyers (Chile+8t, Bolivia+1t, Uruguay+1t); Iran talks suspended indefinitely; JPM Q4 cut $4,500; Signal: **Wait (+1)**; updated July 7 |
 
 ### Geopolitics & Macro
 
@@ -66,7 +66,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **~$4,163** (July 6; +0.63%); 9d EMA ~$4,109; 50d SMA ~$4,392 (above 9d, below 50d — downtrend); Khamenei burial July 9; Iran geo = priced in; Signal: **Wait (+1)**; updated July 6 |
+| [[gold-geopolitical-risk-premium]] | **~$4,148** (July 7; −0.37%); 9d EMA ~$4,117; 50d EMA ~$4,382 (above 9d, below 50d — downtrend); Iran talks suspended indefinitely; JPM Q4 cut $4,500; Signal: **Wait (+1)**; updated July 7 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
 | [[iran-conflict-2026]] | Khamenei burial July 9 (Day ~16 of MOU); Doha nuclear talks skipped; next round TBD; WTI $68.78; gold +0.63% (CB data, not Iran); Factor 2 = Neutral (0); updated July 6 |
 | [[fed-macro-factors]] | Rates 3.50-3.75% (held); PCE 3.6%; **9/18 dots hawkish** (NFP miss counters); FOMC minutes this week; CPI July 14; Macro factor = **Neutral (0)**; updated July 6 |
@@ -82,5 +82,5 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | **GS $4,900/oz** (cut from $5,400); **Morgan Stanley base case $4,400** (H2 upside $5,200); JPM $6,000; UBS $5,500; Deutsche Bank $6,000; death cross forming (downside $3,440); range $4,400–$6,000; updated June 23 |
+| [[goldman-sachs-gold-forecast]] | **GS $4,900/oz** (cut from $5,400); **JPMorgan Q4 CUT to $4,500** (from ~$6,000; avg 2026: $5,243); MS base $4,400; UBS $5,500; Deutsche Bank $6,000; range $4,300–$6,000; updated July 7 |
 | [[india-gold-market]] | MCX **₹1,47,720/10g** (+2.67%; July 3); USD/INR **₹95.22** (+0.13%); XAU/USD $4,137.41 (+2.75%); WGC: 15% duty to cut demand 50-60t; ETF AUM ₹1.7T; Goldman $4,900 implies MCX ~₹1,70,000 (domestic ~13% below GS); updated July 3 |

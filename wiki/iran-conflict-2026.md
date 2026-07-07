@@ -1,10 +1,10 @@
 # Iran Conflict 2026
 
-**Summary**: The 2026 US-Israel military strike on Iran (Feb 28) and subsequent ceasefire was the single largest acute geopolitical shock to gold markets, driving prices from ~$4,000 to $5,200. As of July 3: 60-day MOU ceasefire **Day ~13**. Doha talks concluded (Hormuz + frozen funds discussed; nuclear issue NOT touched). **Trump: "Iran agreed to just about everything."** Funeral processions for assassinated Supreme Leader Ali Khamenei: July 4–9 (burial July 9). New Supreme Leader Mojtaba Khamenei. **Next nuclear talks: after July 9 burial.** WTI $68.45. Gold driven by NFP today, not Iran. Factor 2 = Neutral (0).
+**Summary**: The 2026 US-Israel military strike on Iran (Feb 28) and subsequent ceasefire was the single largest acute geopolitical shock to gold markets, driving prices from ~$4,000 to $5,200. As of July 7: **Nuclear talks suspended INDEFINITELY** after Israeli attacks on Beirut. Khamenei burial July 9 (Day ~17 of MOU). Gold is FALLING (−0.37%) despite escalation — confirming risk fully priced in and macro factors (JPMorgan cut) dominate. WTI $69.14. Factor 2 = **Neutral (0)** (escalation not transmitting to gold).
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump, https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates, https://www.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://news.un.org/en/story/2026/06/1167748
 
-**Last updated**: 2026-07-03
+**Last updated**: 2026-07-07
 
 ---
 
