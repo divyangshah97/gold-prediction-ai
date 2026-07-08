@@ -1,10 +1,10 @@
 # Central Bank Gold Demand
 
-**Summary**: Central banks are the single largest source of structural gold demand, collectively buying hundreds of tonnes per year as they diversify reserves away from the US dollar. **WGC July 2026**: May net +41t (Poland +18t, China +10t, Uzbekistan +9t, Kazakhstan +7t, Singapore MAS +4t resuming, Czech +2t, Jordan +1t new; Russia −6t). Record 45% of CBs plan to increase own gold; 89% expect global holdings to rise. Full-year 2026 WGC forecast: 850t. Goldman CB nowcast: ~60t/month.
+**Summary**: Central banks are the single largest source of structural gold demand, collectively buying hundreds of tonnes per year as they diversify reserves away from the US dollar. **WGC July 2026**: May net +41t (Poland +18t, China +10t, Uzbekistan +9t, Kazakhstan +7t, Singapore MAS +4t resuming, Czech +2t, Jordan +1t new; Russia −6t). **PBoC June 2026: +14.93t (20-month streak; largest since 2023)**. LatAm: Chile +8t YTD, Bolivia +1t, Uruguay +1t. Record 45% of CBs plan to increase own gold; 89% expect global holdings to rise. Full-year 2026 WGC forecast: 850t. Goldman CB nowcast: ~60t/month.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.gold.org/goldhub/gold-focus/2026/07/central-bank-gold-statistics-central-banks-remain-committed-gold, https://goldsilver.com/industry-news/goldsilver-news/pboc-gold-reserves-june-2026/
 
-**Last updated**: 2026-07-06
+**Last updated**: 2026-07-08
 
 ---
 

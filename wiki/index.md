@@ -22,7 +22,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[central-bank-gold-demand]] | WGC July 2026 May data: net **+41t** (Poland+18t China+10t Singapore+4t); 45% CBs plan to increase holdings; 850t full-year forecast; updated July 6 |
+| [[central-bank-gold-demand]] | WGC July 2026 May data: net **+41t** (Poland+18t China+10t Singapore+4t); **PBoC June +14.93t** (20-month streak); 45% CBs plan to increase holdings; 850t full-year forecast; updated July 8 |
 | [[de-dollarisation]] | EM reserve diversification away from USD; ECB milestone June 2026: gold overtook US Treasuries as #1 reserve asset (27% vs 22%); updated June 4 |
 | [[hidden-sovereign-buying]] | Goldman's May 2026 finding that official data understates central bank demand by ~72% |
 
@@ -31,7 +31,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[poland-gold-reserves]] | **YTD #1 buyer**: **~81t Jan–May 2026**; **May +18t → total ~631t** (30% reserves); 150t plan approved; targeting 700t; NATO security-driven; updated July 6 |
-| [[china-pboc-gold]] | **~2,341.52t** reserves; **20-month** consecutive buying streak; May 2026 **~+10t** (WGC July); June data pending; price-insensitive accumulation confirmed; updated July 6 |
+| [[china-pboc-gold]] | **~2,346t** reserves; **20-month** consecutive buying streak; **June 2026: +14.93t** (largest since 2023; announced July 7); price-insensitive buying confirmed at June lows (~$4,002); updated July 8 |
 | [[uzbekistan-gold-reserves]] | 2nd largest Q1 2026 buyer (25t) + May +9t → **YTD ~33t**; production-linked buying via Navoi Mining; updated July 6 |
 | [[kazakhstan-gold-reserves]] | Q1 2026 buyer (12t) + May +7t → **YTD ~20t**; domestic mine purchase programme; ~65–70% gold-to-reserves ratio; updated July 6 |
 | [[czech-republic-gold-reserves]] | Q1 2026 buyer (5t) + April +2t + May +2t → **39 consecutive months**; total ~81t (6% reserves); CNB multi-year target; updated July 6 |
@@ -47,7 +47,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t unchanged; **RBI denied $12B gold sale** (June 2026); gold = 16.85% FX reserves (up from 13.92% Sep 2025, price appreciation only); near-zero new buying; repatriation from London ongoing; updated June 18 |
-| [[india-gold-market]] | MCX **~₹1,46,000/10g** (−0.5%; July 7); XAU/USD **$4,147.94** (−0.37%); USD/INR ₹95.36; 15% import duty; first ETF outflows in 13 months; JPM Q4 $4,500 implies MCX ~₹1,56,000; GS $4,900 implies ~₹1,70,000; updated July 7 |
+| [[india-gold-market]] | MCX **~₹1,45,260/10g** (−0.5%; July 8); XAU/USD **$4,128.32** (−0.48%); USD/INR ₹95.40 (flat); 15% import duty; first ETF outflows in 13 months; JPM Q4 $4,500 → MCX ~₹1,56,000; GS $4,900 → MCX ~₹1,70,000; updated July 8 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; **June 11 FXStreet: "Germans demand bring our gold home"** — cross-party repatriation pressure growing (AfD + Green Party); CDU still refuses; France's $15B move cited as template; updated June 16 |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -58,7 +58,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **July 7**: new LatAm buyers (Chile+8t, Bolivia+1t, Uruguay+1t); Iran talks suspended indefinitely; JPM Q4 cut $4,500; Signal: **Wait (+1)**; updated July 7 |
+| [[global-cb-activity-log]] | Append-only daily log of all country-level CB gold buy/sell/policy news worldwide; **July 8**: PBoC June +14.93t confirmed; death cross confirmed; FOMC minutes today; Signal: **Wait (+1)**; updated July 8 |
 
 ### Geopolitics & Macro
 
@@ -66,10 +66,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **~$4,148** (July 7; −0.37%); 9d EMA ~$4,117; 50d EMA ~$4,382 (above 9d, below 50d — downtrend); Iran talks suspended indefinitely; JPM Q4 cut $4,500; Signal: **Wait (+1)**; updated July 7 |
+| [[gold-geopolitical-risk-premium]] | **~$4,128** (July 8; −0.48%); 9d EMA ~$4,120; 50d EMA ~$4,145 (above 9d, below 50d — downtrend; **death cross confirmed**); Iran funeral ends July 9, talks to resume; Signal: **Wait (+1)**; updated July 8 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | Khamenei burial July 9 (Day ~16 of MOU); Doha nuclear talks skipped; next round TBD; WTI $68.78; gold +0.63% (CB data, not Iran); Factor 2 = Neutral (0); updated July 6 |
-| [[fed-macro-factors]] | Rates 3.50-3.75% (held); PCE 3.6%; **9/18 dots hawkish** (NFP miss counters); FOMC minutes this week; CPI July 14; Macro factor = **Neutral (0)**; updated July 6 |
+| [[iran-conflict-2026]] | Khamenei funeral concludes July 9 (Day ~22 of MOU); nuclear talks expected to resume post-funeral; 14-pt MOU signed June 17; Factor 2 = Neutral (0); updated July 8 |
+| [[fed-macro-factors]] | Rates 3.50-3.75% (held); PCE 3.6%; **FOMC June minutes released July 8** (Warsh tone key); Sep hike 0%; CPI July 14; Macro factor = **Neutral (0)**; updated July 8 |
 
 ### Institutional Flows
 

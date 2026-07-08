@@ -1,10 +1,10 @@
 # Iran Conflict 2026
 
-**Summary**: The 2026 US-Israel military strike on Iran (Feb 28) and subsequent ceasefire was the single largest acute geopolitical shock to gold markets, driving prices from ~$4,000 to $5,200. As of July 7: **Nuclear talks suspended INDEFINITELY** after Israeli attacks on Beirut. Khamenei burial July 9 (Day ~17 of MOU). Gold is FALLING (−0.37%) despite escalation — confirming risk fully priced in and macro factors (JPMorgan cut) dominate. WTI $69.14. Factor 2 = **Neutral (0)** (escalation not transmitting to gold).
+**Summary**: The 2026 US-Israel military strike on Iran (Feb 28) and subsequent ceasefire was the single largest acute geopolitical shock to gold markets, driving prices from ~$4,000 to $5,200. As of July 8: **Khamenei funeral concludes July 9** (Day ~22 of MOU). Nuclear talks expected to resume post-funeral. 14-point MOU signed June 17; 60-day period for full deal discussion ongoing. Gold NOT responding to Iran dynamics (−0.48% today driven by macro, not geo). Factor 2 = **Neutral (0)**.
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump, https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates, https://www.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://news.un.org/en/story/2026/06/1167748
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump, https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates, https://www.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://news.un.org/en/story/2026/06/1167748, https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-08
 
 ---
 

@@ -4,6 +4,35 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-08 — Daily update: Gold $4,128.32 (−0.48%); PBoC June +14.93t (20-month streak, largest since 2023); death cross confirmed; FOMC minutes today; MCX ~₹1,45,260 (−0.5%); USD/INR ₹95.40; DXY 100.90 | Signal: Wait (+1)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-08.md` — MCX ~₹1,45,260/10g (−0.51%); XAU/USD $4,128.32 (−0.48%); Silver $60.20 (−1.5%); DXY 100.90 (flat); WTI $70.45 (+1.9%); USD/INR ₹95.40 (flat); 15% duty; ETF outflows May (−₹725cr); RBI 880.52t unchanged; FOMC minutes today; death cross on 50d/200d EMA
+
+**Pages updated**:
+- `wiki/china-pboc-gold.md` — June 2026 data confirmed: +14.93t (480,000 oz; largest since 2023); total 2,346t; 20-month streak; last updated July 8
+- `wiki/central-bank-gold-demand.md` — PBoC June +14.93t added; WGC July "remain committed" note added; last updated July 8
+- `wiki/gold-geopolitical-risk-premium.md` — July 8 price row added ($4,128; death cross; 9d~$4,120; 50d~$4,145); last updated July 8
+- `wiki/india-gold-market.md` — July 8 MCX section: ₹1,45,260/10g; USD/INR ₹95.40; retail prices; key levels; last updated July 8
+- `wiki/fed-macro-factors.md` — FOMC June minutes being released July 8 noted; last updated July 8
+- `wiki/iran-conflict-2026.md` — Khamenei funeral concluding July 9; talks to resume; 60-day MOU period ongoing; last updated July 8
+- `wiki/global-cb-activity-log.md` — July 8 section added (5 rows: macro, PBoC June, Germany, Saudi Arabia, Iran, India); country table updated for China; last updated July 8
+- `wiki/index.md` — all changed page descriptions refreshed; last updated July 8
+- `wiki/log.md` — this entry
+- `prices/prices.csv` — 2026-07-08 row appended (Gold $4,128.32, Silver $60.20, DXY 100.90, WTI 70.45, USD/INR 95.40)
+- `signals/signals.csv` — Wait (+1) appended
+
+**Signal breakdown (2026-07-08)**:
+- Factor 1 (Price vs targets): +1 [Gold $4,128 is 15.7% below Goldman $4,900 target — just above 15% threshold]
+- Factor 2 (Geopolitics): 0 [Iran funeral ends July 9; talks resuming; no gold safe-haven transmission]
+- Factor 3 (Fed/macro): 0 [FOMC minutes today; Sep hike 0%; mixed signals; CPI July 14]
+- Factor 4 (CB demand): +1 [PBoC June +14.93t announced July 7; WGC July report July 3 — both within 7 days]
+- Factor 5 (Technicals): −1 [Gold above 9d EMA (~$4,120), below 50d EMA (~$4,145); 50d>9d (downtrend); death cross confirmed July 7]
+- Factor 6 (Dollar pressure): 0 [DXY −0.01%, USD/INR +0.04%, both within 1%]
+- **Total: +1 → Signal: Wait**
+
+---
+
 ## 2026-07-07 — Daily update: Gold $4,147.94 (−0.37%); JPMorgan Q4 cut to $4,500; Iran talks suspended indefinitely; MCX ~₹1,46,000 (−0.5%); USD/INR ₹95.36; DXY 100.91 | Signal: Wait (+1)
 
 **Raw file created**:

@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-08
 
 ---
 
@@ -24,7 +24,7 @@ These countries have full wiki pages — this log supplements them with daily ne
 | Country | Role | Page |
 |---|---|---|
 | 🇵🇱 Poland | Buyer (**~63t YTD Jan–May 2026**; May: ~18t; **total 613t**; 30% of reserves; 150t plan approved; targeting 700t) | [[poland-gold-reserves]] |
-| 🇨🇳 China | Buyer (9.95t May 2026; **19-month streak**; **2,331.52t** total) | [[china-pboc-gold]] |
+| 🇨🇳 China | Buyer (**14.93t June 2026** — largest since 2023; **20-month streak**; **2,346t** total) | [[china-pboc-gold]] |
 | 🇺🇿 Uzbekistan | Buyer (25t Q1 2026) | [[uzbekistan-gold-reserves]] |
 | 🇰🇿 Kazakhstan | Buyer (12t Q1 2026) | [[kazakhstan-gold-reserves]] |
 | 🇨🇿 Czech Republic | Buyer (5t Q1 2026) | [[czech-republic-gold-reserves]] |
@@ -73,6 +73,19 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-07-08
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-07-08 | 🌐 Global (Macro) | **Gold $4,128.32 (−0.48%); DXY 100.90 (flat); WTI $70.45 (+1.9%); Silver $60.20 (−1.5%); MCX ~₹1,45,260/10g (−0.5%); USD/INR ₹95.40 (flat); Signal: Wait (+1)** | Gold fell to **$4,128.32** (−0.48% from July 7 $4,147.94) — 2nd consecutive red day. DXY **100.90** (flat). WTI **$70.45/bbl** (+1.9%). Silver **$60.20/oz** (−1.5%). USD/INR **₹95.40** (~flat). MCX gold **~₹1,45,260/10g** (−0.51%). **9d EMA ~$4,120** (est.); **50d EMA ~$4,145** (Investing.com) — gold above 9d EMA but BELOW 50d EMA (downtrend). **Death cross confirmed July 7** (50d EMA crossed below 200d EMA per Babypips). Markets await FOMC June minutes. Iran Khamenei funeral ending July 9; nuclear talks to resume. **PBoC June 2026 confirmed: +14.93t** (announced July 7, within 7d → CB demand bullish). **Signal: Wait (+1)**: Price vs targets +1 (15.7% below GS $4,900); Geo 0 (Iran funeral ending, talks resuming); Macro 0 (FOMC minutes awaited; Sep hike 0%; CPI July 14); CB Demand +1 (PBoC June data July 7; WGC July report July 3); Technicals −1 (above 9d~$4,120, below 50d~$4,145, downtrend+death cross); Dollar Pressure 0 (DXY −0.01%, INR +0.04%, both within 1%). See [[gold-geopolitical-risk-premium]], [[fed-macro-factors]], [[india-gold-market]], [[china-pboc-gold]]. | https://www.investing.com/currencies/xau-usd-technical; https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html; https://www.babypips.com/trading/ta-alert-ema-bullish-crossover-2026-07-07; https://tradingeconomics.com/commodity/gold |
+| 2026-07-08 | 🇨🇳 China (PBoC) | **Buy — June 2026: +14.93t → total 2,346t; 20-month streak; largest buy since 2023** | SAFE (China's State Administration of Foreign Exchange) announced on **July 7, 2026** that PBoC added **14.93 tonnes (480,000 troy oz) in June 2026** — a **50% increase from May's 9.95t** and the **largest single-month purchase since 2023**. Total reserves now **2,346t** (75.44mn troy oz). **20 consecutive months** of buying — longest streak since PBoC began standardised monthly disclosures (2015). June 2026 purchase came while gold touched a low near $4,002 (weakest since Nov 2025) — confirming price-insensitive strategic accumulation. Gold/reserve ratio still ~9% vs US/Germany/Italy ~70% — vast runway remaining. See [[china-pboc-gold]], [[central-bank-gold-demand]]. | https://goldsilver.com/industry-news/goldsilver-news/pboc-gold-reserves-june-2026/; https://www.indexbox.io/blog/chinas-central-bank-extends-gold-buying-streak-to-20-months-in-june-2026/; https://www.fxstreet.com/news/china-turns-out-gold-buyer-again-202607070903 |
+| 2026-07-08 | 🇩🇪 Germany (Bundesbank) | No new data — ~1,236t at FRBNY, no repatriation plans | No new Bundesbank announcements found. Official stance unchanged: no further repatriation of ~1,236t held at FRBNY. CDU government reconfirms confidence in custodians. Cross-party pressure (AfD, Greens, economists) continues but no vote scheduled. See [[germany-gold-reserves]]. | Web search July 8, 2026 |
+| 2026-07-08 | 🇸🇦 Saudi Arabia (SAMA) | No new data — 323.07t static since 2010 | SAMA gold reserves unchanged. No BRICS+ gold diversification announcements. See [[saudi-arabia-gold-reserves]]. | Web search July 8, 2026 |
+| 2026-07-08 | 🇮🇷 Iran | **Khamenei funeral July 4-9 concluding; nuclear talks to resume after; 60-day MOU signed June 17** | Iran's Khamenei funeral ceremonies run July 4-9; nuclear talks are expected to resume after conclusion. 14-point MOU signed June 17 establishes 60-day period for full deal discussions. Key sticking points: $300B reconstruction plan, sanctions lifting process, uranium inspection access. Doha technical talks (July 2) made progress. No collapse of deal as of July 8. Gold not responding to Iran dynamics — priced in. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations; https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next |
+| 2026-07-08 | 🇮🇳 India (RBI + Market) | **MCX ~₹1,45,260/10g (−0.51%); XAU $4,128.32 (−0.48%); USD/INR ₹95.40 (flat); 15% duty; ETF first outflows in 13 months (May); RBI 880.52t static** | MCX gold **~₹1,45,260/10g** (−0.51%; 24K: ₹14,526/g; 22K: ₹13,315/g). XAU/USD **$4,128.32** (−0.48%). Silver $60.20/oz (−1.5%). USD/INR **₹95.40** (flat). DXY 100.90 (flat). WTI $70.45 (+1.9%). Import duty 15% unchanged. Gold ETF first outflows in 13 months (May 2026: −₹725 crore). ETF AUM ~₹1.7T. RBI 880.52t static; no new purchase/sale. Goldman $4,900 → MCX ~₹1,70,000; JPM Q4 $4,500 → MCX ~₹1,56,000. Current MCX 15% below GS target. See [[india-gold-market]], [[india-rbi-gold]]. | `raw/india-gold-2026-07-08.md`; https://www.goodreturns.in/gold-rates/; https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/ |
 
 ---
 

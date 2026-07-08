@@ -1,10 +1,33 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), imports down 70%, and ETF AUM at ₹1.7T. As of July 7, MCX gold **~₹1,46,000/10g** (−0.5%; XAU/USD $4,147.94 −0.37%). USD/INR **₹95.36** (−0.08%). Goldman $4,900 target implies MCX ~₹1,70,000/10g — domestic prices ~15% BELOW Goldman's implied year-end level. JPMorgan cut Q4 2026 target to $4,500. WGC (July 1): 15% duty to cut India demand 50-60t in 2026. India first gold ETF net outflows in 13 months (May 2026). RBI 880.52t unchanged; 77% onshore after 104.23t BoE repatriation. Signal: **Wait (+1)** (updated July 7).
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), imports down 70%, and ETF AUM at ₹1.7T. As of July 8, MCX gold **~₹1,45,260/10g** (−0.5%; XAU/USD $4,128.32 −0.48%). USD/INR **₹95.40** (flat). Goldman $4,900 target implies MCX ~₹1,70,000/10g — domestic prices ~15% BELOW Goldman's implied year-end level. JPMorgan cut Q4 2026 target to $4,500. WGC (July 2026): 15% duty to cut India demand 50-60t in 2026. First gold ETF net outflows in 13 months (May 2026). RBI 880.52t unchanged; 77% onshore. Signal: **Wait (+1)** (updated July 8).
 
-**Sources**: `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, https://www.goodreturns.in/gold-rates/, https://www.india.com/business/gold-rate-today-july-020726-gold-silver-mcx-comex-bullion-market-18-22-24-carat-gold-prices-in-mumbai-delhi-kolkata-noida-gold-silver-yellow-metal-hiked-traded-higher-lower-costlier-cheaper-updates-8463203/, https://www.indexbox.io/blog/india-gold-demand-slows-in-mayjune-2026-as-import-duties-and-currency-depreciation-push-prices-up/
+**Sources**: `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, https://www.goodreturns.in/gold-rates/, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.indexbox.io/blog/india-gold-demand-slows-in-mayjune-2026-as-import-duties-and-currency-depreciation-push-prices-up/
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-08
+
+---
+
+## MCX Gold Price (July 8, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold futures (24K) | **~₹1,45,260/10g** (₹14,526/gram; −0.51% from July 7 ₹1,46,000) |
+| USD/INR rate | **₹95.40** (~flat from July 7 ₹95.36) |
+| Global spot (XAU/USD) | **$4,128.32** (−0.48% from July 7 $4,147.94; range $4,117–$4,180) |
+| Silver (XAG/USD) | **$60.20/oz** (−1.5% from July 7 $61.14) |
+| DXY | **100.90** (flat from July 7 100.91) |
+| WTI crude | **$70.45/bbl** (+1.9% from July 7 $69.14) |
+
+Note: MCX gold down −0.51% tracking global XAU/USD fall (−0.48%). USD/INR essentially flat (no FX effect). Gold entering second consecutive red day; markets await FOMC June meeting minutes (released today) for clues on Kevin Warsh's rate path. **Death cross confirmed July 7**: 50-day EMA crossed below 200-day EMA (Babypips, July 7 2026) — technically bearish signal. Iran Khamenei funeral ceremonies end July 9; nuclear talks expected to resume after. PBoC June data (+14.93t) announced yesterday — structural CB demand still intact.
+
+**Key levels**: Support ₹1,44,000–₹1,44,500 (MCX) | Resistance ₹1,46,500 | Next major resistance: 50d EMA equivalent ~₹1,54,000 | Global: support $4,100–$4,120 | resistance $4,145 (50d EMA)
+
+**Goldman $4,900 / JPMorgan $4,500 Q4 targets imply for India**: At USD/INR ₹95.40 and 15% duty + 3% GST (~18.5%): GS $4,900/oz → MCX ~₹1,70,000/10g (domestic ~15% BELOW). JPM Q4 $4,500/oz → MCX ~₹1,56,000/10g (domestic ~7% below JPM Q4).
+
+**Retail prices July 8, 2026**: 24K ₹14,526/g | 22K ₹13,315/g | 18K ₹10,894/g
+
+**Prior session (July 7)**: MCX ₹1,46,000/10g (−0.5%); XAU $4,147.94 (−0.37%); DXY 100.91; WTI $69.14; USD/INR ₹95.36.
 
 ---
 
