@@ -1,10 +1,10 @@
 # Uzbekistan Gold Reserves
 
-**Summary**: Uzbekistan is the 2nd largest central bank gold buyer globally in Q1 2026 (25t) + May +9t (YTD ~33t), driven by domestic gold production from state-owned Navoi Mining and a deliberate policy of retaining mined gold in reserves.
+**Summary**: Uzbekistan is the 2nd largest central bank gold buyer globally in H1 2026 — Q1 25t + May +9t + June +9t → **YTD ~41t** (as of June 2026). Buying is driven by domestic gold production from state-owned Navoi Mining and a deliberate policy of retaining mined gold in reserves.
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, WGC July 2026 CB statistics
 
-**Last updated**: 2026-07-06
+**Last updated**: 2026-07-09
 
 ---
 
@@ -14,8 +14,9 @@
 |---|---|
 | Q1 2026 purchases | 25 tonnes (2nd largest buyer globally) |
 | May 2026 purchases | **+9 tonnes** (WGC July 2026 data) |
-| YTD 2026 (Jan–May) | **~33 tonnes** |
-| Estimated total reserves | ~380–400 tonnes (as of Q1 2026; updated pending) |
+| June 2026 purchases | **+9 tonnes** (IndexBox citing June 2026 CB data; announced ~July 7-8) |
+| YTD 2026 (Jan–June) | **~41 tonnes** (2nd largest H1 buyer behind Poland) |
+| Estimated total reserves | ~385–405 tonnes (as of Q2 2026; updated pending) |
 | Primary source of gold | Domestic mining (Navoi Mining & Metallurgical Company) |
 
 ## Why Uzbekistan Buys
@@ -42,6 +43,7 @@ Uzbekistan's buying is largely a mechanical function of its mining output — as
 |---|---|
 | 2026-05-27 | Stub created. No new Uzbekistan-specific news in last 48h. |
 | 2026-07-06 | WGC July 2026 CB stats: May 2026 +9t → YTD ~33t. Production-linked accumulation continues. |
+| 2026-07-09 | June 2026 data: +9t (IndexBox citing June CB data) → YTD ~41t. Uzbekistan is 2nd largest H1 buyer behind Poland (~81t). Consistent monthly buying maintained through gold's correction from ATH. |
 
 ## Related pages
 

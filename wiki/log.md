@@ -4,6 +4,34 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-09 — Daily update: Gold ~$4,075 (−1.3%; 3rd red day); CEASEFIRE ENDED (Iran Hormuz attacks; US strikes; oil +5.3% to $74.20); FOMC minutes hawkish (PCE 3.3%, easing bias removed); Uzbekistan June +9t (YTD 41t); MCX ~₹1,45,000 (−0.27%); USD/INR ₹95.57 | Signal: Wait (−1)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-09.md` — MCX ~₹1,45,000/10g (−0.27%); XAU/USD ~$4,075 (−1.3%; 3rd red day); Silver ~$57.50 (−4%); DXY ~101.07 (+0.17%); WTI ~$74.20 (+5.3% — Hormuz attack surge); USD/INR ₹95.57 (+0.18%); 15% duty unchanged; Iran ceasefire ended; FOMC minutes hawkish; death cross intact; gold below both EMAs
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — July 5–9 events added: Iran Hormuz attacks (July 5-6), Iran ballistic missiles (July 7), Trump declares MOU "over" + US strikes 80+ targets (July 8), gold falling despite escalation (July 9); Factor 2 → Bearish (−1); last updated July 9
+- `wiki/gold-geopolitical-risk-premium.md` — July 9 price row added (~$4,075; ceasefire ended; 3rd red; below both EMAs; 9d EMA ~$4,111; 50d EMA ~$4,142); Signal: Wait (−1); last updated July 9
+- `wiki/india-gold-market.md` — July 9 MCX section: ₹1,45,000/10g; USD/INR ₹95.57; retail prices; key levels; Iran oil shock implications for India; last updated July 9
+- `wiki/fed-macro-factors.md` — July 9 section added: FOMC June minutes hawkish (easing bias removed; PCE 3.3%; inflation risks tilted upside; few favor immediate hike but many see scenario requiring hikes); Iran oil shock adds inflation pressure; Macro factor → Bearish (−1); last updated July 9
+- `wiki/uzbekistan-gold-reserves.md` — June 2026: +9t → YTD ~41t (2nd largest H1 buyer after Poland); last updated July 9
+- `wiki/global-cb-activity-log.md` — July 9 section added (7 rows: macro, Iran escalation, Uzbekistan June, Germany, Saudi Arabia, Japan, India); Uzbekistan country table updated; last updated July 9
+- `wiki/index.md` — all changed page descriptions refreshed (gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors, uzbekistan-gold-reserves, india-gold-market, global-cb-activity-log); last updated July 9
+- `wiki/log.md` — this entry
+- `prices/prices.csv` — 2026-07-09 row appended (Gold $4,075.08, Silver $57.50, DXY 101.07, WTI 74.20, USD/INR 95.5725)
+- `signals/signals.csv` — Wait (−1) appended
+
+**Signal breakdown (2026-07-09)**:
+- Factor 1 (Price vs targets): +1 [Gold ~$4,075 is 16.8% below Goldman $4,900 target — above 15% threshold]
+- Factor 2 (Geopolitics): −1 [Iran ceasefire ended July 8; Iran attacked Strait of Hormuz; US launched new strikes; oil +5.3% to $74.20 → energy inflation fears → hawkish Fed channel dominates over safe-haven; gold FALLING despite escalation]
+- Factor 3 (Fed/macro): −1 [FOMC June minutes (July 8): hawkish surprise — easing bias removed; PCE core 3.3% (revised up); inflation risks "tilted to the upside"; Iran oil shock adds inflation pressure]
+- Factor 4 (CB demand): +1 [WGC May data published July 3 (6 days ago); PBoC June +14.93t announced July 7 (2 days ago); Uzbekistan June +9t in today's sweep — all within 7 days]
+- Factor 5 (Technicals): −1 [Gold ~$4,075 BELOW 9d EMA ~$4,111 AND below 50d EMA ~$4,142; death cross intact (50d < 200d); 3rd consecutive red day — "not 2 green" = Bearish per rule table]
+- Factor 6 (Dollar Pressure): 0 [DXY +0.17% (within ±1%); USD/INR +0.18% (within ±1%); both neutral]
+- **TOTAL: +1−1−1+1−1+0 = −1 → WAIT**
+
+---
+
 ## 2026-07-08 — Daily update: Gold $4,128.32 (−0.48%); PBoC June +14.93t (20-month streak, largest since 2023); death cross confirmed; FOMC minutes today; MCX ~₹1,45,260 (−0.5%); USD/INR ₹95.40; DXY 100.90 | Signal: Wait (+1)
 
 **Raw file created**:

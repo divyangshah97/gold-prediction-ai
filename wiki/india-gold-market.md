@@ -1,10 +1,35 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), imports down 70%, and ETF AUM at ₹1.7T. As of July 8, MCX gold **~₹1,45,260/10g** (−0.5%; XAU/USD $4,128.32 −0.48%). USD/INR **₹95.40** (flat). Goldman $4,900 target implies MCX ~₹1,70,000/10g — domestic prices ~15% BELOW Goldman's implied year-end level. JPMorgan cut Q4 2026 target to $4,500. WGC (July 2026): 15% duty to cut India demand 50-60t in 2026. First gold ETF net outflows in 13 months (May 2026). RBI 880.52t unchanged; 77% onshore. Signal: **Wait (+1)** (updated July 8).
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), imports down 70%, and ETF AUM at ₹1.7T. As of July 9, MCX gold **~₹1,45,000/10g** (−0.27%; XAU/USD ~$4,075 −1.3%; 3rd consecutive red day). USD/INR **₹95.57** (+0.18%). Iran ceasefire ended July 8 → oil surged to $74.20 (+5.3%) → inflation fears → hawkish Fed → gold falling. FOMC June minutes (July 8) hawkish — bearish for gold in USD terms. Goldman $4,900 → MCX ~₹1,70,300 (domestic ~17% below). RBI 880.52t unchanged. Signal: **Wait (−1)** (updated July 9).
 
 **Sources**: `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, https://www.goodreturns.in/gold-rates/, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/, https://www.indexbox.io/blog/india-gold-demand-slows-in-mayjune-2026-as-import-duties-and-currency-depreciation-push-prices-up/
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-07-09
+
+---
+
+## MCX Gold Price (July 9, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold futures Aug 5 (24K) | **~₹1,45,000/10g** (₹14,500/gram; −₹392, −0.27% from July 8 ~₹1,45,392) |
+| USD/INR rate | **₹95.5725** (+0.18% from July 8 ₹95.40 — rupee very slightly weaker) |
+| Global spot (XAU/USD) | **~$4,075/oz** (~−1.3% from July 8 $4,128.32; bid $4,074.71, ask $4,075.05; 3rd consecutive red day) |
+| Silver (XAG/USD) | **~$57.50–$58.50/oz** (~−3–4% from July 8 $60.20 — sharp decline) |
+| DXY | **~101.07** (+0.17% from July 8 100.90 — dollar holding) |
+| WTI crude | **~$74.20/bbl** (+5.3% from July 8 $70.45 — Hormuz attack surge) |
+
+Note: MCX gold −0.27% today, tracking global XAU/USD fall. USD/INR flat (+0.18% — within noise). Gold is in its 3rd consecutive red session since the July 6 recovery peak. **Primary driver today**: Iran ceasefire ended July 8 — Iran attacked Saudi and Qatari tankers in the Strait of Hormuz (July 5–6), triggering a US military response (80+ targets struck) and Trump's declaration that the Islamabad MOU is "over." WTI crude surged 5.3% to ~$74.20 — this energy shock is driving **inflation fears** (Fed less able to cut/more likely to hold) which is **bearish for gold in USD terms**. Simultaneously, FOMC June minutes (released July 8) showed a hawkish tilt, adding to bearish pressure.
+
+**Gold falling despite geopolitical escalation** — this is the "escalation driving energy inflation → hawkish Fed → bearish gold" pattern documented in [[iran-conflict-2026]] (also seen June 1–3, June 8, June 11, June 23 sequences).
+
+**Key levels** (July 9): MCX support ₹1,44,000–₹1,44,500 | MCX resistance ₹1,45,500 | XAU/USD support $4,050 | XAU/USD resistance $4,111 (9d EMA) then $4,142 (50d EMA) | Next major resistance ~$4,300 (200d SMA)
+
+**Goldman $4,900 / JPMorgan $4,500 targets for India** (USD/INR ₹95.57, 18.5% effective duty): GS $4,900 → MCX ~₹1,70,300/10g (domestic ~17% BELOW GS target). JPM Q4 $4,500 → MCX ~₹1,56,400/10g (domestic ~8% below JPM Q4).
+
+**Retail prices July 9, 2026 (approx)**: 24K ~₹14,500/g | 22K ~₹13,290/g | 18K ~₹10,875/g
+
+**Prior session (July 8)**: MCX ~₹1,45,260/10g (−0.51%); XAU $4,128.32 (−0.48%); DXY 100.90; WTI $70.45; USD/INR ₹95.40.
 
 ---
 

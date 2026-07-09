@@ -1,10 +1,45 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 8 UPDATE**: Fed held at 3.50–3.75% (June 17). PCE 3.6%; GDP 2.2%. 9 of 18 FOMC officials project ≥1 hike in 2026. **FOMC June minutes being released today July 8** (key macro event — markets watching for Warsh tone). Next FOMC **July 28-29** (expected hold). Gold −0.48% to $4,128; DXY 100.90 (flat). June NFP 57K (miss) — September hike at 0% probability. CPI due July 14 (next key print). Macro factor = **Neutral (0)** (dovish jobs + hawkish inflation + Warsh uncertainty).
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 9 UPDATE**: **FOMC June minutes (released July 8): hawkish surprise** — officials removed easing bias from statement; PCE core revised higher to 3.3%; only a few policymakers favored immediate rate hike but many saw scenarios requiring hikes; risks to inflation "tilted to the upside" per minutes. Fed held at 3.50–3.75% (June 17). Iran ceasefire ended July 8 — oil surge to $74.20 adds fresh inflation pressure. CPI due **July 14** (critical next print). Next FOMC **July 28-29** (expected hold). Gold −1.3% to ~$4,075; DXY ~101.07. Macro factor = **Bearish (−1)** — hawkish minutes + elevated inflation + energy shock.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-07-09
+
+---
+
+## July 9, 2026 — FOMC June Minutes Hawkish; Iran Ceasefire Ended; Oil Surge; Gold −1.3%
+
+**Headline**: FOMC June minutes (released July 8) delivered a **hawkish signal** — officials removed the easing bias from the post-meeting statement and expressed growing concern about inflation. Simultaneously, the Iran ceasefire ended July 8, triggering a 5%+ WTI crude surge to ~$74.20/bbl — adding fresh energy inflation pressure.
+
+**FOMC June minutes key findings** (released July 8):
+- Officials **removed the language** indicating a "prior easing bias" — the most significant change
+- **Only a few** policymakers favored a rate increase at the June meeting, but many saw scenarios where hikes would be necessary
+- Core PCE inflation for 2026 was **revised higher to 3.3%** (from 2.7% prior) — significant upward surprise
+- Participants judged "risks to the inflation outlook were still tilted to the upside"
+- FOMC officials noted inflation would remain elevated in the near term driven by tariffs, energy prices, and Hormuz disruption
+- Officials were **split** on the future path: some saw inflation easing scenario (allowing eventual cuts); others saw elevated inflation scenario (requiring further hikes)
+- Result: **hawkish surprise relative to post-meeting statement** which had been read as dovish/neutral
+
+**Iran ceasefire ended July 8 — macro implications**:
+- Iran attacked Saudi and Qatari tankers in the Strait of Hormuz July 5-6
+- US launched military strikes on 80+ Iranian targets; Trump declared Islamabad MOU "over"
+- WTI crude: $70.45 → ~$74.20 (+5.3% in one session)
+- Brent: ~$78 (+5.3% per Fox News reports)
+- This is the "largest supply disruption in history" per IEA (Hormuz at reduced traffic since March 2026)
+- Impact on Fed: renewed Hormuz closure risk → persistent energy inflation → LESS room for Fed to cut or more risk of hike → **bearish gold**
+
+**July 9 macro snapshot**:
+- **Gold ~$4,075** (−1.3% — 3rd consecutive red day from $4,163 peak July 6)
+- **DXY ~101.07** (+0.17% from July 8 100.90 — dollar steady)
+- **WTI ~$74.20/bbl** (+5.3% from July 8 $70.45)
+- **Silver ~$57.50–$58.50/oz** (~−3–4% from July 8 $60.20)
+- **USD/INR ₹95.57** (+0.18% — rupee very slightly weaker; flat essentially)
+- **Fed funds rate**: 3.50–3.75% (held June 17; next FOMC July 28-29)
+- **September 2026 hike probability**: **Low** (NFP miss July 3 took it to 0%, but hawkish minutes may revive some probability by July 14 CPI)
+- **Key upcoming event**: June CPI **July 14** — the swing factor between neutral and hawkish
+
+**Macro factor = Bearish (−1)**: Hawkish FOMC minutes + renewed energy price shock + elevated core PCE (3.3%) = more likely gold faces headwinds from rates channel than tailwinds.
 
 ---
 
