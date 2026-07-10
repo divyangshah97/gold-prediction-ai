@@ -4,6 +4,33 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-10 — Daily update: Gold ~$4,116 (+1.0% recovery from $4,075); Iran war ongoing (170+ strikes) but peace talks continuing; WTI −3.2% to $71.80; MCX ~₹1,44,760 (−0.37%); USD/INR ₹95.32 (INR +15p); CPI July 14 pending | Signal: Wait (0)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-10.md` — MCX ~₹1,44,760/10g (−0.37%); XAU/USD ~$4,116 (+1.0%); Silver ~$60.32 (+4.9%); DXY ~100.935 (−0.13%); WTI ~$71.80 (−3.2% — Iran peace talks); USD/INR ₹95.32 (INR +15 paise); 15% duty unchanged (May 13 notification still in force); June CPI July 14; no new RBI data
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — July 10 developments: US 170+ strikes on Iran; Iran fires 10 ballistic missiles at Jordan (intercepted); peace talks continuing (Pakistan/Qatar); WTI −3.2% to $71.80; Factor 2 → Neutral (0); last updated July 10
+- `wiki/gold-geopolitical-risk-premium.md` — July 10 price row added (~$4,116 +1.0% recovery; above 9d EMA ~$4,108; below 50d EMA ~$4,135; downtrend); Signal: Wait (0); last updated July 10
+- `wiki/india-gold-market.md` — July 10 MCX section: ₹1,44,760/10g; INR +15 paise; duty clarification (15% May 13 notification vs Feb budget history); silver +4.9%; June CPI July 14; last updated July 10
+- `wiki/fed-macro-factors.md` — July 10 update: 74.9% hold / 25.1% hike at July 29; WTI easing reduces immediate pressure; CPI July 14 critical; Macro factor remains Bearish (−1); last updated July 10
+- `wiki/global-cb-activity-log.md` — July 10 section added (8 rows: macro, Iran, Germany, Saudi Arabia, Japan, UK, Italy, France, India); no new CB gold buy/sell data; last updated July 10
+- `wiki/index.md` — page descriptions updated: gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors, india-gold-market, global-cb-activity-log; last updated July 10
+- `wiki/log.md` — this entry
+
+**Prices fetched** (all via web search — yfinance/metals.dev blocked by proxy):
+Gold: $4,116/oz | Silver: $60.32/oz | DXY: 100.935 | WTI: $71.80/bbl | USD/INR: ₹95.32
+
+**Signal**: Wait (Score: 0)
+- Factor 1 Price vs Targets: +1 (16.0% below GS $4,900)
+- Factor 2 Geopolitical: 0 (Iran war ongoing; peace talks continuing; WTI −3.2% = ambiguous)
+- Factor 3 Fed/Macro: −1 (FOMC hawkish; 25% hike prob July 29; CPI July 14 risk)
+- Factor 4 CB Demand: +1 (Uzbekistan June +9t on July 9 within 7-day window)
+- Factor 5 Technicals: −1 (above 9d EMA ~$4,108; below 50d EMA ~$4,135; downtrend config)
+- Factor 6 Dollar Pressure: 0 (DXY −0.13%, INR −0.26%, both within 1%)
+
+---
+
 ## 2026-07-09 — Daily update: Gold ~$4,075 (−1.3%; 3rd red day); CEASEFIRE ENDED (Iran Hormuz attacks; US strikes; oil +5.3% to $74.20); FOMC minutes hawkish (PCE 3.3%, easing bias removed); Uzbekistan June +9t (YTD 41t); MCX ~₹1,45,000 (−0.27%); USD/INR ₹95.57 | Signal: Wait (−1)
 
 **Raw file created**:
