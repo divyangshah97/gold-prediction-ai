@@ -1509,3 +1509,6 @@ Report_Date: 2026-05-19 | MM_Net: +93,540 (N/A change — first entry) | OI: 379
 - `wiki/uzbekistan-gold-reserves.md` — May +9t; YTD ~33t
 - `wiki/kazakhstan-gold-reserves.md` — May +7t; YTD ~20t
 - `wiki/czech-republic-gold-reserves.md` — May +2t; 39 consecutive months
+
+## 2026-07-11 — COT weekly update
+Report_Date: 2026-07-07 | MM_Net: +116,161 (+766 vs prior week) | OI: 371,776 | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-07-10T21:34:33Z

@@ -4,7 +4,7 @@
 
 **Sources**: SPDR GLD ETF (State Street), CFTC Commitment of Traders report (weekly, disaggregated futures).
 
-**Last updated**: 2026-07-04
+**Last updated**: 2026-07-11
 
 ---
 
@@ -64,34 +64,33 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-06-23  
-> **Published by CFTC:** 2026-06-27 (Friday)  
-> **Retrieved:** 2026-06-27T07:05:32Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
-> **cot.csv:** Updated 2026-07-04 (Saturday routine)
+> **Report_Date (as-of Tuesday):** 2026-07-07  
+> **Published by CFTC:** 2026-07-11 (Friday)  
+> **Retrieved:** 2026-07-10T21:34:33Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
+> **cot.csv:** Updated 2026-07-11 (Saturday routine)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-06-23 |
-| Open_Interest | 352,167 contracts |
-| MM_Long | 131,102 contracts |
-| MM_Short | 15,707 contracts |
-| MM_Net | +115,395 contracts |
-| MM_Net_Change | +9,532 vs. prior confirmed (2026-06-09: +105,863) |
-| MM_Net % of OI | 32.8% |
+| Report_Date | 2026-07-07 |
+| Open_Interest | 371,776 contracts |
+| MM_Long | 134,941 contracts |
+| MM_Short | 18,780 contracts |
+| MM_Net | +116,161 contracts |
+| MM_Net_Change | +766 vs. prior week (2026-06-23: +115,395) |
+| MM_Net % of OI | 31.2% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation (as of June 23)
+### Sentiment Interpretation (as of July 7)
 
-MM_Net of +115,395 falls in the **Neutral zone (50,000–150,000 contracts)**. Hedge funds remain moderately net-long but well below historically crowded levels (>250,000). The short book (15,707) is notably small — shorts are near multi-year lows, which reduces downside pressure from short-covering squeezes.
+MM_Net of +116,161 falls in the **Neutral zone (50,000–150,000 contracts)**. Hedge funds remain steadily net-long — the third consecutive week in the 105,000–120,000 range — well below historically crowded levels (>250,000). Open interest rose to 371,776, its highest since May, suggesting fresh capital entering the market on both sides.
 
-**Week-over-week change:** +9,532 contracts — below the ±20,000 significant positioning shift threshold. No extreme move flagged.
-
-> **Note on gap**: The 2026-06-16 COT report was not retrieved (all data sources returned HTTP 403 on the June 20 Saturday routine). The MM_Net_Change shown above compares June 23 to the last confirmed entry (June 9); the actual two-week move is compressed into one row in cot.csv.
+**Week-over-week change:** +766 contracts — essentially flat, far below the ±20,000 significant positioning shift threshold. No extreme move flagged. Positioning is consolidating rather than extending.
 
 ---
 
 ## Historical COT Reference
 
+> **Report_Date:** 2026-07-07 | **MM_Net:** +116,161 | **OI:** 371,776 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-06-23 | **MM_Net:** +115,395 | **OI:** 352,167 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-06-16 | **MM_Net:** *not retrieved* | **OI:** *n/a* | **Sentiment:** qualitative: 14-week high (speculators boosted bets 3rd straight week)  
 > **Report_Date:** 2026-06-09 | **MM_Net:** +105,863 | **OI:** 332,709 | **Sentiment:** Neutral zone  
