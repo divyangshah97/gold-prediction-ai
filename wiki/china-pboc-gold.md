@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`, https://www.zerohedge.com/news/2026-05-08/china-pboc-buys-gold-18-months-straight-adds-81-tonnes, https://www.gold.org/goldhub/gold-focus/2026/05/china-gold-market-update-notable-rise-gold-reserves, http://www.kitco.com/news/article/2026-06-08/china-increases-gold-reserves-995-tonnes-may-19th-straight-month-purchases, https://www.bloomberg.com/news/articles/2026-06-07/china-s-pboc-adds-gold-again-as-bullion-remains-under-pressure, https://goldsilver.com/industry-news/goldsilver-news/pboc-gold-reserves-june-2026/, https://www.indexbox.io/blog/chinas-central-bank-extends-gold-buying-streak-to-20-months-in-june-2026/, https://www.fxstreet.com/news/china-turns-out-gold-buyer-again-202607070903
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-07-13
 
 ---
 

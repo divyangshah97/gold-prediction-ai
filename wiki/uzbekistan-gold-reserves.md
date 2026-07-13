@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, WGC July 2026 CB statistics
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-07-13
 
 ---
 

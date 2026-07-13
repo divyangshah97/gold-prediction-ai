@@ -1512,3 +1512,41 @@ Report_Date: 2026-05-19 | MM_Net: +93,540 (N/A change — first entry) | OI: 379
 
 ## 2026-07-11 — COT weekly update
 Report_Date: 2026-07-07 | MM_Net: +116,161 (+766 vs prior week) | OI: 371,776 | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-07-10T21:34:33Z
+
+## 2026-07-13 — Daily automated update
+
+**Web searches**: NSE/BSE July 2026 holiday check (no holidays); gold spot price July 13; XAU/USD 9d EMA; gold 50d EMA; DXY July 13; WTI crude July 13; USD/INR July 13; silver price July 13; Iran-US conflict escalation July 2026; India MCX gold price July 13; India gold ETF flows RBI; WGC central bank gold statistics June 2026; Fed Warsh rate signal July 2026; Germany Bundesbank repatriation July 2026.
+
+**Prices fetched (web search — yfinance/metals.dev proxy-blocked)**:
+- Gold: $4,053.92 (Sunday spot; July 12 close $4,121.95); prev Friday $4,116.00
+- Silver: $58.72/oz; DXY: 101.10; WTI: $74.71; USD/INR: ₹95.56
+- 9d EMA: ~$4,090 (est. from prices.csv); 50d EMA: ~$4,320 (TipRanks/FXStreet web search)
+
+**Key findings**:
+1. Iran war sharply re-escalated: Trump declared 60-day MOU ceasefire "over" (July 8); US revoking Iran oil license; US struck Tehran; Iran retaliating on UAE/Kuwait/Bahrain; Hormuz tanker attacks. WTI surged +4.3% to $74.71. Gold FALLING (−1.5%) — macro/Fed channel dominant.
+2. Fed hawkish Warsh shock (confirmed in FOMC June minutes July 8): 9/18 FOMC members project 2026 rate hike; market pricing >75% probability. No forward guidance policy. CPI July 14 is critical catalyst tomorrow.
+3. WGC June 2026 CB data (published July 7): China (PBoC) +14.93t June (20-month streak; total 2,346t); Uzbekistan +9t June (YTD ~41t; #2 buyer); Poland YTD #1 ~81t; Singapore +4t May (first since Sep 2025; total 197t).
+4. WGC CB survey: 89% of central bankers expect global gold reserves to increase in next 12 months; 45% plan to increase their own holdings.
+5. India: 15% import duty unchanged; ETF AUM ₹1,84,571 crore (May 2026); 6 AMCs impose subscription restrictions; MCX gold ~₹1,44,760/10g (July 10 ref); Business Standard flagged gold/silver volatility ahead of CPI July 14.
+6. Germany: no new Bundesbank repatriation announcement; political pressure continuing from AfD/Greens; CDU still backing FRBNY.
+
+**Trading Signal**: **Wait (Score: 0)**
+- Factor 1 Price vs targets: +1 (17.3% below GS $4,900)
+- Factor 2 Geopolitical: 0 (Iran escalating but gold not responding as safe haven; ambiguous)
+- Factor 3 Fed/macro: −1 (Warsh hawkish; >75% hike probability; CPI July 14 risk tomorrow)
+- Factor 4 CB demand: +1 (PBoC June +14.93t announced July 7 — within 7 days)
+- Factor 5 Technicals: −1 (below both 9d EMA ~$4,090 and 50d EMA ~$4,320; not 2 green days)
+- Factor 6 Dollar pressure: 0 (DXY +0.16%; USD/INR +0.25%; both within 1%)
+
+**Files updated**:
+- `prices/prices.csv` — added 2026-07-13 row
+- `raw/india-gold-2026-07-13.md` — created
+- `wiki/global-cb-activity-log.md` — July 13 section added (14 country rows)
+- `wiki/iran-conflict-2026.md` — updated summary + timeline
+- `wiki/fed-macro-factors.md` — updated summary (Warsh hawkish shock, >75% hike)
+- `wiki/gold-geopolitical-risk-premium.md` — updated summary + July 13 timeline entry
+- `wiki/india-gold-market.md` — updated summary
+- `wiki/china-pboc-gold.md` — last updated date refreshed (June +14.93t already logged July 8)
+- `wiki/uzbekistan-gold-reserves.md` — last updated date refreshed (June +9t already logged July 9)
+- `wiki/index.md` — updated descriptions for iran-conflict, fed-macro, gold-geopolitical, india-gold-market, global-cb-activity-log
+- `signals/signals.csv` — added 2026-07-13 Wait signal

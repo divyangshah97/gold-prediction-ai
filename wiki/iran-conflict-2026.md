@@ -1,10 +1,10 @@
 # Iran Conflict 2026
 
-**Summary**: The 2026 US-Israel military strike on Iran (Feb 28) and subsequent ceasefire was the single largest acute geopolitical shock to gold markets, driving prices from ~$4,000 to $5,200. As of July 10: **War ongoing** — US has conducted **170+ strikes** on Iran; Iran fired 10 ballistic missiles at a US base in Jordan (intercepted). BUT: **peace talks continue** via Pakistan/Qatar mediation; WTI fell −3.2% to $71.80 as markets price partial de-escalation hope. Gold recovered +1.0% to $4,116 (4th day of Iran war escalation, first up-day). Factor 2 = **Neutral (0)** — war escalating but talks ongoing; WTI de-escalating; ambiguous gold direction.
+**Summary**: The 2026 US-Israel military strike on Iran (Feb 28) and subsequent ceasefire was the single largest acute geopolitical shock to gold markets, driving prices from ~$4,000 to $5,200. As of July 13: **WAR SHARPLY ESCALATING** — Trump declared 60-day MOU ceasefire "over" (July 8); US revoking Iran oil sales license; US struck Tehran; Iran retaliating with strikes on UAE/Kuwait/Bahrain; **Hormuz tanker attacks** resumed. WTI surged +4.3% to **$74.71**. Gold FALLING (−1.5% to $4,053.92) — oil-driven inflation fears dominating safe-haven signal. Factor 2 = **Neutral (0)** — escalation not transmitting to gold as safe haven; macro/Fed channel (oil→inflation→hawkish Fed) dominates.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump, https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates, https://www.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://news.un.org/en/story/2026/06/1167748, https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next, https://www.foxnews.com/live-news/trump-us-iran-war-strikes-strait-hormuz-july-9, https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html, https://www.cnn.com/2026/07/09/world/live-news/iran-war-trump
 
-**Last updated**: 2026-07-10
+**Last updated**: 2026-07-13
 
 ---
 
@@ -12,6 +12,8 @@
 
 | Date | Event |
 |---|---|
+| **July 13, 2026** | **ESCALATION SURGE**: WTI **$74.71** (+4.3%); gold **$4,053.92** (−1.5%; Sunday spot). Iran attacked tankers in Hormuz (July 5–6 trigger). Trump declared MOU ceasefire "over" July 8; US revoking Iran oil license; US struck Tehran; Iran retaliated on US installations in UAE, Kuwait, Bahrain. Ceasefire contacts (Pakistan/Qatar) broken. Gold NOT rising — oil→inflation→hawkish Fed channel dominant. See [[iran-gold-reserves]]. |
+| **July 8–10, 2026** | Ceasefire declared "over" by Trump July 8. FOMC June minutes hawkish (easing bias removed). WTI spiked to $74.20 (July 9, +5.3%). Gold fell −1.3% to $4,075 (July 9). Partial recovery July 10: gold $4,116 (+1.0%) as WTI fell −3.2% on peace talk hopes; Iran fired 10 missiles at Jordan (intercepted); 170+ total US strikes. |
 | February 28, 2026 | US-Israel joint military strike on Iran; Supreme Leader Ali Khamenei and Larijani killed |
 | Early March 2026 | Brent crude spikes to ~$120/bbl; Strait of Hormuz near-closure |
 | March 2026 | Gold peaks near **$5,200/oz** — all-time high |
