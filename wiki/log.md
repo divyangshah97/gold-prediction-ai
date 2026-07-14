@@ -1550,3 +1550,29 @@ Report_Date: 2026-07-07 | MM_Net: +116,161 (+766 vs prior week) | OI: 371,776 | 
 - `wiki/uzbekistan-gold-reserves.md` — last updated date refreshed (June +9t already logged July 9)
 - `wiki/index.md` — updated descriptions for iran-conflict, fed-macro, gold-geopolitical, india-gold-market, global-cb-activity-log
 - `signals/signals.csv` — added 2026-07-13 Wait signal
+
+## 2026-07-14 — Daily update: Gold ~$4,009 (−1.1%); Trump Hormuz blockade + 20% toll; WTI $79.57 (+1.83%); June CPI released; Waller hawkish; MCX ~₹1,40,963–₹1,41,550 (−2.1%); USD/INR ₹95.81 | Signal: Wait (−1)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-14.md` — MCX ~₹1,40,963–₹1,41,550/10g (−2.1%); XAU/USD $4,009.45 (−1.1%); Silver $58.00 (~−1.2%); DXY 101.29 (+0.19%); WTI $79.57 (+1.83% — Trump Hormuz blockade+20%toll); USD/INR ₹95.81 (+0.26%); June CPI released today; Waller hawkish; 15% duty unchanged
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — July 14 timeline entry added: Trump reinstated Hormuz blockade + 20% toll demand on all transiting cargo; WTI +1.83% to $79.57; Iran exported 57M bbl during blockade gap; Factor 2 = Bearish (−1); last updated July 14
+- `wiki/fed-macro-factors.md` — July 14 section added: June CPI released (exp 3.8-3.9%); Gov. Waller hawkish ("if CPI rises, consider rate hikes"); Warsh testimony; Hormuz oil surge; July FOMC hike 25-30% prob; Macro factor = Bearish (−1); last updated July 14
+- `wiki/gold-geopolitical-risk-premium.md` — July 14 price row added ($4,009.45; below both EMAs 9d~$4,100 and 50d $4,319.64; NOT safe haven; Signal Wait −1); last updated July 14
+- `wiki/india-gold-market.md` — July 14 MCX section: ₹1,40,963–₹1,41,550/10g; WTI surge; CPI impact; Waller hawkish; USD/INR ₹95.81; last updated July 14
+- `wiki/poland-gold-reserves.md` — Bloomberg Jul 9 data incorporated: 82t YTD 2026 (Governor Glapinski confirmed); total ~613t; +37t since April; $5B value; last updated July 14
+- `wiki/global-cb-activity-log.md` — July 13 and July 14 sections added (July 13 was missing from prior run); Poland 82t Bloomberg entry; Iran Hormuz blockade; no new CB buy/sell data beyond Poland confirmation; last updated July 14
+- `wiki/index.md` — page descriptions updated: gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors, india-gold-market, global-cb-activity-log, poland-gold-reserves, central-bank-gold-demand; last updated July 14
+- `wiki/log.md` — this entry
+
+**Prices recorded** (prices.csv):
+- Gold: $4,009.45 | Silver: $58.00 | DXY: 101.29 | WTI: $79.57 | USD/INR: ₹95.81 | Volume: N/A
+
+**Signal**: Wait (−1)
+- Factor 1 (Price vs targets): +1 — gold 18.2% below Goldman $4,900
+- Factor 2 (Geopolitical): −1 — Trump Hormuz blockade+20%toll; oil surge → inflation → rate hike fears (NOT safe-haven gold channel)
+- Factor 3 (Fed/Macro): −1 — June CPI day + Waller hawkish + Warsh testimony + fresh Hormuz oil surge
+- Factor 4 (CB Demand): +1 — PBoC Jun+14.93t (Jul7, within 7d); Poland 82t (Bloomberg Jul9, within 7d)
+- Factor 5 (Technicals): −1 — below both EMAs (9d~$4,100, 50d $4,319.64); last 2 days red; 50d>9d downtrend
+- Factor 6 (Dollar Pressure): 0 — DXY +0.19% (within 1%), USD/INR +0.26% (within 1%)

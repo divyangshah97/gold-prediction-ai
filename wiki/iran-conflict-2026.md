@@ -4,7 +4,9 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://us.cnn.com/2026/05/28/world/live-news/iran-war-us-news, https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal, https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations, https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump, https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates, https://www.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://news.un.org/en/story/2026/06/1167748, https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next, https://www.foxnews.com/live-news/trump-us-iran-war-strikes-strait-hormuz-july-9, https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html, https://www.cnn.com/2026/07/09/world/live-news/iran-war-trump
 
-**Last updated**: 2026-07-13
+**Last updated**: 2026-07-14
+
+**New sources (July 14)**: https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html, https://www.bloomberg.com/news/articles/2026-07-13/gold-holds-decline-on-renewed-hormuz-blockade-and-hawkish-fed, https://www.bloomberg.com/news/articles/2026-07-13/iran-shipped-57-million-barrels-of-crude-between-us-blockades
 
 ---
 
@@ -12,6 +14,7 @@
 
 | Date | Event |
 |---|---|
+| **July 14, 2026** | **HORMUZ BLOCKADE REINSTATED + 20% TOLL DEMAND**: Trump announced US will reimpose a full blockade on Iranian ships AND demand **20% reimbursement** on ALL other cargo transiting the Strait of Hormuz. Effect at 4:00 PM ET. WTI futures surged +1.83% to **$79.57/bbl** (Brent +1.7% to $84.72/bbl). Gold trading near **$4,010** — holding its decline after losing ~2.9% on Monday. Gold NOT acting as safe haven: oil spike → inflation fears → rate-hike expectations → suppresses non-yielding bullion. June CPI released today (8:30 AM ET); expected ~3.8-3.9% YoY. Fed Governor Waller added to hawkish pressure: "if CPI rises this week, the Fed should consider rate hikes." Fed Chair Warsh also testifying today. Iran exported ~57 million barrels of crude during the brief gap between blockades (Bloomberg). **Factor 2 = Bearish (−1)**: escalation feeding oil/inflation/Fed-hike channel — NOT safe-haven gold channel. |
 | **July 13, 2026** | **ESCALATION SURGE**: WTI **$74.71** (+4.3%); gold **$4,053.92** (−1.5%; Sunday spot). Iran attacked tankers in Hormuz (July 5–6 trigger). Trump declared MOU ceasefire "over" July 8; US revoking Iran oil license; US struck Tehran; Iran retaliated on US installations in UAE, Kuwait, Bahrain. Ceasefire contacts (Pakistan/Qatar) broken. Gold NOT rising — oil→inflation→hawkish Fed channel dominant. See [[iran-gold-reserves]]. |
 | **July 8–10, 2026** | Ceasefire declared "over" by Trump July 8. FOMC June minutes hawkish (easing bias removed). WTI spiked to $74.20 (July 9, +5.3%). Gold fell −1.3% to $4,075 (July 9). Partial recovery July 10: gold $4,116 (+1.0%) as WTI fell −3.2% on peace talk hopes; Iran fired 10 missiles at Jordan (intercepted); 170+ total US strikes. |
 | February 28, 2026 | US-Israel joint military strike on Iran; Supreme Leader Ali Khamenei and Larijani killed |

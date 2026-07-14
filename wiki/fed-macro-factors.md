@@ -1,10 +1,38 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 13 UPDATE**: Hawkish Warsh shock — at June 16–17 debut FOMC meeting, Warsh held rates but 9 of 18 members projected a 2026 rate hike (easing bias stripped from statement). Market pricing: **>75% probability of at least one 2026 rate hike** (up from 0% post-NFP miss July 3). Fed dropping forward guidance policy ("no forward guidance"). Iran war re-escalation (WTI +4.3%) reviving inflation fears, reinforcing hawkish expectations. **CRITICAL: June CPI due July 14** — surprise upside would sharply raise hike odds and pressure gold. WGC fair value model: ~$4,100 ± 5% with one Fed hike scenario (gold currently near lower end). Macro factor = **Bearish (−1)** — easing bias removed; 75%+ hike probability; CPI risk tomorrow.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 14 UPDATE**: June CPI released today (8:30 AM ET; expected ~3.8-3.9% YoY vs. 4.2% May — gasoline drag in June due to brief ceasefire). **Fed Governor Waller explicitly hawkish**: "if CPI rises this week, the Fed should consider rate hikes." **Fed Chair Warsh also testifying today** before Congress. FOMC July 28-29 meeting: ~25-30% probability of a rate hike (up from 0% post-NFP miss July 3). Iran Hormuz blockade reinstatement (Trump July 14: 20% toll demand) pushing WTI to $79.57 — renewed energy inflation risk. May CPI 4.2% still fresh; June expected to show relief but fresh oil spike may push July CPI back up. Macro factor = **Bearish (−1)** — CPI uncertainty + Waller hawkish shock + Warsh testimony + Hormuz oil surge.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/
 
-**Last updated**: 2026-07-13
+**Last updated**: 2026-07-14
+
+---
+
+## July 14, 2026 — June CPI Released; Waller Hawkish; Warsh Testimony; Iran Hormuz 20% Toll; Gold $4,009
+
+**Headline**: June CPI for the US was released today at 8:30 AM ET. Consensus expectation was for headline CPI to fall from 4.2% (May) to approximately **3.8–3.9% YoY** on a gasoline-price drag (US pump prices fell ~10% in June during the brief US-Iran ceasefire period). Core CPI expected at ~2.9% YoY (flat from May).
+
+**CRITICAL DEVELOPMENTS JULY 14**:
+
+1. **Gov. Waller Hawkish Shock**: Fed Governor Christopher Waller stated publicly: "if the Consumer Price Index rises this week, the Fed should consider interest rate hikes." This is the most direct rate-hike signal from a sitting Fed governor since 2022. Gold sold off on this comment.
+
+2. **Trump Hormuz Blockade + 20% Toll** (4:00 PM ET): While CPI was absorbing all pre-open attention, Trump reinstated a full naval blockade of Iran AND demanded a **20% reimbursement on ALL cargoes transiting the Strait of Hormuz**. WTI crude surged +1.83% to $79.57/bbl. This is inflationary — undermining the June CPI relief story heading into July.
+
+3. **Warsh Testimony**: Fed Chair Kevin Warsh testified before Congress today. Warsh's hawkish reputation (9 of 18 FOMC members project a 2026 hike per June dot-plot) means any hawkish testimony would reinforce rate-hike pricing.
+
+4. **Iran exported 57M barrels** during brief blockade gap (Bloomberg) — now those flows are being re-cut.
+
+**July 14 macro snapshot**:
+- **Gold ~$4,009.45** (−1.1% from July 13 $4,053.92; intraday low ~$3,985; bounced back above $4,000)
+- **DXY ~101.29** (+0.19% from July 13 101.10 — dollar mildly firmer)
+- **WTI ~$79.57/bbl** (+1.83% from July 13 $74.71 — Hormuz blockade surge)
+- **Silver ~$58.00/oz** (~−1.2% from July 13 $58.72)
+- **USD/INR ₹95.81** (+0.26% — rupee slightly weaker)
+- **Fed funds rate**: 3.50–3.75% (unchanged since June 17 FOMC)
+- **July 28-29 FOMC hike probability**: ~25–30% (vs 0% after NFP miss July 3; up due to hawkish minutes + Waller)
+- **Key risk**: If June CPI came in above 4.0% (not 3.8-3.9%), September hike odds surge toward 65%+
+
+**Macro factor = Bearish (−1)**: June CPI risk on the day + Waller hawkish shock + Warsh testimony + fresh Iran oil surge = more likely gold faces rate-hike headwinds. Even if CPI in-line or soft, the Hormuz blockade reverses the oil-price decline that caused the June CPI softness — July CPI will re-accelerate.
 
 ---
 
