@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of July 14, 2026, gold is at **~$4,009.45** (−1.1% from July 13 $4,053.92). Iran war: Trump reinstated Hormuz blockade + **20% toll on ALL transiting cargo** (July 14). WTI surged **+1.83% to $79.57**. Gold NOT acting as safe haven — oil→inflation→hawkish Fed channel dominates. 9d EMA ~$4,100-$4,111 (Barchart 10d EMA proxy); 50d EMA **$4,319.64** (Barchart/TipRanks) — gold BELOW BOTH EMAs (downtrend, 50d>9d). MCX **~₹1,40,963–₹1,41,550/10g**. June CPI released today; Waller hawkish; Warsh testifying. Signal: **Wait (−1)**.
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of July 15, 2026, gold is at **~$4,052.78** (+1.07% from July 14 $4,009.45). Iran deal stalled: Switzerland signing meeting cancelled, US sanctions waiver through Aug 21 still standing. WTI $80.01 (+0.55%). Gold rally is **CPI-driven** (soft June CPI 3.5% vs 4.2%), NOT geopolitical — Iran risk priced in. 9d EMA ~$4,080 (est.); 50d EMA **~$4,320** (Barchart/TipRanks) — gold BELOW BOTH EMAs. MCX **~₹1,41,588/10g** (−0.5% — rupee weakening offsets USD gold gain). Signal: **Wait (+2)**.
 
 **Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump
 
-**Last updated**: 2026-07-14
+**Last updated**: 2026-07-15
 
 ---
 

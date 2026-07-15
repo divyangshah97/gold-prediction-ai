@@ -1,10 +1,10 @@
 # Kazakhstan Gold Reserves
 
-**Summary**: Kazakhstan is a consistent central bank gold buyer (12t in Q1 2026 + 7t May 2026; YTD ~20t), backed by large domestic gold production and a long-standing policy of accumulating gold as a strategic reserve asset.
+**Summary**: Kazakhstan is a consistent central bank gold buyer (12t Q1 2026 + 7t May 2026; **YTD ~20t; world's 4th-largest buyer in 2026**), backed by large domestic gold production and a long-standing policy of accumulating gold as a strategic reserve asset.
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, WGC July 2026 CB statistics
 
-**Last updated**: 2026-07-06
+**Last updated**: 2026-07-15
 
 ---
 
@@ -15,8 +15,8 @@
 | Q1 2026 purchases | 12 tonnes |
 | May 2026 purchases | **+7 tonnes** (WGC July 2026 data) |
 | YTD 2026 (Jan–May) | **~20 tonnes** |
-| Estimated total reserves | ~300–320 tonnes (as of Q1 2026; updated pending) |
-| Gold as % of FX reserves | ~65–70% (historically very high) |
+| Total reserves (May 2026) | **361 tonnes** (WGC / kursiv.media July 10) |
+| Gold as % of FX reserves | **78%** (as of May 2026 — WGC data) |
 | Primary source of gold | Domestic mining; National Bank direct purchase programme |
 
 ## Why Kazakhstan Buys

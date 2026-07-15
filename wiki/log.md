@@ -4,6 +4,46 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-15 — Daily update: Gold $4,052.78 (+1.07% — CPI-driven); Iran deal stalled (Switzerland signing cancelled); soft June CPI 3.5% vs 4.2%; Kazakhstan 4th-largest buyer 2026; MCX ~₹1,41,588 (−0.5%); USD/INR ₹96.40 (+0.62%) | Signal: Wait (+2)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-15.md` — MCX ~₹1,41,588/10g (−0.5%); XAU/USD $4,052.78 (+1.07% — CPI-driven); Silver $59.07 (+1.9%); DXY 101.13 (−0.16%); WTI $80.01 (+0.55% — Iran deal stalled); USD/INR ₹96.40 (+0.62% — rupee weakening); India import duty 15% unchanged; FY26 gold imports $71.98B record; ETF AUM ₹1.84T with AMC subscription caps; RBI 880.52t static
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — July 15 section added: 12 rows (macro summary, Iran, China, Poland, Kazakhstan, Germany, France, Italy, Saudi Arabia, Japan, UK, India); Kazakhstan confirmed world's 4th-largest buyer 2026 (20t YTD, 361t total, 78% of FX reserves); CB country table updated with Kazakhstan 4th-largest buyer; last updated July 15
+- `wiki/india-gold-market.md` — July 15 MCX section: ₹1,41,588 (−0.5%); soft CPI carry-through; USD/INR ₹96.40 (+0.62%); India FY26 import bill $71.98B; AMC subscription restrictions; signal updated to Wait (+2); last updated July 15
+- `wiki/fed-macro-factors.md` — July 15 section: soft June CPI 3.5% vs 4.2%; rate hike bets unwound 35bps→18bps; macro factor updated to Bullish (+1); last updated July 15
+- `wiki/iran-conflict-2026.md` — July 15 update: Switzerland signing meeting cancelled; deal stalled but not dead; US sanctions waiver through Aug 21; Factor 2 = Neutral (0); last updated July 15
+- `wiki/gold-geopolitical-risk-premium.md` — summary and key level updated: gold $4,052.78, CPI-driven rally, Iran deal stalled, Signal: Wait (+2); last updated July 15
+- `wiki/kazakhstan-gold-reserves.md` — confirmed 4th-largest buyer 2026; total 361t (78% of FX reserves as of May 2026); last updated July 15
+- `wiki/log.md` — this entry
+
+**Prices fetched** (all via web search — yfinance/metals.dev blocked by proxy):
+Gold: $4,052.78/oz | Silver: $59.07/oz | DXY: 101.13 | WTI: $80.01/bbl | USD/INR: ₹96.40 | MCX: ₹1,41,588/10g
+
+**Signal**: Wait (Score: +2)
+- Factor 1 Price vs Targets: +1 (17.3% below GS $4,900)
+- Factor 2 Geopolitical: 0 (Iran deal stalled — Switzerland cancelled; ongoing risk but no acute new escalation; MCX −0.5% = gold not acting as safe haven today)
+- Factor 3 Fed/Macro: +1 (Soft June CPI 3.5% vs 4.2% → rate hike bets unwound → dovish surprise → bullish gold)
+- Factor 4 CB Demand: +1 (WGC July 2026 "central banks remain committed"; Kazakhstan 4th-largest buyer Jul10; May net 41t published Jul3 — all within 7 days)
+- Factor 5 Technicals: −1 (below both EMAs: 9d ~$4,080, 50d ~$4,320; Jul13→14 red, Jul14→15 green — NOT 2 consecutive green)
+- Factor 6 Dollar Pressure: 0 (DXY −0.16% within 1%; INR +0.62% within 1%)
+
+**CB sweep summary**:
+- China: No new July data; most recent June +14.93t (July 7)
+- Poland: No new data; confirmed 82t YTD (Bloomberg July 9)
+- Uzbekistan: No new data; 41t YTD through June
+- Kazakhstan: Confirmed world's 4th-largest buyer 2026 (20t YTD, 361t, 78% FX reserves) per July 10 article
+- Germany: No new data; repatriation pressure growing; Bundesbank stance unchanged
+- France: Repatriation complete since Jan 2026; 2,437t all on French soil
+- Italy: No new data; ~1,055t at FRBNY; repatriation pressure alongside Germany
+- Saudi Arabia: No new data; 323.07t static
+- Japan: No new data; 845.97t static
+- UK: No new data; 310.29t
+- Iran: Deal stalled; MOU framework still standing; US sanctions waiver through Aug 21
+
+---
+
 ## 2026-07-10 — Daily update: Gold ~$4,116 (+1.0% recovery from $4,075); Iran war ongoing (170+ strikes) but peace talks continuing; WTI −3.2% to $71.80; MCX ~₹1,44,760 (−0.37%); USD/INR ₹95.32 (INR +15p); CPI July 14 pending | Signal: Wait (0)
 
 **Raw file created**:

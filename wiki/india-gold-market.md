@@ -1,10 +1,36 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), imports down 70%, and ETF AUM at ₹1.84T. As of July 14, MCX gold **~₹1,40,963–₹1,41,550/10g** (−2.1% from July 10). XAU/USD spot **$4,009.45** (−1.1% from July 13). USD/INR **₹95.81** (+0.26%). Trump reinstated Hormuz blockade + 20% toll demand; WTI $79.57 (+1.83%). US June CPI released today — key catalyst. Goldman $4,900 → MCX ~₹1,70,000 (domestic ~17% below). RBI 880.52t static. Signal: **Wait (−1)** (updated July 14).
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T (with AMC subscription restrictions). As of July 15, MCX gold **~₹1,41,588/10g** (−0.5%). XAU/USD spot **$4,052.78** (+1.1% — CPI-driven). USD/INR **₹96.40** (+0.62% — rupee weakening). WTI $80.01 (+0.55%). Goldman $4,900 → MCX ~₹1,70,660 (domestic ~17% below). RBI 880.52t static. Signal: **Wait (+2)** (updated July 15).
 
-**Sources**: `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, https://www.goodreturns.in/gold-rates/, https://hdfcsky.com/news/inr-vs-usd-rate-july-10-2026-rupee-rises-15-paise-against-us-dollar-early-trade, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/
+**Sources**: `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, https://www.goodreturns.in/gold-rates/, https://hdfcsky.com/news/inr-vs-usd-rate-july-10-2026-rupee-rises-15-paise-against-us-dollar-early-trade, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/
 
-**Last updated**: 2026-07-14
+**Last updated**: 2026-07-15
+
+---
+
+## MCX Gold Price (July 15, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold futures Aug (24K) | **~₹1,41,588/10g** (~₹14,159/gram; approximately −0.50% from July 14 ₹1,41,763 implied) |
+| USD/INR rate | **₹96.40** (+0.62% from July 14 ₹95.81 — rupee weakening) |
+| Global spot (XAU/USD) | **~$4,052.78/oz** (+1.07% from July 14 $4,009.45; range $3,985–$4,103) |
+| Silver (XAG/USD) | **~$59.07/oz** (+1.9% from July 14 $58.00) |
+| DXY | **~101.13** (−0.16% from July 14 101.29) |
+| WTI crude | **~$80.01/bbl** (+0.55% from July 14 $79.57 — Iran deal stalled) |
+
+**Key drivers July 15**:
+1. **Soft June CPI Carry-through (PRIMARY)**: June CPI released July 14 showed 3.5% YoY (vs. 4.2% May, steepest monthly decline since Apr 2020). Rate-hike bets unwound from 35bps → 18bps. Gold rallied from $3,985 low and held gains into July 15.
+2. **Iran Deal Stalled**: Switzerland signing meeting cancelled; no new date. US sanctions waiver through Aug 21 still standing. WTI +0.55% to $80.01.
+3. **Rupee Weakening**: USD/INR ₹96.40 (+0.62%) — MCX partly offset gold USD gain; MCX −0.5% despite XAU/USD +1.07%.
+4. **WGC July 2026**: "Central banks remain committed to gold" — 89% of CB managers expect global CB gold holdings to increase. Structural floor intact.
+5. **MCX note**: Physical gold rates in some cities rose despite MCX futures pressure, driven by weaker rupee raising import cost.
+
+**Key levels (July 15)**: MCX support ₹1,40,000 | MCX resistance ₹1,43,000–₹1,44,000 | XAU/USD support $4,000 | XAU/USD resistance 9d EMA ~$4,080 then 50d EMA ~$4,320.
+
+**Goldman $4,900 / JPMorgan $4,500 Q4 for India** (USD/INR ₹96.40, ~18.5% duty): GS $4,900 → MCX ~₹1,70,660/10g (domestic ~17% BELOW GS). JPM Q4 $4,500 → MCX ~₹1,56,645/10g (domestic ~11% below JPM Q4).
+
+**Retail prices July 15**: 24K ~₹14,158/g (Delhi) | 22K ~₹12,978/g | 18K ~₹10,619/g
 
 ---
 

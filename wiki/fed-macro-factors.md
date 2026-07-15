@@ -1,10 +1,33 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 14 UPDATE**: June CPI released today (8:30 AM ET; expected ~3.8-3.9% YoY vs. 4.2% May — gasoline drag in June due to brief ceasefire). **Fed Governor Waller explicitly hawkish**: "if CPI rises this week, the Fed should consider rate hikes." **Fed Chair Warsh also testifying today** before Congress. FOMC July 28-29 meeting: ~25-30% probability of a rate hike (up from 0% post-NFP miss July 3). Iran Hormuz blockade reinstatement (Trump July 14: 20% toll demand) pushing WTI to $79.57 — renewed energy inflation risk. May CPI 4.2% still fresh; June expected to show relief but fresh oil spike may push July CPI back up. Macro factor = **Bearish (−1)** — CPI uncertainty + Waller hawkish shock + Warsh testimony + Hormuz oil surge.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 15 UPDATE**: June CPI (released July 14) came in at **3.5% YoY** vs. 4.2% prior — steepest monthly decline since April 2020. Core CPI flat MoM (unchanged from May). Rate-hike bets unwound sharply: market pricing fell from ~35bps to ~18bps of tightening. July FOMC hike probability fell significantly. Gold rallied +1.6% on the release. Next FOMC meeting July 28-29. Kevin Warsh Fed Chair; 3.50–3.75% current rate. Macro factor = **Bullish (+1)** — soft CPI = dovish surprise = rate hike odds fall = bullish gold.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/
 
-**Last updated**: 2026-07-14
+**Last updated**: 2026-07-15
+
+---
+
+## July 15, 2026 — Soft June CPI Confirmed: 3.5% vs 4.2%; Rate Hike Bets Unwound; Gold $4,052 (+1.07%)
+
+**Headline**: June CPI confirmed at **3.5% YoY** (released July 14, 8:30 AM ET) — the largest month-on-month CPI decline since April 2020 (from 4.2% May to 3.5%). Core CPI came in **unchanged MoM** (flat from May's +0.2%). Both headline and core undershot expectations (~3.8–3.9% YoY headline).
+
+**Key macro impacts**:
+1. **Rate hike bets sharply unwound**: Market pricing fell from ~35bps of tightening expected toward year-end to ~18bps — cutting implied July 28-29 rate hike probability significantly.
+2. **Gold surged +1.6%** on the release (July 14 intraday); carried into July 15 ($4,052.78).
+3. **Fed Chair Warsh**: Hawkish reputation intact, but soft CPI removes near-term justification for July hike. Next signal: FOMC July 28-29.
+4. **Context**: June CPI decline partly driven by gasoline prices falling during the brief Iran ceasefire period. However, the ceasefire ended July 8 and WTI is now at $80/bbl — July CPI may partially reverse.
+
+**July 15 macro snapshot**:
+- **Gold $4,052.78** (+1.07% from July 14 $4,009.45)
+- **DXY 101.13** (−0.16% from July 14 101.29 — slightly weaker dollar)
+- **WTI $80.01/bbl** (+0.55% from July 14 $79.57 — Iran deal stalled)
+- **Silver $59.07/oz** (+1.9% from July 14 $58.00)
+- **USD/INR ₹96.40** (+0.62% — rupee weakening)
+- **Fed funds rate**: 3.50–3.75% (unchanged since June 17 FOMC)
+- **July 28-29 FOMC hike probability**: ~18bps priced (≈72% chance of at least one hike in 2026; July specific probability unclear)
+
+**Macro factor = Bullish (+1)**: Soft June CPI → dovish surprise → rate hike bets unwound → supports non-yielding gold. Risk: ceasefire ended Jul 8 → WTI at $80 → July CPI may re-accelerate. But today's dominant signal is the softer CPI data.
 
 ---
 
