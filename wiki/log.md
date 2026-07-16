@@ -4,6 +4,35 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-16 — Daily update: Gold ~$4,059 (flat; PPI-driven); Iran in limbo (no new development); PPI −0.3% + CPI 3.5% macro-dovish; Czech Republic 40th consecutive month buying; Poland revised to ~632t; MCX ~₹1,41,000 (−0.36%); USD/INR ₹96.19 | Signal: Wait (+1)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-16.md` — MCX ~₹1,41,000/10g (−0.36%); XAU/USD ~$4,059 (flat; range $4,017–$4,062); Silver $60.11/oz (+1.7%); DXY ~100.60 (−0.52% — PPI-driven dollar weakness); WTI $79.58 (−0.54%); USD/INR ₹96.19 (−0.22% rupee slightly firmed); India import duty 15% unchanged; RBI 880.52t static; ETF AUM ₹1.84T; AMC subscription caps ongoing; GS $4,900 → MCX ~₹1,70,540 (domestic 17.3% below)
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — July 16 section added: 11 rows (macro, Poland, Czech Republic, Jordan May-data, Kazakhstan, Iran, Germany, France, Italy, Japan, Saudi Arabia, UK, India); Poland table updated to 82t YTD/~632t total; Czech Republic updated to 40 months; Jordan May 2026 +1t first-time logged
+- `wiki/india-gold-market.md` — July 16 MCX section added: ₹1,41,000 (−0.36%); PPI carry-through; USD/INR ₹96.19 (rupee firmed slightly); signal updated to Wait (+1); last updated July 16
+- `wiki/fed-macro-factors.md` — July 16 section: June PPI −0.3% (released July 15); FOMC hold 87.7% July 28-29; September hike ~49%; DXY 100.60; macro factor Bullish (+1); last updated July 16
+- `wiki/iran-conflict-2026.md` — July 16 update: Deal in limbo; Switzerland cancelled; Polymarket ~40% July 31; no new development; WTI $79.58 (−0.54%); Factor 2 = Neutral (0); last updated July 16
+- `wiki/gold-geopolitical-risk-premium.md` — summary updated: gold ~$4,059 flat, PPI-macro-driven, Iran in limbo; 9d EMA ~$4,065, 50d EMA ~$4,344; Signal: Wait (+1); July 16 row added to timeline; last updated July 16
+- `wiki/poland-gold-reserves.md` — total revised upward from 613t to ~632t (595t April official + 37t since); 82t YTD confirmed; July 16 log row added; last updated July 16
+- `wiki/czech-republic-gold-reserves.md` — July 2026: +2t; total ~83t; **40th consecutive month** of buying; updated July 16
+- `wiki/index.md` — descriptions updated for Poland (632t), Czech Republic (40 months/83t), India gold market (July 16 data), global-cb-activity-log (July 16 summary), gold-geopolitical-risk-premium (July 16), fed-macro-factors (PPI update), iran-conflict-2026 (limbo)
+- `wiki/log.md` — this entry
+
+**Prices fetched** (all via web search — yfinance/metals.dev blocked by proxy):
+Gold: ~$4,059/oz | Silver: $60.11/oz | DXY: ~100.60 | WTI: $79.58/bbl | USD/INR: ₹96.19 | MCX: ~₹1,41,000/10g
+
+**Signal**: Wait (Score: +1)
+- Factor 1 Price vs Targets: +1 (17.2% below GS $4,900 target; >15% threshold = Bullish)
+- Factor 2 Geopolitical: 0 (Iran deal in limbo — Switzerland cancelled July 15; no new development today; WTI −0.54% slight easing; gold macro-driven not geopolitically-driven; Neutral)
+- Factor 3 Fed/Macro: +1 (June PPI −0.3% July 15 + CPI 3.5% July 14 → dovish momentum; FOMC hold 87.7% July 28-29; Bullish)
+- Factor 4 CB Demand: 0 (No new WGC report or major CB announcement in last 7 days; Czech Republic July buy confirmed but this is continuation not new data release; Neutral)
+- Factor 5 Technicals: −1 (Gold ~$4,059 BELOW 9d EMA ~$4,065 AND below 50d EMA ~$4,344; 50d > 9d = downtrend; Jul14 RED, Jul15 GREEN — only 1 of last 2 green; Bearish)
+- Factor 6 Dollar Pressure: 0 (DXY −0.52% within ±1%; INR −0.22% within ±1%; Neutral)
+
+---
+
 ## 2026-07-15 — Daily update: Gold $4,052.78 (+1.07% — CPI-driven); Iran deal stalled (Switzerland signing cancelled); soft June CPI 3.5% vs 4.2%; Kazakhstan 4th-largest buyer 2026; MCX ~₹1,41,588 (−0.5%); USD/INR ₹96.40 (+0.62%) | Signal: Wait (+2)
 
 **Raw file created**:

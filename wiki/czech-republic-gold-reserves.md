@@ -1,10 +1,10 @@
 # Czech Republic Gold Reserves
 
-**Summary**: The Czech National Bank (CNB) bought 5t in Q1 2026, 2t in April, and 2t in May 2026 (total ~81t, 6% of FX reserves; **39 consecutive months** of buying), part of a deliberate multi-year reserve diversification strategy.
+**Summary**: The Czech National Bank (CNB) has extended its gold accumulation to **40 consecutive months** of buying. Total ~**83t** (~8% of FX reserves). July 2026: +2t confirmed, continuing the +2t/month run rate. CNB multi-year policy continuing; targeting 100t.
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, WGC July 2026 CB statistics
 
-**Last updated**: 2026-07-06
+**Last updated**: 2026-07-16
 
 ---
 
@@ -15,7 +15,8 @@
 | Q1 2026 purchases | 5 tonnes |
 | April 2026 purchases | **2 tonnes** (WGC June 3 report) |
 | **May 2026 purchases** | **+2 tonnes** (WGC July 2026 data; 39th consecutive month) |
-| Total reserves (post-May 2026) | **~81 tonnes** (~6% of FX reserves) |
+| **July 2026 purchases** | **+2 tonnes** (reported July 2026; **40th consecutive month**) |
+| Total reserves (post-Jul 2026) | **~83 tonnes** (~8% of FX reserves) |
 | Target (CNB stated) | 100 tonnes by 2030 (needs verification) |
 | Gold as % of FX reserves | ~6% (up from ~1–2% historically) |
 
@@ -44,6 +45,7 @@ Key drivers:
 | 2026-05-27 | Stub created. No new CNB-specific announcements in last 48h. 100t target needs source verification. |
 | 2026-06-05 | WGC June 3 report: Czech Republic bought **+2t in April 2026**, bringing total to **~79t** (~6% of FX reserves). Consistent, modest buying pace continues. (source: WGC June 3 2026; Kitco June 3 2026) |
 | 2026-07-06 | WGC July 2026 CB stats: May 2026 +2t → total **~81t**; **39th consecutive month** of buying. (source: WGC July 2026) |
+| 2026-07-16 | July 2026: +2t reported → total **~83t** (~8% of FX reserves); **40th consecutive month** of buying. CNB continues its steady monthly accumulation. (source: Web search "Kazakhstan Czech Republic Singapore gold July 2026") |
 
 ## Related pages
 

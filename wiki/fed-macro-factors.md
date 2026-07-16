@@ -1,10 +1,34 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 15 UPDATE**: June CPI (released July 14) came in at **3.5% YoY** vs. 4.2% prior — steepest monthly decline since April 2020. Core CPI flat MoM (unchanged from May). Rate-hike bets unwound sharply: market pricing fell from ~35bps to ~18bps of tightening. July FOMC hike probability fell significantly. Gold rallied +1.6% on the release. Next FOMC meeting July 28-29. Kevin Warsh Fed Chair; 3.50–3.75% current rate. Macro factor = **Bullish (+1)** — soft CPI = dovish surprise = rate hike odds fall = bullish gold.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 16 UPDATE**: June PPI (released July 15) came in at **−0.3% MoM** — first monthly decline in nearly a year; core PPI +0.2% MoM (below expectations). This compounds June CPI 3.5% YoY softness (released July 14). Rate-hike bets now at ~18bps; July FOMC hold probability at **87.7%**. September hike probability ~49%. Next FOMC July 28-29. Kevin Warsh Fed Chair; 3.50–3.75% current rate. Macro factor = **Bullish (+1)**.
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/
 
-**Last updated**: 2026-07-15
+**Last updated**: 2026-07-16
+
+---
+
+## July 16, 2026 — June PPI −0.3% (Softest in a Year); FOMC Hold 87.7%; Gold ~$4,059 (Flat)
+
+**Headline**: June PPI (released July 15) fell **−0.3% MoM** — first monthly decline in nearly a year. Core PPI +0.2% MoM (below-consensus). This follows June CPI 3.5% YoY (released July 14). Together these are the softest consecutive CPI+PPI prints of 2026, shifting the macro picture toward "inflation is declining" from "stubborn sticky inflation" that prevailed March–May.
+
+**Key macro impacts (July 16)**:
+1. **FOMC July 28-29 hold probability: 87.7%** (CME FedWatch). Rate-hike bets have fallen from ~35bps pre-CPI to ~18bps post-CPI+PPI.
+2. **September hike probability ~49%** — still elevated due to WTI ~$80/bbl (Iran conflict keeping energy inflation risk alive).
+3. **DXY fell to ~100.60** (−0.52% from July 15 101.13) — a weaker dollar is bullish for gold.
+4. **Gold ~$4,059** (flat to slightly up from $4,052.78) — markets absorbed PPI dovish signal. Gold failed to break higher despite soft data → technicals still headwinds.
+5. **WTI $79.58** (−0.54% from $80.01) — slight oil easing provides additional inflation relief.
+
+**July 16 macro snapshot**:
+- **Gold $4,059** (flat from $4,052.78 July 15)
+- **DXY ~100.60** (−0.52% from July 15 101.13)
+- **WTI $79.58/bbl** (−0.54%)
+- **Silver $60.11/oz** (+1.7%)
+- **USD/INR ₹96.19** (slightly firmer rupee; −0.22%)
+- **Fed funds rate**: 3.50–3.75% (unchanged since June 17 FOMC)
+- **July 28-29 FOMC hike probability**: ~12.3%; hold probability ~87.7%
+
+**Macro factor = Bullish (+1)**: Soft CPI (3.5%) + soft PPI (−0.3%) → dovish momentum → FOMC hold priced → supports non-yielding gold. Near-term risk: WTI at ~$80 means July CPI (released August 12-13 est.) could re-accelerate if Iran conflict persists.
 
 ---
 
