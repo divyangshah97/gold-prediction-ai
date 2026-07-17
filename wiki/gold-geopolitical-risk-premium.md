@@ -1,10 +1,10 @@
 # Gold Geopolitical Risk Premium
 
-**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of July 16, 2026, gold is at **~$4,059** (flat; range $4,017–$4,062). Iran deal in limbo: Switzerland signing cancelled July 15, US sanctions waiver through Aug 21 intact; WTI $79.58 (−0.54%). Gold movement today is **PPI/macro-driven** (PPI −0.3% reinforcing soft CPI 3.5%), NOT geopolitical. 9d EMA ~$4,065 (est.); 50d EMA **~$4,344** — gold BELOW BOTH EMAs. MCX **~₹1,41,000/10g** (−0.36%). Signal: **Wait (+1)**.
+**Summary**: Gold carries a geopolitical risk premium — a price component that rises during crises and compresses during de-escalation. As of July 17, 2026, gold is at **~$3,985** (−1.8% from $4,059; breached $4,000). Iran: Strait of Hormuz declared CLOSED July 12; US conducting 3rd+ rounds of strikes; WTI $79.67 (+11% week). Gold is FALLING despite escalation — the **safe-haven paradox**: oil surge → inflation fears → hawkish Fed → stronger USD → bearish gold. 9d EMA **~$4,111** (web search); 50d EMA **~$4,319** — gold BELOW BOTH EMAs, now $126 below 9d EMA. MCX **~₹1,40,000/10g**. Signal: **Wait (+2)**.
 
 **Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.bullionvault.com/gold-news/gold-price-news/gold-fed-rates-jobs-060520261, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.financemagnates.com/trending/gold-price-falls-to-4400-in-2nd-200-ema-test-of-2026/, https://www.home.saxo/content/articles/commodities/gold-slips-below-200-day-average-as-inflation-jobs-and-fed-risks-bite-09062026, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.fxstreet.com/news/united-states-dollar-index-reaches-fresh-13-month-highs-near-10150-202606240240, https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection, https://www.cnbc.com/2026/06/24/gold-slips-to-two-week-low-as-fed-rate-hike-bets-buoy-dollar.html, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump
 
-**Last updated**: 2026-07-16
+**Last updated**: 2026-07-17
 
 ---
 

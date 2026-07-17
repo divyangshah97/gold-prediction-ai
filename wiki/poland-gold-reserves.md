@@ -1,10 +1,10 @@
 # Poland Gold Reserves
 
-**Summary**: Poland's National Bank is the largest single central bank buyer of gold in 2026 YTD. **Bloomberg July 9 CONFIRMED: 82t YTD 2026 (Governor Glapinski); total ~632t (revised up from ~613t — 595t April data + 37t since); ~100t stored domestically.** Gold = 30% of total FX reserves. Long-term target: 700t; NBP approved 150t additional purchase plan. NATO eastern flank security-driven. **No new July data today (July 16)**.
+**Summary**: Poland's National Bank is the largest single central bank buyer of gold in 2026 YTD. **82t YTD confirmed (Bloomberg Jul 9; Governor Glapiński); total ~632.4t; ~100t stored domestically; gold = 30% of FX reserves.** Long-term target: 700t; 150t additional 2026 plan approved. Governor confirmed "buying the dip" strategy (Kitco Jul 10). NATO eastern flank security-driven. **No new data today (July 17) — 82t YTD figure remains most recent.**
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, https://www.gold.org/goldhub/gold-focus/2026/06/central-bank-gold-statistics-central-banks-resume-net-buying-april, https://phemex.com/news/article/poland-increases-gold-reserves-to-613-tons-aims-for-700-tons-88034, https://www.scottsdalemint.com/articles/2026/breaking-polish-central-bank-approves-plan-to-buy-150-more-tons-gold/, https://www.indexbox.io/blog/central-banks-report-net-gold-purchases-of-17-tonnes-in-april-2026/
 
-**Last updated**: 2026-07-16
+**Last updated**: 2026-07-17
 
 ---
 

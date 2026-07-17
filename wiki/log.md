@@ -1645,3 +1645,33 @@ Report_Date: 2026-07-07 | MM_Net: +116,161 (+766 vs prior week) | OI: 371,776 | 
 - Factor 4 (CB Demand): +1 — PBoC Jun+14.93t (Jul7, within 7d); Poland 82t (Bloomberg Jul9, within 7d)
 - Factor 5 (Technicals): −1 — below both EMAs (9d~$4,100, 50d $4,319.64); last 2 days red; 50d>9d downtrend
 - Factor 6 (Dollar Pressure): 0 — DXY +0.19% (within 1%), USD/INR +0.26% (within 1%)
+
+---
+
+## 2026-07-17 — Daily Update
+
+**Sources ingested**: `raw/india-gold-2026-07-17.md`
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — MAJOR: Iran Strait of Hormuz remains CLOSED (July 12 declaration); US 3rd+ round of strikes; Iran retaliated on Jordan/Qatar/Kuwait/Oman; gold FALLING despite escalation (safe-haven paradox); Factor 2 updated to Bearish (−1)
+- `wiki/gold-geopolitical-risk-premium.md` — Gold breached $4,000 to $3,985 (−1.8%); 9d EMA updated to $4,111 (web search); 50d EMA $4,319; safe-haven paradox documented
+- `wiki/fed-macro-factors.md` — July 17 data: retail sales in-line, jobless claims 208K (2-month low); June payrolls 57K miss; FOMC July 28-29 hold 90%; net Macro: Neutral (0)
+- `wiki/india-gold-market.md` — MCX ~₹1,40,000/10g; USD/INR 96.43; WTI $79.67; Iran Strait disrupting Dubai-routed shipments; Signal: Wait (+2)
+- `wiki/poland-gold-reserves.md` — Confirmed 82t YTD (Bloomberg Jul 9; Glapiński), total 632.4t, "buying the dip" confirmed
+- `wiki/global-cb-activity-log.md` — Added July 17 entries: Iran Strait closure/strikes; Poland 82t YTD; WGC CB survey (45% plan to buy, 850t 2026 full-year); major holder status checks (Germany, Saudi, Japan, UK, Italy, France all no new data); India MCX update
+
+**Prices recorded** (2026-07-17): Gold $3,985.00 | Silver $58.50 | DXY 100.60 | WTI $79.67 | USD/INR 96.43
+
+**Signal**: Wait (+2)
+- Factor 1 (Price vs targets): +1 — $3,985 is 18.7% below GS revised target $4,900 (→ >15% below = Bullish)
+- Factor 2 (Geopolitical): −1 — Iran Strait CLOSED; US conducting strikes; gold FALLING despite crisis; oil/inflation/Fed channel dominates (Bearish)
+- Factor 3 (Fed/Macro): 0 — June payrolls 57K (dovish) vs WTI +11% w/w oil surge (hawkish); net Neutral
+- Factor 4 (CB Demand): +1 — PBoC Jun+14.93t (Jul 7); WGC May data (Jul 3); Poland 82t YTD (Jul 9-10); all within 7 days
+- Factor 5 (Technicals): +1 — below both EMAs (9d $4,111, 50d $4,319); last 2 CSV days both green (Jul 15: +$43, Jul 16: +$6) = Bullish per table
+- Factor 6 (Dollar Pressure): 0 — DXY 0.0% change (100.60→100.60); USD/INR +0.25% (within 1%); net Neutral
+
+**Key new findings**:
+- Iran Strait of Hormuz closure (July 12) and US 3rd round strikes is creating "safe-haven paradox" — gold falling despite escalation; WTI +11% w/w to $79.67
+- WGC 2026 CB Survey: record 45% of CBs plan to increase holdings; 89% expect global reserves to rise; 850t 2026 full-year forecast
+- Gold has breached $4,000 for the first time since early July; now $126 below 9d EMA
+- Goldman Sachs (revised June: $4,900) and JPMorgan (Q4: $4,500) cuts now well-documented; gold trading well below both

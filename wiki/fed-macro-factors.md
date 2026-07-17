@@ -1,12 +1,26 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 16 UPDATE**: June PPI (released July 15) came in at **−0.3% MoM** — first monthly decline in nearly a year; core PPI +0.2% MoM (below expectations). This compounds June CPI 3.5% YoY softness (released July 14). Rate-hike bets now at ~18bps; July FOMC hold probability at **87.7%**. September hike probability ~49%. Next FOMC July 28-29. Kevin Warsh Fed Chair; 3.50–3.75% current rate. Macro factor = **Bullish (+1)**.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 17 UPDATE**: June PPI −0.3% MoM + June CPI 3.5% → dovish. BUT Iran Strait closure driving oil WTI to $79.67 (+11% w/w), reigniting inflation risk. July 17 data: retail sales in-line; jobless claims 208K (2-month low — stronger labor market). DXY steadied at ~100.60 after Thursday's rebound. FOMC July 28-29 hold probability **90%** (June payrolls 57K vs 115K expected = labor weakness). Warsh "guarded remarks" at ECB Forum Sintra reduce hike probability near-term. Net: mixed signals → Macro factor = **Neutral (0)** (dovish CPI/PPI vs hawkish oil/Iran channel).
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/
 
-**Last updated**: 2026-07-16
+**Last updated**: 2026-07-17
 
 ---
+
+## July 17, 2026 — Retail Sales In-Line; Jobless Claims 208K (2-Month Low); DXY ~100.60; Gold Falls to $3,985
+
+**Headline**: Economic data on July 17 was mixed-to-positive: retail sales rose in line with expectations (with lower gasoline prices weighing on gas station receipts while motor vehicle dealers and online retailers remained strong), and initial jobless claims dropped to a 2-month low of 208K. This supports the "soft landing" narrative but does not materially shift Fed expectations. The dominant macro risk remains the Iran-Strait of Hormuz closure pushing oil higher, which could reignite inflation.
+
+**Key macro impacts (July 17)**:
+- **Retail sales**: In-line; not a significant catalyst for gold or the Fed
+- **Jobless claims**: 208K (2-month low) — slightly hawkish signal (stronger labor = Fed can hold longer)
+- **DXY**: ~100.60 (steady; "strengthened to 100.6 on Thursday" and stable Friday)
+- **June payrolls** (released July 3): 57K vs 115K expected — significant miss; this is the PRIMARY labor market signal (lagged) and keeps hold probability high
+- **FOMC July 28-29**: 90% probability of hold at 3.50–3.75%
+- **Warsh**: Guarded tone at ECB Forum Sintra → reduced hike probability
+- **Iran channel**: WTI $79.67 (+11% w/w) → oil-driven inflation = upside risk to rates; partially offsets dovish CPI/PPI
+- **Net gold effect**: Conflicted. Weak payrolls = dovish = bullish gold. Oil surge = hawkish = bearish gold. Macro signal: Neutral (0)
 
 ## July 16, 2026 — June PPI −0.3% (Softest in a Year); FOMC Hold 87.7%; Gold ~$4,059 (Flat)
 
