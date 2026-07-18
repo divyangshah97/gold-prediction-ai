@@ -10,8 +10,11 @@ Fallback chain:
                  → yfinance (fallback)
                  → prints VOLUME_MISSING if both fail
 
+Only COMPLETED trading days are appended (previous day's official close, never
+the live/in-progress price) — Factor 5 green/red scoring needs true daily closes.
+
 Usage:
-  python fetch_prices.py                        # append today / last trading day
+  python fetch_prices.py                        # append last completed trading day(s)
   python fetch_prices.py --backfill             # seed last 6 months of history
   python fetch_prices.py --metals-key YOUR_KEY  # override metals.dev key (env: METALS_DEV_KEY)
 """
@@ -311,14 +314,20 @@ def run_backfill(months: int = 6, metals_key: str = None):
 
 
 def run_today(metals_key: str = None):
-    # Fetch last 5 days to catch the most recent trading day
+    # Append only COMPLETED trading days (Date < today, UTC).
+    # yfinance returns an in-progress bar for the current session, so appending
+    # rows[-1] unfiltered would freeze a mid-session price (~12 PM IST when the
+    # daily routine runs) into the CSV instead of a real daily close — this
+    # corrupted Factor 5 green/red scoring before 2026-07-18.
     end   = date.today() + timedelta(days=1)
-    start = date.today() - timedelta(days=5)
+    start = date.today() - timedelta(days=7)
     rows  = fetch_range(str(start), str(end), metals_key)
-    if rows:
-        append_rows([rows[-1]])
+    today_str = str(date.today())
+    completed = [r for r in rows if r["Date"] < today_str]
+    if completed:
+        append_rows(completed)  # append_rows skips dates already in the CSV
     else:
-        print("No data returned from yfinance or fallback.")
+        print("No completed trading day returned from yfinance or fallback.")
 
 
 if __name__ == "__main__":

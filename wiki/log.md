@@ -1675,3 +1675,24 @@ Report_Date: 2026-07-07 | MM_Net: +116,161 (+766 vs prior week) | OI: 371,776 | 
 - WGC 2026 CB Survey: record 45% of CBs plan to increase holdings; 89% expect global reserves to rise; 850t 2026 full-year forecast
 - Gold has breached $4,000 for the first time since early July; now $126 below 9d EMA
 - Goldman Sachs (revised June: $4,900) and JPMorgan (Q4: $4,500) cuts now well-documented; gold trading well below both
+
+---
+
+## 2026-07-18 — Data fix: prices.csv switched to previous-day closes; July signals re-scored
+
+**Source**: User-reported bug — prices.csv rows were live ~12 PM IST snapshots (the price at routine run time), not daily closes. On 2026-07-17 this made Factor 5 score "last 2 days green" when the real Jul 15/16 closes were both red (the big US-session drops landed in the *next* day's row).
+
+**Root cause**: `fetch_prices.py` `run_today()` appended `rows[-1]` — yfinance's in-progress bar for the current session.
+
+**Changes**:
+- `fetch_prices.py` — now appends only COMPLETED trading days (Date < today UTC); heals up to 7 days of gaps; never writes the live bar
+- `prices/prices.csv` — rows 2026-06-25 → 2026-07-17 rewritten with official yfinance daily closes (GC=F, SI=F, DX-Y.NYB, CL=F, USDINR=X); missing 2026-06-26 trading day inserted; rows ≤ 2026-06-24 remain legacy snapshots
+- `wiki/signal-methodology.md` — new "Price data basis" section; Factor 5 now evaluates the last two completed sessions; price-vs-EMA position uses newest CSV close; also finally committed the 2026-07-02 fixes (explicit "2 green" definition; Factor 6 threshold ±1.0% → ±0.5%) which had never been pushed — the cloud routine kept scoring with the 1% threshold through Jul 17
+- Cloud routine `trig_01Q7FfuV2Y2Fqk4f8dtokd2J` prompt updated to match (close basis, 2-green definition, 0.5% threshold, previous-session-close web patches)
+
+**Re-score (close basis + 0.5% Factor 6 threshold), signals.csv corrected in place**:
+- 2026-07-02: Wait −2 → Wait 0 (Jun 30 & Jul 1 closes both green → Factor 5 −1→+1)
+- 2026-07-03: Buy 3 → Buy 4 (DXY −0.52%, INR +0.53% → Factor 6 0→+1)
+- 2026-07-15: Wait 2 → **Buy 3** (USD/INR +1.02% close-over-close — exceeded even the old 1% threshold; snapshot had shown only +0.62%)
+- 2026-07-17: Wait 2 → Wait 0 (Jul 15 −$17 and Jul 16 −$58 both red → Factor 5 +1→−1; the "2 green" was a snapshot artifact)
+- All other July days: factor values re-checked, scores unchanged
