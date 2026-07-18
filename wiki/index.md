@@ -75,7 +75,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; **2026-07-07 MM_Net=+116,161** (31.2% of OI; Neutral zone); +766 vs prior week (Jun 23); positioning flat/consolidating; OI at 371,776 (highest since May); Factor 6 in trading signal; updated July 11 |
+| [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; **2026-07-14 MM_Net=+120,779** (31.5% of OI; Neutral zone); +4,618 vs prior week (Jul 7); shorts at record low 16,126; OI at 383,689 (series high); Factor 6 in trading signal; updated July 18 |
 | [[signal-methodology]] | Full 6-factor scoring system: Price vs Targets, Geopolitical Risk, Fed/Macro, CB Demand, Technicals, Dollar Pressure (DXY + USD/INR); range -6 to +6; thresholds; added Jun 18 |
 
 ### Forecasts & Institutions

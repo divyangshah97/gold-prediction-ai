@@ -4,6 +4,12 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-18 — COT weekly update
+Report_Date: 2026-07-14 | MM_Net: +120,779 (+4,618 vs prior week) | OI: 383,689 | MM_Long: 136,905 | MM_Short: 16,126 | MM_Net % OI: 31.5% | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-07-17T21:20:26Z
+Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Historical COT Reference extended with Jul 14 row), wiki/index.md (institutional-flows entry updated), prices/cot.csv (2026-07-14 row appended)
+
+---
+
 ## 2026-07-16 — Daily update: Gold ~$4,059 (flat; PPI-driven); Iran in limbo (no new development); PPI −0.3% + CPI 3.5% macro-dovish; Czech Republic 40th consecutive month buying; Poland revised to ~632t; MCX ~₹1,41,000 (−0.36%); USD/INR ₹96.19 | Signal: Wait (+1)
 
 **Raw file created**:
