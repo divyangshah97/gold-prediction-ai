@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-07-17
+**Last updated**: 2026-07-20
 
 ---
 
@@ -73,6 +73,24 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-07-20
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-07-20 | 🌐 Global (Macro) | **Gold ~$4,001–4,017 (intraday); DXY ~100.75 (stable); Brent $88.10 (+4.6%); WTI $82.49 (Jul 17 close); MCX ~₹1,41,300/10g (+0.3%); USD/INR ~₹96.65; Signal: Wait (−1)** | Gold trading at **$4,001–4,017** on Monday (9-month low zone). **Primary driver**: Iran Strait of Hormuz crisis intensifying — Brent crude $88.10 (+4.6%; Kuwait power plant attacked by Iran); shipping traffic collapsed to 6 vessels/day through Strait vs 18–22 earlier in July. Safe-haven paradox continues: oil surge → inflation → hawkish Fed channel → gold falls. June CPI 4.2% (above May 3.8%; BELOW market expectations → rate-hike bets fell to 30% from ~40%). MCX gold **₹1,41,300/10g** (+0.3%; modest recovery from Friday intraday lows). Silver sharp drop ~₹5,000 on MCX. USD/INR ~₹96.65. DXY ~100.75 (stable). 9d EMA ~$4,095 (10d pub. $4,111.56); 50d EMA ~$4,307 (est. from July 17 $4,319). Signal: **Wait (−1)** [+1 price (18.1% below GS $4,900); −1 geo (Iran war active, oil inflation channel bearish for gold); 0 macro (CPI below expectations dovish; oil surge hawkish; net neutral); 0 CB demand (no new data in last 7 days — WGC July 8, PBoC July 7, Poland July 9 all outside 7d window); −1 technicals (below both EMAs; Jul 15→16 RED; Jul 16→17 GREEN = not 2 green); 0 dollar (DXY +0.02%, INR +0.16%, both <0.5%)]. See [[gold-geopolitical-risk-premium]], [[fed-macro-factors]], [[iran-conflict-2026]], [[india-gold-market]], [[central-bank-gold-demand]]. | https://www.goodreturns.in/news/gold-rates-silver-rates-today-20-07-2026-live-mcx-gold-silver-price-24k-22k-18k-gold-prices-latest-1523215.html; https://www.fxleaders.com/news/2026/07/20/gold-price-forecast-xau-usd-defends-4000-as-oil-surge-and-fed-bets-trigger-tug-of-war/; https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html |
+| 2026-07-20 | 🇮🇷 Iran | **CRISIS INTENSIFYING — Brent $88.10; Strait traffic 6 vessels/day; Kuwait power plant hit; gold still falling (safe-haven paradox)** | Iran struck a power and water desalination plant in **Kuwait**. Oil prices surged — Brent +4.6% to **$88.10/bbl**. Shipping traffic through the Strait of Hormuz collapsed to just 6 vessels/day (vs 18–22 daily earlier this month). The MOU ceasefire/deal framework appears effectively moribund: Islamabad Declaration (June 17) not formally repudiated but no new meeting date set for signing. US military presence in the Gulf continues. Gold is NOT rallying — the transmission channel is oil → inflation → hawkish Fed → bearish gold. **Factor 2 = Bearish (−1)** for today. See [[iran-conflict-2026]], [[iran-gold-reserves]]. | https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis; https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html; https://discoveryalert.com.au/us-iran-strait-hormuz-oil-prices-2026-ceasefire-market/ |
+| 2026-07-20 | 🇵🇱 Poland (NBP) | **No new data — 82t YTD confirmed; ~632t total; targeting 700t** | No new Poland CB announcement today. Most recent data: 82t YTD as of July 9 (Glapiński). See [[poland-gold-reserves]]. | Web search July 20, 2026 |
+| 2026-07-20 | 🇨🇳 China (PBoC) | **No new data — June 2026: +14.93t; 2,346t total; 20-month streak** | No new PBoC gold announcement today. Most recent: June 2026 +14.93t (announced July 7). See [[china-pboc-gold]]. | Web search July 20, 2026 |
+| 2026-07-20 | 🇩🇪 Germany (Bundesbank) | **No new data — 1,236t at FRBNY; repatriation pressure ongoing** | No new Bundesbank announcements. Cross-party pressure (AfD + Greens) for repatriation persists; CDU government stance unchanged. See [[germany-gold-reserves]]. | Web search July 20, 2026 |
+| 2026-07-20 | 🇸🇦 Saudi Arabia (SAMA) | **No new data — 323.07t static since 2010** | No SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search July 20, 2026 |
+| 2026-07-20 | 🇯🇵 Japan (BoJ) | **No new data — 845.97t static** | No BoJ or MoF gold statements. See [[japan-gold-reserves]]. | Web search July 20, 2026 |
+| 2026-07-20 | 🇬🇧 UK (Bank of England) | **No new data — 310.29t own; 9,392t custodial** | No new BoE gold statements. See [[uk-gold-reserves]]. | Web search July 20, 2026 |
+| 2026-07-20 | 🇮🇹 Italy (Banca d'Italia) | **No new data — 2,452t; FdI dispute unresolved** | No update on Fratelli d'Italia ownership dispute. See [[italy-gold-reserves]]. | Web search July 20, 2026 |
+| 2026-07-20 | 🇫🇷 France (Banque de France) | **No new data — all 2,437t on French soil** | 134t bar upgrade programme ongoing. No new BdF statements. See [[france-gold-reserves]]. | Web search July 20, 2026 |
+| 2026-07-20 | 🇮🇳 India (RBI + Market) | **MCX ~₹1,41,300/10g (+0.3%); silver drops ₹5,000; June imports $1.97B (−42% m/m); ETF June inflows ₹34.4B rebound; USD/INR ~₹96.65** | MCX gold **₹1,41,300/10g** (+0.3%; recovering from Friday lows). Silver dropped sharply ~₹5,000 on US-Iran tensions. XAU/USD ~$4,001–4,017 (intraday). USD/INR ~₹96.65. Gold imports June 2026: **$1.97B** (down 42% m/m; lowest since June 2025; Iran Strait disrupting Dubai→India routing). Gold ETF June inflows: **₹34.4B** (rebound; July 1-10 estimated +₹12.1B). 15% import duty unchanged. RBI 880.52t static. Signal: Wait (−1). See [[india-gold-market]], [[india-rbi-gold]]. | `raw/india-gold-2026-07-20.md`; https://www.goodreturns.in/news/gold-rates-silver-rates-today-20-07-2026-live-mcx-gold-silver-price-24k-22k-18k-gold-prices-latest-1523215.html; https://www.gold.org/goldhub/gold-focus/2026/07/india-gold-market-update-mixed-demand-signals |
 
 ---
 

@@ -1,12 +1,27 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 17 UPDATE**: June PPI −0.3% MoM + June CPI 3.5% → dovish. BUT Iran Strait closure driving oil WTI to $79.67 (+11% w/w), reigniting inflation risk. July 17 data: retail sales in-line; jobless claims 208K (2-month low — stronger labor market). DXY steadied at ~100.60 after Thursday's rebound. FOMC July 28-29 hold probability **90%** (June payrolls 57K vs 115K expected = labor weakness). Warsh "guarded remarks" at ECB Forum Sintra reduce hike probability near-term. Net: mixed signals → Macro factor = **Neutral (0)** (dovish CPI/PPI vs hawkish oil/Iran channel).
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 20 UPDATE**: June CPI **4.2%** YoY (above May 3.8%; BELOW market expectations → slight dovish surprise; rate-hike bets fell to 30% from ~40%). Iran Strait closure pushing Brent to $88.10 — oil-driven inflation adds hawkish pressure. FOMC July 28-29 hold probability **90%**. Net: mixed signals → Macro factor = **Neutral (0)** (CPI below expectations = dovish; oil surge = hawkish headwind; hold expected).
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/
 
-**Last updated**: 2026-07-17
+**Last updated**: 2026-07-20
 
 ---
+
+## July 20, 2026 — June CPI 4.2% (Below Expectations, Dovish Surprise); FOMC July 28-29 Hold at 90%; Oil Surge Hawkish Counterweight
+
+**Headline**: June 2026 CPI printed at **4.2% YoY** — above May's 3.8% but **below market expectations** (which had feared higher on energy prices). The softer-than-expected print caused rate-hike probabilities to drop from ~40% to **~30%** for the remainder of 2026. The USD weakened on the print, making gold more attractive. However, Iran Strait of Hormuz remains closed, pushing **Brent crude to $88.10/bbl**, reigniting inflation fears and keeping the Fed unable to cut. FOMC meeting July 28-29 remains on track for **hold at 3.50-3.75%** (90% probability). Gold is trading around $4,001–$4,017 — stable but not rallying.
+
+**Key macro data (July 20)**:
+- **June CPI**: 4.2% YoY (above May 3.8%; but BELOW consensus expectations) → rate-hike bets dropped to 30% from ~40%
+- **FOMC July 28-29**: 90% probability hold at 3.50-3.75%; only 30% chance of hike by year-end
+- **Brent crude**: $88.10/bbl (Kuwait attacked; Iran ongoing) — hawkish energy inflation tailwind
+- **DXY**: ~100.75 (July 17 close; stable; "steadied around 100.7 on Friday")
+- **Gold macro impact**: CPI below expectations = dovish surprise (marginally bullish); oil surge = hawkish (bearish). Net: **Neutral (0)**
+- **FOMC dot plot** (June 17 meeting): 9/18 participants projected one rate hike by year-end; 8 held steady; 1 projected cut — deeply divided
+- **Fed Chair Warsh**: Maintaining "data dependent" approach; removed traditional forward guidance
+
+**Net macro factor for July 20**: **Neutral (0)**
 
 ## July 17, 2026 — Retail Sales In-Line; Jobless Claims 208K (2-Month Low); DXY ~100.60; Gold Falls to $3,985
 

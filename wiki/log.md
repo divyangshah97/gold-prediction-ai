@@ -4,6 +4,33 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-20 — Daily update: Gold ~$4,001–4,017 (9-month low zone; +0.3% Monday recovery); Iran Strait crisis intensifying (Brent $88.10; 6 ships/day); June CPI 4.2% below expectations; MCX ~₹1,41,300/10g (+0.3%); June imports $1.97B (−42% m/m); ETF June inflows ₹34.4B rebound | Signal: Wait (−1)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-20.md` — MCX ~₹1,41,300/10g (+0.3%); XAU/USD ~$4,001–4,017 (intraday Monday); USD/INR ~₹96.65; Brent $88.10 (Iran Kuwait attack); June gold imports $1.97B (−42% m/m; lowest since June 2025; Iran Strait disruption); ETF June inflows ₹34.4B (rebound from May −₹725 crore outflow); July 1-10 ETF inflows ~₹12.1B; silver down ₹5,000 on Iran tensions; 15% import duty unchanged; RBI 880.52t static
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — July 20 section added: 11 rows (macro, Iran, Poland no-new-data, China no-new-data, Germany, Saudi Arabia, Japan, UK, Italy, France, India); note: no new CB purchase/sale announcement found in last 7 days
+- `wiki/india-gold-market.md` — July 20 MCX section added: ₹1,41,300/10g (+0.3%); June imports $1.97B; ETF flows; silver drop; signal Wait (−1); last updated July 20
+- `wiki/fed-macro-factors.md` — July 20 section: June CPI 4.2% (above May but below expectations); rate-hike bets fell to 30%; FOMC July 28-29 hold 90%; oil surge hawkish; macro factor Neutral (0); last updated July 20
+- `wiki/iran-conflict-2026.md` — July 20 timeline entry: Brent $88.10 (Kuwait plant attacked); Strait traffic 6 vessels/day; gold still falling; Factor 2 = Bearish (−1); last updated July 20
+- `wiki/gold-geopolitical-risk-premium.md` — summary updated: gold $4,001–4,017 (9-month lows); 9d EMA ~$4,095; 50d EMA ~$4,307; MCX ₹1,41,300; Signal: Wait (−1); last updated July 20
+- `wiki/log.md` — this entry
+
+**Prices in CSV** (no new rows added — July 18-19 were weekend; prices.csv already has July 17 close as last row):
+Gold (Jul 17 close): $4,012.7 | Silver: $56.038 | DXY: 100.75 | WTI: $82.49 | USD/INR: ₹96.6522
+Today live (NOT in CSV): XAU/USD ~$4,001–4,017 | MCX ~₹1,41,300/10g | Brent $88.10
+
+**Signal**: Wait (Score: −1)
+- Factor 1 Price vs Targets: +1 (18.1% below GS $4,900 target; >15% = Bullish)
+- Factor 2 Geopolitical: −1 (Iran Strait closed; Brent $88.10; Kuwait hit; gold FALLING = oil inflation channel bearish; Bearish)
+- Factor 3 Fed/Macro: 0 (June CPI 4.2% — above May but below expectations; rate hikes fell to 30%; oil surge hawkish; FOMC Jul 28-29 hold 90%; net Neutral)
+- Factor 4 CB Demand: 0 (No new CB data in last 7 days — WGC Jul 8, PBoC Jul 7, Poland Jul 9 all outside window; Neutral)
+- Factor 5 Technicals: −1 (Gold below both 9d EMA ~$4,095 and 50d EMA ~$4,307; Jul 15→16 RED (−$58); Jul 16→17 GREEN (+$27); only 1 of last 2 green = not 2 green; Bearish)
+- Factor 6 Dollar Pressure: 0 (DXY Jul16→17: +0.02%; USD/INR Jul16→17: +0.16%; both within ±0.5%; Neutral)
+
+---
+
 ## 2026-07-18 — COT weekly update
 Report_Date: 2026-07-14 | MM_Net: +120,779 (+4,618 vs prior week) | OI: 383,689 | MM_Long: 136,905 | MM_Short: 16,126 | MM_Net % OI: 31.5% | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-07-17T21:20:26Z
 Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Historical COT Reference extended with Jul 14 row), wiki/index.md (institutional-flows entry updated), prices/cot.csv (2026-07-14 row appended)

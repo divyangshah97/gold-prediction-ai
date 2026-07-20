@@ -1,12 +1,39 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T (with AMC subscription restrictions). As of July 17, MCX gold **~₹1,40,000/10g** (range ₹1,40,000–₹1,42,100; intraday volatile). XAU/USD spot **~$3,985** (−1.8% from $4,059). USD/INR **₹96.43** (rupee weakened +0.25%). WTI $79.67 (+0.12%). Goldman $4,900 → MCX ~₹1,71,220 (domestic ~18.3% below). RBI 880.52t static. Signal: **Wait (+2)** (updated July 17). Dubai-routed shipments disrupted by Iran Strait closure.
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T. As of July 20, MCX gold **~₹1,41,300/10g** (+0.3%; 9-month low zone). XAU/USD ~$4,001–4,017. USD/INR **~₹96.65** (last close). Gold imports June 2026: $1.97B (−42% m/m; lowest since June 2025). Gold ETF June inflows ₹34.4B (rebound; July 1–10 ~₹12.1B). Goldman $4,900 → MCX ~₹1,72,000 (domestic ~18% below). RBI 880.52t static. Signal: **Wait (−1)** (July 20). Iran Strait closure ongoing; silver sharp drop ₹5,000 on war tensions.
 
-**Sources**: `raw/india-gold-2026-07-16.md`, `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, `raw/india-gold-2026-06-30.md`, `raw/india-gold-2026-06-29.md`, `raw/india-gold-2026-06-25.md`, `raw/india-gold-2026-06-24.md`, `raw/india-gold-2026-06-23.md`, `raw/india-gold-2026-06-22.md`, `raw/india-gold-2026-06-19.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-06-17.md`, `raw/india-gold-2026-06-16.md`, `raw/india-gold-2026-06-15.md`, `raw/india-gold-2026-06-12.md`, `raw/india-gold-2026-06-11.md`, `raw/india-gold-2026-06-10.md`, `raw/india-gold-2026-06-09.md`, `raw/india-gold-2026-06-08.md`, https://www.goodreturns.in/gold-rates/, https://hdfcsky.com/news/inr-vs-usd-rate-july-10-2026-rupee-rises-15-paise-against-us-dollar-early-trade, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/
+**Sources**: `raw/india-gold-2026-07-20.md`, `raw/india-gold-2026-07-16.md`, `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, https://www.goodreturns.in/news/gold-rates-silver-rates-today-20-07-2026-live-mcx-gold-silver-price-24k-22k-18k-gold-prices-latest-1523215.html, https://sundayguardianlive.com/business/gold-rate-today-mcx-gold-steady-at-145-lakh-as-silver-drops-5000-amid-us-iran-war-tensions-check-24k-22k-18k-gold-prices-across-delhi-mumbai-chennai-kerala-surat-pune-more-234650/, https://www.gold.org/goldhub/gold-focus/2026/07/india-gold-market-update-mixed-demand-signals, https://www.outlookmoney.com/invest/gold-etf-inflows-india-june-2026-wgc-report, https://upstox.com/news/personal-finance/mutual-funds/gold-et-fs-record-first-outflow-in-13-months-why-investors-pulled-725-crore-in-may-2026/article-195113/
 
-**Last updated**: 2026-07-17
+**Last updated**: 2026-07-20
 
 ---
+
+## MCX Gold Price (July 20, 2026)
+
+| Metric | Value |
+|---|---|
+| MCX gold futures Aug (24K) | **~₹1,41,300/10g** (+0.3%; Goodreturns July 20 live) |
+| XAU/USD spot (live/intraday) | **~$4,001–$4,017** (Monday open; previous close ~$3,977 spot / $4,013 CSV COMEX) |
+| USD/INR | **~₹96.65** (July 17 close; July 18 weekend ~₹96.4; intraday approx. ₹96.5–96.7) |
+| WTI Crude | **$82.49/bbl** (July 17 close; Brent $88.10 on escalating Iran hostilities) |
+| 9d EMA (XAU/USD) | **~$4,095** (10-day EMA published: $4,111.56; gold firmly below) |
+| 50d EMA (XAU/USD) | **~$4,307** (estimated down from $4,319 July 17; gold well below) |
+| Goldman $4,900 → MCX implied | **~₹1,72,000/10g** (domestic ~18% below GS base case) |
+| Signal | **Wait (−1)** |
+
+**Key drivers July 20**:
+- **Iran Strait crisis ongoing**: Brent crude at $88.10; gold falling as oil inflation → hawkish Fed channel dominates safe-haven demand
+- **Silver sharp drop**: Silver down ~₹5,000 on MCX amid US-Iran war tensions (Sunday Guardian July 20)
+- **Gold at 9-month lows**: International price ~$4,000; domestic ₹141,000/10g — a 6-month low
+- **ETF price-dip buying**: June inflows ₹34.4B (rebound from May −₹725 crore outflow); July 1–10 inflows ₹12.1B
+
+**June 2026 import data (released week of July 20)**:
+- Imports: **$1.97 billion** (down 42% m/m; lowest since June 2025)
+- Sequential decline for second consecutive month
+- Drivers: 15% duty suppressing demand; Iran Strait routing disruption; high INR gold price discouraging discretionary buying
+
+**July 20 retail prices (24K per gram)**:
+- Delhi: ₹14,343 | Mumbai: ₹14,328 | Chennai: ₹14,328
 
 ## MCX Gold Price (July 17, 2026)
 
