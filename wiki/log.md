@@ -4,6 +4,40 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-21 — Daily update: Gold $4,017.52 (Jul 18 close; +0.65% MCX Jul 21 recovery); Iran Strait CLOSED (no US crossings since Jul 15); FOMC 25% hike prob; Czech July +2t; Russia June −6t; Turkey June −3t | Signal: Wait (+2)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-21.md` — MCX ₹1,42,314/10g (+0.65%); XAU/USD ~$4,022–$4,071 (recovering); USD/INR ₹96.50 (Jul 18); June gold imports $1.97B (−42% m/m); Gem & jewellery exports +26% June; ETF July 1-10 inflows ~₹12.1B; Silver recovering; 15% import duty unchanged; RBI 880.52t static
+
+**Prices added to CSV** (previous trading day T-1 = Friday July 18):
+- Gold Jul 18 close: **$4,017.52** | Silver: $55.50 | DXY: 100.70 | WTI: $81.78 | USD/INR: ₹96.50
+- Data sourced via web search (yfinance/metals.dev blocked by proxy); mygoldcalc.com July 18 confirmed $4,017.52/oz; silver $55.50 (hovering Friday); DXY 100.70 (range 100.5–100.8 intraday); WTI $81.78 (prior close before July 20 spike to $84.59); USD/INR ₹96.50
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — July 21 section added: 12 rows (macro, Iran, Poland no-new-data, China no-new-data, Czech +2t Jul, Germany, Saudi, Japan, UK, Italy, France, Russia June −6t, Turkey June −3t, India July 21); **CB sweep notes**: Czech Republic +2t July (Jul 16) within 7d → triggers CB demand = Bullish (+1); Russia June −6t (YTD −34t); Turkey June −3t (YTD −81t)
+- `wiki/india-gold-market.md` — July 21 MCX section added: ₹1,42,314/10g (+0.65%); June imports $1.97B (−42%); gem & jewellery exports +26% June; ETF July 1-10 ₹12.1B; discount $20/oz; Signal Wait (+2)
+- `wiki/fed-macro-factors.md` — July 21 section: FOMC hike prob rising to 25%; Fed July inflation "red flag"; oil WTI $81.78; net Neutral (0)
+- `wiki/iran-conflict-2026.md` — July 21 timeline: Strait CLOSED; no US-route crossings since Jul 15; Iran 7 transits; Factor 2 Bearish (−1)
+- `wiki/gold-geopolitical-risk-premium.md` — July 18 close $4,017.52 and July 21 recovery entries added; 9d EMA ~$4,088; 50d EMA ~$4,270; 2 green days tech trigger
+- `wiki/index.md` — updated descriptions for india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors
+- `wiki/log.md` — this entry
+
+**Signal**: Wait (Score: +2)
+- Factor 1 Price vs Targets: +1 (18.4% below GS $4,900; >15% = Bullish)
+- Factor 2 Geopolitical: −1 (Iran Strait CLOSED; no US-route crossings since Jul 15; oil WTI $81.78; gold/oil via Fed channel = Bearish)
+- Factor 3 Fed/Macro: 0 (FOMC Jul 28-29: 25% hike prob / 75% hold; CPI 4.2% below expectations; oil elevated; net Neutral)
+- Factor 4 CB Demand: +1 (Czech Republic +2t July 2026, announced Jul 16 = within 7-day window; Bullish)
+- Factor 5 Technicals: +1 (Gold $4,017.52 BELOW 9d EMA ~$4,088 AND 50d EMA ~$4,270; Jul17 close +$27.10 GREEN; Jul18 close +$4.82 GREEN → "2 green" = Bullish)
+- Factor 6 Dollar Pressure: 0 (DXY Jul17→18: 100.75→100.70 = −0.05% < 0.5%; USD/INR Jul17→18: 96.6522→96.50 = −0.16% < 0.5%; both Neutral)
+
+**Global CB sweep summary (last 24-48h)**:
+- No new country-level CB gold buying/selling announcements in last 24-48 hours
+- Czech Republic +2t July (announced July 16) — within 7-day window, still current
+- Russia: June −6t (YTD −34t); Turkey: June −3t (YTD −81t) — from WGC/Pravda data, confirming May trends continued into June
+- Germany: no new repatriation; France: static; Italy: FdI dispute unresolved; Japan: static; USA: static; UK: static; Saudi Arabia: static
+
+---
+
 ## 2026-07-20 — Daily update: Gold ~$4,001–4,017 (9-month low zone; +0.3% Monday recovery); Iran Strait crisis intensifying (Brent $88.10; 6 ships/day); June CPI 4.2% below expectations; MCX ~₹1,41,300/10g (+0.3%); June imports $1.97B (−42% m/m); ETF June inflows ₹34.4B rebound | Signal: Wait (−1)
 
 **Raw file created**:
