@@ -1763,3 +1763,32 @@ Report_Date: 2026-07-07 | MM_Net: +116,161 (+766 vs prior week) | OI: 371,776 | 
 - 2026-07-15: Wait 2 → **Buy 3** (USD/INR +1.02% close-over-close — exceeded even the old 1% threshold; snapshot had shown only +0.62%)
 - 2026-07-17: Wait 2 → Wait 0 (Jul 15 −$17 and Jul 16 −$58 both red → Factor 5 +1→−1; the "2 green" was a snapshot artifact)
 - All other July days: factor values re-checked, scores unchanged
+
+---
+
+## 2026-07-22 — Daily update: Iran deal "over" (NATO summit); oil pullback; FOMC hike prob 36.3%
+
+**Source**: `raw/india-gold-2026-07-22.md` (new); web research (gold spot, Iran, FOMC, CB activity, India MCX)
+
+**Prices (T-1 = July 21 closes)**:
+- XAU/USD: $4,007.77 | Silver: $29.17 | DXY: 100.92 | WTI: $82.58 | USD/INR: ₹96.4330
+- MCX gold (July 22 intraday): ₹1,44,408/10g (+1.07%)
+
+**Signal**: **Wait (0)**
+- Factor 1 (Price vs GS $4,900): $4,007.77 = 18.2% below → **+1 Bullish**
+- Factor 2 (Geopolitics/Iran): Deal "over" per Trump at NATO summit; oil pulling back from $88; gold relief rally → **0 Neutral**
+- Factor 3 (Fed/Macro): FOMC Jul28-29 hike prob **36.3%** (up from 25%); Goldman cut forecast on no 2026 cuts; CPI 4.2%; oil pullback slightly reduces pressure → **-1 Bearish**
+- Factor 4 (CB Demand): Czech Republic +2t July 16 within 7-day window; WGC: record 45% CBs plan to increase holdings → **+1 Bullish**
+- Factor 5 (Technicals): Jul 18 close ($4,017.52) GREEN; Jul 21 close ($4,007.77) RED — not 2 green; gold below both 9d EMA (~$4,030-$4,050) and 50d EMA (~$4,450-$4,480) → **-1 Bearish**
+- Factor 6 (Dollar): DXY +0.22%; USD/INR -0.07% — both within ±0.5% threshold → **0 Neutral**
+- **Total: +1+0-1+1-1+0 = 0 → Wait**
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — MCX ₹1,44,408; investment demand (82t) > jewellery (66t) first time; imports -42% m/m
+- `wiki/gold-geopolitical-risk-premium.md` — intraday ~$4,073-$4,079; Iran deal "over"; oil pullback; EMAs updated
+- `wiki/iran-conflict-2026.md` — ceasefire deal declared "over" by Trump at NATO summit; oil pulling back WTI $82.58
+- `wiki/fed-macro-factors.md` — FOMC hike prob 36.3% (up from 25%); Goldman cut on no 2026 rate cuts
+- `wiki/global-cb-activity-log.md` — July 22 section; Czech +2t in 7d window; WGC 45% CBs; gold > US Treasuries
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-07-22.md`, `prices/prices.csv` (July 21 row added)
