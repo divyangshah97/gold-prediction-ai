@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-07-22
+**Last updated**: 2026-07-23
 
 ---
 
@@ -73,6 +73,27 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-07-23
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-07-23 | 🌐 Global (Macro) | **Gold July 22 close $4,138.84 (+3.27%); Iran deal "over" (Trump/NATO summit); DXY 101.20; WTI $86.50; USD/INR ₹96.68; MCX ₹1,45,230 (−0.31% today); Signal: Wait (0)** | Gold posted its **largest single-day gain in weeks** on July 22 (+3.27% to $4,138.84) — Trump declared the US-Iran ceasefire deal "over" at NATO summit; markets priced Iran risk premium into gold rather than via oil/Fed channel this time (DXY only +0.28%; safe-haven flows INTO gold = Bullish geo factor). WTI surged to intraday $88.6 before closing ~$86.50 (+4.8% from July 21 close of $82.58). Silver July 22 close: $59.39. Today (July 23) gold is consolidating: XAU/USD ~$4,079–$4,121 intraday; MCX ₹1,45,230 (−0.31%). EMA context: **10-day EMA $4,111.56**; **50-day EMA $4,319.64** (Investing.com/Barchart July 23). Gold ($4,138.84 close) is above 10/9-day EMA but below 50-day EMA; downtrend config (50d > 9d). Factor 5 = Bearish (technicals). **Signal: Wait (0)** [+1 price (15.5% below GS $4,900); +1 geo (Iran deal over, gold breakout, DXY flat = safe-haven buy); −1 macro (FOMC Jul29 36.3% hike prob; hawkish; Goldman cut to $4,900 on no-cuts); 0 CB demand (Czech 7d boundary expired; Russia 44t H1 sale news = negative); −1 tech (above 9d EMA, below 50d; downtrend; not 2 green — Jul21 RED, Jul22 GREEN); 0 dollar (DXY +0.28%, INR +0.26%, both <0.5%)]. See [[gold-geopolitical-risk-premium]], [[fed-macro-factors]], [[iran-conflict-2026]], [[india-gold-market]], [[central-bank-gold-demand]]. | Web search July 23 2026; https://www.investing.com/currencies/xau-usd-technical; https://fxdailyreport.com/daily-oil-gold-silver-technical-analysis-july-22-2026/ |
+| 2026-07-23 | 🇷🇺 Russia (CBR) | **MAJOR UPDATE: H1 2026 gold sales = 43.5 tonnes — record in ≥25 years; total reserves fell to 2,282t** | The Central Bank of Russia confirmed on July 21 that Russia's gold reserves fell by **1.4 million troy ounces (43.5 tonnes)** since January 1, 2026. Total reserves as of July 1: **2,282t (73.4M troy oz)**. Proceeds: ~$5.6 billion (used to cover the 6 trillion ruble federal budget deficit). This is the largest H1 gold sale by Russia in at least 25 years — exceeding H1 2002 (36.1t). Pace: ~7.25t/month in H1 2026. All sold domestically to Russian banks (no LBMA/COMEX impact). NWF gold depletion accelerating. Prior wiki entry had YTD through June = ~34t; confirmed H1 figure of 43.5t revises this upward by 9.5t (likely April–June pace faster than WGC May data suggested). **Page updated: [[russia-gold-reserves]]**. | https://www.kitco.com/news/article/2026-07-21/russias-central-bank-sold-44-tonnes-gold-first-half-2026; https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43M0RK:0-russian-central-bank-sells-44-tons-of-gold-in-first-half-of-2026/ |
+| 2026-07-23 | 🇯🇴 Jordan (CBJ) | **Buy — June 2026: +1 tonne** | The Central Bank of Jordan added 1 tonne of gold in June 2026 per WGC/web search data. No dedicated wiki page for Jordan yet (single entry; below 3-entry threshold for stub page creation). | Web search July 23 2026 (CB gold activity search) |
+| 2026-07-23 | 🇵🇱 Poland (NBP) | **No new data — 82t YTD confirmed; ~632t total; targeting 700t** | No new NBP announcement. Last confirmed: 82t YTD (Governor Glapiński, Bloomberg July 9). Next data expected mid-August. See [[poland-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇨🇳 China (PBoC) | **No new data — June 2026: +14.93t; 2,346t total; 20-month streak. July data expected early August** | No new PBoC announcement. Most recent: +14.93t June (July 7). Next monthly data expected ~August 7. See [[china-pboc-gold]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇨🇿 Czech Republic (CNB) | **July +2t (Jul 16) now outside 7-day window; 40 consecutive months; ~83t total** | Czech Republic July +2t (announced July 16) is now 7 days old — factor 4 window has closed. No new CNB announcement today. See [[czech-republic-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇩🇪 Germany (Bundesbank) | **No new data — ~1,236t at FRBNY; repatriation pressure ongoing** | No new Bundesbank announcements. Cross-party repatriation pressure (AfD + Greens) persists; CDU government stance unchanged. See [[germany-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇫🇷 France (Banque de France) | **No new data — all 2,437t on French soil** | 134t bar upgrade programme ongoing. No new BdF statements. See [[france-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇮🇹 Italy (Banca d'Italia) | **No new data — 2,452t; FdI dispute unresolved** | FdI ownership dispute ongoing. No update. See [[italy-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇯🇵 Japan (BoJ) | **No new data — 845.97t static** | No BoJ or MoF gold statements. See [[japan-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇬🇧 UK (Bank of England) | **No new data — 310.29t own; 9,392t custodial** | No new BoE gold statements. See [[uk-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇸🇦 Saudi Arabia (SAMA) | **No new data — 323.07t static since 2010** | No SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇹🇷 Turkey (TCMB) | **No new data since June: −3t; YTD −81t (via swaps)** | No new TCMB gold data today. See [[turkey-gold-reserves]]. | Web search July 23, 2026 |
+| 2026-07-23 | 🇮🇳 India (RBI + Market) | **MCX ₹1,45,230/10g (−0.31%); XAU/USD Jul22 close $4,138.84 (+3.27%); USD/INR ₹96.6830; Silver MCX ₹2,26,453/kg (+0.24%); WGC July: investment demand 82t > jewellery 66t (structural shift confirmed)** | MCX gold August futures **₹1,45,230/10g** (−0.31% on July 23; consolidating after yesterday's +1.07%). XAU/USD July 22 close: $4,138.84 (+3.27% — Iran deal "over" safe-haven rally). USD/INR: ₹96.6830 (July 22; slight rupee weakening +0.26%). WTI July 22 close: ~$86.50. 24K retail: ₹14,728/gram (Delhi: ₹14,656). Silver MCX +0.24% to ₹2,26,453/kg. June ETF inflows ₹34.4B (highest since Feb); July 1-10 ₹12.1B. WGC India July 2026: "Mixed demand signals" — investment demand (82t) > jewellery (66t) for first time. June imports $1.97B (−42% m/m). Discounts ~$20/oz. RBI 880.52t static. Signal: Wait (0). **Page updated: [[india-gold-market]]**. | `raw/india-gold-2026-07-23.md`; https://sundayguardianlive.com/business/gold-rate-today-mcx-gold-rises-slightly-to-147-lakh-as-silver-gains-amid-us-iran-war-tensions-check-24k-22k-18k-gold-prices-across-delhi-mumbai-chennai-kerala-surat-pune-more-244091/; https://www.businesstoday.in/personal-finance/investment/story/gold-silver-prices-today-july-23-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-544639-2026-07-23 |
 
 ---
 

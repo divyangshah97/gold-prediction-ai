@@ -4,6 +4,42 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-23 — Daily update: Gold $4,138.84 (Jul22 close; +3.27%; Iran safe-haven breakout at NATO summit); Russia H1 2026 gold sales = 43.5t (record ≥25 years; 2,282t remaining); WTI $86.50; FOMC Jul29 36.3% hike prob | Signal: Wait (0)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-23.md` — MCX ₹1,45,230/10g (−0.31%; Jul23); XAU/USD Jul22 close $4,138.84 (+3.27%); USD/INR ₹96.6830 (Jul22); Silver MCX ₹2,26,453/kg (+0.24%); WTI $86.50 (Jul22); June ETF inflows ₹34.4B (highest since Feb); July 1-10 inflows ₹12.1B; investment demand (82t) > jewellery (66t) structural shift; June imports $1.97B (−42% m/m); 15% duty unchanged; RBI 880.52t static
+
+**Prices added to CSV** (previous trading day T-1 = Tuesday July 22):
+- Gold Jul22 close: **$4,138.84** | Silver: $59.39 | DXY: 101.20 | WTI: $86.50 | USD/INR: ₹96.6830
+- Data sourced via web search (yfinance/metals.dev blocked by proxy); multiple sources confirm Gold $4,138.84 (Jul22); Silver $59.39 (FXStreet July 22); DXY 101.20 (Global Economy Briefing July 22); WTI $86.50 (eased from $88.6 intraday high on Iran NATO news); USD/INR ₹96.6830 (+0.35% from July 21 close, MTFX confirmed)
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — July 23 section added: 13 rows (macro, Russia H1 43.5t MAJOR UPDATE, Jordan +1t June, Poland no-new, China no-new, Czech 7d expired, Germany no-new, France no-new, Italy no-new, Japan no-new, UK no-new, Saudi no-new, Turkey no-new, India July 23)
+- `wiki/russia-gold-reserves.md` — MAJOR UPDATE: H1 2026 sales confirmed at 43.5t (record ≥25 years); reserves 2,282t; budget proceeds $5.6B; deficit 6T rubles; all sections updated; summary, current position table, sales pace table, impact table, daily log
+- `wiki/iran-conflict-2026.md` — July 23 timeline entry: gold consolidated after +3.27% breakout; Factor 2 revised to Bullish (+1) as safe-haven paradox broke; July 22 entry noted with correct close $4,138.84
+- `wiki/india-gold-market.md` — July 23 MCX section added: ₹1,45,230/10g (−0.31%); Jul22 close $4,138.84; EMA context updated ($4,111.56 / $4,319.64)
+- `wiki/gold-geopolitical-risk-premium.md` — July 23 timeline entry: $4,138.84 Jul22 close; breakout confirmed; EMA updated to Investing.com values ($4,111.56 / $4,319.64); Factor 2 Bullish (+1); Signal Wait (0)
+- `wiki/fed-macro-factors.md` — July 23 section: FOMC 6 days (Jul29); 36.3% hike prob; WTI $86.50 re-elevated; Goldman $4,900; Bearish (−1)
+- `wiki/index.md` — updated 7 descriptions: india-gold-market, global-cb-activity-log, russia-gold-reserves, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors
+- `wiki/log.md` — this entry
+
+**CB sweep findings (July 23)**:
+- 🇷🇺 Russia: **43.5t H1 2026 gold sales (record ≥25 years)**; 2,282t remaining; $5.6B proceeds (Kitco/Reuters July 21)
+- 🇯🇴 Jordan: +1t June 2026 (from WGC/web search)
+- 🇵🇱 Poland: No new data (82t YTD confirmed; next mid-August)
+- 🇨🇳 China (PBoC): No new data (June +14.93t; July expected early August)
+- 🇨🇿 Czech Republic: July +2t (Jul 16) — 7-day window now expired
+- 🇩🇪 Germany: No new Bundesbank action
+- 🇫🇷 France, 🇮🇹 Italy, 🇯🇵 Japan, 🇬🇧 UK, 🇸🇦 Saudi Arabia, 🇹🇷 Turkey: No new data
+
+**Signal**: Wait (Score: 0)
+- Factor 1 Price vs Targets: +1 (15.5% below GS $4,900; >15% = Bullish)
+- Factor 2 Geopolitical: +1 (Iran deal "over" at NATO summit; gold +3.27% breakout; DXY only +0.28%; safe-haven flows into gold with USD flat = Bullish)
+- Factor 3 Fed/Macro: −1 (FOMC Jul29: 36.3% hike prob; CPI 4.2%; WTI $86.50 re-elevated; Goldman $4,900 = no cuts; Bearish)
+- Factor 4 CB Demand: 0 (Czech Jul +2t exactly at 7d boundary; Russia 44t H1 = net selling; no new positive data; Neutral)
+- Factor 5 Technicals: −1 (Gold $4,138.84 above 9d EMA $4,112; below 50d EMA $4,320; downtrend: 50d > 9d; Jul21 RED, Jul22 GREEN = not 2 green; Bearish)
+- Factor 6 Dollar: 0 (DXY +0.28%; USD/INR +0.26%; both within ±0.5%; Neutral)
+
 ## 2026-07-21 — Daily update: Gold $4,017.52 (Jul 18 close; +0.65% MCX Jul 21 recovery); Iran Strait CLOSED (no US crossings since Jul 15); FOMC 25% hike prob; Czech July +2t; Russia June −6t; Turkey June −3t | Signal: Wait (+2)
 
 **Raw file created**:

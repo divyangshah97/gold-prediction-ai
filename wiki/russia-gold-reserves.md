@@ -1,26 +1,29 @@
 # Russia — Gold Reserves
 
-**Summary**: Russia holds ~2,305 tonnes of gold and has been a net seller since November 2025, driven entirely by wartime fiscal pressure. All current selling happens on Russia's domestic market — no Russian gold has been exported outside the Eurasian Economic Union since April 2023. This page covers accumulation history, the two-pot reserve structure, the selling mechanism, G7 sanctions enforcement, domestic gold production, and the depletion trajectory.
+**Summary**: Russia sold a record **43.5 tonnes** of gold in H1 2026 — the most since at least 2002 — leaving reserves at 2,282t as of July 1. All sales are domestic (no LBMA access since April 2023). Driven by wartime fiscal pressure: H1 2026 federal deficit ~6 trillion rubles; proceeds ~$5.6B. Full-year pace projects 80–90t sold in 2026. Poland's 82t YTD buying alone outpaces Russia's entire H1 selling.
 
-**Sources**: `raw/india-russia-gold-reserves-2026-05-21.md`, `raw/central-bank-gold-purchases-2026-05-19.md`, Kitco June 3 2026, Kitco May 25 2026, Moscow Times Nov 2025, The Bell Nov 2025, bne IntelliNews, RAND Gold Rush report, Atlantic Council, New Eastern Europe Feb 2026, Modern Diplomacy Apr 2026.
+**Sources**: `raw/india-russia-gold-reserves-2026-05-21.md`, `raw/central-bank-gold-purchases-2026-05-19.md`, Kitco June 3 2026, Kitco May 25 2026, Moscow Times Nov 2025, The Bell Nov 2025, bne IntelliNews, RAND Gold Rush report, Atlantic Council, New Eastern Europe Feb 2026, Modern Diplomacy Apr 2026, https://www.kitco.com/news/article/2026-07-21/russias-central-bank-sold-44-tonnes-gold-first-half-2026, https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43M0RK:0-russian-central-bank-sells-44-tons-of-gold-in-first-half-of-2026/, https://english.nv.ua/business/russia-sells-43-5-tons-of-gold-to-cover-budget-deficit-50626307.html
 
-**Last updated**: 2026-07-06
+**Last updated**: 2026-07-23
 
 ---
 
-## Current Position (April/May 2026)
+## Current Position (H1 2026 — UPDATED July 21, 2026)
 
 | Metric | Value |
 |---|---|
-| Total reserves (April 1, 2026) | **2,304.76 tonnes** (74.1M troy oz) |
-| Total reserves (May 2026) | **~2,298t** |
-| **Total reserves (June 2026 est.)** | **~2,292t** (post-May −6t per WGC July 2026 data) |
-| Total reserves (January 1, 2026) | 2,326.52 tonnes (2,305t effective per prior data) |
-| **YTD change (Jan–May 2026)** | **−34 tonnes** (updated from −22t through April; May −6t) |
-| YTD selling pace | ~6–7 tonnes/month |
-| Reserve value (June 2026 est.) | ~$282 billion (at $4,163/oz) |
+| Total reserves (July 1, 2026) | **2,282 tonnes** (73.4M troy oz) — CBR confirmed July 21 |
+| Total reserves (April 1, 2026) | 2,304.76 tonnes |
+| Total reserves (January 1, 2026) | 2,326.52 tonnes |
+| **H1 2026 net change (Jan–June 2026)** | **−43.5 tonnes** (1.4M troy oz) — record since at least 2002 |
+| H1 2026 selling pace | ~7.25 tonnes/month |
+| Reserve value (July 2026) | **~$299 billion** (at $4,138/oz; CBR estimate) |
 | Reserve value (January 2026) | ~$325 billion |
 | Reserve value (Jan 2022) | ~$140 billion |
+| Budget proceeds from H1 gold sales | ~**$5.6 billion** (CBR estimate; used to cover federal deficit) |
+| Federal budget deficit H1 2026 | **~6 trillion rubles** (~$62B at ₽97/USD) |
+
+**Context**: Russia's H1 2026 gold sales of 43.5t are the **largest in at least 25 years** — exceeding even the 36.1t sold in H1 2002 (the only comparable period). Sales pace is accelerating: Q1 2026 = ~22t (~7.3t/month); the full H1 = 43.5t implies Q2 sales of ~21.5t (pace stable/slightly accelerating). All sales are to domestic Russian banks and entities — no international market impact (gold stays inside Russia).
 
 Note: reserve value rose 72% ($96B) since Jan 2022 **despite** physical selling, because gold prices rose ~72% over the same period. Russia's gold is worth twice as much even as quantities decline — this is a key reason the pace of selling appears "slow" relative to the budget hole.
 
@@ -108,7 +111,9 @@ This is the critical insight: **Russia's current gold sales do not enter interna
 | Jan 16 – Feb 5, 2026 | Heavy sales | 12.8B RUB/day (fastest pace yet) |
 | Jan–Apr 2026 (WGC) | ~22t total | ~5.5t/month |
 | May 2026 | ~6t | ~6t/month |
-| Projected 2026 full year | 80–90t (if current pace holds) | ~7t/month |
+| **H1 2026 (Jan–Jun; CBR confirmed July 21)** | **43.5t** | **~7.25t/month — record since 2002** |
+| Projected 2026 full year | **80–90t** (if H1 pace holds) | ~7–8t/month |
+| Budget proceeds H1 | ~$5.6B | Used to cover ~6T ruble federal deficit |
 
 ---
 
@@ -253,10 +258,10 @@ If oil prices fall further, Urals crude discount widens, or the war continues lo
 
 | Metric | Value |
 |---|---|
-| Russia's selling | ~22t YTD Jan–Apr 2026 |
-| Poland's buying in same period | ~45t YTD |
+| Russia's selling (H1 2026) | **43.5t** (record H1 in 25 years) |
+| Poland's buying in same period | ~82t YTD 2026 |
 | Global CB net buying (Q1 2026) | +244t |
-| Russia's selling as % of CB net buying | ~9% |
+| Russia's selling as % of CB net buying | ~18% (vs Q1 net buy 244t; but selling pace covers ~H1) |
 | Russia's selling entering international market | **0%** (all domestic since Apr 2023) |
 
 Russia's selling is fully absorbed by Polish buying alone. At the global [[central-bank-gold-demand]] level, Russia is a small rounding error on the sell side against the structural EM buying wave — and its sales don't even reach international markets.
@@ -270,6 +275,7 @@ Russia's selling is fully absorbed by Polish buying alone. At the global [[centr
 | 2026-05-21 | Page created. YTD -21.8t through April 2026. Sanctions-driven fiscal liquidation. |
 | 2026-06-05 | WGC June 3 report confirms April 2026: **-6t** (4th consecutive month). YTD sales total **~22t**. Selling pace stable. |
 | 2026-06-18 | Major expansion: accumulation history (2006–2022), NWF vs BoR two-pot structure, selling mechanism (domestic only), G7 ban + circumvention routes (closed Apr 2023), domestic gold production (Polyus, Polymetal, Sukhoi Log), depletion trajectory. NWF: 292.5t (Oct 2024) → 155.1t (Feb 2026). All current sales are domestic — no LBMA impact. |
+| 2026-07-23 | **Major update: CBR confirms H1 2026 gold sales = 43.5t (record in 25 years)**. Total reserves fell to 2,282t (73.4M troy oz) as of July 1, 2026. Budget proceeds ~$5.6B. Federal budget deficit H1 2026: ~6T rubles. NWF depletion pace accelerating. Projected full-year 2026: 80–90t. Sources: Kitco July 21, Reuters/TradingView July 21, Mining.com. |
 
 ---
 
