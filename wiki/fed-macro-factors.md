@@ -1,10 +1,22 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 23 UPDATE**: FOMC July 28-29 (6 days away) at **~36.3% hike probability / 63.7% hold** (CME FedWatch). June CPI 4.2% YoY. WTI July 22 close ~$86.50 (surged from $82.58; oil still elevated). Goldman Sachs cut gold forecast to $4,900 specifically citing NO FED CUTS in 2026; bear case $4,400 if hike materialises. Net: hawkish macro → Macro factor = **Bearish (−1)**.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 24 UPDATE**: FOMC July 28-29 (**5 days away**) at **~36.5% hike probability / 63.5% hold** (CME FedWatch). June CPI 4.2% YoY. WTI July 23 close **$92.36/bbl** (+6.8% from $86.50 — oil re-elevated sharply). Goldman $4,900 year-end; bear case $4,400 if hike. Net: **Macro factor = Bearish (−1)**: FOMC approaching with genuine hike risk + WTI surge adding oil-driven inflation pressure.
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/, https://growbeansprout.com/tools/fedwatch, https://www.vantagemarkets.com/en/market-analysis/crude-oil-price-today-brent-wti-23-july-2026/
 
-**Last updated**: 2026-07-23
+**Last updated**: 2026-07-24
+
+---
+
+## July 24, 2026 — FOMC 5 Days Away (July 29); Hike Probability 36.5%; WTI $92.36 (Surged +6.8%); Inflation Risk Elevated
+
+**Key macro data (July 24)**:
+- **FOMC July 28-29**: **5 days away**. CME FedWatch: **36.5% probability of 25-bps hike / 63.5% hold** (essentially unchanged from July 23's 36.3%; market has not repriced).
+- **WTI crude (July 23 close)**: **$92.36/bbl** — surged +6.8% from $86.50 on July 22. Iran tensions remain elevated (Iran skipped ceasefire talks July 24; oil markets reacting to continued Strait of Hormuz uncertainty). This is the highest WTI close in the current Iran conflict cycle, adding acute energy inflation pressure.
+- **CPI trend**: June 2026 CPI **4.2% YoY** (last report July 14) — well above 2% target. The WTI surge to $92.36 compounds the energy-driven CPI risk entering the FOMC meeting.
+- **Goldman Sachs** maintains $4,900 year-end target specifically because NO Fed rate cuts expected in 2026. Downside $4,400 if Fed hikes July 29.
+- **ECB held rates** at 2.25% on July 23 — no change; DXY remained near 101.
+- **Net macro factor for July 24**: **Bearish (−1)** — FOMC in 5 days with 36.5% hike probability; WTI surging to $92 adding oil-inflation headwind; CPI 4.2% sticky; no new dovish signals.
 
 ---
 

@@ -4,6 +4,41 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-24 — Daily update: Gold $4,050 (Jul23 close; −2.1%; Iran skips talks, ceasefire extended=de-escalation); China paper gold halt (ICBC+4 banks cease SGE retail trading); WTI $92.36 (+6.8%); FOMC Jul28-29 36.5% hike prob | Signal: Wait (−2)
+
+**Raw file created**:
+- `raw/india-gold-2026-07-24.md` — MCX ₹1,42,300–₹1,44,000/10g (−0.36%; Jul24); XAU/USD Jul23 close ~$4,050 (−2.1%); USD/INR ₹96.63 (Jul23); WTI $92.36 (Jul23 surge +6.8%); China paper gold halt (ICBC+4 banks vs SGE); Silver −1.96% ($58.77); June ETF inflows ₹34.4B; June imports $1.97B (−42% m/m); investment demand (82t) > jewellery (66t) for first time; RBI 880.52t static; Goldman $4,900 → MCX ~₹1,70,000 (domestic ~17% below)
+
+**Prices added to CSV** (previous trading day T-1 = Wednesday July 23):
+- Gold Jul23 close: **$4,050.00** | Silver: $58.77 | DXY: 101.10 | WTI: $92.36 | USD/INR: ₹96.63
+- Data sourced via web search (yfinance/metals.dev blocked by proxy); Gold $4,050 (multiple sources: FXLeaders, Vantage Markets, FXStreet Jul23); Silver $58.77 (FXStreet Jul23); DXY ~101.10 (ECB held 2.25% Jul23; near prior close 101.1227); WTI $92.36 (Vantage Markets Jul23 surge +6.8%); USD/INR ₹96.63 (high 96.6281; approximately flat from Jul22 close 96.6830)
+
+**Pages updated**:
+- `wiki/global-cb-activity-log.md` — July 24 section added: 11 rows (macro Gold/WTI/Signal, China banks/SGE paper gold halt, Poland, Russia, Germany, France, Italy, Japan, UK, Saudi, India MCX); Policy Tracker entry: China retail paper gold trading ban (ICBC+4 banks Jul24)
+- `wiki/china-pboc-gold.md` — New section "China Retail Paper Gold Trading Halt (July 24, 2026)": ICBC, PSBC, Ping An Bank, Guangfa Bank, CCB ceased retail SGE paper gold trading; physical/ETFs/institutional unaffected; 2020 Crude Oil Treasure scandal context; neutral for PBoC accumulation streak; daily update log entry added
+- `wiki/iran-conflict-2026.md` — July 24 timeline entry: Iran skipped talks; ceasefire extended; gold −2.1% to $4,050; WTI $92.36 surge; MCX ₹1,42,300–₹1,44,000; Factor 2 = Bearish (−1); Last updated 2026-07-24
+- `wiki/gold-geopolitical-risk-premium.md` — July 24 entry: $4,050 Jul23 close; 9d EMA ~$4,092; 50d EMA ~$4,104; gold BELOW BOTH; WTI $92.36; Signal: Wait (−2); Last updated 2026-07-24
+- `wiki/india-gold-market.md` — July 24 MCX section added: ₹1,42,300–₹1,44,000/10g; all drivers (Iran, WTI, FOMC, China paper gold halt); signal factors breakdown; Last updated 2026-07-24
+- `wiki/fed-macro-factors.md` — July 24 section: FOMC 5 days; 36.5% hike prob; WTI $92.36 (surge +6.8%); ECB held 2.25%; CPI 4.2%; Macro factor = Bearish (−1); Last updated 2026-07-24
+- `wiki/index.md` — updated 6 descriptions: india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors, china-pboc-gold
+- `wiki/log.md` — this entry
+
+**CB sweep findings (July 24)**:
+- 🇨🇳 China (Banks/SGE): ICBC, PSBC, Ping An Bank, Guangfa Bank, CCB ceased retail SGE paper gold trading effective July 24 (physical/ETFs/institutional unaffected; 2020 derivatives crackdown context)
+- 🇵🇱 Poland: No new data (82t YTD confirmed; next mid-August)
+- 🇷🇺 Russia: No new data (H1 2026 −43.5t; 2,282t; $5.6B raised; next update August)
+- 🇩🇪 Germany, 🇫🇷 France, 🇮🇹 Italy, 🇯🇵 Japan, 🇬🇧 UK, 🇸🇦 Saudi Arabia: No new data
+
+**Signal**: Wait (Score: −2)
+- Factor 1 Price vs Targets: +1 (17.3% below GS $4,900; >15% = Bullish)
+- Factor 2 Geopolitical: −1 (Iran skips talks; ceasefire extended = de-escalation; gold −2.1%; safe-haven premium deflating; Bearish)
+- Factor 3 Fed/Macro: −1 (FOMC Jul28-29 36.5% hike prob; WTI $92.36 surge +6.8% = inflationary; CPI 4.2%; ECB held 2.25%; Goldman $4,900 base = no cuts; Bearish)
+- Factor 4 CB Demand: 0 (No new CB purchase/sale data in last 7 days; China paper gold halt = neutral for PBoC; Neutral)
+- Factor 5 Technicals: −1 (Gold $4,050 BELOW 9d EMA ~$4,092 AND 50d EMA ~$4,104; Jul22 GREEN, Jul23 RED (−2.1%) → NOT 2 consecutive green; Bearish)
+- Factor 6 Dollar Pressure: 0 (DXY Jul22→23: 101.20→101.10 = −0.09% < 0.5%; USD/INR Jul22→23: 96.6830→96.63 = −0.05% < 0.5%; both within ±0.5%; Neutral)
+
+---
+
 ## 2026-07-23 — Daily update: Gold $4,138.84 (Jul22 close; +3.27%; Iran safe-haven breakout at NATO summit); Russia H1 2026 gold sales = 43.5t (record ≥25 years; 2,282t remaining); WTI $86.50; FOMC Jul29 36.3% hike prob | Signal: Wait (0)
 
 **Raw file created**:

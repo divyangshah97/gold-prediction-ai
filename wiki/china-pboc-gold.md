@@ -4,7 +4,7 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`, https://www.zerohedge.com/news/2026-05-08/china-pboc-buys-gold-18-months-straight-adds-81-tonnes, https://www.gold.org/goldhub/gold-focus/2026/05/china-gold-market-update-notable-rise-gold-reserves, http://www.kitco.com/news/article/2026-06-08/china-increases-gold-reserves-995-tonnes-may-19th-straight-month-purchases, https://www.bloomberg.com/news/articles/2026-06-07/china-s-pboc-adds-gold-again-as-bullion-remains-under-pressure, https://goldsilver.com/industry-news/goldsilver-news/pboc-gold-reserves-june-2026/, https://www.indexbox.io/blog/chinas-central-bank-extends-gold-buying-streak-to-20-months-in-june-2026/, https://www.fxstreet.com/news/china-turns-out-gold-buyer-again-202607070903
 
-**Last updated**: 2026-07-13
+**Last updated**: 2026-07-24
 
 ---
 
@@ -56,6 +56,25 @@ PBoC buying is a **wildcard upside factor**. Official data shows modest incremen
 
 The May 2026 Trump–Xi Beijing summit ([[us-china-beijing-summit-may-2026]]) had no bearing on PBoC gold buying. Despite two days of diplomatic engagement, the PBoC's 17-month consecutive buying streak continued. This confirms that China's gold accumulation is a **policy-level strategic decision**, not a tactical market response. The [[us-china-trade-war]] context — de-dollarisation, sanctions risk, yuan internationalisation — drives the buying regardless of short-term diplomatic temperature.
 
+## China Retail Paper Gold Trading Halt (July 24, 2026)
+
+A major structural development in China's domestic gold market: the largest Chinese banks ceased retail paper gold trading on the Shanghai Gold Exchange (SGE) effective **July 24, 2026**. Banks included: ICBC (world's largest bank by assets), Postal Savings Bank of China, Ping An Bank, China Guangfa Bank, and China Construction Bank.
+
+**What happened**: These banks announced wind-down notices requiring retail clients to close positions, liquidate holdings, or take physical delivery before July 24. Trading access for retail paper gold linked to SGE was turned off across mobile banking, online banking, and branch counters after the July 24 clearing session.
+
+**What is NOT affected**: Physical gold purchases (bars, coins, jewellery), gold accumulation plans, gold ETFs, and SGE institutional trading for physical delivery. The SGE itself continues normal operations for institutional participants.
+
+**Context**: The move is part of China's broader crackdown on leveraged retail derivatives since the 2020 "Crude Oil Treasure" scandal (which saw retail investors incur massive losses when WTI futures went negative). Chinese gold prices swung wildly in 2026, peaking near **$5,600/oz** (January ATH) before falling below **$4,000** — a ~29% drawdown that exposed retail paper gold investors to significant losses.
+
+**Market implications**: 
+- Reduces speculative retail demand for paper gold in China; may slightly suppress domestic Chinese gold price signals
+- Physical gold demand in China is unaffected — likely drives some conversion from paper to physical (coin/bar/ETF)
+- Not a PBoC or state policy change — this is commercial bank risk management
+- No direct impact on SGE gold benchmark, COMEX, or LBMA pricing
+- Neutral for the PBoC's own gold accumulation streak (structural CB buying continues separately)
+
+See also: [[de-dollarisation]] (China's strategic gold use), [[central-bank-gold-demand]]
+
 ## Daily Update Log
 
 | Date | Event |
@@ -64,6 +83,7 @@ The May 2026 Trump–Xi Beijing summit ([[us-china-beijing-summit-may-2026]]) ha
 | 2026-05-29 | April 2026 purchase confirmed: 8.1t (highest since Dec 2024). Streak extended to **18 months**. Total now **2,322t**. Gold = 9% of $3.8tn FX reserves. (WGC May 2026, ZeroHedge/PBoC May 8 2026) |
 | 2026-06-05 | WGC June 3 report confirms April 2026: **+8t** (74.64mn troy oz; 18th consecutive monthly purchase). Total remains **2,322t**. Streak unbroken through April. WGC describes as 2nd-largest April buyer after Poland. (source: WGC June 3 2026; Kitco June 3 2026) |
 | 2026-06-10 | SAFE announced May 2026 purchase: **+9.95 tonnes** (320,000 troy oz). Total now **2,331.52t** (74.96mn troy oz). Streak extended to **19 consecutive months** — longest since PBoC began standardised monthly disclosures (2015). Purchase made while gold fell for 3rd straight month — confirms price-insensitive strategic accumulation. (source: Kitco June 8 2026; Bloomberg June 7 2026) |
+| 2026-07-24 | **China paper gold trading halt**: ICBC, PSBC, Ping An Bank, Guangfa Bank, CCB ceased retail SGE paper gold trading effective today. Physical gold/ETFs/institutional trading unaffected. Post-2020 retail derivatives risk management. See new section above. (source: SCMP, CryptoBriefing, StartupFortune, KuCoin July 24 2026) |
 | 2026-07-08 | SAFE announced June 2026 purchase: **+14.93 tonnes** (480,000 troy oz) — **largest single-month purchase since 2023**, a 50% increase from May's 9.95t. Total now **2,346t** (75.44mn troy oz). Streak extended to **20 consecutive months**. Purchase made while gold hit a low near $4,002 in June — further confirmation of price-insensitive accumulation at dip. Gold/reserve ratio still ~9% vs US/Germany/Italy ~70%. (source: SAFE July 7 2026; goldsilver.com; indexbox.io; FXStreet July 7 2026) |
 
 ## Related pages

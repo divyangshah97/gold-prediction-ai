@@ -31,7 +31,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | Page | Description |
 |---|---|
 | [[poland-gold-reserves]] | **YTD #1 buyer**: **82t YTD 2026 confirmed** (Bloomberg Jul 9; Governor Glapinski); **total ~632t** (revised up; 595t April + 37t since; 30% reserves); ~100t domestic; 150t plan approved; targeting 700t; NATO security-driven; updated July 16 |
-| [[china-pboc-gold]] | **~2,346t** reserves; **20-month** consecutive buying streak; **June 2026: +14.93t** (largest since 2023; announced July 7); price-insensitive buying confirmed at June lows (~$4,002); updated July 8 |
+| [[china-pboc-gold]] | **~2,346t** reserves; **20-month streak**; **June: +14.93t** (July 7); **July 24: ICBC+4 banks halt retail paper gold trading on SGE** (retail derivatives ban; physical/ETFs unaffected; post-2020 crackdown); updated July 24 |
 | [[uzbekistan-gold-reserves]] | **2nd largest H1 2026 buyer**: Q1 25t + May +9t + **June +9t → YTD ~41t**; production-linked buying via Navoi Mining; updated July 9 |
 | [[kazakhstan-gold-reserves]] | **World's 4th-largest buyer 2026**: Q1 12t + May +7t → **YTD ~20t**; 361t total; **78% of FX reserves** (May 2026); domestic mine purchase programme; updated July 15 |
 | [[czech-republic-gold-reserves]] | Q1 2026 buyer (5t) + April +2t + May +2t + **July +2t → 40 consecutive months**; total **~83t** (~8% reserves); CNB multi-year target; updated July 16 |
@@ -47,7 +47,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); SOFAZ sovereign wealth fund rebalancing; oil revenue cycle |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t unchanged; **RBI denied $12B gold sale** (June 2026); gold = 16.85% FX reserves (up from 13.92% Sep 2025, price appreciation only); near-zero new buying; repatriation from London ongoing; updated June 18 |
-| [[india-gold-market]] | MCX **₹1,45,230/10g** (−0.31%; July 23); XAU/USD July 22 close **$4,138.84** (+3.27% Iran safe-haven breakout); USD/INR ₹96.68 (Jul22); June imports $1.97B (−42% m/m); ETF June inflows ₹34.4B; **Investment demand (82t) > jewellery (66t) for first time**; GS $4,900 → MCX ~₹1,70,000 (domestic ~17% below); Signal: **Wait (0)**; updated July 23 |
+| [[india-gold-market]] | MCX **₹1,42,300–₹1,44,000/10g** (−0.36%; July 24); XAU/USD July 23 close **~$4,050** (−2.1%; Iran skips talks, ceasefire extended); USD/INR ₹96.63 (Jul23); WTI $92.36 (Jul23 surge +6.8%); June imports $1.97B (−42% m/m); ETF June ₹34.4B; **Investment demand (82t) > jewellery (66t) for first time**; GS $4,900 → MCX ~₹1,70,000 (domestic ~17% below); Signal: **Wait (−2)**; updated July 24 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; **June 11 FXStreet: "Germans demand bring our gold home"** — cross-party repatriation pressure growing (AfD + Green Party); CDU still refuses; France's $15B move cited as template; updated June 16 |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); ECB blocked amendment; France repatriation pressure |
@@ -58,7 +58,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log; **July 23**: **Russia H1 2026 = 43.5t sold** (record ≥25 years; 2,282t remaining; $5.6B raised); Jordan +1t June; gold $4,138.84 July 22 close (+3.27% Iran breakout; NATO summit); WTI $86.50 Jul22; FOMC Jul29 hike prob **36.3%**; no new buying data; Signal: **Wait (0)**; updated July 23 |
+| [[global-cb-activity-log]] | Append-only daily log; **July 24**: **China paper gold halt** (ICBC+4 banks cease SGE retail trading Jul24); Iran skips talks+ceasefire extended; gold Jul23 close $4,050 (−2.1%); WTI $92.36 (Jul23 +6.8%); FOMC Jul28-29 hike prob **36.5%**; no new CB reserve data; Signal: **Wait (−2)**; updated July 24 |
 
 ### Geopolitics & Macro
 
@@ -66,10 +66,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11: Trump announced new 60-day deal** (30% tariffs remain; higher tariffs paused 60 days); IEEPA tariffs struck down by SCOTUS Feb 20; Section 301 forced-labor tariffs (12.5%) in comment period; de-escalation removes some gold safe-haven premium; updated June 11 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **$4,138.84 close July 22** (+3.27% Iran breakout; safe-haven paradox BROKE); intraday Jul23 ~$4,079–$4,121; 10d EMA **$4,111.56**; 50d EMA **$4,319.64** (Investing.com Jul23); gold above 9d/below 50d; WTI $86.50; Signal: **Wait (0)**; updated July 23 |
+| [[gold-geopolitical-risk-premium]] | **Jul23 close $4,050** (−2.1%; Iran skips talks+ceasefire extended=de-escalation); MCX Jul24 ~₹1,42,300–₹1,44,000 (−0.36%); 9d EMA **~$4,092**; 50d EMA **~$4,104** (Jul24); gold BELOW BOTH; WTI $92.36 Jul23; Signal: **Wait (−2)**; updated July 24 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | **CEASEFIRE DEAL "OVER" (Trump/NATO Jul22)**; gold +3.27% breakout (Jul22 close $4,138.84); WTI $86.50 (Jul22); Strait CLOSED; Factor 2 = **Bullish (+1)** (safe-haven paradox broke); updated July 23 |
-| [[fed-macro-factors]] | Rates 3.50-3.75%; June CPI 4.2%; FOMC July 28-29 **36.3% hike prob** (6 days away); WTI $86.50 re-elevated; Goldman $4,900 (no cuts); bear case $4,400 if hike; net: Macro factor = **Bearish (−1)**; updated July 23 |
+| [[iran-conflict-2026]] | **IRAN SKIPS TALKS; CEASEFIRE EXTENDED (Jul24)**; gold losing safe-haven appeal; Jul23 close $4,050 (−2.1%); WTI $92.36 (Jul23 +6.8%); Factor 2 = **Bearish (−1)** (de-escalation); updated July 24 |
+| [[fed-macro-factors]] | Rates 3.50-3.75%; June CPI 4.2%; FOMC July 28-29 **36.5% hike prob** (5 days away); WTI **$92.36** (Jul23 surge +6.8%); ECB held 2.25%; Goldman $4,900 (no cuts); bear case $4,400 if hike; net: Macro factor = **Bearish (−1)**; updated July 24 |
 
 ### Institutional Flows
 
