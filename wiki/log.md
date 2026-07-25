@@ -1887,3 +1887,7 @@ Report_Date: 2026-07-07 | MM_Net: +116,161 (+766 vs prior week) | OI: 371,776 | 
 - `wiki/index.md` — descriptions updated for all changed pages
 
 **New files**: `raw/india-gold-2026-07-22.md`, `prices/prices.csv` (July 21 row added)
+
+## 2026-07-25 — COT weekly update
+Report_Date: 2026-07-21 | MM_Net: +124,831 (+4,052 vs prior week) | OI: 383,368 | MM_Long: 141,487 | MM_Short: 16,656 | MM_Net % OI: 32.6% | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-07-24T21:36:39Z
+Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Historical COT Reference extended with Jul 21 row), wiki/index.md (institutional-flows entry updated), prices/cot.csv (2026-07-21 row appended)

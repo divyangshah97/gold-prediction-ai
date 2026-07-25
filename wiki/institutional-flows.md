@@ -4,7 +4,7 @@
 
 **Sources**: SPDR GLD ETF (State Street), CFTC Commitment of Traders report (weekly, disaggregated futures).
 
-**Last updated**: 2026-07-18
+**Last updated**: 2026-07-25
 
 ---
 
@@ -64,34 +64,35 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-07-14  
-> **Published by CFTC:** 2026-07-18 (Friday)  
-> **Retrieved:** 2026-07-17T21:20:26Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
-> **cot.csv:** Updated 2026-07-18 (Saturday routine)
+> **Report_Date (as-of Tuesday):** 2026-07-21  
+> **Published by CFTC:** 2026-07-25 (Friday)  
+> **Retrieved:** 2026-07-24T21:36:39Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
+> **cot.csv:** Updated 2026-07-25 (Saturday routine)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-07-14 |
-| Open_Interest | 383,689 contracts |
-| MM_Long | 136,905 contracts |
-| MM_Short | 16,126 contracts |
-| MM_Net | +120,779 contracts |
-| MM_Net_Change | +4,618 vs. prior week (2026-07-07: +116,161) |
-| MM_Net % of OI | 31.5% |
+| Report_Date | 2026-07-21 |
+| Open_Interest | 383,368 contracts |
+| MM_Long | 141,487 contracts |
+| MM_Short | 16,656 contracts |
+| MM_Net | +124,831 contracts |
+| MM_Net_Change | +4,052 vs. prior week (2026-07-14: +120,779) |
+| MM_Net % of OI | 32.6% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation (as of July 14)
+### Sentiment Interpretation (as of July 21)
 
-MM_Net of +120,779 falls in the **Neutral zone (50,000–150,000 contracts)**. Hedge funds continue to hold a steady net-long stance — MM_Net has remained in the 105,000–121,000 band for five consecutive reported weeks — well below historically crowded levels (>250,000). Open interest rose to 383,689, the highest in this data series, suggesting continued fresh capital entering COMEX gold futures.
+MM_Net of +124,831 falls in the **Neutral zone (50,000–150,000 contracts)**. Hedge funds have continued their slow, steady accumulation — MM_Net has now risen for six consecutive reported weeks, from +93,540 (May 19) to +124,831, a cumulative increase of +31,291 contracts. Despite the grind higher, the level remains well below historically crowded extremes (>250,000), suggesting the trade is not yet consensus-crowded.
 
-Shorts fell to just 16,126 contracts — the lowest gross short position in the dataset — indicating diminishing conviction on the bear side. The combination of modestly growing longs and declining shorts drove MM_Net higher, though the magnitude (+4,618) is small.
+Open interest dipped slightly to 383,368 from the prior week's 383,689 — essentially flat, consistent with positioning consolidation rather than a broad influx of new money. Gross shorts ticked slightly higher (16,656 vs. 16,126 prior week), reversing the multi-week trend of short-covering, though still at historically low levels.
 
-**Week-over-week change:** +4,618 contracts — a modest increase, well below the ±20,000 significant positioning shift threshold. No extreme move flagged. Positioning is gradually extending long rather than consolidating or reversing.
+**Week-over-week change:** +4,052 contracts — a modest continuation of the grind higher, well below the ±20,000 significant positioning shift threshold. No extreme move flagged. Positioning is extending long incrementally, suggesting maintained conviction rather than momentum chasing.
 
 ---
 
 ## Historical COT Reference
 
+> **Report_Date:** 2026-07-21 | **MM_Net:** +124,831 | **OI:** 383,368 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-14 | **MM_Net:** +120,779 | **OI:** 383,689 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-07 | **MM_Net:** +116,161 | **OI:** 371,776 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-06-23 | **MM_Net:** +115,395 | **OI:** 352,167 | **Sentiment:** Neutral zone  
