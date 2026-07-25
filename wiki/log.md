@@ -4,6 +4,30 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-25 — Signal methodology narrowed to 5 factors (Factors 1 & 4 retired, Factor 7 kept); signals.csv restarted fresh
+
+**User request**: after reviewing which of the 7 signal factors are actually relevant to a 2-3 month gold futures trading horizon (see discussion earlier same day), user asked to remove Factor 1 (Price vs Targets) and Factor 4 (Central Bank Demand) from the live signal, and to start `signals/signals.csv` fresh from 2026-07-27 rather than continue appending to the existing history.
+
+**Rationale for removal** (full analysis given to user, summarized here):
+- Factor 1 (Price vs Targets) anchors off multi-month/annual bank forecasts ([[goldman-sachs-gold-forecast]]) — doesn't predict next-quarter direction; gold can stay "cheap" indefinitely.
+- Factor 4 (Central Bank Demand) is monthly/quarterly lagged data ([[central-bank-gold-demand]]) that moves the multi-year floor, not next quarter's price; also structurally asymmetric (could only ever score 0/+1, never bearish).
+- Kept: Factor 2 (Geopolitical, immediate event-risk), Factor 3 (Fed/Macro, ~monthly cadence matches horizon), Factor 5 (Technicals, entry timing), Factor 6 (Dollar Pressure, fastest-transmitting), Factor 7 (Real Yields/TIPS, second-fastest-transmitting, added earlier same day — see [[real-yields-tips]]).
+
+**Repo file changes**:
+- `signals/signals.csv` → renamed to `signals/signals_archive_2026-05-22_to_2026-07-24.csv` (44 rows preserved as-is, six/seven-factor era)
+- New `signals/signals.csv` created with header only (`Date,Signal,Score,Reasoning`) — first row expected from the 2026-07-27 routine run under the new 5-factor system
+
+**Pages updated**:
+- `wiki/signal-methodology.md` — rewritten for the 5-factor system (Factor 2, 3, 5, 6, 7 only); added a "Why Factors 1 and 4 were retired" section; added per-factor "Horizon note" explaining transmission speed; range changed to -5/+5; historical signal log table documents the archive file and the brief unused 7-factor (-7/+7) config from earlier the same day
+- `wiki/real-yields-tips.md` — re-created (had been lost in a local git stash during sync) with an added section on why it survived the factor review while Factors 1/4 didn't
+- `wiki/index.md` — signal-methodology and real-yields-tips entries updated; institutional-flows entry refreshed to match latest synced COT data (July 21) picked up during the pull
+
+**Sync note**: local wiki working directory had fallen behind `origin/master` by several days of routine-committed daily updates (through 2026-07-24) plus a COT update (2026-07-21). Stashed uncommitted local edits, fast-forward pulled to sync, then reapplied the Factor 7 documentation and this 5-factor change on top of the current state — avoided clobbering several days of real routine output.
+
+**Still pending**: the routine prompt itself (`trig_01Q7FfuV2Y2Fqk4f8dtokd2J`) needs a corresponding update via RemoteTrigger to drop Factor 1/4 scoring from Step 6 and change the range to -5/+5, before the 2026-07-27 run reflects this. Not yet done as of this wiki commit — see follow-up log entry once pushed.
+
+---
+
 ## 2026-07-24 — Daily update: Gold $4,050 (Jul23 close; −2.1%; Iran skips talks, ceasefire extended=de-escalation); China paper gold halt (ICBC+4 banks cease SGE retail trading); WTI $92.36 (+6.8%); FOMC Jul28-29 36.5% hike prob | Signal: Wait (−2)
 
 **Raw file created**:
