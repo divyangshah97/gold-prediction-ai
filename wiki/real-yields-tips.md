@@ -4,9 +4,15 @@
 
 **Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25.
 
-**Last updated**: 2026-07-25
+**Last updated**: 2026-07-27
 
 ---
+
+## Latest Reading
+
+| Date | DFII10 | Note |
+|---|---|---|
+| 2026-07-23 | **2.43%** | First data point in `prices/real_yields.csv` (2026-07-27 run). Sourced via web search fallback (Fed H.15 release) — direct FRED `fredgraph.csv` fetch blocked by proxy policy (403) on 2026-07-27. Insufficient history (need 2+ rows) — Factor 7 scored **Neutral (0)** for the 2026-07-27 signal. |
 
 ## Why real yields matter more than nominal yields for gold
 

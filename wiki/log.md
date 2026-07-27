@@ -4,6 +4,37 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-27 — Daily update: First live run of 5-factor system; ~2-week US-Iran hostility pause + renegotiation buzz; Brent −7.56% (Jul26 $90.95); FOMC hold prob surged to 79.5-85.6%; DFII10 first reading 2.43% | Signal: Wait (+1)
+
+**Holiday check**: Searched NSE/BSE July 2026 holiday calendar — no festival/national holidays this month, only weekends. July 27 (Monday) is a normal trading day. Proceeded.
+
+**Network note**: yfinance, metals.dev, and direct FRED `fredgraph.csv` fetch were all blocked by the sandbox's outbound proxy policy (403 "gateway answered 403 to CONNECT" on fc.yahoo.com, api.metals.dev, fred.stlouisfed.org — confirmed via `$HTTPS_PROXY/__agentproxy/status`, not a transient failure). WebFetch also returned 403 on financial data sites. Fell back entirely to WebSearch for previous-day closes and the DFII10 real yield, per the routine's documented fallback path.
+
+**Raw file created**:
+- `raw/india-gold-2026-07-27.md` — MCX ₹1,43,860–₹1,44,730/10g (+0.53-0.66%; bulls return on Iran pause); prev. close basis (Jul24) XAU/USD $4,055.82, USD/INR ₹96.5230; USD/INR today broadly flat; no new RBI/import/ETF/policy data since last run
+
+**Prices added to CSV** (previous trading day T-1 = Friday July 24; July 25-26 were weekend):
+- Gold: $4,055.82 | Silver: $58.40 | DXY: 101.46 | WTI: $90.47 | USD/INR: ₹96.5230
+- All sourced via web search (multiple corroborating sources: USAGOLD daily PM report, FXStreet, goldsilver.com, Kitco — converged on Gold ~$4,055.82/Silver ~$58.40; Investing.com/tradingeconomics for DXY 101.46/WTI $90.47; multiple FX sources for USD/INR ₹96.5230)
+
+**Real yields CSV created**: `prices/real_yields.csv` (new file, header `Date,DFII10`) with first row `2026-07-23,2.43` — sourced via web search fallback (Fed H.15 release) since direct FRED fetch was blocked. Insufficient history (1 row) to score Factor 7 delta this run — scored Neutral (0) per methodology.
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new July 27 MCX section; summary/sources/last-updated refreshed
+- `wiki/iran-conflict-2026.md` — new July 27 timeline row (US-Iran pause + renegotiation buzz); flagged unresolved contradiction with a separate "13th consecutive night of strikes" search result; summary/last-updated refreshed
+- `wiki/fed-macro-factors.md` — new July 27 section (FOMC hold probability jump to 79.5-85.6%, DFII10 2.43%); summary/last-updated refreshed
+- `wiki/gold-geopolitical-risk-premium.md` — new July 27 timeline row; summary/last-updated refreshed
+- `wiki/real-yields-tips.md` — added "Latest Reading" table with the first DFII10 data point; last-updated refreshed
+- `wiki/usa-gold-reserves.md` — Daily Update Log entry for H.R. 3795 (Gold Reserve Transparency Act, committee referral) and Bessent's July 15 Fort Knox statement; last-updated refreshed
+- `wiki/global-cb-activity-log.md` — new `### 2026-07-27` section (global macro row, USA policy row, "no new data" rows for Germany/France/Italy/Japan/UK/Saudi Arabia/Iran, India row); Policy Tracker row added for H.R. 3795; last-updated refreshed
+- `wiki/index.md` — updated descriptions for india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors, real-yields-tips, usa-gold-reserves
+
+**Global CB sweep (Step 3 Topic 1)**: Ran all 4 mandatory searches (purchase/sale, reserves announcement, tonnes, WGC/demand). No new country-level purchase/sale/policy announcements found in the last 24-48h beyond already-tracked June/Q1 2026 data (China +15t June already on file, Czech/Jordan already on file). Checked all 8 large-passive-holder countries specifically (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran) per the routine's watch-list — only USA had a new development (Fort Knox audit bill status + Bessent statement); the other 7 had no new news in the window.
+
+**Signal generated**: **Wait (+1)** — first live run of the 5-factor system (Factors 1 Price-vs-Targets and 4 CB Demand retired 2026-07-25). Factor 2 (Geo) = Bullish (+1): ~2-week US-Iran pause transmitting bullish via the oil/inflation/dovish-Fed channel (gold rising despite de-escalation, per the documented exception rule). Factor 3 (Fed/Macro) = Bullish (+1): FOMC hold probability surged to 79.5-85.6% from ~36.5% hike probability. Factor 5 (Technicals) = Bearish (−1): Jul24 close $4,055.82 below both 9d EMA (~$4,090) and 50d EMA ($4,074.88); last 2 day-over-day deltas (Jul23 RED, Jul24 GREEN) = not 2 green. Factor 6 (Dollar) = Neutral (0): DXY +0.36%, USD/INR −0.11%, both within ±0.5%. Factor 7 (Real Yields) = Neutral (0): only 1 row in real_yields.csv, insufficient history. Sum: +1+1−1+0+0 = **+1 → Wait**. Appended to `signals/signals.csv` (first row since the 2026-07-25 restart).
+
+---
+
 ## 2026-07-25 — Signal methodology narrowed to 5 factors (Factors 1 & 4 retired, Factor 7 kept); signals.csv restarted fresh
 
 **User request**: after reviewing which of the 7 signal factors are actually relevant to a 2-3 month gold futures trading horizon (see discussion earlier same day), user asked to remove Factor 1 (Price vs Targets) and Factor 4 (Central Bank Demand) from the live signal, and to start `signals/signals.csv` fresh from 2026-07-27 rather than continue appending to the existing history.

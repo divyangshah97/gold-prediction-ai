@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-07-23
+**Last updated**: 2026-07-27
 
 ---
 
@@ -73,6 +73,23 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-07-27
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-07-27 | 🌐 Global (Macro) | **~2-week US-Iran hostility pause; Brent −7.56% (Jul26, $90.95); gold rallying (MCX +0.53-0.66%); FOMC hold prob surges to 79.5-85.6%; Signal: Wait (+1) — first live run of 5-factor system** | Indian financial media (goodreturns.in, businesstoday.in) report a ~2-week pause in US-Iran hostilities and weekend renegotiation buzz, turning sentiment bearish for oil and bullish for gold/silver. Brent fell −7.56% July 26 to $90.95. Live XAU/USD ~$4,090-4,106 (up from $4,055.82 Jul24 close). FOMC July 28-29 hold probability jumped to 79.5-85.6% (from ~36.5% hike probability Jul24) — dovish repricing. DFII10 (10Y TIPS real yield): 2.43% (Jul23, first entry in new real_yields.csv). No new central bank purchase/sale/reserve-policy announcements found in the last 24-48h (see country rows below). **Signal: Wait (+1)** [+1 geo; +1 macro; −1 tech (Jul24 close below both EMAs, not 2 green); 0 dollar; 0 real yields (insufficient history)]. Factors 1 (Price vs Targets) and 4 (CB Demand) retired 2026-07-25 — no longer scored, still tracked below for wiki completeness. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | https://www.goodreturns.in/news/gold-rates-silver-rates-today-27-07-2026-live-mcx-gold-silver-price-crude-oil-24k-22k-18k-gold-price-1524439.html; https://www.businesstoday.in/personal-finance/investment/story/gold-silver-prices-today-july-27-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-545332-2026-07-27; https://tradingeconomics.com/commodity/brent-crude-oil |
+| 2026-07-27 | 🇺🇸 USA (Treasury/Congress) | **Policy — H.R. 3795 Gold Reserve Transparency Act referred to committee; Bessent reaffirms no revaluation** | Congress passed H.R. 3795 mandating the first independent US gold audit in 65+ years (still at committee referral stage, not enacted). Treasury Secretary Bessent stated July 15, 2026 that Fort Knox gold is "present and accounted for" (~$1T+ at market prices) but has not personally witnessed an audit; reiterated Treasury is "not revaluing the gold" from $42.22/oz. No change to 8,133t total or to buy/sell activity. **Policy Tracker entry added.** See [[usa-gold-reserves]]. | https://www.advantagegold.com/blog/the-fort-knox-gold-audit-2026-why-73-years-of-silence-finally-ended/; https://www.planet-today.com/2026/07/fort-knox-gold-reserves-treasury.html |
+| 2026-07-27 | 🇩🇪 Germany (Bundesbank) | **No new data — repatriation pressure ongoing (still referencing Jan 2026 commentary)** | No new Bundesbank statements found in the last 24-48h. See [[germany-gold-reserves]]. | Web search July 27, 2026 |
+| 2026-07-27 | 🇫🇷 France (Banque de France) | **No new data — all 2,437t on French soil** | No new BdF statements. See [[france-gold-reserves]]. | Web search July 27, 2026 |
+| 2026-07-27 | 🇮🇹 Italy (Banca d'Italia) | **No new data — 2,452t; FdI ownership dispute still unresolved (government to seek Banca d'Italia + ECB opinion before legislating)** | No new developments beyond the already-known Senate budget-amendment dispute. See [[italy-gold-reserves]]. | Web search July 27, 2026 |
+| 2026-07-27 | 🇯🇵 Japan (BoJ) | **No new data — 845.97t static** | No BoJ or MoF gold statements found. See [[japan-gold-reserves]]. | Web search July 27, 2026 |
+| 2026-07-27 | 🇬🇧 UK (Bank of England) | **No new data — 310.29t own; custodial role unchanged** | No new BoE gold statements. See [[uk-gold-reserves]]. | Web search July 27, 2026 |
+| 2026-07-27 | 🇸🇦 Saudi Arabia (SAMA) | **No new data — 323.07t static; monetary gold value unchanged at SR1.62bn end-June** | SAMA reserve assets rose 8% to $495bn overall but monetary gold component unchanged. No confirmed gold purchases despite BRICS+ speculation. See [[saudi-arabia-gold-reserves]]. | Web search July 27, 2026 |
+| 2026-07-27 | 🇮🇷 Iran (CBI) | **No new data — unreported by IMF; no new sanctions/nuclear-deal developments specific to gold strategy today** | See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search July 27, 2026 |
+| 2026-07-27 | 🇮🇳 India (RBI + Market) | **MCX ₹1,43,860–₹1,44,730/10g (+0.53-0.66%); Signal: Wait (+1); silver +~₹2,300/kg** | MCX gold rallying on the US-Iran pause/renegotiation narrative. USD/INR broadly flat (~₹96.17-96.57 vs ₹96.5230 Jul24 close). RBI 880.52t static; no new reserve data. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-07-27.md`. | `raw/india-gold-2026-07-27.md`; https://www.businesstoday.in/personal-finance/investment/story/gold-silver-prices-today-july-27-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-545332-2026-07-27; https://www.goodreturns.in/news/gold-rates-silver-rates-today-27-07-2026-live-mcx-gold-silver-price-crude-oil-24k-22k-18k-gold-price-1524439.html |
 
 ---
 
@@ -839,6 +856,7 @@ Major holders tracked in this log only (no dedicated page yet):
 | 2026 Q1 | 🇨🇿 Czech Republic | Reserve policy | Publicly stated accumulation strategy; target ~100t by 2030 (needs verification) |
 | 2026-06-05 | 🇮🇳 India (RBI) | Rate hold — monetary policy | RBI MPC kept repo rate UNCHANGED at 5.25%, neutral stance. Gold-neutral outcome. No impact on import duty or gold reserve policy. See [[india-gold-market]], [[india-rbi-gold]]. |
 | 2026-07-24 | 🇨🇳 China (Banks/SGE) | Retail paper gold trading ban | ICBC, PSBC, Ping An Bank, Guangfa Bank, CCB halted retail SGE paper gold trading for individual clients. Physical gold, ETFs, and institutional SGE trading unaffected. Post-2020 retail derivatives risk crackdown. See [[china-pboc-gold]]. |
+| 2026-07-27 | 🇺🇸 USA | Gold audit legislation | H.R. 3795 (Gold Reserve Transparency Act) passed by Congress, mandating first independent US gold audit in 65+ years; still at committee referral, not yet enacted. Treasury Secretary Bessent (July 15) reaffirmed no revaluation from $42.22/oz statutory price. See [[usa-gold-reserves]]. |
 
 ---
 
