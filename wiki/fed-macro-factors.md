@@ -1,10 +1,21 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 27 UPDATE**: FOMC July 28-29 hold probability jumped to **79.5–85.6%** (hike ~15–20%) — a sharp dovish repricing from the ~36.5% hike probability seen July 24, plausibly linked to Brent's −7.56% drop (July 26) on the reported US-Iran hostility pause. Rates remain 3.50-3.75%. Net: **Macro factor = Bullish (+1)**: material reduction in hike odds ahead of the meeting.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **July 28 UPDATE**: FOMC's two-day meeting begins today; decision Wednesday July 29, 2:00pm EDT. Hold at 3.50-3.75% remains strongly favored (consistent with the 79.5-85.6% hold probability from July 27), reinforced by WTI's further −8.68% collapse to $82.62 easing inflation-pressure concerns. Net: **Macro factor = Bullish (+1)**.
 
-**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, `raw/india-gold-2026-07-27.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/, https://growbeansprout.com/tools/fedwatch, https://www.vantagemarkets.com/en/market-analysis/crude-oil-price-today-brent-wti-23-july-2026/, https://tradingeconomics.com/commodity/brent-crude-oil, https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/
+**Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/, https://growbeansprout.com/tools/fedwatch, https://www.cmelitegroup.com/knowledge-hub/fomc-meeting-fed-decision-day/, https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/
 
-**Last updated**: 2026-07-27
+**Last updated**: 2026-07-28
+
+---
+
+## July 28, 2026 — FOMC Meeting Begins; Hold Base Case Reinforced by Oil Collapse; WTI −8.68% to $82.62
+
+**Key macro data (July 28)**:
+- **FOMC July 28-29**: Two-day meeting begins today. Decision Wednesday July 29, 2:00pm EDT (non-SEP meeting — no updated dot plot). Rates remain 3.50-3.75%; hold is the dominant market expectation, consistent with the 79.5-85.6% hold probability reported July 27.
+- **WTI crude (July 27 close, CSV basis)**: **$82.62/bbl** — down **−8.68%** from $90.47 (July 24), the sharpest single-session drop of the week, on continued (if mixed-signal) US-Iran de-escalation. This further eases the oil-driven inflation pressure that had pushed hike odds up through mid-July.
+- **DXY (July 27 close)**: 101.20, down −0.26% from 101.46 — mild dollar softening.
+- **10Y TIPS real yield (DFII10)**: No newer confirmed value found via web search fallback today (direct FRED fetch blocked by proxy policy); `real_yields.csv` remains at 1 row (2.43%, July 23) — still insufficient history (need 2+ rows) to score Factor 7.
+- **Net macro factor for July 28**: **Bullish (+1)** — FOMC meeting underway with hold as the dominant, reinforced expectation; oil continuing to collapse; no hawkish surprises.
 
 ---
 

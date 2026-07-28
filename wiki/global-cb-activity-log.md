@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-07-27
+**Last updated**: 2026-07-28
 
 ---
 
@@ -73,6 +73,22 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-07-28
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-07-28 | 🌐 Global (Macro) | **Gold July 27 close $4,077.21 (+0.62%); WTI craters −8.68% to $82.62 on Iran pause; FOMC meeting starts today (decision Jul29); DXY 101.20; USD/INR ₹96.02 (rupee firmed −0.52%); Signal: Wait (+2)** | Gold closed July 27 at **$4,077.21** (+0.62% from $4,055.82 July 24) as WTI crude cratered **−8.68%** to **$82.62/bbl** (from $90.47) — the sharpest single-session oil drop of the week — on continued US-Iran de-escalation signals (CNN, July 27: "US pauses new strikes, Iran says no current negotiations with the US" — a mixed signal: US pausing strikes is de-escalatory, but Iran denying active talks tempers the "renegotiation buzz" reported July 27). Silver **$58.53**; DXY **101.20** (−0.26% from 101.46); USD/INR **₹96.02** (−0.52%, rupee firmed). FOMC's two-day meeting (July 28-29) begins today; decision due Wednesday July 29, 2:00pm EDT; hold at 3.50-3.75% remains the strongly dominant market expectation (consistent with the 79.5-85.6% hold probability reported July 27), reinforced by today's oil collapse easing inflation-pressure concerns ahead of the decision. Trump hosting separate White House meetings with Zelensky (Ukraine) and Netanyahu (Middle East) today — a geopolitical wildcard, no direct gold read-through yet. 9d EMA **$4,111.56**; 50d EMA **$4,319.64** (Investing.com/TipRanks, consistent with the July 23 reading) — gold BELOW BOTH EMAs; last 2 day-over-day deltas (Jul24 +$5.82 GREEN, Jul27 +$21.39 GREEN) = **2 green** → tech Bullish. No new central bank purchase/sale/reserve-policy announcements found in the last 24-48h beyond already-tracked data (see country rows below); Hungary reserve "expansion" mentioned in passing by one source with no tonnage/date — not actionable, not logged as a discrete event. **Signal: Wait (+2)** [+1 geo (oil collapse/de-escalation channel, gold up, USD softening); +1 macro (FOMC meeting underway, hold base case reinforced by oil drop); +1 tech (below both EMAs but 2 green); −1 dollar (DXY within ±0.5%, USD/INR down ≥0.5% → rupee strengthening depresses MCX-equivalent gold); 0 real yields (real_yields.csv still only 1 row — insufficient history, no newer confirmed DFII10 found via web search fallback, FRED direct fetch blocked)]. Factors 1 (Price vs Targets) and 4 (CB Demand) retired 2026-07-25 — no longer scored, still tracked below for wiki completeness. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | https://www.cnn.com/2026/07/27/world/live-news/iran-war-trump; https://tiomarkets.com/article/xauusd-gold-market-analysis-price-forecast-2026-07-27; https://www.vantagemarkets.com/market-analysis/xauusd-price-today-gold-analysis-july-27-2026/; https://www.cmelitegroup.com/knowledge-hub/fomc-meeting-fed-decision-day/ |
+| 2026-07-28 | 🇩🇪 Germany (Bundesbank) | **No new data — repatriation pressure ongoing; government spokesperson says moving gold out of US "not currently under consideration"** | A Friedrich Merz coalition spokesperson reaffirmed no active plan to repatriate the ~1,236t held at the FRBNY, despite continued political/economist pressure. Not a new policy shift — restates the existing status quo. See [[germany-gold-reserves]]. | Web search July 28, 2026 |
+| 2026-07-28 | 🇫🇷 France (Banque de France) | **No new data — all 2,437t on French soil** | No new BdF statements. See [[france-gold-reserves]]. | Web search July 28, 2026 |
+| 2026-07-28 | 🇮🇹 Italy (Banca d'Italia) | **No new data — 2,451.8t; FdI ownership dispute still unresolved** | No new developments. See [[italy-gold-reserves]]. | Web search July 28, 2026 |
+| 2026-07-28 | 🇯🇵 Japan (BoJ) | **No new data — 845.97t static** | No BoJ or MoF gold statements found. See [[japan-gold-reserves]]. | Web search July 28, 2026 |
+| 2026-07-28 | 🇬🇧 UK (Bank of England) | **No new data — 310.29t own; custodial role unchanged** | No new BoE gold statements. See [[uk-gold-reserves]]. | Web search July 28, 2026 |
+| 2026-07-28 | 🇸🇦 Saudi Arabia (SAMA) | **No new data — 323.07t static** | No SAMA announcements found. See [[saudi-arabia-gold-reserves]]. | Web search July 28, 2026 |
+| 2026-07-28 | 🇮🇷 Iran (CBI) | **No new gold-specific data — nuclear/negotiation status shifted (Iran denies active talks; US pauses strikes)** | See [[iran-gold-reserves]], [[iran-conflict-2026]] for the geopolitical update; no CBI reserve announcement. | Web search July 28, 2026 |
+| 2026-07-28 | 🇮🇳 India (RBI + Market) | **MCX ₹1,43,860–₹1,44,730/10g prev-session basis (+0.53-0.66%); RBI gold reserve value +$342M (week of Jul 4); Signal: Wait (+2)** | Previous-session (July 27) MCX gold gained on the oil-collapse/de-escalation narrative. RBI weekly data: gold reserves value +$342M to $84.846B; total forex $699.736B (week ended July 4 — latest available). RBI continues cutting US Treasury holdings (6-year low) while holding gold steady at 880.52t — reserve-diversification continuation, not new buying. USD/INR firmed to ₹96.02 (−0.52%). Import duty 15% unchanged; discount narrowed to ~$20/oz; jewellery demand recovering into festive season. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-07-28.md`. | `raw/india-gold-2026-07-28.md`; https://www.indiatvnews.com/business/markets/gold-gains-by-rs-1-1k-per-gram-silver-jumps-1pc-on-mcx-as-crude-oil-cools-check-citywise-rates-2026-07-27-1049507; https://ddnews.gov.in/en/indias-gold-reserves-rise-by-342-million-forex-stands-at-699-736-billion-rbi/ |
 
 ---
 

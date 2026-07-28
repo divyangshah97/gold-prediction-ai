@@ -1,12 +1,31 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T. As of July 27, MCX gold up **~0.53–0.66%** intraday to **₹1,43,860–₹1,44,730/10g** as bulls returned on a ~2-week pause in US-Iran hostilities and weekend renegotiation buzz — bearish for crude, bullish for gold/silver. Previous close basis (July 24): XAU/USD **$4,055.82**, USD/INR **₹96.5230**, WTI **$90.47**, DXY **101.46**. USD/INR today ~₹96.17–96.57 (broadly flat — today's MCX gain is a global-gold-driven move, not a currency effect). Silver MCX up sharply (~₹2,300 on the day). RBI 880.52t static. Signal: **Wait (+1)** (July 27; first run of the new 5-factor system).
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T. Previous-session close basis (July 27): XAU/USD **$4,077.21** (+0.62%), USD/INR **₹96.02** (rupee firmed −0.52%), WTI **$82.62** (−8.68%, sharp Iran-pause-driven collapse), DXY **101.20**. MCX gold gained **+0.53–0.62%** to **₹1,43,860–₹1,43,998/10g** on July 27 as crude cooled. RBI gold reserve value +$342M (week of July 4) to $84.846B; 880.52t physical holdings static. FOMC's July 28-29 meeting is underway; hold at 3.50-3.75% remains the dominant expectation. Signal: **Wait (+2)** (July 28).
 
-**Sources**: `raw/india-gold-2026-07-27.md`, `raw/india-gold-2026-07-24.md`, `raw/india-gold-2026-07-22.md`, `raw/india-gold-2026-07-21.md`, `raw/india-gold-2026-07-20.md`, `raw/india-gold-2026-07-16.md`, `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-prices-today-july-27-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-545332-2026-07-27, https://www.goodreturns.in/news/gold-rates-silver-rates-today-27-07-2026-live-mcx-gold-silver-price-crude-oil-24k-22k-18k-gold-price-1524439.html, https://sundayguardianlive.com/business/gold-rate-today-mcx-gold-drops-slightly-to-144-lakh-as-silver-gains-amid-middle-east-tensions-check-24k-22k-18k-gold-prices-across-delhi-mumbai-chennai-kerala-surat-pune-more-244890/, https://www.gold.org/goldhub/gold-focus/2026/07/india-gold-market-update-mixed-demand-signals, https://discoveryalert.com.au/india-gold-investment-demand-jewellery-etf-shift-2026/
+**Sources**: `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, `raw/india-gold-2026-07-24.md`, `raw/india-gold-2026-07-22.md`, `raw/india-gold-2026-07-21.md`, `raw/india-gold-2026-07-20.md`, `raw/india-gold-2026-07-16.md`, `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, https://www.indiatvnews.com/business/markets/gold-gains-by-rs-1-1k-per-gram-silver-jumps-1pc-on-mcx-as-crude-oil-cools-check-citywise-rates-2026-07-27-1049507, https://ddnews.gov.in/en/indias-gold-reserves-rise-by-342-million-forex-stands-at-699-736-billion-rbi/, https://organiser.org/2026/07/14/369723/bharat/india-cuts-us-treasury-holdings-to-six-year-low-as-rbi-steps-up-reserve-diversification-amid-global-uncertainty/
 
-**Last updated**: 2026-07-27
+**Last updated**: 2026-07-28
 
 ---
+
+## MCX Gold Price (July 28, 2026)
+
+| Metric | Value |
+|---|---|
+| Previous-session close basis (July 27) | XAU/USD **$4,077.21** (+0.62%); USD/INR **₹96.02** (−0.52%, rupee firmed); WTI **$82.62** (−8.68%); DXY **101.20** (−0.26%); Silver **$58.53** |
+| MCX gold futures Aug (24K), July 27 session | **₹1,43,860–₹1,43,998/10g** (+0.53% to +0.62%) — one tracker (StartupTalky) cited ₹1,44,710/10g |
+| Silver MCX | Up ~1% alongside gold |
+| RBI reserves (week ended July 4, latest available) | Gold value **+$342M → $84.846B**; total forex **$699.736B**; physical holdings static at 880.52t |
+| 9d/10d EMA (XAU/USD) | **$4,111.56** (consistent with July 23 reading, Investing.com/TipRanks) |
+| 50d EMA (XAU/USD) | **$4,319.64** (same source; gold below) |
+| Signal | **Wait (+2)** |
+
+**Key drivers July 28**:
+- **WTI craters −8.68% to $82.62**: The sharpest single-session oil drop of the week, driven by continued (if mixed-signal) US-Iran de-escalation — CNN (July 27): "US pauses new strikes, Iran says no current negotiations with the US." The oil collapse eases inflation pressure into tomorrow's FOMC decision.
+- **FOMC meeting underway**: Two-day meeting started today (July 28); decision Wednesday July 29, 2:00pm EDT. Hold at 3.50-3.75% remains strongly favored (consistent with the 79.5-85.6% hold probability from July 27), reinforced by today's oil move.
+- **Rupee firmed**: USD/INR fell (rupee strengthened) −0.52% to ₹96.02 on July 27 — a meaningful one-day move, mostly tracking broader DXY softness (−0.26%) rather than India-specific flows. This creates a modest MCX-side drag even as global (COMEX) gold rallies.
+- **RBI reserve diversification continues**: Gold reserve value rose $342M in the week of July 4 (price appreciation, not new buying); RBI continues cutting US Treasury holdings to a 6-year low in parallel.
+- **Signal factors**: [+1 geo (oil collapse/de-escalation channel; gold up, USD softening — bullish transmission); +1 macro (FOMC underway, hold base case reinforced by the oil drop); +1 tech (July 27 close $4,077.21 below both 9d EMA $4,111.56 and 50d EMA $4,319.64, but last 2 day-over-day deltas — Jul24 +$5.82, Jul27 +$21.39 — both GREEN → Bullish per "2 green" rule); −1 dollar (DXY −0.26% within ±0.5%; USD/INR −0.52% ≥0.5% down → rupee strengthening depresses MCX-equivalent gold, Bearish); 0 real yields (real_yields.csv still only 1 row — insufficient history; no newer confirmed DFII10 found today, FRED direct fetch blocked)]. Factors 1 (Price vs Targets) and 4 (Central Bank Demand) retired 2026-07-25 — see [[signal-methodology]].
 
 ## MCX Gold Price (July 27, 2026)
 

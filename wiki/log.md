@@ -4,6 +4,36 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-28 — Daily update: Gold $4,077.21 (Jul27 close; +0.62%); WTI craters −8.68% to $82.62 on continued US-Iran de-escalation; FOMC two-day meeting begins (decision Jul29); RBI gold reserve value +$342M | Signal: Wait (+2)
+
+**Holiday check**: Searched NSE/BSE 2026 holiday calendar (multiple sources: Groww, Zerodha, CalendarLabs) — confirmed July 2026 has no festival/national market holidays, only weekends (4 Saturdays + 4 Sundays). July 28 (Tuesday) is a normal trading day. Proceeded.
+
+**Network note**: Same as prior runs — yfinance, metals.dev, and direct FRED `fredgraph.csv` fetch were all blocked by the sandbox's outbound proxy policy (403 "gateway answered 403 to CONNECT" on fc.yahoo.com, api.metals.dev, fred.stlouisfed.org, confirmed via `$HTTPS_PROXY/__agentproxy/status`). WebFetch also returned 403 on tradingeconomics.com, investing.com, ycharts.com, economies.com, and tiomarkets.com. Fell back entirely to WebSearch for previous-day closes and the DFII10 real yield check, per the routine's documented fallback path.
+
+**Raw file created**:
+- `raw/india-gold-2026-07-28.md` — MCX ₹1,43,860–₹1,43,998/10g (+0.53–0.62%; July 27 session, crude cooling); RBI gold reserve value +$342M (week of Jul 4) to $84.846B; no new import/ETF/policy data since last run; jewellery demand recovering into festive season; WGC "Svarneem Udaan 2047" long-term policy report in progress
+
+**Prices added to CSV** (previous trading day T-1 = Monday July 27; July 25-26 were weekend):
+- Gold: $4,077.21 | Silver: $58.53 | DXY: 101.20 | WTI: $82.62 | USD/INR: ₹96.02
+- All sourced via web search fallback. Gold $4,077.21 (TradingEconomics-sourced figure, corroborated by multiple July 27 gold-analysis articles referencing "gold tests $4,100"); Silver $58.53 (TradingEconomics, chosen over a conflicting $59.43 figure from another source for internal consistency with the gold source); DXY ~101.20 (multiple sources: "dollar index slipped to around 101.2"); WTI $82.62 (TradingEconomics, −8.68% day-over-day, cross-checked against the prior CSV row of $90.47 — consistent magnitude); USD/INR ₹96.02 (TradingEconomics-style search result, −0.39% to −0.52% depending on source; used the more precise 96.02 figure)
+
+**Real yields CSV**: No update — `prices/real_yields.csv` remains at 1 row (`2026-07-23,2.43`). Direct FRED fetch blocked again today; web search fallback returned only stale/conflicting snippets (one citing "2.37% as of July 21," another reconfirming the July 23 TIPS auction result of 2.438% ≈ the existing row) with no clearly newer, confidently-dated value. Left the file unchanged per the routine's no-duplicate/no-fabrication rule. Factor 7 scored Neutral (0) again — insufficient history (still need 2+ rows).
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new July 28 MCX section (prev-session basis, RBI reserve update, FOMC context); summary/sources/last-updated refreshed
+- `wiki/iran-conflict-2026.md` — new July 28 timeline row (US pauses strikes; Iran denies active talks; WTI −8.68%; Trump-Zelensky/Netanyahu meetings); summary/last-updated refreshed
+- `wiki/fed-macro-factors.md` — new July 28 section (FOMC meeting begins; hold base case reinforced by oil collapse; DFII10 still 2.43%); summary/last-updated refreshed
+- `wiki/gold-geopolitical-risk-premium.md` — new July 28 timeline row (full 5-factor breakdown); summary/last-updated refreshed
+- `wiki/real-yields-tips.md` — added "July 28 check" note documenting the inconclusive web search for a newer DFII10 value; last-updated refreshed
+- `wiki/global-cb-activity-log.md` — new `### 2026-07-28` section (global macro row with full signal breakdown, Germany "not currently under consideration" repatriation restatement, "no new data" rows for France/Italy/Japan/UK/Saudi Arabia/Iran, India row); no new Policy Tracker entry (no new policy action found); last-updated refreshed
+- `wiki/index.md` — updated descriptions for india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors, real-yields-tips
+
+**Global CB sweep (Step 3 Topic 1)**: Ran all 4 mandatory searches (purchase/sale, reserves announcement, tonnes, WGC/demand) plus targeted searches for Germany, Italy/France, Japan/Saudi Arabia, and Singapore/Hungary/Qatar/South Korea/Switzerland. No new country-level purchase/sale/policy announcements found in the last 24-48h — all figures returned (China 40t H1, Poland 82t+ YTD, Russia ~34t YTD sold, Turkey ~81t YTD sold, Singapore +4t June) match already-tracked data with only minor rounding differences. Checked all 8 large-passive-holder countries specifically (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran): only Germany had a (non-substantive) new data point — a Merz-coalition spokesperson restating that moving gold out of the US is "not currently under consideration," which doesn't change the status quo. The other 7 had no new news in the window. Hungary was mentioned as having "expanded reserves" by one source but with no tonnage or date attached — not specific enough to log as a discrete event.
+
+**Signal generated**: **Wait (+2)**. Factor 2 (Geo) = Bullish (+1): US pauses new strikes on Iran while Iran denies active negotiations — a mixed but net de-escalatory signal; WTI craters −8.68% to $82.62, continuing to transmit bullish via the oil/inflation/dovish-Fed channel (gold +0.62% with DXY softening −0.26%). Factor 3 (Fed/Macro) = Bullish (+1): FOMC's two-day meeting begins today; hold at 3.50-3.75% remains the dominant expectation, reinforced by the further oil collapse. Factor 5 (Technicals) = Bullish (+1): July 27 close $4,077.21 below both 9d EMA ($4,111.56) and 50d EMA ($4,319.64), but last 2 day-over-day deltas (Jul24 +$5.82 GREEN, Jul27 +$21.39 GREEN) = 2 green → Bullish per the "below both EMAs + 2 green" rule. Factor 6 (Dollar) = Bearish (−1): DXY −0.26% (within ±0.5%, neutral component) but USD/INR −0.52% (≥0.5% down, rupee strengthening) → net −1, rupee strength depresses MCX-equivalent gold even as COMEX gold rises. Factor 7 (Real Yields) = Neutral (0): still only 1 row in real_yields.csv, insufficient history. Sum: +1+1+1−1+0 = **+2 → Wait**. Appended to `signals/signals.csv`.
+
+---
+
 ## 2026-07-27 — Daily update: First live run of 5-factor system; ~2-week US-Iran hostility pause + renegotiation buzz; Brent −7.56% (Jul26 $90.95); FOMC hold prob surged to 79.5-85.6%; DFII10 first reading 2.43% | Signal: Wait (+1)
 
 **Holiday check**: Searched NSE/BSE July 2026 holiday calendar — no festival/national holidays this month, only weekends. July 27 (Monday) is a normal trading day. Proceeded.

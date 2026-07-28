@@ -4,7 +4,7 @@
 
 **Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25.
 
-**Last updated**: 2026-07-27
+**Last updated**: 2026-07-28
 
 ---
 
@@ -12,7 +12,9 @@
 
 | Date | DFII10 | Note |
 |---|---|---|
-| 2026-07-23 | **2.43%** | First data point in `prices/real_yields.csv` (2026-07-27 run). Sourced via web search fallback (Fed H.15 release) — direct FRED `fredgraph.csv` fetch blocked by proxy policy (403) on 2026-07-27. Insufficient history (need 2+ rows) — Factor 7 scored **Neutral (0)** for the 2026-07-27 signal. |
+| 2026-07-23 | **2.43%** | First (and still only) data point in `prices/real_yields.csv`. Sourced via web search fallback (Fed H.15 release) — direct FRED `fredgraph.csv` fetch blocked by proxy policy (403) on both 2026-07-27 and 2026-07-28. Insufficient history (need 2+ rows) — Factor 7 scored **Neutral (0)** for both the 2026-07-27 and 2026-07-28 signals. |
+
+**July 28 check**: Web search for a newer DFII10 value returned only conflicting/stale snippets (one citing 2.37% for "July 21," another confirming the July 23 TIPS auction result of 2.438% ≈ the existing 2.43% row) — no source gave a clearly newer, distinctly-dated value with enough confidence to append. Per the routine's rule, left `real_yields.csv` unchanged rather than risk a fabricated or duplicate-in-spirit row.
 
 ## Why real yields matter more than nominal yields for gold
 
