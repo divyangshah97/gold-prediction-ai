@@ -1,10 +1,16 @@
 # Goldman Sachs Gold Forecast
 
-**Summary**: Goldman Sachs is the most widely followed institutional forecaster on gold. **MAJOR REVISION June 22, 2026: Goldman cut end-2026 target from $5,400 to $4,900/oz**. **MAJOR: JPMorgan cut Q4 2026 target to $4,500** (from ~$6,000) on July 5, 2026 — the most dramatic downward revision by any bank this cycle. Avg 2026 forecast cut to $5,243 from $5,708. Bank consensus range now $4,400–$6,000; Goldman $4,900; JPM Q4 $4,500; Deutsche Bank $6,000; UBS $5,500; MS base case $4,400.
+**Summary**: Goldman Sachs is the most widely followed institutional forecaster on gold. **MAJOR REVISION June 22, 2026: Goldman cut end-2026 target from $5,400 to $4,900/oz**. **MAJOR: JPMorgan cut Q4 2026 target to $4,500** (from ~$6,000) on July 5, 2026 — the most dramatic downward revision by any bank this cycle. Avg 2026 forecast cut to $5,243 from $5,708. **July 29 check**: bank consensus range has narrowed further to roughly **$3,850–$6,000**: Goldman $4,900, JPMorgan Q4 $4,500 (most bearish major bank), Morgan Stanley H2 target revised down from $5,700 to $5,200 (base case $4,400, citing elevated real yields and delayed Fed cuts), UBS near-term $3,850–$4,000, Bank of America $4,800, Deutsche Bank $4,800 (also revised down from the $6,000 figure previously tracked here). **Note: this factor (Price vs Targets) was retired from the trading signal on 2026-07-25 — page still maintained for wiki completeness only, see [[signal-methodology]].**
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/, https://goldsilver.com/industry-news/article/gold-price-forecast-2026-2027-key-predictions-from-top-analysts/
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-29
+
+---
+
+## July 29, 2026 — Consensus Narrows to $3,850–$6,000; Deutsche Bank and Morgan Stanley Both Revised Down
+
+JPMorgan's $4,500 Q4 2026 target remains the most bearish among major Wall Street institutions (cut 25% from a $6,000 target issued June 9, on the mechanism that gold has dropped ~$20/oz for every 1bp rise in 10-year real yields since late February). Morgan Stanley has since revised its H2 target down from $5,700 to $5,200, with a base case of $4,400 (elevated real yields, delayed Fed cuts). Deutsche Bank's figure tracked on this page ($6,000, dated earlier in the cycle) now appears stale versus a more recent $4,800 figure found today — flagging the discrepancy rather than silently overwriting it, per citation rules. UBS sits at $3,850–$4,000 near-term. Goldman Sachs ($4,900) and Bank of America ($4,800) are unchanged from prior tracking. This factor no longer feeds the trading signal (retired 2026-07-25) but remains useful context for [[real-yields-tips]] (Factor 7), which captures the same real-yield mechanism JPMorgan cites, on a much shorter (daily) timescale.
 
 ---
 

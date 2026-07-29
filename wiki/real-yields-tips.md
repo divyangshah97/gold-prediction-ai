@@ -4,7 +4,7 @@
 
 **Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25.
 
-**Last updated**: 2026-07-28
+**Last updated**: 2026-07-29
 
 ---
 
@@ -12,9 +12,10 @@
 
 | Date | DFII10 | Note |
 |---|---|---|
-| 2026-07-23 | **2.43%** | First (and still only) data point in `prices/real_yields.csv`. Sourced via web search fallback (Fed H.15 release) — direct FRED `fredgraph.csv` fetch blocked by proxy policy (403) on both 2026-07-27 and 2026-07-28. Insufficient history (need 2+ rows) — Factor 7 scored **Neutral (0)** for both the 2026-07-27 and 2026-07-28 signals. |
+| 2026-07-28 | **2.42%** | Second data point in `prices/real_yields.csv`. Sourced via web search fallback (tradingeconomics.com, "eased to 2.42% on July 28, 2026, marking a 0.01 percentage point decrease from the previous session") — direct FRED `fredgraph.csv` fetch again blocked by proxy policy (403) on 2026-07-29. Delta vs 2026-07-23 (2.43%) = **−1bps**, below the ±3bps threshold → Factor 7 scored **Neutral (0)** for the 2026-07-29 signal — first run with enough history to compute an actual delta rather than defaulting to Neutral for insufficient data. |
+| 2026-07-23 | 2.43% | First data point in `prices/real_yields.csv`. |
 
-**July 28 check**: Web search for a newer DFII10 value returned only conflicting/stale snippets (one citing 2.37% for "July 21," another confirming the July 23 TIPS auction result of 2.438% ≈ the existing 2.43% row) — no source gave a clearly newer, distinctly-dated value with enough confidence to append. Per the routine's rule, left `real_yields.csv` unchanged rather than risk a fabricated or duplicate-in-spirit row.
+**July 29 note**: This is the first day real_yields.csv had 2+ rows, so Factor 7 was computed as an actual delta (not defaulted to Neutral for insufficient history) for the first time — though the −1bps move was too small to trigger a directional score either way.
 
 ## Why real yields matter more than nominal yields for gold
 

@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-07-28
+**Last updated**: 2026-07-29
 
 ---
 
@@ -73,6 +73,23 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-07-29
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-07-29 | 🌐 Global (Macro) | **Iran pause ENDS: IRGC missiles vs US forces intercepted over Jordan (Jul28 5:45pm ET); US+Saudi strike Iran-aligned targets in Iraq; gold FALLS to $4,026.33 (−1.25%) as USD firms; FOMC decision today; Signal: Sell (−3)** | Gold closed July 28 at **$4,026.33** (−1.25% from $4,077.21 July 27) as the days-long US-Iran pause ended: the IRGC launched multiple ballistic missiles at US forces in the Middle East (5:45pm ET), all intercepted over Jordan (US CENTCOM); the US and Saudi Arabia responded with joint strikes on Iran-aligned targets in Iraq. Despite the real escalation, gold fell as DXY firmed **+0.40% to 101.60** and markets focused on today's FOMC decision (2pm EDT) — reporting attributed the fall primarily to dollar strength and Fed-decision uncertainty, with the later missile attack not producing a safe-haven bid. Silver **$57.50**; WTI **$78.99**; USD/INR **₹95.7440** (−0.29%, rupee firmed slightly). No new central bank purchase/sale/reserve-policy announcements found in the last 24-48h beyond already-tracked data (see country rows below). Gold now confirmed **below both the 9d and 50d EMA** (50d ≈ $4,067.62, Investing.com "Strong Sell"); last 2 day-over-day deltas (Jul27 GREEN, Jul28 RED) = NOT 2 green → tech Bearish. FOMC decision due today: hold at 3.50-3.75% is the base case (66-86% probability) but June's dot-plot already shifted hawkish (2026 median rate proj up 3.4%→3.8%; 9/18 officials project a hike) and CPI is at 4.2% — a hawkish backdrop. DFII10 (real yield): 2.42% (Jul28) vs 2.43% (Jul23) = −1bps, below the ±3bps threshold. **Signal: Sell (−3)** [−1 geo (escalation driving USD strength, not safe-haven gold demand); −1 macro (hawkish dot-plot + CPI + rising pre-FOMC hike odds); −1 tech (below both EMAs, not 2 green); 0 dollar (both DXY and USD/INR within ±0.5%); 0 real yields (−1bps, below threshold)]. Factors 1 (Price vs Targets) and 4 (CB Demand) retired 2026-07-25 — no longer scored, still tracked below for wiki completeness. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | https://www.cnn.com/2026/07/28/world/live-news/iran-trump-news; https://www.bloomberg.com/news/articles/2026-07-28/trump-netanyahu-meet-at-white-house-us-dials-back-iran-threats; https://www.investing.com/currencies/xau-usd-technical; https://intellectia.ai/blog/fed-interest-rate-decision-july-2026-analysis |
+| 2026-07-29 | 🇩🇪 Germany (Bundesbank) | **No new data — repatriation pressure ongoing** | No new Bundesbank statements found in the last 24-48h; government position ("not currently under consideration") unchanged. See [[germany-gold-reserves]]. | Web search July 29, 2026 |
+| 2026-07-29 | 🇫🇷 France (Banque de France) | **No new data — all 2,437t on French soil** | No new BdF statements. See [[france-gold-reserves]]. | Web search July 29, 2026 |
+| 2026-07-29 | 🇮🇹 Italy (Banca d'Italia) | **No new data — 2,452t; FdI ownership dispute still unresolved** | No new developments beyond the already-tracked Senate budget-amendment dispute. See [[italy-gold-reserves]]. | Web search July 29, 2026 |
+| 2026-07-29 | 🇯🇵 Japan (BoJ) | **No new data — 845.97t static** | No BoJ or MoF gold statements found. See [[japan-gold-reserves]]. | Web search July 29, 2026 |
+| 2026-07-29 | 🇺🇸 USA (Treasury/Congress) | **No new data — H.R. 3795 still at committee referral; Bessent's "not revaluing" stance unchanged** | No new developments since the July 27 update. See [[usa-gold-reserves]]. | Web search July 29, 2026 |
+| 2026-07-29 | 🇬🇧 UK (Bank of England) | **No new data — 310.29t own; custodial role unchanged** | No new BoE gold statements. See [[uk-gold-reserves]]. | Web search July 29, 2026 |
+| 2026-07-29 | 🇸🇦 Saudi Arabia (SAMA) | **No new data — 323.07t static** | No SAMA announcements found; BRICS+ accession status unconfirmed. See [[saudi-arabia-gold-reserves]]. | Web search July 29, 2026 |
+| 2026-07-29 | 🇮🇷 Iran (CBI) | **No new gold-specific data — geopolitical status escalated (see Global Macro row above)** | See [[iran-gold-reserves]], [[iran-conflict-2026]] for the missile-attack update; no CBI reserve announcement. | Web search July 29, 2026 |
+| 2026-07-29 | 🇮🇳 India (RBI + Market) | **MCX ~₹1,42,000/10g intraday (−0.88%); RBI static ~881t; Signal: Sell (−3)** | MCX gold fell intraday tracking the overnight COMEX pullback and firmer dollar ahead of FOMC. Silver crossed ₹2.15 lakh/kg. RBI reserves unchanged; July 14 report on RBI cutting US Treasury holdings restated (not new). ETF inflows continuing (₹12.1bn 1-10 July). Import duty 15% unchanged. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-07-29.md`. | `raw/india-gold-2026-07-29.md`; https://www.businesstoday.in/personal-finance/investment/story/gold-silver-prices-today-july-29-yellow-metal-sees-slight-dip-silver-crosses-rs2-15-lakh-check-latest-rates-here-545842-2026-07-29 |
 
 ---
 
