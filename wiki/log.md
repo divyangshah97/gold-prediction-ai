@@ -4,6 +4,32 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-30 — Daily update: FOMC held but Warsh's hawkish press conference sends yields to multi-decade highs; gold $4,080.80 (Jul29 close; +1.3%); Iran conflict/oil surge continues without gold safe-haven bid | Signal: Sell (−3)
+
+**Holiday check**: Searched NSE/BSE 2026 holiday calendar (HDFCSky, Goodreturns, Zerodha, Anand Rathi, Groww, Bajaj AMC, Aditya Trading) — confirmed July 2026 has no festival/national market holidays after July 29; July 30 (Thursday) is a normal trading day. Proceeded.
+
+**Network note**: Same as every prior run — yfinance (`fc.yahoo.com`, `query1.finance.yahoo.com`), the metals.dev fallback (`api.metals.dev`), and direct FRED `fredgraph.csv` fetch were all blocked by the sandbox's outbound egress policy (403 "gateway answered 403 to CONNECT" per `$HTTPS_PROXY/__agentproxy/status`). This is a persistent policy denial, not a transient error — per the proxy README, did not retry. Fell back entirely to WebSearch for the previous-day closes (Gold, Silver, DXY, WTI, USD/INR) and the DFII10 real yield, per the routine's documented fallback path, extended today to all price fields since the entire automated chain (not just DXY/WTI) failed.
+
+**Raw file created**:
+- `raw/india-gold-2026-07-30.md` — MCX slipped below ₹1.44 lakh/10g (Jul29 session, FOMC + Iran conflict weighing); silver fell sharply (~₹5,200/kg); RBI static ~881t (no new buying); no new import/ETF/policy changes
+
+**Prices added to CSV** (previous trading day T-1 = Wednesday July 29):
+- Gold: $4,080.80 (+1.3% from $4,026.33) | Silver: $58.35 | DXY: 101.30 (−0.30%) | WTI: $84.20 (+6.6%) | USD/INR: ₹95.66
+- All sourced via web search fallback given the full yfinance/metals.dev/FRED chain was blocked. Gold: reconciled multiple conflicting intraday reports (an early hold-relief rally to ~$4,081, a later hawkish-presser pullback toward ~$4,009 evening) by using the figure most consistently framed as a day-over-day close comparison ("$4,080.80... coincided with the Fed keeping its target range at 3.5% to 3.75%" — tied directly to the FOMC-decision timestamp, standard for FOMC-day settlement capture). Silver: $58.35 (5:03pm EDT spot quote, closest to a daily-close snapshot). DXY: 101.30 (tradingeconomics-style figure, consistent across two independent searches at 101.2952/101.313; a qualitative "dollar firming" narrative from later-day reporting was judged to describe the broader multi-day dollar trend, not necessarily July 29's specific net daily delta — and the choice doesn't affect Factor 6's outcome either way since the magnitude stays within the ±0.5% neutral band regardless). WTI: $84.20 (well-corroborated across 3+ sources at $84.18-$84.20, tied to the Iran missile attack/US-Saudi Iraq strikes). USD/INR: ₹95.66 — Indian financial press showed meaningful cross-source noise (95.66 Deccan Herald vs 95.82 a same-day PTI-style wire, likely reflecting different quoting conventions/session snapshots vs yfinance's usual interbank feed); used the directly-reported closing figure per the routine's standard manual-patch pattern (this also doesn't change Factor 6's outcome, staying well within the ±0.5% neutral band).
+
+**Real yields CSV**: Appended `2026-07-29,2.44` to `prices/real_yields.csv` (now 3 rows) — direct FRED fetch blocked again; web search (tradingeconomics.com) gave "10 Year TIPS Yield rose to 2.44% on July 29, 2026." Delta vs Jul28 (2.42%) = +2bps, below the ±3bps threshold — Factor 7 scored Neutral (0), consistent with the broader hawkish-but-contained real-yield move on FOMC day (nominal 10Y yield rose 7bps; the smaller TIPS move implies breakeven inflation expectations also rose).
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new July 30 MCX section (prev-session basis, FOMC/Iran context, signal factor breakdown); summary/sources/last-updated refreshed
+- `wiki/iran-conflict-2026.md` — new July 30 timeline row (conflict ongoing, oil surge holds, USD not gold capturing safe-haven flow, FOMC hawkish presser adds pressure); summary/last-updated refreshed
+- `wiki/fed-macro-factors.md` — new July 30 section (FOMC held but hawkish Warsh presser: 3 dissents, no forward guidance, yields to multi-decade highs — 30Y >5.2%, 10Y +7bps to 4.677%); summary/last-updated refreshed
+- `wiki/gold-geopolitical-risk-premium.md` — new July 30 timeline row (full 5-factor breakdown, second consecutive Sell signal); summary/last-updated refreshed
+- `wiki/real-yields-tips.md` — added the July 29 DFII10 reading (2.44%, +2bps) and its Factor 7 scoring; summary/last-updated refreshed
+- `wiki/global-cb-activity-log.md` — new `### 2026-07-30` section (global macro row with full signal breakdown, "no new data" rows for Germany/France/Italy/Japan/USA/UK/Saudi Arabia/Iran — Saudi row updated with a July 30-dated confirmation that monetary gold value held flat at end-June despite total reserve assets rising 8% y/y on FX growth, India row); no new Policy Tracker entry (no new policy action found); last-updated refreshed
+- `wiki/index.md` — updated india-gold-market, global-cb-activity-log, gold-geopolitical-risk-premium, iran-conflict-2026, fed-macro-factors, real-yields-tips row descriptions and dates
+
+**Central bank sweep (Step 3 Topic 1)**: Ran the full search set (central bank gold purchase/sale, reserves announcements, WGC/CB demand). No new country-level purchase/sale/policy crossed reporting threshold today; all findings matched already-tracked positions (Poland 82t+ YTD still largest 2026 buyer, China H1 ~40t/20-month streak, Russia H1 −44t). One incremental data point: Saudi Arabia's end-June SAMA data confirmed monetary gold value flat while total reserves rose 8% y/y on FX — added to the Saudi Arabia row. Germany, France, Italy, Japan, USA, UK, Iran: no new developments found; institutional-flows.md and goldman-sachs-gold-forecast.md left unchanged (no new ETF/CFTC/bank-target data found this run beyond what's already on file).
+
 ## 2026-07-29 — Daily update: Iran pause ENDS (IRGC missiles vs US forces intercepted over Jordan; US+Saudi strike back in Iraq); gold falls to $4,026.33 (Jul28 close; −1.25%) as USD firms; FOMC decision today, hawkish underlying stance | Signal: Sell (−3)
 
 **Holiday check**: Searched NSE/BSE 2026 holiday calendar (Groww, ClearTax, CalendarLabs, Zeebiz/Goodreturns "8 holidays in July 2026" coverage) — confirmed July 2026 has no festival/national market holidays, only weekends. July 29 (Wednesday) is a normal trading day. Proceeded.

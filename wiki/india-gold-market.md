@@ -1,12 +1,31 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T. Previous-session close basis (July 28): XAU/USD **$4,026.33** (−1.25%), USD/INR **₹95.7440** (rupee firmed slightly −0.29%), WTI **$78.99**, DXY **101.60** (+0.40%). MCX gold traded down **~0.88%** to **~₹1,42,000/10g** intraday July 29 as the Iran pause ended (missile attack intercepted) and markets braced for the FOMC decision. RBI reserves static at ~881t; no new buying. FOMC decision due today (2pm EDT); hold expected but underlying stance hawkish. Signal: **Sell (−3)** (July 29).
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T. Previous-session close basis (July 29): XAU/USD **$4,080.80** (+1.3%), USD/INR **₹95.66** (rupee firmed modestly), WTI **$84.20** (+6.6%), DXY **101.30** (−0.30%). MCX gold slipped below ₹1.44 lakh/10g July 29 as the FOMC's hawkish Warsh press conference and continuing US-Iran war weighed on sentiment; silver fell sharply the same session. RBI reserves static at ~881t; no new buying. Signal: **Sell (−3)** (July 30).
 
-**Sources**: `raw/india-gold-2026-07-29.md`, `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, `raw/india-gold-2026-07-24.md`, `raw/india-gold-2026-07-22.md`, `raw/india-gold-2026-07-21.md`, `raw/india-gold-2026-07-20.md`, `raw/india-gold-2026-07-16.md`, `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, https://www.businesstoday.in/personal-finance/investment/story/gold-silver-prices-today-july-29-yellow-metal-sees-slight-dip-silver-crosses-rs2-15-lakh-check-latest-rates-here-545842-2026-07-29, https://www.gold.org/goldhub/gold-focus/2026/07/india-gold-market-update-mixed-demand-signals, https://tradingeconomics.com/india/currency
+**Sources**: `raw/india-gold-2026-07-30.md`, `raw/india-gold-2026-07-29.md`, `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, `raw/india-gold-2026-07-24.md`, `raw/india-gold-2026-07-22.md`, `raw/india-gold-2026-07-21.md`, `raw/india-gold-2026-07-20.md`, `raw/india-gold-2026-07-16.md`, `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, https://sundayguardianlive.com/business/gold-rate-today-mcx-gold-slips-below-144-lakh-as-silver-crashes-5200-amid-fed-decision-us-iran-war-check-24k-22k-18k-gold-prices-across-delhi-mumbai-chennai-kerala-surat-pune-more-248941/, https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607300435, https://www.deccanherald.com/amp/story/business/markets/rupee-gains-16-paise-to-9566-against-us-dollar-4091650
 
-**Last updated**: 2026-07-29
+**Last updated**: 2026-07-30
 
 ---
+
+## MCX Gold Price (July 30, 2026)
+
+| Metric | Value |
+|---|---|
+| Previous-session close basis (July 29) | XAU/USD **$4,080.80** (+1.3%); USD/INR **₹95.66** (rupee firmed modestly); WTI **$84.20** (+6.6%); DXY **101.30** (−0.30%); Silver **$58.35** |
+| MCX gold futures, July 29 session | Slipped **below ₹1.44 lakh/10g**; silver crashed ~₹5,200/kg the same session (sundayguardianlive.com) |
+| 24K retail (July 29) | **₹14,366/gram** (22K ₹13,170; 18K ₹10,778) |
+| RBI reserves | No new data — static at ~880.52t |
+| ETF flows | No new data found today (last confirmed: ₹12.1bn net inflow 1–10 July) |
+| 9d/10d EMA (XAU/USD) | **$4,111.56** |
+| 50d EMA (XAU/USD) | **~$4,193** |
+| Signal | **Sell (−3)** |
+
+**Key drivers July 30**:
+- **FOMC hawkish press conference**: Fed held rates as expected (July 29) but Chair Warsh's presser was hawkish — 3 dissents favoring a hike, no forward guidance, inflation vigilance pledge. Treasury yields spiked to multi-decade highs (30Y >5.2%); dollar firmed into the close after an initial gold rally to ~$4,081 on hold-relief.
+- **Iran conflict continues without a gold safe-haven bid**: WTI held its sharp +6.6% gain from the Jul28 missile attack/US-Saudi Iraq strikes; the dollar — not gold — is capturing the safe-haven flow ("USD perched near a one-month high... buoyed by safe-haven flows after hostilities flared anew in the Middle East").
+- **Technicals remain bearish**: gold confirmed below both the 9d and 50d EMA, and the last 2 day-over-day closes were NOT both green (Jul27→Jul28 red, Jul28→Jul29 green).
+- **Signal factors**: [−1 geo (Iran conflict ongoing but USD, not gold, capturing safe-haven flow); −1 macro (FOMC hold but hawkish Warsh presser, 3 dissents, yields to multi-decade highs); −1 tech (below both EMAs, not 2 green); 0 dollar (DXY −0.30% and USD/INR −0.09%, both within ±0.5%); 0 real yields (DFII10 2.44% Jul29 vs 2.42% Jul28 = +2bps, below the ±3bps threshold)]. Factors 1 (Price vs Targets) and 4 (Central Bank Demand) retired 2026-07-25 — see [[signal-methodology]].
 
 ## MCX Gold Price (July 29, 2026)
 

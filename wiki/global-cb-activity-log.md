@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-07-29
+**Last updated**: 2026-07-30
 
 ---
 
@@ -73,6 +73,23 @@ Major holders tracked in this log only (no dedicated page yet):
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-07-30
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-07-30 | 🌐 Global (Macro) | **FOMC held but hawkish presser; gold $4,080.80 (+1.3%); Iran conflict/oil surge continues without gold safe-haven bid; Signal: Sell (−3)** | No new country-level central bank gold purchase/sale/reserve-policy announcement found beyond already-tracked positions. WGC-adjacent commentary (MINING.com, goldsilver.com) confirms 2026 full-year forecast holding near **850t**, Poland remains the largest 2026 buyer (**82t+ YTD**), China's H1 total **~40t**, and notes "the pace of central bank selling has slowed in the past 90 days" — net CB demand positive again after Russia/Turkey-driven Q1-Q2 selling pressure. No dedicated-page country crossed a new reporting threshold today. Gold closed July 29 at **$4,080.80** (+1.3%) after a volatile FOMC session (hold, but Chair Warsh's hawkish press conference sent yields to multi-decade highs); WTI held its sharp +6.6% Iran-attack gain at $84.20 without producing a sustained gold safe-haven bid — the dollar captured the flow instead. **Signal: Sell (−3)** [−1 geo; −1 macro; −1 tech; 0 dollar; 0 real yields]. Factors 1 (Price vs Targets) and 4 (CB Demand) retired 2026-07-25 — no longer scored, still tracked below for wiki completeness. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | https://www.mining.com/central-banks-gold-buying-momentum-carries-into-2026/; https://elements.visualcapitalist.com/central-banks-buying-and-selling-gold-in-2026/ |
+| 2026-07-30 | 🇩🇪 Germany (Bundesbank) | **No new data — repatriation pressure ongoing, no fresh statements** | No new Bundesbank statements found in the last 24-48h beyond the already-tracked January-June 2026 repatriation debate. See [[germany-gold-reserves]]. | Web search July 30, 2026 |
+| 2026-07-30 | 🇫🇷 France (Banque de France) | **No new data — all 2,437t on French soil** | No new BdF statements. See [[france-gold-reserves]]. | Web search July 30, 2026 |
+| 2026-07-30 | 🇮🇹 Italy (Banca d'Italia) | **No new data — 2,452t; FdI ownership dispute still unresolved** | No new developments beyond the already-tracked dispute. See [[italy-gold-reserves]]. | Web search July 30, 2026 |
+| 2026-07-30 | 🇯🇵 Japan (BoJ) | **No new data — 845.97t static** | No BoJ or MoF gold allocation statements found. See [[japan-gold-reserves]]. | Web search July 30, 2026 |
+| 2026-07-30 | 🇺🇸 USA (Treasury/Congress) | **No new data — H.R. 3795 still at committee referral; Bessent's "not revaluing" stance unchanged** | No new developments since the July 27 update. See [[usa-gold-reserves]]. | Web search July 30, 2026 |
+| 2026-07-30 | 🇬🇧 UK (Bank of England) | **No new data — 310.29t own; custodial role unchanged** | No new BoE gold statements. See [[uk-gold-reserves]]. | Web search July 30, 2026 |
+| 2026-07-30 | 🇸🇦 Saudi Arabia (SAMA) | **No new data — monetary gold holdings unchanged at end-June; total reserve assets +8% y/y on FX, not gold** | SAMA's monetary gold value held flat (SR1.62bn) even as total reserve assets rose 8.06% y/y to $494.55bn on foreign-currency growth. See [[saudi-arabia-gold-reserves]]. | https://www.arabnews.com/node/2650099/business-economy |
+| 2026-07-30 | 🇮🇷 Iran (CBI) | **No new gold-specific data** | No CBI reserve announcement found. See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search July 30, 2026 |
+| 2026-07-30 | 🇮🇳 India (RBI + Market) | **MCX below ₹1.44 lakh/10g (Jul29); RBI static ~881t; Signal: Sell (−3)** | MCX gold slipped below ₹1.44 lakh/10g July 29 as the FOMC's hawkish presser and continuing Iran conflict weighed; silver fell sharply (~₹5,200/kg). RBI reserves unchanged. No new import/ETF/policy data. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-07-30.md`. | `raw/india-gold-2026-07-30.md`; https://sundayguardianlive.com/business/gold-rate-today-mcx-gold-slips-below-144-lakh-as-silver-crashes-5200-amid-fed-decision-us-iran-war-check-24k-22k-18k-gold-prices-across-delhi-mumbai-chennai-kerala-surat-pune-more-248941/ |
 
 ---
 

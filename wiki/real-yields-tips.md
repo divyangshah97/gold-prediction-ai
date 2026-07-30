@@ -4,7 +4,7 @@
 
 **Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25.
 
-**Last updated**: 2026-07-29
+**Last updated**: 2026-07-30
 
 ---
 
@@ -12,10 +12,9 @@
 
 | Date | DFII10 | Note |
 |---|---|---|
-| 2026-07-28 | **2.42%** | Second data point in `prices/real_yields.csv`. Sourced via web search fallback (tradingeconomics.com, "eased to 2.42% on July 28, 2026, marking a 0.01 percentage point decrease from the previous session") — direct FRED `fredgraph.csv` fetch again blocked by proxy policy (403) on 2026-07-29. Delta vs 2026-07-23 (2.43%) = **−1bps**, below the ±3bps threshold → Factor 7 scored **Neutral (0)** for the 2026-07-29 signal — first run with enough history to compute an actual delta rather than defaulting to Neutral for insufficient data. |
+| 2026-07-29 | **2.44%** | Third data point in `prices/real_yields.csv`. Sourced via web search fallback (tradingeconomics.com "10 Year TIPS Yield rose to 2.44% on July 29, 2026") — direct FRED `fredgraph.csv` fetch again blocked by proxy policy (403) on 2026-07-30. Delta vs 2026-07-28 (2.42%) = **+2bps**, below the ±3bps threshold → Factor 7 scored **Neutral (0)** for the 2026-07-30 signal. The rise is consistent with the day's broader hawkish Fed tone (nominal 10Y yield rose 7bps to 4.677% on the Warsh press conference) but was damped relative to the nominal move, implying breakeven inflation expectations also ticked up. |
+| 2026-07-28 | 2.42% | Sourced via web search fallback. |
 | 2026-07-23 | 2.43% | First data point in `prices/real_yields.csv`. |
-
-**July 29 note**: This is the first day real_yields.csv had 2+ rows, so Factor 7 was computed as an actual delta (not defaulted to Neutral for insufficient history) for the first time — though the −1bps move was too small to trigger a directional score either way.
 
 ## Why real yields matter more than nominal yields for gold
 

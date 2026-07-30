@@ -2,3 +2,4 @@ Date,Signal,Score,Reasoning
 2026-07-27,Wait,1,"Geo+1(Iran pause/oil down=dovish);Macro+1(FOMC hold prob 80-86%);Tech-1(below both EMAs,not 2green);Dollar0;RealYield0(insuff.hist)"
 2026-07-28,Wait,2,"Geo+1(oil -8.68%,de-escal);Macro+1(FOMC begins,hold base case);Tech+1(below both EMAs,2green);Dollar-1(INR firmed>=0.5%);RealYield0(insuff.hist)"
 2026-07-29,Sell,-3,"Geo-1(Iran missile attack on US, intercepted; gold fell as USD firmed);Macro-1(hawkish Jun dot-plot,CPI4.2%,rising hike odds pre-FOMC);Tech-1(below both EMAs,not 2green);Dollar0;RealYield0(-1bps)"
+2026-07-30,Sell,-3,"Geo-1(Iran attack continues,oil+6.2%,but USD safe-haven flows capped gold);Macro-1(FOMC hold but Warsh hawkish presser,3 dissents,yields to multi-decade highs);Tech-1(below both EMAs,not 2green);Dollar0;RealYield0(+2bps)"
