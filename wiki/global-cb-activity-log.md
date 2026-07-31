@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-07-30
+**Last updated**: 2026-07-31
 
 ---
 
@@ -67,12 +67,37 @@ Major holders tracked in this log only (no dedicated page yet):
 | 🇸🇬 Singapore | **197t** | **+4t May 2026 (first since Sep 2025); Oct 2026 gold vaulting services planned** | [[singapore-mas-gold]] |
 | 🇭🇺 Hungary | ~110t | Tripled reserves 2021; watching |
 | 🇶🇦 Qatar | ~100t | Iran mediator; Gulf gold flows relevant |
+| 🇯🇴 Jordan | ~73t (Q3 2025) | **NEW WATCH (2026-07-31)**: +6t in Q2 2026 per WGC (a first-time appearance in the CB purchase rankings); a separate report cites +1t in July 2026. Emerging buyer — watch for a 3rd data point to warrant a dedicated page. |
 
 ---
 
 ## Daily Activity Log
 
 *Entries added chronologically, newest first. One row per event.*
+
+---
+
+### 2026-07-31
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-07-31 | 🌐 Global (Macro) | **WGC Q2 2026 Gold Demand Trends: record 288.9t CB purchases (+62% y/y); post-FOMC hawkish repricing continues ("inflation credibility shock"); gold up toward $4,100 on USD weakness (Japan intervention), not Iran; Signal: Wait (0)** | The World Gold Council's Q2 2026 Gold Demand Trends report (published July 30) confirmed a **record 288.9 tonnes** of central bank gold purchases in Q2 2026 — a 62% y/y jump — led by Poland (+51t) and China (+33t), buying into a 16% quarterly price decline. Full country breakdown below. Separately, BofA/Nomura framed the market reaction to Fed Chair Warsh's Jul29 press conference as a "central bank inflation credibility shock"; September rate-hike odds, which dipped to 64-72% right after the FOMC hold, climbed back toward ~81% by Jul30-31 as 10Y nominal yields extended to 4.70% (+2bps) with breakevens flat (confirming the move is in real yields, not inflation expectations). Gold (est. Jul30 close ~$4,103.50, +0.56%) traded up toward $4,100 on Jul31 on USD weakness attributed to suspected Japanese yen intervention — not fresh Iran escalation (US sanctioned Mahan Air; Trump warned Iran over a Jordan missile attempt, but this is judged already priced in). Gold's Jul30 close sits below the 9d EMA ($4,111.56) but above the 50d EMA ($4,047.68); since 9d EMA > 50d EMA (uptrend), technicals flip **Bullish**. **Signal: Wait (0)** [0 geo; −1 macro; +1 tech; 0 dollar; 0 real yields]. Factors 1 (Price vs Targets) and 4 (CB Demand) retired 2026-07-25 — no longer scored, still tracked below for wiki completeness. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | https://www.indexbox.io/blog/central-banks-bought-record-289-tonnes-of-gold-in-q2-2026-led-by-poland-and-china/; https://www.thenationalnews.com/business/markets/2026/07/30/central-banks-gold-buying-hits-record-in-q2-as-geopolitical-risks-persist/; https://tipswatch.com/2026/07/30/federal-reserve-is-losing-credibility-at-the-worst-possible-time/ |
+| 2026-07-31 | 🇵🇱 Poland (NBP) | **WGC Q2 2026: +51t — world's #1 Q2 buyer; H1 total 82t; reserves 632t** | Confirms/aggregates the already-tracked H1 figure. See [[poland-gold-reserves]]. | WGC Gold Demand Trends Q2 2026 |
+| 2026-07-31 | 🇨🇳 China (PBoC) | **WGC Q2 2026: +33t — largest quarterly purchase since Q4 2023; reserves ~2,346t** | Confirms/aggregates the already-tracked Apr-Jun monthly prints. See [[china-pboc-gold]]. | WGC Gold Demand Trends Q2 2026 |
+| 2026-07-31 | 🇺🇿 Uzbekistan | **WGC Q2 2026: +16t** | Confirms/aggregates the already-tracked Apr-Jun monthly prints. See [[uzbekistan-gold-reserves]]. | WGC Gold Demand Trends Q2 2026 |
+| 2026-07-31 | 🇰🇿 Kazakhstan | **WGC Q2 2026: +15t** | Confirms/aggregates the already-tracked Apr-Jun monthly prints. See [[kazakhstan-gold-reserves]]. | WGC Gold Demand Trends Q2 2026 |
+| 2026-07-31 | 🇨🇿 Czech Republic | **WGC Q2 2026: +6t** | Confirms/aggregates the already-tracked ~+2t/month run rate. See [[czech-republic-gold-reserves]]. | WGC Gold Demand Trends Q2 2026 |
+| 2026-07-31 | 🇯🇴 Jordan | **NEW WATCH: WGC Q2 2026: +6t; separately +1t reported for July 2026** | First appearance in the CB purchase rankings this year at this scale; no dedicated page yet (added to watch-list above). | WGC Gold Demand Trends Q2 2026; tradingeconomics.com/jordan/gold-reserves |
+| 2026-07-31 | 🇷🇺 Russia | **WGC Q2 2026: −22t — largest single seller of the quarter; H1 total −43.5t (unchanged)** | Confirms the already-tracked H1 total; fiscal-liquidation selling continued at pace through Q2. See [[russia-gold-reserves]]. | WGC Gold Demand Trends Q2 2026 |
+| 2026-07-31 | 🇩🇪 Germany (Bundesbank) | **No new data — repatriation pressure ongoing, no fresh statements** | No new Bundesbank statements found. See [[germany-gold-reserves]]. | Web search July 31, 2026 |
+| 2026-07-31 | 🇫🇷 France (Banque de France) | **No new data — all 2,437t on French soil** | No new BdF statements. See [[france-gold-reserves]]. | Web search July 31, 2026 |
+| 2026-07-31 | 🇮🇹 Italy (Banca d'Italia) | **No new data — 2,452t; FdI ownership dispute still unresolved** | No new developments. See [[italy-gold-reserves]]. | Web search July 31, 2026 |
+| 2026-07-31 | 🇯🇵 Japan (BoJ) | **No new gold-reserve data — but BoJ/MoF suspected of a fresh FX (not gold) intervention today to support the yen**, an indirect USD-weakening driver for gold. See [[japan-gold-reserves]]. | Web search July 31, 2026 |
+| 2026-07-31 | 🇺🇸 USA (Treasury/Congress) | **No new data — H.R. 3795 still at committee referral; Bessent's "not revaluing" stance unchanged** | No new developments since the July 27 update. See [[usa-gold-reserves]]. | Web search July 31, 2026 |
+| 2026-07-31 | 🇬🇧 UK (Bank of England) | **No new data — 310.29t own; custodial role unchanged** | No new BoE gold statements. See [[uk-gold-reserves]]. | Web search July 31, 2026 |
+| 2026-07-31 | 🇸🇦 Saudi Arabia (SAMA) | **No new data since Jul30's end-June confirmation** | No further SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search July 31, 2026 |
+| 2026-07-31 | 🇮🇷 Iran (CBI) | **No new gold-reserve data; US Treasury sanctioned Mahan Air (non-gold)** | Sanctions target Iran's largest airline for IRGC support, not gold reserves directly. See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search July 31, 2026 |
+| 2026-07-31 | 🇮🇳 India (RBI + Market) | **MCX ₹1,42,490/10g (−0.52%); RBI static ~880-881t; WGC Q2 India demand −6% y/y in volume, +50% in value; Signal: Wait (0)** | MCX gold futures softened intraday even as retail 24K ticked up. RBI reserves unchanged; US Treasury holdings continue falling. No new import/ETF/policy data. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-07-31.md`. | `raw/india-gold-2026-07-31.md` |
 
 ---
 

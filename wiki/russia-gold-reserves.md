@@ -276,6 +276,7 @@ Russia's selling is fully absorbed by Polish buying alone. At the global [[centr
 | 2026-06-05 | WGC June 3 report confirms April 2026: **-6t** (4th consecutive month). YTD sales total **~22t**. Selling pace stable. |
 | 2026-06-18 | Major expansion: accumulation history (2006–2022), NWF vs BoR two-pot structure, selling mechanism (domestic only), G7 ban + circumvention routes (closed Apr 2023), domestic gold production (Polyus, Polymetal, Sukhoi Log), depletion trajectory. NWF: 292.5t (Oct 2024) → 155.1t (Feb 2026). All current sales are domestic — no LBMA impact. |
 | 2026-07-23 | **Major update: CBR confirms H1 2026 gold sales = 43.5t (record in 25 years)**. Total reserves fell to 2,282t (73.4M troy oz) as of July 1, 2026. Budget proceeds ~$5.6B. Federal budget deficit H1 2026: ~6T rubles. NWF depletion pace accelerating. Projected full-year 2026: 80–90t. Sources: Kitco July 21, Reuters/TradingView July 21, Mining.com. |
+| 2026-07-31 | **WGC Q2 2026 Gold Demand Trends report (published Jul 30) confirms Russia was the quarter's largest seller at −22t**, consistent with (and quarterly-aggregating within) the already-tracked H1 2026 total of −43.5t. Confirms fiscal-liquidation selling continued at pace through Q2. (source: WGC Gold Demand Trends Q2 2026; IndexBox Jul 30 2026) |
 
 ---
 

@@ -1,10 +1,10 @@
 # US–China Trade War
 
-**Summary**: The ongoing US–China trade conflict — centred on tariffs, technology, and critical minerals — is a key driver of global geopolitical uncertainty and a structural support for gold as a safe-haven asset. As of June 11, 2026: a new 60-day US-China trade deal was announced by Trump, keeping 30% tariffs and pausing higher tariffs. The Supreme Court struck down IEEPA-based tariffs February 20, 2026. **July 7 update**: USTR Section 301 forced-labor tariff hearing held today; additional 12.5% China tariffs possible; USTR decision deadline July 20. US-China truce expires November 2026. Gold/silver explicitly EXEMPTED from India tariff scope.
+**Summary**: The ongoing US–China trade conflict — centred on tariffs, technology, and critical minerals — is a key driver of global geopolitical uncertainty and a structural support for gold as a safe-haven asset. As of June 11, 2026: a new 60-day US-China trade deal was announced by Trump, keeping 30% tariffs and pausing higher tariffs. The Supreme Court struck down IEEPA-based tariffs February 20, 2026. **July 23 update**: The USTR followed through on its Section 301 forced-labor tariff review, imposing a new **12.5% tariff** on Chinese goods (effective Jul 23) for "failure to impose and effectively enforce a prohibition on the importation of goods produced with forced labor" — raising the overall China tariff rate by 2.5 percentage points. The broader one-year truce (from the prior October) remains intact but fragile, with semiconductors and rare earths still major unresolved disputes; it expires November 2026. Gold/silver explicitly EXEMPTED from India tariff scope.
 
-**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html, https://www.china-briefing.com/news/supreme-court-tariff-ruling-china-impact/, https://www.tariffstool.com/guides/tariff-news-2026
+**Sources**: `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html, https://www.china-briefing.com/news/supreme-court-tariff-ruling-china-impact/, https://www.tariffstool.com/guides/tariff-news-2026, https://www.china-briefing.com/news/us-china-tariff-rates-2025/
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-31
 
 ---
 

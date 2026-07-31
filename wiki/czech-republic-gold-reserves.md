@@ -1,10 +1,10 @@
 # Czech Republic Gold Reserves
 
-**Summary**: The Czech National Bank (CNB) has extended its gold accumulation to **40 consecutive months** of buying. Total ~**83t** (~8% of FX reserves). July 2026: +2t confirmed, continuing the +2t/month run rate. CNB multi-year policy continuing; targeting 100t.
+**Summary**: The Czech National Bank (CNB) has extended its gold accumulation to **40+ consecutive months** of buying. Total ~**83t** (~8% of FX reserves). **WGC Q2 2026 Gold Demand Trends (published Jul 30) confirms +6t in Q2 2026**, consistent with the ~+2t/month run rate already tracked here. CNB multi-year policy continuing; targeting 100t.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, WGC July 2026 CB statistics
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-06-03/central-banks-buy-net-17-tonnes-gold-april-led-poland-and-china-wgc, WGC July 2026 CB statistics, https://www.indexbox.io/blog/central-banks-bought-record-289-tonnes-of-gold-in-q2-2026-led-by-poland-and-china/
 
-**Last updated**: 2026-07-16
+**Last updated**: 2026-07-31
 
 ---
 
@@ -46,6 +46,7 @@ Key drivers:
 | 2026-06-05 | WGC June 3 report: Czech Republic bought **+2t in April 2026**, bringing total to **~79t** (~6% of FX reserves). Consistent, modest buying pace continues. (source: WGC June 3 2026; Kitco June 3 2026) |
 | 2026-07-06 | WGC July 2026 CB stats: May 2026 +2t → total **~81t**; **39th consecutive month** of buying. (source: WGC July 2026) |
 | 2026-07-16 | July 2026: +2t reported → total **~83t** (~8% of FX reserves); **40th consecutive month** of buying. CNB continues its steady monthly accumulation. (source: Web search "Kazakhstan Czech Republic Singapore gold July 2026") |
+| 2026-07-31 | WGC Q2 2026 Gold Demand Trends report (published Jul 30): Czech Republic +**6t in Q2 2026**, rounding out the top-5 Q2 buyer list with Poland (51t), China (33t), Uzbekistan (16t), and Kazakhstan (15t). Matches the ~+2t/month run rate already on this page. (source: WGC Gold Demand Trends Q2 2026) |
 
 ## Related pages
 
