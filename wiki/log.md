@@ -4,6 +4,12 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-01 — COT weekly update
+Report_Date: 2026-07-28 | MM_Net: +119,795 (−5,036 vs prior week) | OI: 384,603 | MM_Long: 135,093 | MM_Short: 15,298 | MM_Net % OI: 31.1% | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-07-31T21:37:12Z
+Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Historical COT Reference extended with Jul 28 row), wiki/index.md (institutional-flows entry updated), prices/cot.csv (2026-07-28 row appended)
+
+---
+
 ## 2026-07-31 — Daily update: WGC Q2 2026 record 288.9t CB purchases (Poland/China lead); post-FOMC "inflation credibility shock" persists; technicals flip Bullish; gold ~$4,103.50 (Jul30 est. close, +0.56%) | Signal: Wait (0)
 
 **Holiday check**: Searched NSE/BSE 2026 holiday calendar (HDFCSky, Zerodha, Groww, Bajaj AMC, Anand Rathi, Aditya Trading) — confirmed July 2026 has no weekday market holidays; July 31 (per search) is a normal trading day. Proceeded.

@@ -4,7 +4,7 @@
 
 **Sources**: SPDR GLD ETF (State Street), CFTC Commitment of Traders report (weekly, disaggregated futures), https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/07, https://en.macromicro.me/series/8308/gold-futures-and-options-manage-money-net-position
 
-**Last updated**: 2026-07-29
+**Last updated**: 2026-08-01
 
 ---
 
@@ -64,34 +64,35 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-07-21  
-> **Published by CFTC:** 2026-07-25 (Friday)  
-> **Retrieved:** 2026-07-24T21:36:39Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
-> **cot.csv:** Updated 2026-07-25 (Saturday routine)
+> **Report_Date (as-of Tuesday):** 2026-07-28  
+> **Published by CFTC:** 2026-08-01 (Friday)  
+> **Retrieved:** 2026-07-31T21:37:12Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
+> **cot.csv:** Updated 2026-08-01 (Saturday routine)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-07-21 |
-| Open_Interest | 383,368 contracts |
-| MM_Long | 141,487 contracts |
-| MM_Short | 16,656 contracts |
-| MM_Net | +124,831 contracts |
-| MM_Net_Change | +4,052 vs. prior week (2026-07-14: +120,779) |
-| MM_Net % of OI | 32.6% |
+| Report_Date | 2026-07-28 |
+| Open_Interest | 384,603 contracts |
+| MM_Long | 135,093 contracts |
+| MM_Short | 15,298 contracts |
+| MM_Net | +119,795 contracts |
+| MM_Net_Change | −5,036 vs. prior week (2026-07-21: +124,831) |
+| MM_Net % of OI | 31.1% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation (as of July 21)
+### Sentiment Interpretation (as of July 28)
 
-MM_Net of +124,831 falls in the **Neutral zone (50,000–150,000 contracts)**. Hedge funds have continued their slow, steady accumulation — MM_Net has now risen for six consecutive reported weeks, from +93,540 (May 19) to +124,831, a cumulative increase of +31,291 contracts. Despite the grind higher, the level remains well below historically crowded extremes (>250,000), suggesting the trade is not yet consensus-crowded.
+MM_Net of +119,795 falls in the **Neutral zone (50,000–150,000 contracts)**. After six consecutive weeks of increases, managed money net longs pulled back modestly by −5,036 contracts — the first week-over-week decline since May 19. This is a mild reversal, not a trend break: at +119,795, the net position remains well above historically bearish extremes (<50,000) and well below crowded-long territory (>250,000).
 
-Open interest dipped slightly to 383,368 from the prior week's 383,689 — essentially flat, consistent with positioning consolidation rather than a broad influx of new money. Gross shorts ticked slightly higher (16,656 vs. 16,126 prior week), reversing the multi-week trend of short-covering, though still at historically low levels.
+Open interest ticked slightly higher to 384,603 from the prior week's 383,368 — essentially flat, suggesting the pullback was driven by gross long reduction (135,093 vs. 141,487 prior week) rather than a surge in new shorts. Gross shorts continued to decline (15,298 vs. 16,656 prior week), partially offsetting the long reduction. The overall picture is one of modest profit-taking on longs after a multi-week grind higher, with shorts continuing to cover.
 
-**Week-over-week change:** +4,052 contracts — a modest continuation of the grind higher, well below the ±20,000 significant positioning shift threshold. No extreme move flagged. Positioning is extending long incrementally, suggesting maintained conviction rather than momentum chasing.
+**Week-over-week change:** −5,036 contracts — well below the ±20,000 significant positioning shift threshold. No extreme move flagged. The slight pull-back in net longs coincides with FOMC week (hawkish Warsh press conference, multi-decade yield highs) and Iran-escalation-driven USD strength — consistent with de-risking rather than a conviction-shift against gold.
 
 ---
 
 ## Historical COT Reference
 
+> **Report_Date:** 2026-07-28 | **MM_Net:** +119,795 | **OI:** 384,603 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-21 | **MM_Net:** +124,831 | **OI:** 383,368 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-14 | **MM_Net:** +120,779 | **OI:** 383,689 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-07 | **MM_Net:** +116,161 | **OI:** 371,776 | **Sentiment:** Neutral zone  
