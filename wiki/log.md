@@ -4,6 +4,43 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-03 — Daily update: Iran de-escalation (strikes called off, US-Iran talks resume today); recomputed EMAs turn technicals Bearish; real yields cross threshold Bearish; gold $4,049.10 (Jul31 close, −1.32%) | Signal: Sell (−3)
+
+**Holiday check**: Searched NSE/BSE 2026 August holiday calendar (LatestLY, Goodreturns, Integrated India, Groww, Zerodha, Angel One) — confirmed August 2026 has no weekday market holidays (Independence Day Aug 15 falls on a Saturday; Aug 26 is a settlement-only holiday, not a trading holiday). August 3 (Monday) is a normal trading day. Proceeded.
+
+**Network note**: yfinance (`fc.yahoo.com`, `query1.finance.yahoo.com`), the metals.dev fallback (`api.metals.dev`), and direct FRED `fredgraph.csv` fetch were all blocked by the sandbox's outbound egress policy (403 "gateway answered 403 to CONNECT" per `$HTTPS_PROXY/__agentproxy/status`) — confirmed via `recentRelayFailures` as a policy denial on the destination hosts, not transient; per the proxy README, not retried. `WebFetch` also returned HTTP 403 on every financial-data site tried today (FRED, CNBC, tradingeconomics, macrotrends, macroradar.io, barchart.com) — relied entirely on `WebSearch` snippet extraction and, for the EMA9/EMA50 requirement, on computing the moving averages directly from `prices/prices.csv`'s own history (see below) since search snippets kept returning stale cached figures.
+
+**Raw file created**: `raw/india-gold-2026-08-03.md` — MCX futures ₹1,43,344/10g (−0.02%, flat); rupee firming (USD/INR ₹95.2860, −0.12%); no new RBI/import/ETF/policy data.
+
+**Prices added to CSV** (previous trading day T-1 = Friday July 31, since Aug 1-2 was a weekend; all sourced via web search — automated fetch chain returned zero completed days):
+- Gold: **$4,049.10** (−1.32% vs $4,103.50 Jul30) — gurufocus: "COMEX gold futures settled at $4,049.10 per ounce."
+- Silver: **$57.79** (−2.22%) — investing.com/tradingview snapshot cross-checked against a Yahoo Finance "silver fell more than 2% to around $57.5" report for the same session.
+- DXY: **99.80** (−1.38%) — investing.com.
+- WTI: **$84.67** (+0.95%) — Forbes Advisor: "WTI crude oil closed at $84.67 USD per barrel on July 31, 2026, up 1.29% from the previous day."
+- USD/INR: **95.35** (−0.31%) — HDFC Sky: "Rupee Ends at 95.35, Gains 15 Paise" (cross-checked against Bloomberg's 95.3925 for the same session).
+
+**Real yields CSV**: Appended `2026-07-31,2.50` to `prices/real_yields.csv` (now 5 rows) — **estimated**, since FRED direct fetch (403) and every web/CNBC/tradingeconomics/macrotrends fetch attempt for a directly-dated July 31 DFII10 reading also failed (403 or noisy/conflicting search snippets: one showed 2.37% "as of late July" undated, another showed 2.41% for "July 30" which contradicts this file's own July 30 entry of 2.46% — both discarded). Estimated via nominal-minus-breakeven cross-check: 10Y nominal (4.74%, Jul31) − 10Y breakeven inflation (T10YIE, ~2.24%, FRED July average) ≈ 2.50%, consistent with the file's rising trend. Delta vs Jul30 (2.46%) = **+4bps**, at/above the ±3bps threshold — **Factor 7 scored Bearish (−1)**, the first non-Neutral reading since the factor went live July 27. See [[real-yields-tips]].
+
+**EMA9/EMA50 (Factor 5)**: Web search for fresh EMA9/EMA50 values repeatedly returned the exact same $4,111.56/$4,047.68 (or $4,319.64) figures already on file from the July 31 update — i.e. unrefreshed aggregator caches, not live data — and direct fetches to investing.com/barchart.com/tradingeconomics/CNBC all returned HTTP 403. Instead computed EMA9 and EMA50 directly from `prices/prices.csv`'s 172-row Gold_USD close history (standard EMA formula, SMA-seeded): **EMA9 = $4,063.88, EMA50 = $4,197.74**. Cross-validated against the one genuinely fresh technical figure found — dailyforex.com's Aug 3 weekly forecast quoting a 50-day SMA of $4,185.76 — good agreement with the computed EMA50. Jul31 close ($4,049.10) is below both computed EMAs; last 2 daily deltas (Jul29→30 +$22.70 green, Jul30→31 −$54.40 red) are NOT both green → **Factor 5 = Bearish (−1)**.
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new August 3 MCX section (full 5-factor breakdown, EMA computation note); summary/sources/last-updated refreshed
+- `wiki/iran-conflict-2026.md` — new August 3 timeline row (Trump calls off planned strike, US-Iran talks resume today, deal "imminent")
+- `wiki/fed-macro-factors.md` — new August 3 section (no new Fed data; Warsh-orientation debate noted as noise; real-yield estimate reinforces Bearish)
+- `wiki/gold-geopolitical-risk-premium.md` — new August 3 timeline row (full 5-factor breakdown; Signal flips from Wait to Sell)
+- `wiki/real-yields-tips.md` — added the estimated July 31 DFII10 reading and its derivation; first Bearish Factor 7 reading
+- `wiki/institutional-flows.md` — added GLD 5-day/1-month/3-month net flow figures as of Jul30 (informational; Factor 6 is superseded)
+- `wiki/global-cb-activity-log.md` — new `### 2026-08-03` section: no new country-level CB data found; per-country "no new data" rows for Germany/France/Italy/Japan/USA/UK/Saudi Arabia/Iran; India row; noted one unverifiable undated "Kazakhstan +3t August" search snippet explicitly NOT logged as fact
+- `wiki/index.md` — updated all changed page descriptions and dates
+
+**Central bank sweep (Step 3 Topic 1)**: No fresh country-level CB gold purchase/sale/policy news found beyond the already-logged July 31 WGC Q2 2026 report. Ran all four mandated sweep searches (purchase/sale, reserves announcement, tonnes, WGC demand) — all returned either the same WGC Q2 2026 data already on file or full-year 2026 forecast recaps (WGC ~850t, JPMorgan ~755t). One search snippet claimed "Kazakhstan added 3 tonnes in August" and "central banks added 10 tonnes in August" but with no confirmable year attached to "August" (could be a stale prior-year article) — explicitly NOT logged as a dated fact, flagged in global-cb-activity-log.md instead. Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran: no new gold-reserve developments found today.
+
+**Geopolitical development (dominant story today)**: Trump called off a planned weekend military strike on Iran at the request of Saudi Arabia, UAE, Qatar, and Iran itself. US-Iran negotiations (Strait of Hormuz reopening, Iran's nuclear program) begin today (Monday); Trump called a deal "imminent" but set no deadline. This is a clear de-escalation from the July 31 state (Mahan Air sanctions, Jordan missile-attempt warning) — scored Factor 2 = Bearish (−1) per the standard de-escalation rule. See [[iran-conflict-2026]].
+
+**Signal**: **Sell (−3)** — [−1 geo (Iran de-escalation — strikes called off, talks resuming — reduces the safe-haven catalyst); −1 macro (no reversal of the post-FOMC hawkish "inflation credibility shock" narrative; Sept hike-odds estimates diverge 61-81% by source, treated as noise); −1 tech (Jul31 close below both recomputed EMAs; last 2 days not both green); +1 dollar (DXY −1.38% ≥0.5% down, USD/INR −0.31% within 0.5% → dollar weakening, bullish for USD gold); −1 real yields (DFII10 est. +4bps, at/above the ±3bps threshold)]. This reverses the prior day's Wait(0) signal, driven by the Iran de-escalation, the technical flip back to "below both EMAs," and real yields crossing into Bearish territory for the first time.
+
+---
+
 ## 2026-08-01 — COT weekly update
 Report_Date: 2026-07-28 | MM_Net: +119,795 (−5,036 vs prior week) | OI: 384,603 | MM_Long: 135,093 | MM_Short: 15,298 | MM_Net % OI: 31.1% | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-07-31T21:37:12Z
 Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Historical COT Reference extended with Jul 28 row), wiki/index.md (institutional-flows entry updated), prices/cot.csv (2026-07-28 row appended)

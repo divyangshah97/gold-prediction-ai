@@ -4,3 +4,4 @@ Date,Signal,Score,Reasoning
 2026-07-29,Sell,-3,"Geo-1(Iran missile attack on US, intercepted; gold fell as USD firmed);Macro-1(hawkish Jun dot-plot,CPI4.2%,rising hike odds pre-FOMC);Tech-1(below both EMAs,not 2green);Dollar0;RealYield0(-1bps)"
 2026-07-30,Sell,-3,"Geo-1(Iran attack continues,oil+6.2%,but USD safe-haven flows capped gold);Macro-1(FOMC hold but Warsh hawkish presser,3 dissents,yields to multi-decade highs);Tech-1(below both EMAs,not 2green);Dollar0;RealYield0(+2bps)"
 2026-07-31,Wait,0,"Geo0(Iran risk priced in,gold move USD-driven/Japan intervention);Macro-1(post-FOMC hawkish repricing,inflation credibility shock,Sept hike odds ~81%);Tech+1(below9d/above50d EMA,uptrend);Dollar0;RealYield0(+2bps est.)"
+2026-08-03,Sell,-3,"Geo-1(Iran strikes called off,US-Iran talks resume today,de-escalation);Macro-1(no reversal of hawkish credibility-shock narrative);Tech-1(below both recomputed EMAs,not 2green);Dollar+1(DXY-1.38%);RealYield-1(+4bps est.)"

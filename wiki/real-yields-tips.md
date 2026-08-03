@@ -4,7 +4,7 @@
 
 **Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25.
 
-**Last updated**: 2026-07-31
+**Last updated**: 2026-08-03
 
 ---
 
@@ -12,6 +12,7 @@
 
 | Date | DFII10 | Note |
 |---|---|---|
+| 2026-07-31 | **~2.50% (estimated)** | Fifth data point in `prices/real_yields.csv`. FRED direct fetch failed (403 — blocked by proxy egress policy, confirmed via `/__agentproxy/status`, not a retriable error). Web-search fallback also failed to find a directly-dated Jul31 reading: CNBC (`US10YTIP`), tradingeconomics, and macrotrends all returned HTTP 403 to direct fetch; search snippets gave conflicting numbers (2.37% "as of late July," 2.41% for "Jul 30" — the latter contradicts this file's own Jul30 entry of 2.46% sourced the same way one day earlier, so both noisy snippets were discarded). **Estimated at 2.50%** via cross-check: 10Y nominal Treasury yield (4.74%, Jul31, tradingeconomics) minus 10Y breakeven inflation rate (T10YIE, ~2.24%, FRED, July average) ≈ 2.50% — consistent with, and a continuation of, the rising-real-yield trend visible in the last 4 rows (2.43→2.42→2.44→2.46). Delta vs 2026-07-30 (2.46%) = **+4bps**, at/above the ±3bps threshold → Factor 7 scored **Bearish (−1)** for the 2026-08-03 signal — the first non-Neutral Factor 7 reading since the factor went live. |
 | 2026-07-30 | **~2.46% (estimated)** | Fourth data point in `prices/real_yields.csv`. No directly-dated July 30 FRED/tradingeconomics reading could be sourced (direct FRED fetch blocked again; tradingeconomics' TIPS-yield page had not refreshed past April 2026; one third-party aggregator showed 2.37%, but this conflicts with contemporaneous reporting that "TIPS and nominal yields" moved "in tandem" while breakevens stayed flat post-FOMC, and is treated as likely stale/undated). Estimated at 2.44% + ~2bps = **2.46%**, matching the nominal 10Y Treasury yield's confirmed +2bps move (4.677%→4.70%) on July 30. Delta vs 2026-07-29 (2.44%) = **+2bps**, below the ±3bps threshold → Factor 7 scored **Neutral (0)** for the 2026-07-31 signal. |
 | 2026-07-29 | **2.44%** | Third data point in `prices/real_yields.csv`. Sourced via web search fallback (tradingeconomics.com "10 Year TIPS Yield rose to 2.44% on July 29, 2026") — direct FRED `fredgraph.csv` fetch again blocked by proxy policy (403) on 2026-07-30. Delta vs 2026-07-28 (2.42%) = **+2bps**, below the ±3bps threshold → Factor 7 scored **Neutral (0)** for the 2026-07-30 signal. The rise is consistent with the day's broader hawkish Fed tone (nominal 10Y yield rose 7bps to 4.677% on the Warsh press conference) but was damped relative to the nominal move, implying breakeven inflation expectations also ticked up. |
 | 2026-07-28 | 2.42% | Sourced via web search fallback. |
