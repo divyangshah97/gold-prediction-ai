@@ -4,6 +4,44 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-04 — Daily update: Iran de-escalation continues (Hormuz talks "final stages"); no new Fed data; price below both EMAs after 3rd red session; real yields Bearish (carried forward, FRED unreachable); gold $4,038.16 (Aug3 close, −0.27%) | Signal: Sell (−4)
+
+**Holiday check**: Searched NSE/BSE 2026 August holiday calendar (LatestLY, Goodreturns, Integrated India, Groww, Zerodha, Angel One, Aditya Trading, ProStocks, Kotak Neo) — confirmed August 2026 has no weekday market holidays (Independence Day Aug 15 falls on a Saturday; Aug 26 is a settlement-only holiday, not a trading holiday). August 4 (Tuesday) is a normal trading day. Proceeded.
+
+**Network note**: yfinance (`fc.yahoo.com`), the metals.dev fallback (`api.metals.dev`), and direct FRED `fredgraph.csv` fetch were all blocked by the sandbox's outbound egress policy (403 "gateway answered 403 to CONNECT" per `$HTTPS_PROXY/__agentproxy/status`, confirmed via `recentRelayFailures` as a policy denial, not transient). `WebFetch` also returned HTTP 403 on investing.com, tradingeconomics.com, and fxleaders.com. Relied entirely on `WebSearch` for all price fields; computed EMA9/EMA50 directly from `prices/prices.csv` history since web search gave inconsistent 50-day figures across sources.
+
+**Raw file created**: `raw/india-gold-2026-08-04.md` — MCX futures roughly flat (sources diverge: ₹1,41,210/10g +0.08% vs ~₹1.43 lakh +0.42%); USD/INR essentially unchanged; RBI static 880.52t; no new import/ETF/policy data.
+
+**Prices added to CSV** (previous trading day T-1 = Monday August 3):
+- Gold: **$4,038.16** (−0.27% vs $4,049.10 Jul31) — tradingeconomics-style read ("gold fell to 4,038.16 USD/t.oz on August 3, 2026, down 0.12% from the previous day"), cross-checked against Kitco's late-day bid/ask ($4,059.20/$4,061.20) and multiple spot reports clustering $4,030–$4,070.
+- Silver: **$58.26** (+0.81%) — tradingeconomics ("rose to 58.26 USD/t.oz on August 3, 2026, up 1.10% from the previous day"), consistent with the prior CSV value (57.79 Jul31) implying ~58.42 via the stated % — good agreement.
+- DXY: **99.96** (+0.16%) — derived from "DXY rose to 99.9704 on August 4, 2026, up 0.01% from the previous session" → back-solved Aug3 ≈ 99.96.
+- WTI: **$79.62** (−5.97%) — "WTI crude oil fell to 79.62 USD per barrel on August 3, 2026, down 5.97% from the previous day" — exact match against the prior CSV value ($84.67 Jul31 × (1−0.0597) = $79.62).
+- USD/INR: **95.286** (−0.07%) — "USD/INR exchange rate fell to 95.2860 on August 3, 2026, down 0.12% from the previous session," directionally consistent with the prior CSV value (95.35 Jul31).
+
+**Real yields CSV**: No update. FRED direct fetch failed (403). Web search for "10 year TIPS yield DFII10 today August 2026" and related queries returned only stale/undated or conflicting figures (one cited "2.47% as of July 31," conflicting with this file's own July 31 entry of 2.50%) — no reading confidently newer or better-sourced than the existing last row (2026-07-31, 2.50) was found. Left unchanged per the no-duplicate/no-fabrication rule. Factor 7 for today's signal used the last confirmed delta (2.46%→2.50%, Jul30→Jul31 = +4bps), still at/above the ±3bps threshold — **Bearish (−1)**.
+
+**EMA9/EMA50 (Factor 5)**: Web search for "XAU/USD 9 day EMA today" and "gold futures 50 day EMA August 2026" returned inconsistent 50-day figures across sources ($4,071.64 from one investing.com-style read vs ~$4,260 vs ~$4,200 from others) that could not be reconciled to one fresh reading. Computed EMA9 and EMA50 directly from `prices/prices.csv`'s 173-row Gold_USD close history (standard EMA formula, SMA-seeded), consistent with the Aug 3 methodology: **EMA9 = $4,058.74, EMA50 = $4,191.48**. Aug3 close ($4,038.16) is below both. Last 2 daily deltas: Jul30→31 −$54.40 (red), Jul31→Aug3 −$10.94 (red) — 3rd consecutive red session, NOT 2 green → **Factor 5 = Bearish (−1)**.
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new August 4 MCX section (full 5-factor breakdown); summary/sources/last-updated refreshed
+- `wiki/iran-conflict-2026.md` — new August 4 timeline row (Hormuz talks "final stages," no new escalation)
+- `wiki/fed-macro-factors.md` — new August 4 section (no new Fed data; DFII10 estimate carried forward)
+- `wiki/gold-geopolitical-risk-premium.md` — new August 4 timeline row (full 5-factor breakdown)
+- `wiki/real-yields-tips.md` — added an "August 4 check" note documenting the inconclusive FRED/web-search attempt; no new row appended
+- `wiki/global-cb-activity-log.md` — new `### 2026-08-04` section: no new country-level CB data found; per-country "no new data" rows for Germany/France/Italy/Japan/USA/UK/Saudi Arabia/Iran; India row
+- `wiki/index.md` — updated all changed page descriptions and dates
+
+**Central bank sweep (Step 3 Topic 1)**: Ran all four mandated sweep searches (purchase/sale, reserves announcement, tonnes, WGC/CB demand). All returned recaps of the already-logged WGC Q2 2026 record (288.9t) and full-year 2026 forecasts (WGC ~850t, Goldman ~60t/month) — no new dated country-level events found. Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran: no new gold-reserve developments found today.
+
+**Note on Goldman Sachs forecast page**: A search surfaced a claim that UBS raised its gold forecast on July 23 to $4,400 (September) / $4,600 (end-2026) — this appears to postdate the $3,850–$4,000 figure currently on `wiki/goldman-sachs-gold-forecast.md` (last updated July 29) but could not be independently corroborated by a second source today; flagged here for verification on a future run rather than overwritten on a single unconfirmed snippet. This page no longer feeds the trading signal (retired 2026-07-25).
+
+**Geopolitical development (dominant story today)**: Iranian Foreign Minister Abbas Araghchi said Oman-mediated negotiations on Strait of Hormuz traffic management are in their "final stages" and "on the way to being finalized." No new escalation since Aug 3. Continued de-escalation — scored Factor 2 = Bearish (−1), unchanged. See [[iran-conflict-2026]].
+
+**Signal**: **Sell (−4)** — [−1 geo (Iran de-escalation continues — Hormuz talks progressing — reduces the safe-haven catalyst); −1 macro (no new Fed data or events since Aug 3; hawkish-tilt backdrop unchallenged); −1 tech (Aug3 close below both computed EMAs; 3rd consecutive red session); 0 dollar (DXY +0.16%, USD/INR −0.07%, both within 0.5%); −1 real yields (last confirmed delta +4bps, still at/above the ±3bps threshold)]. This extends Aug 3's Sell(−3) one notch more bearish, driven by the loss of the Aug 3 dollar-weakness tailwind (Factor 6 flips from Bullish to Neutral as DXY reversed) while all other factors held their bearish reading.
+
+---
+
 ## 2026-08-03 — Daily update: Iran de-escalation (strikes called off, US-Iran talks resume today); recomputed EMAs turn technicals Bearish; real yields cross threshold Bearish; gold $4,049.10 (Jul31 close, −1.32%) | Signal: Sell (−3)
 
 **Holiday check**: Searched NSE/BSE 2026 August holiday calendar (LatestLY, Goodreturns, Integrated India, Groww, Zerodha, Angel One) — confirmed August 2026 has no weekday market holidays (Independence Day Aug 15 falls on a Saturday; Aug 26 is a settlement-only holiday, not a trading holiday). August 3 (Monday) is a normal trading day. Proceeded.

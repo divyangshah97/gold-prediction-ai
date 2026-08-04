@@ -1,12 +1,37 @@
 # India Gold Market
 
-**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T. Previous-session close basis (July 31): XAU/USD **$4,049.10** (−1.32%), USD/INR **₹95.35** (−0.31%), WTI **$84.67** (+0.95%), DXY **99.80** (−1.38%). MCX gold futures flat August 3 (₹1,43,344/10g, −0.02%) as rupee firmed further (USD/INR ₹95.2860, −0.12%). No new RBI, import/duty, or ETF data. Iran de-escalation (planned strikes called off, US-Iran talks resume today) + weak technicals + rising estimated real yields drive the signal to **Sell (−3)** (Aug 3), a reversal from July 31's Wait (0).
+**Summary**: India is the world's second-largest gold consumer and a key structural demand driver. The 2026 story is dominated by a 15% import duty (effective May 13, 2026), record FY26 import bill of $71.98B, and ETF AUM at ₹1.84T. Previous-session close basis (August 3): XAU/USD **$4,038.16** (−0.27%), USD/INR **₹95.286** (−0.07%), WTI **$79.62** (−5.97%), DXY **99.96** (+0.16%). MCX gold futures roughly flat August 4 (sources diverge: ₹1,41,210/10g +0.08% vs ~₹1.43 lakh +0.42%) with USD/INR essentially unchanged. No new RBI, import/duty, or ETF data (RBI static 880.52t). Continued Iran de-escalation (Hormuz talks "final stages," deal still "imminent"), no reversal of the Fed hawkish narrative, price below both computed EMAs after a 3rd consecutive red session, and real yields still above the bearish threshold drive the signal to **Sell (−4)** (Aug 4), extending Aug 3's Sell (−3).
 
-**Sources**: `raw/india-gold-2026-08-03.md`, `raw/india-gold-2026-07-31.md`, `raw/india-gold-2026-07-30.md`, `raw/india-gold-2026-07-29.md`, `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, `raw/india-gold-2026-07-24.md`, `raw/india-gold-2026-07-22.md`, `raw/india-gold-2026-07-21.md`, `raw/india-gold-2026-07-20.md`, `raw/india-gold-2026-07-16.md`, `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, https://www.goodreturns.in/gold-rates/, https://sundayguardianlive.com/business/gold-rate-today-mcx-gold-stable-near-145-lakh-silver-holds-around-235-lakh-amid-volatile-trade-check-24k-22k-18k-gold-prices-across-delhi-mumbai-chennai-kerala-surat-pune-more-252360/, https://tradingeconomics.com/india/currency
+**Sources**: `raw/india-gold-2026-08-04.md`, `raw/india-gold-2026-08-03.md`, `raw/india-gold-2026-07-31.md`, `raw/india-gold-2026-07-30.md`, `raw/india-gold-2026-07-29.md`, `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, `raw/india-gold-2026-07-24.md`, `raw/india-gold-2026-07-22.md`, `raw/india-gold-2026-07-21.md`, `raw/india-gold-2026-07-20.md`, `raw/india-gold-2026-07-16.md`, `raw/india-gold-2026-07-15.md`, `raw/india-gold-2026-07-14.md`, `raw/india-gold-2026-07-13.md`, `raw/india-gold-2026-07-10.md`, `raw/india-gold-2026-07-09.md`, `raw/india-gold-2026-07-08.md`, `raw/india-gold-2026-07-07.md`, `raw/india-gold-2026-07-06.md`, `raw/india-gold-2026-07-03.md`, `raw/india-gold-2026-07-02.md`, https://www.goodreturns.in/gold-rates/, https://sundayguardianlive.com/business/gold-rate-today-mcx-gold-stable-near-145-lakh-silver-holds-around-235-lakh-amid-volatile-trade-check-24k-22k-18k-gold-prices-across-delhi-mumbai-chennai-kerala-surat-pune-more-252360/, https://tradingeconomics.com/india/currency
 
-**Last updated**: 2026-08-03
+**Last updated**: 2026-08-04
 
 ---
+
+## MCX Gold Price (August 4, 2026)
+
+| Metric | Value |
+|---|---|
+| Previous-session close basis (Aug 3) | XAU/USD **$4,038.16** (−0.27% vs $4,049.10 Jul31); USD/INR **₹95.286** (−0.07%); WTI **$79.62** (−5.97%); DXY **99.96** (+0.16%); Silver **$58.26** (+0.81%) |
+| MCX gold futures, Aug 4 | **₹1,41,210/10g** (+₹115, +0.08%) per one tracker; a second source showed +0.42% to ~₹1.43 lakh/10g — discrepancy noted, not reconciled |
+| Retail 24K (Aug 4) | ≈ **₹14,421/gram**; 22K ≈ ₹13,219–13,220/gram; 18K ≈ ₹10,815/gram |
+| RBI reserves | No new data — static at 880.52t (Mar 31, 2026, confirmed via parliamentary reply) |
+| ETF flows | No new data found today |
+| Import/duty policy | No new data — May 2026 duty-tightening regime unchanged |
+| USD/INR (Aug 4) | **~₹95.33–95.37** intraday — essentially flat vs Aug 3's ₹95.286 close |
+| Computed 9d EMA (XAU/USD) | **$4,058.74** (computed from `prices/prices.csv` 173-row history, standard EMA formula) |
+| Computed 50d EMA (XAU/USD) | **$4,191.48** (computed; broadly consistent with a fresh investing.com read of 5-day MA $4,055.69 / 50-day MA $4,071.64 for the shorter average, though the exact 50-day figure diverges — investing.com's own site shows conflicting 50d figures across pages, $4,071.64 vs a separate "gold futures 3.6% below its 50d MA of ~$4,260" report; the computed figure is used for consistency with prior days' methodology) |
+| Signal | **Sell (−4)** |
+
+**Price/EMA data note**: yfinance, the metals.dev fallback, and direct FRED `fredgraph.csv` fetch were all blocked again today by the sandbox's outbound egress policy (403 "gateway answered 403 to CONNECT" per `$HTTPS_PROXY/__agentproxy/status`) — confirmed as a persistent policy denial (`recentRelayFailures` showed repeated `connect_rejected` on `fc.yahoo.com:443`), not a transient error. `WebFetch` also returned HTTP 403 on investing.com, tradingeconomics.com, and fxleaders.com. Relied entirely on `WebSearch` for the Aug 3 previous-day closes (Gold/Silver/DXY/WTI/USD-INR), manually appended to `prices/prices.csv`, and computed EMA9/EMA50 directly from that file's history since web-search snippets for "today's 9-day EMA" gave inconsistent 50-day figures across sources ($4,071.64 vs ~$4,260 vs ~$4,200) that could not be reconciled to a single fresh reading.
+
+**Key drivers August 4**:
+- **Iran de-escalation continues**: Trump's "imminent" deal framing persists; Iranian FM Araghchi says Oman-mediated Hormuz talks are in their "final stages." No new escalation. See [[iran-conflict-2026]]. Factor 2 = **Bearish (−1)**.
+- **Fed**: No new data/events since Aug 3 (next catalyst: July NFP, Aug 7); hawkish-tilt narrative (9/18 FOMC members projecting a 2026 hike) persists unchallenged. See [[fed-macro-factors]]. Factor 3 = **Bearish (−1)**.
+- **Technicals**: Aug3 close ($4,038.16) below both computed EMAs (9d $4,058.74, 50d $4,191.48); last 2 daily deltas NOT both green (Jul30→31 red, Jul31→Aug3 red — 3rd consecutive red session). Factor 5 = **Bearish (−1)**.
+- **Dollar**: DXY +0.16% (within 0.5%) and USD/INR −0.07% (within 0.5%) → both within neutral band. Factor 6 = **Neutral (0)**.
+- **Real yields**: No newer confirmed DFII10 reading found (FRED blocked; web search returned conflicting/stale figures) — using the last confirmed delta (Jul30 2.46% → Jul31 2.50% = +4bps), still at/above the ±3bps threshold. See [[real-yields-tips]]. Factor 7 = **Bearish (−1)**.
+- **Net**: [−1 geo; −1 macro; −1 tech; 0 dollar; −1 real yields] = **−4 → Sell**. Factors 1 (Price vs Targets) and 4 (Central Bank Demand) retired 2026-07-25 — see [[signal-methodology]].
 
 ## MCX Gold Price (August 3, 2026)
 

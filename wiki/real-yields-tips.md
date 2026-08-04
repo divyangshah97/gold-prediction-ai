@@ -4,11 +4,13 @@
 
 **Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25.
 
-**Last updated**: 2026-08-03
+**Last updated**: 2026-08-04
 
 ---
 
 ## Latest Reading
+
+**August 4 check**: No newer confirmed DFII10 reading found. FRED direct fetch (`fredgraph.csv`) failed with a 403 CONNECT rejection (proxy policy denial, confirmed via `$HTTPS_PROXY/__agentproxy/status`). Web search for "10 year TIPS yield DFII10 today August 2026" and "10-year real yield TIPS August 3 2026 percent" returned inconsistent, largely undated figures — one source cited "2.47% as of July 31, 2026," which conflicts with this file's own July 31 estimate of 2.50% for the same date (both cannot be independently verified against a primary FRED read given the fetch block). Per the routine's no-duplicate/no-fabrication rule, the file was left unchanged rather than appending an unreliable value. Factor 7 for the August 4 signal used the last confirmed delta (+4bps, Jul30→Jul31), still above the ±3bps threshold — **Bearish (−1)**.
 
 | Date | DFII10 | Note |
 |---|---|---|

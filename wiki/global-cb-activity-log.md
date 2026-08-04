@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-03
+**Last updated**: 2026-08-04
 
 ---
 
@@ -76,6 +76,21 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-04
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-04 | 🌐 Global (Macro/Geo) | **No new country-level CB gold buy/sell/policy data found; Iran de-escalation continues (Hormuz talks "final stages"); Signal: Sell (−4)** | Ran all four mandatory sweep searches (purchase/sale, reserves announcement, tonnes, WGC/demand) — all returned recaps of the already-logged WGC Q2 2026 record (288.9t) and full-year forecasts (WGC ~850t 2026, Goldman ~60t/month), no new dated country-level events. Dominant story remains geopolitical: Iranian FM Araghchi says Oman-mediated Hormuz talks are in "final stages"; no new escalation. Gold (Aug3 close $4,038.16, −0.27%) fell for a 3rd consecutive session; EMAs recomputed from `prices/prices.csv` (EMA9 $4,058.74, EMA50 $4,191.48), price below both. DFII10 real yield: no newer confirmed reading found; last confirmed delta (+4bps) carried forward, still Bearish. **Signal: Sell (−4)** [−1 geo; −1 macro; −1 tech; 0 dollar; −1 real yields]. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇩🇪 Germany (Bundesbank) | **No new data** | No new Bundesbank statements found. See [[germany-gold-reserves]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇫🇷 France (Banque de France) | **No new data** | No new BdF statements. See [[france-gold-reserves]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇮🇹 Italy (Banca d'Italia) | **No new data** | FdI ownership dispute still unresolved; no new developments. See [[italy-gold-reserves]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇯🇵 Japan (BoJ) | **No new data** | No new BoJ/MoF gold-allocation statements found. See [[japan-gold-reserves]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇺🇸 USA (Treasury/Congress) | **No new data** | No change since Aug 3. See [[usa-gold-reserves]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇬🇧 UK (Bank of England) | **No new data** | No new BoE gold-custody statements. See [[uk-gold-reserves]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇸🇦 Saudi Arabia (SAMA) | **No new data** | No further SAMA gold announcements. See [[saudi-arabia-gold-reserves]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇮🇷 Iran (CBI) | **No new gold-reserve data; Hormuz talks progressing** | No CBI reserve announcements; Hormuz traffic-management talks reported "final stages." See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search Aug 4, 2026 |
+| 2026-08-04 | 🇮🇳 India (RBI + Market) | **MCX ~₹1,41,210-1.43L/10g (sources diverge); RBI static 880.52t; USD/INR ~₹95.33 (flat); Signal: Sell (−4)** | MCX gold roughly flat. RBI reserves unchanged (880.52t, Mar 31 2026). No new import/ETF/policy data. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-08-04.md`. | `raw/india-gold-2026-08-04.md` |
 
 ### 2026-08-03
 
