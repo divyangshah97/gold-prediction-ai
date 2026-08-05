@@ -1,6 +1,8 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **August 4 UPDATE**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 3 — next scheduled catalyst is the July jobs report (NFP), due Friday, August 7, 2026. The Warsh dovish-vs-hawkish orientation debate from Aug 3 remains unresolved with no fresh commentary found. No newer confirmed DFII10 reading found (FRED blocked; web search inconclusive) — using the last confirmed delta (+4bps, Jul30→Jul31), still above the ±3bps threshold. Net: **Macro factor = Bearish (−1)**, unchanged from Aug 3.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **August 5 UPDATE**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 4 — next scheduled catalyst remains the July jobs report (NFP), due Friday, August 7, 2026. A State Street commentary dated Aug 3 ("Fed hawks still see tightening as pre-emptive") reaffirms the standing hawkish-tilt read; no reversal signal found. No newer confirmed DFII10 reading found (FRED blocked; web search inconclusive) — using the last confirmed delta (+4bps, Jul30→Jul31), still above the ±3bps threshold. Net: **Macro factor = Bearish (−1)**, unchanged from Aug 4.
+
+**Prior (August 4) update**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 3 — next scheduled catalyst is the July jobs report (NFP), due Friday, August 7, 2026. The Warsh dovish-vs-hawkish orientation debate from Aug 3 remains unresolved with no fresh commentary found. No newer confirmed DFII10 reading found (FRED blocked; web search inconclusive) — using the last confirmed delta (+4bps, Jul30→Jul31), still above the ±3bps threshold. Net: **Macro factor = Bearish (−1)**, unchanged from Aug 3.
 
 **Prior (August 3) update**: No reversal of the July 29-31 hawkish "inflation credibility shock" narrative. Kevin Warsh's own orientation is now under fresh debate — some analysts read a "dovish pivot hidden in plain sight" in his communication style, others read his July 31 remarks as leaning toward a hike — but no new data print or policy signal has emerged since July 31. September rate-hike-odds estimates vary by source (a Motley Fool-cited figure put the odds of ANY hike at 61% with a 39% hold probability as of July 30, versus the ~81% figure other trackers showed for July 30-31) — treated as noisy/inconsistent rather than a fresh directional signal. Net: **Macro factor = Bearish (−1)**, unchanged from July 31.
 
@@ -8,7 +10,17 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, `raw/india-gold-2026-07-31.md`, `raw/india-gold-2026-07-29.md`, `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/, https://growbeansprout.com/tools/fedwatch, https://www.cmelitegroup.com/knowledge-hub/fomc-meeting-fed-decision-day/, https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/, https://cambridgecurrencies.com/next-federal-reserve-interest-rate-decision/, https://tipswatch.com/2026/07/30/federal-reserve-is-losing-credibility-at-the-worst-possible-time/
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-05
+
+---
+
+## August 5, 2026 — No New Data; State Street Reaffirms Hawkish Tilt; NFP Aug 7 Remains Next Catalyst
+
+**Key macro data (Aug 5)**:
+- **No new FOMC data, Fed speaker events, or CPI/PPI prints** since the Aug 4 update. Next scheduled catalyst remains the July jobs report (NFP), due **Friday, August 7, 2026**.
+- **State Street commentary (dated Aug 3, surfaced in today's research)**: "Fed hawks still see tightening as pre-emptive" — consistent with, not a change from, the standing hawkish-tilt read; not treated as a fresh signal since it postdates nothing new.
+- **10Y TIPS real yield (DFII10)**: No newer confirmed reading found — FRED direct fetch blocked (403, proxy policy; also confirmed for `fred.stlouisfed.org` specifically via `recentRelayFailures` today), and web search for "10-year TIPS yield" / "DFII10 real yield" returned only a stale, undated ~2.41-2.44% figure attributed to "July 29," which conflicts with this file's own July 29 entry (2.44%, already on record) and the later July 30/31 entries (2.46%/2.50%) — discarded as non-newer. Rather than fabricate a value, the last confirmed delta is carried forward: **+4bps** (2.46%→2.50%, Jul30→Jul31), still at/above the ±3bps threshold → **Factor 7 = Bearish (−1)** for the Aug 5 signal (see [[real-yields-tips]]).
+- **Net macro factor for August 5**: **Bearish (−1)** — unchanged from Aug 4; no new data of any kind to shift the read.
 
 ---
 

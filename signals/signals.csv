@@ -6,3 +6,4 @@ Date,Signal,Score,Reasoning
 2026-07-31,Wait,0,"Geo0(Iran risk priced in,gold move USD-driven/Japan intervention);Macro-1(post-FOMC hawkish repricing,inflation credibility shock,Sept hike odds ~81%);Tech+1(below9d/above50d EMA,uptrend);Dollar0;RealYield0(+2bps est.)"
 2026-08-03,Sell,-3,"Geo-1(Iran strikes called off,US-Iran talks resume today,de-escalation);Macro-1(no reversal of hawkish credibility-shock narrative);Tech-1(below both recomputed EMAs,not 2green);Dollar+1(DXY-1.38%);RealYield-1(+4bps est.)"
 2026-08-04,Sell,-4,"Geo-1(Iran de-escal continues,Hormuz talks final stages);Macro-1(no new Fed data,NFP Aug7 next);Tech-1(below both EMAs,3rd red session);Dollar0(DXY+0.16%,INR-0.07%);RealYield-1(+4bps carried fwd)"
+2026-08-05,Sell,-4,"Geo-1(Iran/Hormuz deal nearing signature,announce possible today);Macro-1(no new Fed data,NFP Aug7 next);Tech-1(above9d/below50d EMA,downtrend);Dollar0(DXY+0.01%,INR+0.05%);RealYield-1(+4bps carried fwd 2nd day)"
