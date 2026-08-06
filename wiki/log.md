@@ -2155,3 +2155,36 @@ Report_Date: 2026-07-07 | MM_Net: +116,161 (+766 vs prior week) | OI: 371,776 | 
 ## 2026-07-25 — COT weekly update
 Report_Date: 2026-07-21 | MM_Net: +124,831 (+4,052 vs prior week) | OI: 383,368 | MM_Long: 141,487 | MM_Short: 16,656 | MM_Net % OI: 32.6% | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-07-24T21:36:39Z
 Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Historical COT Reference extended with Jul 21 row), wiki/index.md (institutional-flows entry updated), prices/cot.csv (2026-07-21 row appended)
+
+## 2026-08-06 — Daily update: Hormuz-optimism oil crash flips signal Sell(-4)→Wait(+2)
+
+**Source**: `raw/india-gold-2026-08-06.md` (new); web research (gold spot, Iran/Hormuz, Fed, CB sweep, India MCX, DFII10)
+
+**Network note**: yfinance, metals.dev fallback, and direct FRED `fredgraph.csv` fetch were all blocked again by the sandbox's outbound proxy policy (403 CONNECT rejections on fc.yahoo.com, api.metals.dev, fred.stlouisfed.org, confirmed via `$HTTPS_PROXY/__agentproxy/status`). WebFetch also returned 403 on every URL tried (tradingeconomics, kitco, forbes, cnbc, marketwatch, treasury.gov, investing.com). Relied entirely on WebSearch for all price data and the DFII10 real yield, consistent with every run since 2026-07-27. Individual gold-price search snippets were unusually noisy today (quotes for "Aug 5" ranging $4,077-$4,304); the $4,247.40 close used here was cross-validated by backing it out from a same-day-sourced "Aug 6 +0.72% from previous day" report ($4,278.02 ÷ 1.0072) and corroborated by consistent "gold up ~6% this week" / "climbing toward $4,300" reporting across multiple sources.
+
+**Prices (T-1 = Aug 5 closes, appended to prices.csv)**:
+- XAU/USD: $4,247.40 (+4.17% vs Aug4 $4,077.48 — biggest one-day gain of the current stretch) | Silver: $61.58 (+5.83%) | DXY: 99.84 (-0.13%) | WTI: $75.69 (-5.47%) | USD/INR: ₹95.16 (-0.18%)
+- DFII10 (real_yields.csv): 2.41% dated 2026-08-04 (web-search sourced, moderate confidence — FRED direct fetch blocked) vs 2.50% (Jul31) = -9bps
+
+**Key driver**: The US-Iran-Oman Hormuz reopening deal remained unsigned as of Aug5 close — announcement slipped from "as early as Wednesday" (Aug5) to "the next day or two" (Trump/Bessent). Yemen's Houthis claimed a missile attack on the Saudi tanker *Wafa* off Yanbu; oil popped briefly intraday but the session was dominated by Hormuz-reopening optimism crashing WTI 5.47% to $75.69 (week's largest single-session drop). Gold rallied 4.17% via the disinflation/dovish-Fed-reprice channel, with DXY/USD-INR both flat — matching the wiki's established "de-escalation is bullish via the macro channel" exception (precedent: June 15, July 27-28) rather than the simple de-escalation-is-bearish rule.
+
+**Signal**: **Wait (+2)** — up sharply from Sell (-4) on Aug 5; largest one-day signal swing since the 5-factor system went live July 27
+- Factor 2 (Geopolitics): Hormuz-optimism oil crash → dovish-Fed channel → gold up, despite the deal being unsigned and a fresh Houthi attack → **+1 Bullish** (reversed from Bearish)
+- Factor 3 (Fed/Macro): No new FOMC data/events since Aug 5; next catalyst NFP tomorrow (Aug 7) → **-1 Bearish** (unchanged)
+- Factor 5 (Technicals): Aug5 close ($4,247.40) above both recomputed EMAs (9d $4,099.47, 50d $4,189.93); last 2 daily deltas both green (+$39.32, +$169.92) → **+1 Bullish** (reversed from Bearish)
+- Factor 6 (Dollar): DXY -0.13%, USD/INR -0.18%, both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): DFII10 2.50%→2.41% = -9bps, beyond ±3bps threshold → **+1 Bullish** (reversed from Bearish; first non-carry-forward reading since Jul31)
+- **Total: +1-1+1+0+1 = +2 → Wait**
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new "MCX Gold Price (August 6, 2026)" section; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — new Aug 6 timeline row; summary updated
+- `wiki/iran-conflict-2026.md` — new Aug 6 timeline row (Hormuz slip, Houthi attack); summary updated
+- `wiki/fed-macro-factors.md` — new Aug 6 section (no new Fed data; fresh DFII10 read)
+- `wiki/real-yields-tips.md` — new Aug 6 reading logged (2.41%, moderate confidence)
+- `wiki/global-cb-activity-log.md` — Aug 6 section added (global sweep + per-country rows, all "no new data" except the geo/macro headline row)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-08-06.md`, `prices/prices.csv` (Aug5 row), `prices/real_yields.csv` (Aug4 row), `signals/signals.csv` (Aug6 row: Wait, +2)
+
+**Data confidence flag**: The DFII10 2.41% reading is sourced from aggregated web commentary (Jefferies/UBS analysis cited in gold-market pieces), not a direct FRED row — flagged as moderate rather than high confidence in `real-yields-tips.md` and `fed-macro-factors.md`. If a future run finds a materially different dated FRED value for early August, this should be reconciled.

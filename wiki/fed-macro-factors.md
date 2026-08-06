@@ -1,6 +1,8 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **August 5 UPDATE**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 4 — next scheduled catalyst remains the July jobs report (NFP), due Friday, August 7, 2026. A State Street commentary dated Aug 3 ("Fed hawks still see tightening as pre-emptive") reaffirms the standing hawkish-tilt read; no reversal signal found. No newer confirmed DFII10 reading found (FRED blocked; web search inconclusive) — using the last confirmed delta (+4bps, Jul30→Jul31), still above the ±3bps threshold. Net: **Macro factor = Bearish (−1)**, unchanged from Aug 4.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **August 6 UPDATE**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 5 — next scheduled catalyst remains the July jobs report (NFP), due Friday, August 7, 2026. Net: **Macro factor = Bearish (−1)**, unchanged (Factor 3 tracks Fed-specific data only; the Aug 5 oil-crash/gold-rally episode is scored under Factor 2 — see [[iran-conflict-2026]]). Separately, a DFII10 reading of **2.41%** (dated Aug 4, web-search sourced — FRED direct fetch again blocked by proxy policy) was found today, down from 2.50% (Jul 31) — a **−9bps** move, at/beyond the ±3bps threshold → **Factor 7 = Bullish (+1)**, the first non-carry-forward real-yield reading since Jul 31 and a reversal from the Bearish reads of Aug 3-5. Confidence on this DFII10 figure is moderate (aggregated web-search commentary, not a direct FRED row) — flagged explicitly in [[real-yields-tips]].
+
+**Prior (August 5) update**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 4 — next scheduled catalyst remains the July jobs report (NFP), due Friday, August 7, 2026. A State Street commentary dated Aug 3 ("Fed hawks still see tightening as pre-emptive") reaffirms the standing hawkish-tilt read; no reversal signal found. No newer confirmed DFII10 reading found (FRED blocked; web search inconclusive) — using the last confirmed delta (+4bps, Jul30→Jul31), still above the ±3bps threshold. Net: **Macro factor = Bearish (−1)**, unchanged from Aug 4.
 
 **Prior (August 4) update**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 3 — next scheduled catalyst is the July jobs report (NFP), due Friday, August 7, 2026. The Warsh dovish-vs-hawkish orientation debate from Aug 3 remains unresolved with no fresh commentary found. No newer confirmed DFII10 reading found (FRED blocked; web search inconclusive) — using the last confirmed delta (+4bps, Jul30→Jul31), still above the ±3bps threshold. Net: **Macro factor = Bearish (−1)**, unchanged from Aug 3.
 
@@ -10,7 +12,16 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, `raw/india-gold-2026-07-31.md`, `raw/india-gold-2026-07-29.md`, `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/, https://growbeansprout.com/tools/fedwatch, https://www.cmelitegroup.com/knowledge-hub/fomc-meeting-fed-decision-day/, https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/, https://cambridgecurrencies.com/next-federal-reserve-interest-rate-decision/, https://tipswatch.com/2026/07/30/federal-reserve-is-losing-credibility-at-the-worst-possible-time/
 
-**Last updated**: 2026-08-05
+**Last updated**: 2026-08-06
+
+---
+
+## August 6, 2026 — No New Fed Data; Fresh DFII10 Reading (2.41%, −9bps) Flips Factor 7 Bullish
+
+**Key macro data (Aug 6)**:
+- **No new FOMC data, Fed speaker events, or CPI/PPI prints** since the Aug 5 update. Next scheduled catalyst remains the July jobs report (NFP), due **Friday, August 7, 2026** — tomorrow.
+- **10Y TIPS real yield (DFII10)**: A dated reading of **2.41%** (Aug 4) was found via web search today — FRED direct fetch again blocked (403, proxy policy). This is down from the last confirmed value of 2.50% (Jul 31), a **−9bps** move, comfortably beyond the ±3bps threshold → **Factor 7 = Bullish (+1)**. Source confidence: moderate — this is an aggregated commentary figure ("10-year TIPS real yields are around 2.41%... edging towards 2.5%" per multiple gold-analysis pieces referencing Jefferies/UBS commentary dated Aug 3-4), not a directly-read FRED row; see [[real-yields-tips]] for the full sourcing note.
+- **Net macro factor for August 6**: **Bearish (−1)** — unchanged; no new Fed-specific data. Factor 7 (real yields) separately flips to **Bullish (+1)** on the fresh DFII10 reading.
 
 ---
 

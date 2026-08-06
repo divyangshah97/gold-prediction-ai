@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-05
+**Last updated**: 2026-08-06
 
 ---
 
@@ -76,6 +76,21 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-06
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-06 | 🌐 Global (Macro/Geo) | **No new country-level CB gold buy/sell/policy data found; Hormuz deal still unsigned but oil-crash/gold-rally flips signal to Wait (+2)** | Ran all four mandatory sweep searches (purchase/sale, reserves announcement, tonnes, WGC/demand); results were recaps of the already-logged WGC Q2 2026 record (289t net, Poland +51t, China +33t) and the 2026 full-year 850t forecast — no new dated country-level tonnage found. Dominant story remains geopolitical/macro: Hormuz deal announcement slipped from "as early as Wednesday" (Aug5) to "the next day or two"; a Houthi missile attack on the Saudi tanker *Wafa* (Aug5) caused only a brief oil pop before Hormuz-optimism drove WTI down 5.47% to $75.69 — the week's largest drop — lifting gold 4.17% to $4,247.40 via the disinflation/dovish-Fed channel (see [[iran-conflict-2026]]). Gold now closes above both computed EMAs with 2 green days; a fresh DFII10 reading (2.41%, −9bps) also turned bullish. **Signal: Wait (+2)** [+1 geo; −1 macro; +1 tech; 0 dollar; +1 real yields], up sharply from Sell (−4) on Aug 5. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇩🇪 Germany (Bundesbank) | **No new data** | No new Bundesbank statements found. See [[germany-gold-reserves]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇫🇷 France (Banque de France) | **No new data** | 134t bar-upgrade programme (targeting 2028 completion) reconfirmed in background research; no new BdF statements. See [[france-gold-reserves]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇮🇹 Italy (Banca d'Italia) | **No new data** | FdI ownership dispute still unresolved (ECB opposition standing); no new developments since Aug 5. See [[italy-gold-reserves]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇯🇵 Japan (BoJ) | **No new data** | No new BoJ/MoF gold-allocation statements found; 845.97t static. See [[japan-gold-reserves]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇺🇸 USA (Treasury/Congress) | **No new data** | No change since Aug 5; H.R. 3795 (Gold Reserve Transparency Act) still at committee-referral status. See [[usa-gold-reserves]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇬🇧 UK (Bank of England) | **No new data** | No new BoE gold-custody statements. See [[uk-gold-reserves]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇸🇦 Saudi Arabia (SAMA) | **No new data** | Still static at 323.07t / 2.6% of reserves. See [[saudi-arabia-gold-reserves]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇮🇷 Iran (CBI) | **No new gold-reserve data; Hormuz deal slips to "next day or two"; fresh Houthi tanker attack** | No CBI reserve announcements. Hormuz interim agreement remained unsigned as of Aug5 close; Houthis claimed a missile attack on Saudi tanker *Wafa* off Yanbu (unverified by Saudi officials). See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search Aug 6, 2026 |
+| 2026-08-06 | 🇮🇳 India (RBI + Market) | **MCX ~₹1.49L/10g intraday (+0.58%); RBI static 880.52t; USD/INR ~₹95.16 (Aug5 close); Signal: Wait (+2)** | MCX gold up intraday tracking COMEX gold's sharp Aug5 rise. RBI reserves unchanged (880.52t). No new import/ETF/policy data. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-08-06.md`. | `raw/india-gold-2026-08-06.md` |
 
 ### 2026-08-05
 
