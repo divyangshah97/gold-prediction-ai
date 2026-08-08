@@ -6,7 +6,7 @@
 
 **August 3 note**: As of July 30, 2026, GLD 5-day net flows were **+$189.64M**, 1-month net flows **+$581.24M**, but 3-month net flows remained **−$4.25B** — near-term inflows resuming after a sharply negative Q3-to-date. No August-dated GLD tonnage or fresh weekly CFTC COT print (next due Friday) found today; this factor is informational only (superseded by Factor 6 Dollar Pressure in the live signal, see [[signal-methodology]]).
 
-**Last updated**: 2026-08-03
+**Last updated**: 2026-08-08
 
 ---
 
@@ -66,34 +66,35 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-07-28  
-> **Published by CFTC:** 2026-08-01 (Friday)  
-> **Retrieved:** 2026-07-31T21:37:12Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
-> **cot.csv:** Updated 2026-08-01 (Saturday routine)
+> **Report_Date (as-of Tuesday):** 2026-08-04  
+> **Published by CFTC:** 2026-08-07 (Friday)  
+> **Retrieved:** 2026-08-07T21:09:30Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
+> **cot.csv:** Updated 2026-08-08 (Saturday routine)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-07-28 |
-| Open_Interest | 384,603 contracts |
-| MM_Long | 135,093 contracts |
-| MM_Short | 15,298 contracts |
-| MM_Net | +119,795 contracts |
-| MM_Net_Change | −5,036 vs. prior week (2026-07-21: +124,831) |
-| MM_Net % of OI | 31.1% |
+| Report_Date | 2026-08-04 |
+| Open_Interest | 371,551 contracts |
+| MM_Long | 139,809 contracts |
+| MM_Short | 9,043 contracts |
+| MM_Net | +130,766 contracts |
+| MM_Net_Change | +10,971 vs. prior week (2026-07-28: +119,795) |
+| MM_Net % of OI | 35.2% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation (as of July 28)
+### Sentiment Interpretation (as of August 4)
 
-MM_Net of +119,795 falls in the **Neutral zone (50,000–150,000 contracts)**. After six consecutive weeks of increases, managed money net longs pulled back modestly by −5,036 contracts — the first week-over-week decline since May 19. This is a mild reversal, not a trend break: at +119,795, the net position remains well above historically bearish extremes (<50,000) and well below crowded-long territory (>250,000).
+MM_Net of +130,766 falls in the **Neutral zone (50,000–150,000 contracts)**. After last week's modest pullback, managed money net longs rebounded by +10,971 contracts — resuming the broader uptrend. At +130,766, the net position remains well above historically bearish extremes (<50,000) and comfortably below crowded-long territory (>250,000).
 
-Open interest ticked slightly higher to 384,603 from the prior week's 383,368 — essentially flat, suggesting the pullback was driven by gross long reduction (135,093 vs. 141,487 prior week) rather than a surge in new shorts. Gross shorts continued to decline (15,298 vs. 16,656 prior week), partially offsetting the long reduction. The overall picture is one of modest profit-taking on longs after a multi-week grind higher, with shorts continuing to cover.
+The most notable structural feature this week is the sharp compression in gross shorts: MM_Short fell from 15,298 to 9,043 — a decline of 6,255 contracts — the lowest short position in the recent data series. This short-covering dynamic, rather than new long addition (MM_Long rose modestly from 135,093 to 139,809, +4,716 contracts), is driving the net long improvement. Open interest declined to 371,551 from 384,603, suggesting some deleveraging overall; MM_Net as % of OI rose to 35.2% from 31.1%.
 
-**Week-over-week change:** −5,036 contracts — well below the ±20,000 significant positioning shift threshold. No extreme move flagged. The slight pull-back in net longs coincides with FOMC week (hawkish Warsh press conference, multi-decade yield highs) and Iran-escalation-driven USD strength — consistent with de-risking rather than a conviction-shift against gold.
+**Week-over-week change:** +10,971 contracts — below the ±20,000 significant positioning shift threshold. No extreme move flagged. The short-covering acceleration is worth monitoring: if MM_Short falls toward zero while MM_Long also builds, the net position could approach the 150,000–250,000 "moderately long — supportive" zone in coming weeks.
 
 ---
 
 ## Historical COT Reference
 
+> **Report_Date:** 2026-08-04 | **MM_Net:** +130,766 | **OI:** 371,551 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-28 | **MM_Net:** +119,795 | **OI:** 384,603 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-21 | **MM_Net:** +124,831 | **OI:** 383,368 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-14 | **MM_Net:** +120,779 | **OI:** 383,689 | **Sentiment:** Neutral zone  

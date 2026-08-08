@@ -4,6 +4,11 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-08 — COT weekly update
+Report_Date: 2026-08-04 | MM_Net: +130,766 (+10,971 vs prior week) | OI: 371,551 | MM_Net % OI: 35.2% | Sentiment: Neutral zone (50,000–150,000) | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at 2026-08-07T21:09:30Z | Pages updated: wiki/institutional-flows.md, wiki/index.md, prices/cot.csv
+
+---
+
 ## 2026-08-07 — Daily update: Hormuz deal still unsigned, Aug5's oil-crash/gold-rally partially unwinds; NFP due later today; technicals flip back Bearish; real yields unchanged (−9bps carried fwd); gold $4,242.15 (Aug6 close, −0.12%) | Signal: Wait (−2)
 
 **Holiday check**: Searched NSE/BSE 2026 holiday calendar (Bajaj AMC, Groww, Zerodha, Anand Rathi, Integrated India, Aditya Trading, Kotak Neo) — no listed holiday for August 7, 2026; Independence Day (Aug 15) falls on a weekend in 2026. Proceeded.
