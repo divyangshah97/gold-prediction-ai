@@ -41,6 +41,7 @@ SOFAZ sold gold and gold prices still rose — the buyer pool ([[central-bank-go
 | Date | Event |
 |---|---|
 | 2026-05-27 | Stub created. No new SOFAZ gold news in last 48h. |
+| 2026-08-10 | **Confirms selling has paused**: SOFAZ held flat at **178.1t through Q2 2026** — no further sales since the Q1 22t/$3bn drawdown. Consistent with the fiscal/portfolio-cap rebalancing framing, not a sustained liquidation trend. (source: TradingView/Reuters, Aug 10 2026) |
 
 ## Related pages
 

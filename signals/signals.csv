@@ -9,3 +9,4 @@ Date,Signal,Score,Reasoning
 2026-08-05,Sell,-4,"Geo-1(Iran/Hormuz deal nearing signature,announce possible today);Macro-1(no new Fed data,NFP Aug7 next);Tech-1(above9d/below50d EMA,downtrend);Dollar0(DXY+0.01%,INR+0.05%);RealYield-1(+4bps carried fwd 2nd day)"
 2026-08-06,Wait,2,"Geo+1(Hormuz optimism crashes oil-5.5%,gold+4.2% via dovish-Fed channel);Macro-1(no new Fed data);Tech+1(above both EMAs,2green);Dollar0(DXY-0.13%,INR-0.18%);RealYield+1(-9bps,2.50to2.41)"
 2026-08-07,Wait,-2,"Geo-1(Hormuz deal unsigned,Aug5 oil-crash rally unwinds,WTI+2.72%);Macro-1(no new Fed data,NFP due today);Tech-1(above both EMAs,not2green);Dollar0(DXY-0.08%,INR+0.08%);RealYield+1(-9bps carried fwd)"
+2026-08-10,Wait,-1,"Geo-1(Iran conflict widens,Houthi/Saudi-Turkey-Pak pact,priced in);Macro+1(NFP-23k shock,dovish reprice);Tech-1(above EMAs,not2green);Dollar0(DXY-0.20%,INR-0.10%);RealYield0(+2bps)"

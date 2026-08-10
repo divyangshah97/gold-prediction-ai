@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-07
+**Last updated**: 2026-08-10
 
 ---
 
@@ -24,19 +24,19 @@ These countries have full wiki pages — this log supplements them with daily ne
 | Country | Role | Page |
 |---|---|---|
 | 🇵🇱 Poland | Buyer (**82t YTD 2026** — Governor Glapinski Jul 9; **total ~632t**; 30% of reserves; 150t plan approved; targeting 700t) | [[poland-gold-reserves]] |
-| 🇨🇳 China | Buyer (**14.93t June 2026** — largest since 2023; **20-month streak**; **2,346t** total) | [[china-pboc-gold]] |
-| 🇺🇿 Uzbekistan | Buyer (**YTD ~41t**: Q1 25t + May +9t + June +9t; 2nd largest H1 buyer) | [[uzbekistan-gold-reserves]] |
-| 🇰🇿 Kazakhstan | Buyer (**20t YTD 2026**; 7t May; 361t total; **world's 4th-largest buyer 2026**) | [[kazakhstan-gold-reserves]] |
-| 🇨🇿 Czech Republic | Buyer (5t Q1 + 2t April + 2t May + **2t July = 40 consecutive months; ~83t total**) | [[czech-republic-gold-reserves]] |
+| 🇨🇳 China | Buyer (**+19.9t July 2026** — 21st consecutive month; **~76.08M oz (~2,366t)** total; ~8% of FX reserves) | [[china-pboc-gold]] |
+| 🇺🇿 Uzbekistan | Buyer (**YTD ~41t H1**: Q1 25t + May +9t + June +9t; gold now 87% of total reserves) | [[uzbekistan-gold-reserves]] |
+| 🇰🇿 Kazakhstan | Buyer (**+27t H1 2026**; 361t total; 78% of reserves) | [[kazakhstan-gold-reserves]] |
+| 🇨🇿 Czech Republic | Buyer (**+11t H1 2026**; 39 consecutive months of net buying; ~83t total) | [[czech-republic-gold-reserves]] |
 | 🇲🇾 Malaysia | Buyer (5t Q1 2026) | [[malaysia-gold-reserves]] |
 | 🇬🇹 Guatemala | Buyer (2t Q1 2026) | [[guatemala-gold-reserves]] |
 | 🇰🇭 Cambodia | Buyer (2t Q1 2026) | [[cambodia-gold-reserves]] |
 | 🇮🇩 Indonesia | Buyer (2t Q1 2026) | [[indonesia-gold-reserves]] |
 | 🇷🇸 Serbia | Buyer (1t Q1 2026) | [[serbia-gold-reserves]] |
 | 🇦🇪 UAE | Buyer (1t Q1 2026) | [[uae-gold-reserves]] |
-| 🇹🇷 Turkey | Seller (~70t Q1 2026 via swaps) | [[turkey-gold-reserves]] |
-| 🇷🇺 Russia | Seller (~22t Q1 2026) | [[russia-gold-reserves]] |
-| 🇦🇿 Azerbaijan | Seller (22t Q1 2026) | [[azerbaijan-sofaz-gold]] |
+| 🇹🇷 Turkey | Seller (**~127t H1 2026** incl. 58.4t in one two-week stretch; lira-defense selling; reserves 534.85t Q1, some rebuilding since) | [[turkey-gold-reserves]] |
+| 🇷🇺 Russia | Seller (record **44t H1 2026**; ~2,282-2,305t total; ~7t/month pace) | [[russia-gold-reserves]] |
+| 🇦🇿 Azerbaijan | Seller (22t Q1 2026; **held flat at 178.1t through Q2 — no further sales**) | [[azerbaijan-sofaz-gold]] |
 | 🇰🇬 Kyrgyz Republic | Seller (1t Q1 2026) | [[kyrgyz-republic-gold-reserves]] |
 | 🇮🇳 India | Near-zero buying; repatriation | [[india-rbi-gold]] |
 
@@ -76,6 +76,27 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-10
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-10 | 🌐 Global (Macro/Geo) | **NFP shock (−23K jobs) drives biggest gold rally in weeks; Iran conflict widens but priced in; Signal: Wait (−1)** | Ran all four mandatory sweep searches (purchase/sale, reserves announcement, tonnes, WGC/demand). Results were mostly recaps of the already-logged WGC Q2 2026 record (289t net) and full-year forecasts, but surfaced fresher country-level figures than prior runs (see country rows below) plus one new context item: WGC 2026 reserve-manager survey shows 89% expect global CB gold holdings to rise over 12 months, record 45% expect their own institution to buy; gold reportedly surpassed US Treasuries as the world's largest reserve-asset class. Dominant story remains macro: US July NFP fell −23,000 (vs ~80-95k consensus), unemployment to 4.1%, wages +3.2% y/y (softest since May 2021) — a decisively dovish print that drove gold's Aug7 +2.49% rally. Separately, Iran conflict widened (Houthi attacks on Saudi assets, new Saudi-Turkey-Pakistan defense pact) without adding fresh upside as gold pulled back from a 7-week high ($4,372) into Monday. **Signal: Wait (−1)** [−1 geo; +1 macro; −1 tech; 0 dollar; 0 real yields], up from Wait (−2) on Aug 7. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | Web search Aug 10, 2026 |
+| 2026-08-10 | 🇨🇳 China (PBoC) | **21st consecutive month of buying; July 2026 add ≈19.9t (640,000oz); holdings ≈76.08M oz (~2,366t); gold ~8% of FX reserves** | Updated from the prior 20-month-streak/14.93t-June figure. See [[china-pboc-gold]]. | https://leprivatebanker.com/2026/08/07/chinas-gold-reserves-climb-nearly-20-tons-in-july/, https://www.yuantalks.com/pboc-extends-gold-buying-streak-to-21-months-chinas-fx-reserves-edge-higher-in-july/ |
+| 2026-08-10 | 🇰🇿 Kazakhstan | **+27t H1 2026 (updated from prior 20t YTD estimate); 361t total, 78% of reserves** | Refined H1 figure vs prior Q1/May-only data. See [[kazakhstan-gold-reserves]]. | WGC data via web search Aug 10, 2026 |
+| 2026-08-10 | 🇨🇿 Czech Republic | **+11t H1 2026, 39 consecutive months of net buying** | Slightly different consecutive-month count than the "40+ months" figure previously on file — flagged as a minor source discrepancy, not overwritten. See [[czech-republic-gold-reserves]]. | WGC data via web search Aug 10, 2026 |
+| 2026-08-10 | 🇹🇷 Turkey | **Total H1 2026 gold sales ≈127t (incl. 58.4t in a single two-week stretch worth ~$8bn) to defend the lira after the Feb 28 2026 Iran war began; reserves fell to 534.85t in Q1 2026 from 613.70t in Q4 2025; some rebuilding reported since as lira pressure eased** | More specific/larger figure than the prior "~70t Q1 via swaps" tracked. See [[turkey-gold-reserves]]. | https://www.kitco.com/news/article/2026-03-26/turkey-taps-its-gold-reserves-sells-584-tonnes-gold-two-weeks, https://www.bloomberg.com/news/articles/2026-03-26/turkey-s-8-billion-gold-drawdown-since-iran-war-hits-bullion |
+| 2026-08-10 | 🇦🇿 Azerbaijan (SOFAZ) | **Held flat at 178.1t through Q2 2026 — no further sales since the Q1 22t/$3bn drawdown** | Confirms selling has paused, not continued. See [[azerbaijan-sofaz-gold]]. | https://www.tradingview.com/news/reuters.com,2026:newsml_L8N43P25K:0-azerbaijan-s-sovereign-oil-fund-gold-reserves-steady-at-178-1-tons-declined-in-value-in-q2/ |
+| 2026-08-10 | 🇷🇺 Russia | **Confirms record 44t sold H1 2026 (largest 6-month drawdown in 25+ years); reserves ~2,282-2,305t as of July 1; pace ~7t/month, projecting 80-90t full year** | Consistent with, not a change from, figures already on file. See [[russia-gold-reserves]]. | https://www.kitco.com/news/article/2026-07-21/russias-central-bank-sold-44-tonnes-gold-first-half-2026 |
+| 2026-08-10 | 🇩🇪 Germany (Bundesbank) | **No new data** | Bundesbank President Nagel continues to publicly back Fed custody of ~1,200t (~€164bn) in NY; German lawmakers' Jan 2026 repatriation push remains unresolved, no new movement. See [[germany-gold-reserves]]. | https://www.kitco.com/news/article/2026-01-26/our-gold-no-longer-safe-feds-vaults-german-lawmakers-and-economists-renew |
+| 2026-08-10 | 🇫🇷 France (Banque de France) | **No new data; bar-upgrade programme context refined** | Upgraded 129t of bars (Jul 2025-Jan 2026), booking €12.8bn exceptional gain (€11bn 2025 + €1.8bn 2026); 134t of non-standard bars/coins remain, to be upgraded by 2028. See [[france-gold-reserves]]. | https://www.kitco.com/news/off-the-wire/2026-03-24/french-central-bank-books-15-billion-gain-gold-reserve-upgrade |
+| 2026-08-10 | 🇮🇹 Italy (Banca d'Italia) | **New: ECB President Lagarde publicly criticized the FdI ownership-claim amendment as unclear in purpose, warning any restriction on CB independence over reserve management would violate EU treaties; urged withdrawal. No resolution yet.** | First specific ECB pushback on record for this dispute. See [[italy-gold-reserves]]. | https://uk.finance.yahoo.com/news/italy-presses-ahead-claim-central-100445666.html |
+| 2026-08-10 | 🇯🇵 Japan (BoJ/MoF) | **No policy change; reserve value swings from ~$142.0bn (Feb 2026 high) to ~$123.6bn (May 2026) reflect price/valuation moves, not a deliberate allocation shift** | See [[japan-gold-reserves]]. | https://www.mof.go.jp/english/policy/international_policy/reference/official_reserve_assets/e0805.html |
+| 2026-08-10 | 🇺🇸 USA (Treasury/Congress) | **No new legislative action; context refined: statutory book value frozen at $42.22/oz since 1973; Fort Knox held 147,341,858.382oz (May 31 2026); Trump's Fort Knox audit demand (May 31) tied to an unrelated "CIA arrest" claim; Bessent's prior assurance was a seal-check only, no vaults opened/bars counted** | See [[usa-gold-reserves]]. | https://discoveryalert.com.au/fort-knox-gold-audit-transparency-600-billion-2026/, https://thedailyeconomy.org/article/is-a-fort-knox-audit-prelude-to-a-gold-revaluation/ |
+| 2026-08-10 | 🇬🇧 UK (Bank of England / LBMA) | **No new data; BoE custodial holdings ~5,436.1t end-April 2026 (+80t MoM, likely other-CB inflow); total London vaulted gold ~9,464t (~$1.2T) end-June 2026** | See [[uk-gold-reserves]]. | https://www.lbma.org.uk/prices-and-data/london-vault-data |
+| 2026-08-10 | 🇸🇦 Saudi Arabia (SAMA) | **No new data** | Still static at 323.07t, largest Gulf holder. See [[saudi-arabia-gold-reserves]]. | https://www.arabnews.com/node/2650099/amp |
+| 2026-08-10 | 🇮🇷 Iran (CBI) | **No confirmed reserve-tonnage change; capital flight accelerating, rial past 1,038,000/USD, inflation ~50%; CBI introducing gold-backed bonds as a stabilization tool** | See [[iran-gold-reserves]], [[iran-conflict-2026]]. | https://www.iranintl.com/en/202509230511 |
+| 2026-08-10 | 🇮🇳 India (RBI + Market) | **MCX 24K ~₹1,52,050/10g (Aug10, +0.15%); +6.08% w/w; RBI static 880.52t; USD/INR ~₹95.14 (Aug7 close); Signal: Wait (−1)** | Retail/MCX gold near record highs tracking COMEX's post-NFP rally, easing slightly Aug 10 with spot. RBI reserves unchanged. No new import/ETF/policy data. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-08-10.md`. | `raw/india-gold-2026-08-10.md` |
 
 ### 2026-08-07
 

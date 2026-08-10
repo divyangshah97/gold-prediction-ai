@@ -47,6 +47,7 @@ Kazakhstan has been a regular buyer for over a decade and is one of the most rel
 | 2026-05-27 | Stub created. No new Kazakhstan-specific news in last 48h. |
 | 2026-07-06 | WGC July 2026 CB stats: May 2026 +7t → YTD ~20t. Consistent domestic-mining-linked buying continues. |
 | 2026-07-31 | WGC Q2 2026 Gold Demand Trends report (published Jul 30): Kazakhstan +**15t in Q2 2026**, among the top-5 Q2 buyers alongside Poland (51t), China (33t), Uzbekistan (16t), and the Czech Republic (6t). (source: WGC Gold Demand Trends Q2 2026) |
+| 2026-08-10 | Refined H1 2026 figure: **+27 tonnes H1 2026** (vs the prior ~20t YTD estimate). Total holdings **361t**, **78% of reserves** — domestic mine-purchase programme continues unabated. (source: web search Aug 10, 2026, WGC-sourced aggregation) |
 
 ## Related pages
 

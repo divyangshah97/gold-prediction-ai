@@ -96,6 +96,7 @@ Italy's gold-to-reserves ratio (~65–70%) is among the highest in Europe — a 
 | Date | Event |
 |---|---|
 | 2026-05-27 | Page created. 2,452t confirmed (3rd globally). Nov 2025: Fratelli d'Italia ownership amendment in Senate — ECB objected, amendment blocked. Apr 2026: France's $15B repatriation creating Italian pressure to follow. Ownership dispute unresolved. |
+| 2026-08-10 | **ECB President Lagarde publicly criticized** the FdI ownership-claim amendment as unclear in purpose, warning that any restriction on central bank independence over reserve management would violate EU treaties, and urged its withdrawal — the first specific ECB pushback recorded on this page beyond the original Nov 2025 objection. Dispute remains unresolved. (source: Yahoo Finance/Reuters, Aug 10 2026) |
 
 ## Related pages
 

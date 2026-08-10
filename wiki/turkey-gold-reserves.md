@@ -1,10 +1,12 @@
 # Turkey Gold Reserves
 
-**Summary**: Turkey reduced its gold reserves by ~70 tonnes in Q1 2026 via gold swaps, a domestic monetary policy tool — not a structural bearish signal. Holdings stabilised in April 2026.
+**Summary**: Turkey sold ~127 tonnes of gold over H1 2026 (including 58.4t in a single two-week stretch worth ~$8bn) via gold swaps to defend the lira after the Feb 28, 2026 Iran war began — a domestic monetary-policy tool, not a structural bearish signal. Reserves fell to 534.85t in Q1 2026 from 613.70t in Q4 2025; some rebuilding reported since as lira pressure eased.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-03-26/turkey-taps-its-gold-reserves-sells-584-tonnes-gold-two-weeks, https://www.bloomberg.com/news/articles/2026-03-26/turkey-s-8-billion-gold-drawdown-since-iran-war-hits-bullion
 
-**Last updated**: 2026-05-21
+**Last updated**: 2026-08-10
+
+**Update 2026-08-10**: The full H1 2026 sale total is larger than previously tracked — ~127 tonnes (vs the ~70t Q1 figure this page originally carried), including a 58.4t drawdown (~$8bn) in a single two-week stretch immediately after the Feb 28 Iran war began. Reserves bottomed at 534.85t in Q1 2026, down from 613.70t in Q4 2025. Some rebuilding has been reported since as pressure on the lira eased. See [[global-cb-activity-log]].
 
 ---
 
