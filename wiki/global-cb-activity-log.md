@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-10
+**Last updated**: 2026-08-11
 
 ---
 
@@ -76,6 +76,21 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-11
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-11 | 🌐 Global (Macro/Geo) | **No new confirmed country-level CB gold buy/sell/policy data; gold rally extends toward $4,400+ ahead of CPI/PPI; Signal: Wait (+1)** | Ran all four mandatory sweep searches (purchase/sale, reserves announcement, tonnes, WGC/demand). One search returned specific "August 2026" country tonnage figures (Kazakhstan +3t, Turkey +2t, Czech +2t, China +2t, global +10t total) — this is the same recycled/mistimed figure pattern already flagged and discarded on Aug 5 and Aug 7 (implausible for a full-month August total this early in the month, no reliable dated primary source); NOT logged as fact again today. All other searches returned recaps of the already-logged WGC Q2 2026 record and full-year forecasts — no new dated country-level tonnage. Dominant story remains macro: no new Fed data since Aug 7's NFP shock (July CPI due Aug 12, PPI Aug 13), dovish reprice persists, gold pushed toward $4,400-4,430 intraday. Separately, Iran/Hormuz remains unsigned with no fresh breakthrough (Iran demands US concessions Aug 8-9; hardline security appointment Aug 9). One new item: Senator Rand Paul visited Fort Knox (Aug 10) to verify US reserves — see USA row and Policy Tracker. **Signal: Wait (+1)** [−1 geo; +1 macro; +1 tech; 0 dollar; 0 real yields], up from Wait (−1) on Aug 10. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | Web search Aug 11, 2026 |
+| 2026-08-11 | 🇩🇪 Germany (Bundesbank) | **No new data** | No new Bundesbank statements found. See [[germany-gold-reserves]]. | Web search Aug 11, 2026 |
+| 2026-08-11 | 🇫🇷 France (Banque de France) | **No new data** | No new BdF statements. See [[france-gold-reserves]]. | Web search Aug 11, 2026 |
+| 2026-08-11 | 🇮🇹 Italy (Banca d'Italia) | **No new data** | FdI ownership dispute still unresolved since the Aug 10 Lagarde pushback; no new developments. See [[italy-gold-reserves]]. | Web search Aug 11, 2026 |
+| 2026-08-11 | 🇯🇵 Japan (BoJ) | **No new data** | No new BoJ/MoF gold-allocation statements found; 845.97t static. See [[japan-gold-reserves]]. | Web search Aug 11, 2026 |
+| 2026-08-11 | 🇺🇸 USA (Treasury/Congress) | **New: Senator Rand Paul visited Fort Knox (Aug 10) to personally verify gold reserves, renewing calls for a full independent audit** | H.R. 3795 (Gold Reserve Transparency Act) still at committee-referral status; no completed audit. No change to 8,133t figure. See [[usa-gold-reserves]]. | https://redstate.com/wardclark/2026/08/10/rand-paul-visits-fort-knox-the-gold-is-still-there-n2205446 |
+| 2026-08-11 | 🇬🇧 UK (Bank of England) | **No new data** | No new BoE gold-custody statements. See [[uk-gold-reserves]]. | Web search Aug 11, 2026 |
+| 2026-08-11 | 🇸🇦 Saudi Arabia (SAMA) | **No new data** | Still static at 323.07t / 2.6% of reserves; BRICS+/mBridge context reconfirmed but no announced allocation change. See [[saudi-arabia-gold-reserves]]. | Web search Aug 11, 2026 |
+| 2026-08-11 | 🇮🇷 Iran (CBI) | **No new gold-reserve data; Hormuz deal still unsigned, Iran demands US concessions before opening the strait; hardline ex-IRGC commander promoted to top security body (Aug 9)** | No CBI reserve announcements. See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search Aug 11, 2026 |
+| 2026-08-11 | 🇮🇳 India (RBI + Market) | **MCX ₹1,54,814/10g (Aug11, +1.12% intraday); RBI static 880.52t; USD/INR ~₹95.24 (Aug10 close); Signal: Wait (+1)** | MCX gold tracking COMEX's push toward $4,400+ ahead of CPI. RBI reserves unchanged. ₹10,463cr customs duty collected on gold/silver/platinum since May 13 hike (fresh Parliament disclosure). **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-08-11.md`. | `raw/india-gold-2026-08-11.md` |
 
 ### 2026-08-10
 
@@ -1023,6 +1038,7 @@ Major holders tracked in this log only (no dedicated page yet):
 
 | Date | Country | Policy | Detail |
 |---|---|---|---|
+| 2026-08-10 | 🇺🇸 USA | Fort Knox audit visit | Senator Rand Paul visited Fort Knox to personally verify gold reserves, renewing calls for a full independent audit (H.R. 3795 still at committee referral). See [[usa-gold-reserves]]. |
 | 2026-05-13 | 🇮🇳 India | Import duty hike | Raised to 15% by Modi govt; see [[india-gold-market]] |
 | 2026-05-21 | 🇮🇷 Iran | Nuclear directive | Khamenei: enriched uranium cannot leave Iran; see [[iran-conflict-2026]] |
 | 2026 | 🇵🇱 Poland | Reserve target | 700t target confirmed; see [[poland-gold-reserves]] |

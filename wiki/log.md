@@ -4,6 +4,47 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-11 — Daily update: rally extends toward $4,400+ ahead of CPI/PPI; technicals flip Bullish (price above both EMAs, 2 green); Iran deal still unsigned but priced in; Rand Paul visits Fort Knox | Signal: Wait (+1)
+
+**Holiday check**: Searched NSE/BSE 2026 August holiday calendar (LatestLY, Angel One, PL Capital) — confirmed August 2026 has no weekday market holidays (Independence Day Aug 15 falls on a Saturday; Aug 26 is a settlement-only holiday). August 11 (Tuesday) is a normal trading day. Proceeded.
+
+**Network note**: `fetch_prices.py` failed entirely — yfinance (`fc.yahoo.com`) and the metals.dev fallback (`api.metals.dev`) were both blocked by the sandbox's outbound egress policy (403 "gateway answered 403 to CONNECT" per `$HTTPS_PROXY/__agentproxy/status`), a persistent policy denial. Direct FRED `fredgraph.csv` fetch also failed (curl exit 56, "CONNECT tunnel failed, response 403" on `fred.stlouisfed.org`). `WebFetch` returned `EGRESS_BLOCKED` on every external financial domain attempted (federalreserve.gov, tradingeconomics.com). Relied entirely on `WebSearch` for all price fields, EMAs, the real-yield check, and all research topics.
+
+**Prices added to CSV** (previous trading day T-1 = Monday August 10; last CSV row before this run was Aug 7):
+- Gold: **$4,378.76** (+0.81% vs $4,341.94 Aug7) — the initially-sourced figure ($4,399.70, from a "previous close" snippet) was internally inconsistent with the other four fields' day-over-day % changes and was discarded in favor of a cross-validated $4,378.76, backed out from an independently reported "+0.81% from previous day" figure ($4,341.94 × 1.0081 = $4,377.11, close agreement).
+- Silver: **$65.72** (+3.43%) — derived from a reported "+1.07% from the previous day" figure for Aug 11 spot ($66.41 ÷ 1.0107 ≈ $65.71).
+- DXY: **99.8074** (+0.25%) — directly reported for Aug 10 ("rose to 99.8074... up 0.27% from the previous session"), cross-checked against $99.56 × 1.0027 = $99.83 (close agreement).
+- WTI: **$80.42** (+2.86%) — directly reported ("rose to 80.42 USD per barrel... up 2.86%"), exact match vs $78.18 × 1.0286 = $80.42.
+- USD/INR: **95.2390** (+0.10%) — directly reported ("rose to 95.2390... up 0.11%"), close agreement vs $95.14 × 1.0011 = $95.245.
+
+**Real yields CSV**: Appended `2026-08-10,2.41` to `prices/real_yields.csv` (now 9 rows) — sourced via web search (Jefferies-cited "~2.41%... early August" commentary, no precise dated anchor; moderate-to-low confidence). Direct FRED fetch again blocked. Delta vs 2026-08-06 (2.43%) = **−2bps**, below the ±3bps threshold — Factor 7 stays **Neutral (0)**. See [[real-yields-tips]].
+
+**EMA9/EMA50 (Factor 5)**: Web search again returned only inconsistent SMA figures (no clean 9-day EMA). Computed directly from `prices/prices.csv`'s 178-row Gold_USD close history (standard EMA formula, SMA-seeded): **EMA9 = $4,212.39, EMA50 = $4,204.46**. Aug10 close ($4,378.76) is ABOVE BOTH EMAs; last 2 daily deltas: Aug6→7 +$99.79, Aug7→10 +$36.82 — BOTH GREEN → **Factor 5 = Bullish (+1)**, reversing Bearish.
+
+**Raw file created**: `raw/india-gold-2026-08-11.md` — MCX 24K ₹1,54,814/10g (Aug11, +1.12% intraday); RBI static 880.52t; ₹10,463cr customs duty collected on gold/silver/platinum since the May13 duty hike (fresh Parliament disclosure); no new ETF/RBI/policy data; festive-season inventory build-up noted as the freshest retail-demand item.
+
+**Central bank sweep (Step 3 Topic 1)**: Ran all four mandated sweep searches directly. No new confirmed country-level CB buy/sell/policy data found — one recurring "August 2026" aggregator figure (Kazakhstan +3t, Turkey +2t, Czech +2t, China +2t, global +10t) was again treated as an implausible/recycled figure (same pattern already discarded on Aug 5 and Aug 7) and not logged as fact. Checked all mandated large-holder countries individually (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran) — no material change for any except **USA**: Senator Rand Paul visited Fort Knox on August 10, 2026 to personally verify gold reserves, renewing calls for a full independent audit (H.R. 3795 still at committee referral). Added to [[usa-gold-reserves]] Daily Update Log and the Policy Tracker.
+
+**Bank forecast note (Step 3 Topic 4, wiki-completeness only, not signal-feeding)**: No new bank target revisions found; reconfirmed the existing ~$4,500-$6,300 range (simple average ~$5,060, median ~$4,825) and the still-unresolved JPMorgan $4,500-vs-$6,000 contradiction flagged Aug 10.
+
+**Pages updated**:
+- [[india-gold-market]] — new "August 11, 2026" dated section; summary/sources/last-updated refreshed
+- [[gold-geopolitical-risk-premium]] — new summary line + timeline table row for Aug 11
+- [[fed-macro-factors]] — new summary line + "August 11" dated section
+- [[real-yields-tips]] — new "August 11 check" entry + table row
+- [[usa-gold-reserves]] — Daily Update Log row for the Rand Paul Fort Knox visit
+- [[global-cb-activity-log]] — new "### 2026-08-11" dated section (10 rows) + Policy Tracker row
+- [[goldman-sachs-gold-forecast]] — new "August 11" dated section (no new revisions found)
+- `wiki/index.md` — descriptions refreshed for all pages above
+
+**global-cb-activity-log.md rows added**: 1 global summary row + 8 per-country rows (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, India) — all "no new data" except USA (Rand Paul visit) and the global/India summary rows.
+
+**Signal (Step 6)**: Factors 2/3/5/6/7 = [−1 geo (Iran/Hormuz still unsigned, no fresh breakthrough, hardline security appointment Aug9, priced in); +1 macro (dovish NFP reprice from Aug7 carried forward, no new Fed data, CPI/PPI still pending); +1 tech (Aug10 close above both computed EMAs, last 2 daily deltas both green); 0 dollar (DXY +0.25%, USD/INR +0.10%, both within ±0.5%); 0 real yields (est. −2bps, below ±3bps threshold)]. Net score **+1 → Wait**. Appended to `signals/signals.csv`.
+
+**Git**: Committed and pushed to `main`.
+
+---
+
 ## 2026-08-10 — Daily update: US July NFP confirmed −23k contraction (surprise dovish shock) drives biggest gold rally in weeks; Iran conflict widens but priced in as spot pulls back from 7-week high; real yields flip Neutral; gold $4,341.94 (Aug7 close, +2.49%) | Signal: Wait (−1)
 
 **Holiday check**: Searched NSE/BSE 2026 August holiday calendar (LatestLY, Angel One, PL Capital, Groww, Zerodha, Aditya Trading, ProStocks) — confirmed August 2026 has no weekday market holidays (Independence Day Aug 15 falls on a Saturday; Aug 26 is a settlement-only holiday, not a trading holiday). August 10 (Monday) is a normal trading day. Proceeded.

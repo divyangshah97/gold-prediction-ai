@@ -1,6 +1,8 @@
 # Fed & Macro Factors
 
-**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **August 10 UPDATE**: The July NFP report (released Aug 7) confirmed a surprise **−23,000 job contraction** (vs ~80-95k consensus across sources), with a combined −103,000 downward revision to May/June, unemployment falling to 4.1% on shrinking labor-force participation, and wage growth slowing to 3.2% y/y (softest since May 2021) — a decisively dovish print. Fed hold-odds for September rose to ~58%. Gold rallied +2.49% same day and the dovish reprice stands unreversed (July CPI due Aug 12, not yet released). Net: **Macro factor = Bullish (+1)**, reversing Bearish. DFII10 real yield: **2.43% (Aug 6)** vs 2.41% (Aug 4) = **+2bps**, below the ±3bps threshold → **Factor 7 = Neutral (0)**, reversing Bullish.
+**Summary**: The Federal Reserve's policy path, the US fiscal outlook, and real yield dynamics are key macro drivers of gold. **August 11 UPDATE**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 10 — July CPI is due Wednesday Aug 12 and PPI Thursday Aug 13, both still pending. The dovish reprice from Friday's NFP contraction (−23,000 jobs) stands unreversed; gold pushed toward $4,400-4,430 intraday Aug 11 ahead of the CPI print. Net: **Macro factor = Bullish (+1)**, carried forward. DFII10 real yield: estimated **2.41% (Aug 10, moderate confidence — web search, FRED direct fetch blocked)** vs 2.43% (Aug 6) = **−2bps**, below the ±3bps threshold → **Factor 7 = Neutral (0)**, unchanged.
+
+**Prior (August 10) update**: The July NFP report (released Aug 7) confirmed a surprise **−23,000 job contraction** (vs ~80-95k consensus across sources), with a combined −103,000 downward revision to May/June, unemployment falling to 4.1% on shrinking labor-force participation, and wage growth slowing to 3.2% y/y (softest since May 2021) — a decisively dovish print. Fed hold-odds for September rose to ~58%. Gold rallied +2.49% same day and the dovish reprice stands unreversed (July CPI due Aug 12, not yet released). Net: **Macro factor = Bullish (+1)**, reversing Bearish. DFII10 real yield: **2.43% (Aug 6)** vs 2.41% (Aug 4) = **+2bps**, below the ±3bps threshold → **Factor 7 = Neutral (0)**, reversing Bullish.
 
 **Prior (August 7) update**: No new FOMC data, Fed speaker events, or CPI/PPI prints since Aug 6 — the July jobs report (NFP) is due later **today, Friday August 7, 2026** (consensus ~80-88k jobs, unemployment 4.2%), a pivotal print for September rate-cut odds that had not yet released at the time of this routine's run. Net: **Macro factor = Bearish (−1)**, unchanged (standing hawkish-tilt backdrop persists pending the NFP release). DFII10 real yield: no newer FRED print found (web search reconfirmed 2.41% as of Aug 4 is still the latest published value) — delta vs 2.50% (Jul 31) carried forward at **−9bps**, beyond the ±3bps threshold → **Factor 7 = Bullish (+1)**, unchanged from Aug 6.
 
@@ -16,7 +18,17 @@
 
 **Sources**: `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, `raw/india-gold-2026-07-31.md`, `raw/india-gold-2026-07-29.md`, `raw/india-gold-2026-07-28.md`, `raw/india-gold-2026-07-27.md`, https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026, https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm, https://goldsilver.com/industry-news/article/gold-price-outlook-june-2026/, https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm, https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/, https://www.cnbc.com/amp/2026/07/01/gold-prices-slip-as-firmer-treasury-yields-fed-rate-outlook-weigh.html, https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year, https://www.cnbc.com/2026/07/07/gold-eases-as-markets-await-fed-minutes-for-direction.html, https://goldsilver.com/industry-news/goldsilver-news/gold-silver-fomc-minutes-july-2026-reaction/, https://goldsilver.com/industry-news/goldsilver-news/gold-price-4000-floor-wgc-valuation-2026/, https://growbeansprout.com/tools/fedwatch, https://www.cmelitegroup.com/knowledge-hub/fomc-meeting-fed-decision-day/, https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/, https://cambridgecurrencies.com/next-federal-reserve-interest-rate-decision/, https://tipswatch.com/2026/07/30/federal-reserve-is-losing-credibility-at-the-worst-possible-time/
 
-**Last updated**: 2026-08-10
+**Last updated**: 2026-08-11
+
+---
+
+## August 11, 2026 — No New Fed Data; CPI/PPI Pending; Dovish Reprice Holds; DFII10 −2bps (Neutral)
+
+**Key macro data (Aug 11)**:
+- **No new FOMC data, Fed speaker events, or CPI/PPI prints** since the Aug 10 update. **July CPI is due Wednesday, August 12** and **PPI Thursday, August 13** — the next scheduled catalysts, neither released yet as of this run.
+- **Market reaction**: Gold extended its rally, closing Aug 10 at $4,378.76 (+0.81% vs Aug 7) and pushing toward $4,400-4,430 intraday Aug 11 — its strongest level since early June — as the dovish NFP reprice from Aug 7 continues to support the market ahead of this week's inflation data.
+- **10Y TIPS real yield (DFII10)**: estimated **2.41% (Aug 10, moderate confidence)** vs 2.43% (Aug 6) = **−2bps**, below the ±3bps threshold → **Factor 7 = Neutral (0)**, unchanged; see [[real-yields-tips]].
+- **Net macro factor for August 11**: **Bullish (+1)** — carried forward; no new data to reverse the dovish reprice, with CPI/PPI this week as the key near-term risk (a hot print could quickly revive hike bets and cap the rally).
 
 ---
 

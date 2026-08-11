@@ -4,7 +4,13 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/, https://goldsilver.com/industry-news/article/gold-price-forecast-2026-2027-key-predictions-from-top-analysts/, https://goldsilver.com/industry-news/goldsilver-news/hsbc-gold-price-forecast-cut-2026/, https://goldmarketdaily.com/gold-price-forecast-2026-what-goldman-sachs-jpmorgan-and-major-banks-are-predicting/
 
-**Last updated**: 2026-08-10
+**Last updated**: 2026-08-11
+
+---
+
+## August 11, 2026 — No New Bank Revisions; Range Confirmed ~$4,500-$6,300
+
+No new bank target revisions found today. Web search reconfirmed the existing spread: across the four headline forecasts, the simple average is ~$5,060 and the median ~$4,825, with J.P. Morgan's Q4 figure cited elsewhere at $6,000 — consistent with the internal contradiction already flagged on this page (Aug 10 entry) rather than a resolution. This factor no longer feeds the trading signal (retired 2026-07-25); tracked for wiki completeness only, see [[signal-methodology]].
 
 ---
 
