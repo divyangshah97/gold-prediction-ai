@@ -4,7 +4,13 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/, https://goldsilver.com/industry-news/article/gold-price-forecast-2026-2027-key-predictions-from-top-analysts/, https://goldsilver.com/industry-news/goldsilver-news/hsbc-gold-price-forecast-cut-2026/, https://goldmarketdaily.com/gold-price-forecast-2026-what-goldman-sachs-jpmorgan-and-major-banks-are-predicting/
 
-**Last updated**: 2026-08-11
+**Last updated**: 2026-08-12
+
+---
+
+## August 12, 2026 — No New Revisions; UBS Figure Reconfirmed at $4,400/$4,600/$5,200 (Sept/End-2026/Mid-2027)
+
+No new bank target revisions found today. Reconfirmed via a fresh source: UBS raised its forecast on July 23, 2026 to **$4,400 by Sept, $4,600 by end-2026, $5,200 by mid-2027** — consistent with, not a change from, the $5,200 figure already on this page's Aug 11 range. JPMorgan's Q3/Q4 split ($4,300/$4,500) also reconfirmed. The existing ~$4,500-$6,300 range and the unresolved JPMorgan $4,500-vs-$6,000 contradiction both stand unchanged. This factor no longer feeds the trading signal (retired 2026-07-25); tracked for wiki completeness only, see [[signal-methodology]].
 
 ---
 

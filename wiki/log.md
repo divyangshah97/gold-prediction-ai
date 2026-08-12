@@ -4,6 +4,49 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-12 — Daily update: fresh Iran/Hormuz escalation (Houthi vessel sunk, NK missile, Iran refuses Hormuz open) drives genuine safe-haven bid; geo factor flips Bullish for first time since Aug 2 | Signal: Buy (+3) — first Buy under 5-factor system
+
+**Holiday check**: Searched NSE/BSE 2026 August holiday calendar (LatestLY, Angel One, PL Capital, Zeebiz) — confirmed August 2026 has no weekday market holidays (Independence Day Aug 15 falls on a Saturday; Aug 26 is a settlement-only holiday, equity trading unaffected). August 12 (Wednesday) is a normal trading day. Proceeded.
+
+**Network note**: `fetch_prices.py` failed entirely — yfinance (`fc.yahoo.com`) and the metals.dev fallback (`api.metals.dev`) were both blocked by the sandbox's outbound egress policy (403 "gateway answered 403 to CONNECT" per `$HTTPS_PROXY/__agentproxy/status`), confirmed as a persistent policy denial, not transient (`recentRelayFailures` logged multiple rejected CONNECT attempts to both hosts). Direct FRED `fredgraph.csv` fetch via WebFetch also failed (`EGRESS_BLOCKED`). Delegated research to two parallel background agents (global sweep + price-fetch) to gather web-search-sourced data, then reconciled results directly against `prices/prices.csv`'s own history per established methodology.
+
+**Prices added to CSV** (previous trading day T-1 = Tuesday August 11; last CSV row before this run was Aug 10):
+- Gold: **$4,390.26** (+0.26% vs $4,378.76 Aug10) — used Investing.com's directly-quoted "prior close" figure; alternate sources (Kitco spot +0.78%, Barchart futures settle −0.14%) showed meaningful disagreement (flagged, not fully resolved) — Investing.com's figure was preferred as the most direct, explicitly-labeled close.
+- Silver: **$64.66** (−1.61%) — derived from a reported "+1.06% from previous day" figure for Aug 12 spot ($65.36 ÷ 1.0106 ≈ $64.66); flagged as internally inconsistent with the gold/oil rally narrative (silver normally correlates positively with gold), not resolved.
+- DXY: **99.75** (−0.06%) — directly reported ("climbed 0.21% to 99.748"), used as the closing figure; cross-check against a chained computation from the CSV's Aug10 value showed a ~0.17% discrepancy (moderate confidence).
+- WTI: **$83.62** (+3.98%) — directly reported and corroborated across CNBC/FXStreet, converging in the $83.50-83.62 band (moderate-high confidence).
+- USD/INR: **95.43** (+0.20%) — high confidence, official interbank close from News Arena India ("rupee falls 13 paise to settle at 95.43"), cross-checked against independently reported Aug10 prior close (95.28, close to CSV's 95.2390).
+
+**Real yields CSV**: No newer DFII10 reading found (FRED direct fetch `EGRESS_BLOCKED`; web search returned only page links, no dated numeric value for Aug 11). Per the no-duplicate/no-fabrication rule, `prices/real_yields.csv` left unchanged (still 9 rows, latest 2026-08-10). Delta vs 2026-08-06 (2.43%) carried forward: **−2bps**, below the ±3bps threshold — Factor 7 stays **Neutral (0)**. See [[real-yields-tips]].
+
+**EMA9/EMA50 (Factor 5)**: Web search again returned inconsistent figures (best estimate 50-day EMA ≈$4,373 vs computed $4,211.75 — a large gap, likely a different contract/methodology). Computed directly from `prices/prices.csv`'s 179-row Gold_USD close history (standard EMA formula, SMA-seeded): **EMA9 = $4,247.96, EMA50 = $4,211.75**. Aug11 close ($4,390.26) is ABOVE BOTH EMAs; last 2 daily deltas: Aug7→10 +$36.82, Aug10→11 +$11.50 — BOTH GREEN → **Factor 5 = Bullish (+1)**, unchanged.
+
+**CPI check**: July CPI was scheduled for release today (8:30am ET) but had **not printed** as of this research (confirmed via Kiplinger/BLS — release remains embargoed). Dovish reprice from Aug 7's NFP shock (−23,000 jobs) carries forward for a fifth consecutive day → **Factor 3 = Bullish (+1)**, unchanged.
+
+**Geopolitical read — the key driver of today's signal flip**: Fresh escalation found via the global sweep agent and India research: Iran said the Strait of Hormuz "won't open until conditions are met" (CNBC, Aug 11) — a hardening from the "very close" framing of Aug 8-9; Houthi forces sank an Indian-flagged vessel off Yemen (14 rescued); a North Korean missile launch added a separate risk event. WTI jumped +3.98% on the renewed Hormuz-closure risk, and — critically — gold rallied WITH oil (not against it via the disinflation channel, as in the Aug 5-6 episode) while DXY stayed flat-to-weaker (−0.06%). This is the textbook Bullish transmission pattern per [[signal-methodology]] Factor 2: safe-haven flows into gold with USD flat/weakening. **Factor 2 flips to Bullish (+1)**, reversing the Bearish read held continuously since Aug 3 (9 consecutive days).
+
+**Raw file created**: `raw/india-gold-2026-08-12.md` — MCX 24K ₹15,486/gram (Aug12, +₹104); RBI static 880.52t; no new ETF/RBI/import-policy data; USD/INR settled ₹95.43 (Aug11, high confidence); Kundan Gold Refinery award noted as a minor other-news item.
+
+**Central bank sweep (Step 3 Topic 1)**: Ran all four mandated sweep searches via a dedicated background research agent. No new confirmed country-level CB buy/sell/policy data found. China's PBoC July purchase (+19.9-20t, 21st consecutive month) was reconfirmed via Bloomberg/Caixin (published Aug 7-8) but was already reflected on [[china-pboc-gold]] as of Aug 10 — not new today. Checked all mandated large-holder countries individually (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran) — no material change for any; Iran's only development was the Hormuz-stance hardening (captured under the geopolitical read above, not a reserve/CBI item).
+
+**Bank forecast note (Step 3 Topic 4, wiki-completeness only, not signal-feeding)**: No new bank target revisions found; reconfirmed UBS's existing $4,400 (Sept)/$4,600 (end-2026)/$5,200 (mid-2027) figures and JPMorgan's Q3 $4,300/Q4 $4,500 split via fresh sources — consistent with, not a change from, the range already on file.
+
+**Pages updated**:
+- [[india-gold-market]] — new "August 12, 2026" dated section; summary/sources/last-updated refreshed
+- [[gold-geopolitical-risk-premium]] — new summary line + timeline table row for Aug 12
+- [[iran-conflict-2026]] — new summary + timeline row for the Aug 11-12 escalation
+- [[fed-macro-factors]] — new summary line + "August 12" dated section
+- [[real-yields-tips]] — new "August 12 check" entry (no new row, unchanged)
+- [[global-cb-activity-log]] — new "### 2026-08-12" dated section (10 rows)
+- [[goldman-sachs-gold-forecast]] — new "August 12" dated section (no new revisions, UBS/JPM figures reconfirmed)
+- `wiki/index.md` — descriptions refreshed for all pages above
+
+**global-cb-activity-log.md rows added**: 1 global summary row + China (reconfirmation) + 7 "no new data" large-holder rows (Germany, France, Italy, Japan, USA, UK, Saudi Arabia) + Iran (Hormuz stance) + India summary row = 10 rows total.
+
+**Signal**: `signals/signals.csv` appended `2026-08-12,Buy,3,...` — net score **+3** [Factor2 Geo +1, Factor3 Macro +1, Factor5 Tech +1, Factor6 Dollar 0, Factor7 RealYield 0]. This is the **first Buy signal** recorded since the five-factor system went live 2026-07-27 (all prior signals were Wait or Sell).
+
+---
+
 ## 2026-08-11 — Daily update: rally extends toward $4,400+ ahead of CPI/PPI; technicals flip Bullish (price above both EMAs, 2 green); Iran deal still unsigned but priced in; Rand Paul visits Fort Knox | Signal: Wait (+1)
 
 **Holiday check**: Searched NSE/BSE 2026 August holiday calendar (LatestLY, Angel One, PL Capital) — confirmed August 2026 has no weekday market holidays (Independence Day Aug 15 falls on a Saturday; Aug 26 is a settlement-only holiday). August 11 (Tuesday) is a normal trading day. Proceeded.

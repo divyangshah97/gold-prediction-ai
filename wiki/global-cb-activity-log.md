@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-11
+**Last updated**: 2026-08-12
 
 ---
 
@@ -76,6 +76,22 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-12
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-12 | 🌐 Global (Macro/Geo) | **Fresh Iran/Hormuz escalation drives safe-haven bid; Signal flips to Buy (+3), first Buy under the 5-factor system** | Ran all four mandatory sweep searches. No new confirmed country-level CB buy/sell/policy data found (China's July +19.9-20t PBoC purchase, published Aug 7-8, was already on file — reconfirmed via Bloomberg/Caixin, no new tonnage). Dominant story: Iran said the Strait of Hormuz "won't open until conditions are met" (Aug 11); Houthi forces sank an Indian-flagged vessel off Yemen; a North Korean missile launch added a separate risk event. WTI +3.98% while gold rallied WITH oil and a flat-to-weaker dollar — a genuine safe-haven bid (Factor 2 flips Bullish for the first time since Aug 2). No new FOMC data; July CPI due today had not printed as of this research. **Signal: Buy (+3)** [+1 geo; +1 macro; +1 tech; 0 dollar; 0 real yields], up from Wait (+1) on Aug 11. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | Web search Aug 12, 2026 |
+| 2026-08-12 | 🇨🇳 China (PBoC) | **Reconfirmed: +19.9-20t July 2026 (21st consecutive month), largest monthly purchase since Nov 2023; holdings ~2,346-2,366t** | Already reflected on [[china-pboc-gold]] (updated Aug 10); no new tonnage today, cross-checked against Bloomberg/Caixin. | https://www.bloomberg.com/news/articles/2026-08-07/china-s-central-bank-adds-20-tons-to-gold-reserves-in-july |
+| 2026-08-12 | 🇩🇪 Germany (Bundesbank) | **No new data** | No new Bundesbank statements found; background repatriation pressure (1,236t still at NY Fed) unchanged, "no formal plan exists." See [[germany-gold-reserves]]. | Web search Aug 12, 2026 |
+| 2026-08-12 | 🇫🇷 France (Banque de France) | **No new data** | No new BdF statements. See [[france-gold-reserves]]. | Web search Aug 12, 2026 |
+| 2026-08-12 | 🇮🇹 Italy (Banca d'Italia) | **No new data** | FdI ownership dispute (Malan bill) still unresolved; no new developments since Aug 10's Lagarde pushback. See [[italy-gold-reserves]]. | Web search Aug 12, 2026 |
+| 2026-08-12 | 🇯🇵 Japan (BoJ) | **No new data** | No new BoJ/MoF gold-allocation statements found; 845.97t static. See [[japan-gold-reserves]]. | Web search Aug 12, 2026 |
+| 2026-08-12 | 🇺🇸 USA (Treasury/Congress) | **No new data** | No new development since the Aug 10 Rand Paul Fort Knox visit; H.R. 3795 still at committee referral. See [[usa-gold-reserves]]. | Web search Aug 12, 2026 |
+| 2026-08-12 | 🇬🇧 UK (Bank of England) | **No new data** | No new BoE gold-custody statements. See [[uk-gold-reserves]]. | Web search Aug 12, 2026 |
+| 2026-08-12 | 🇸🇦 Saudi Arabia (SAMA) | **No new data** | Still static at 323.07t / 2.6% of reserves. See [[saudi-arabia-gold-reserves]]. | Web search Aug 12, 2026 |
+| 2026-08-12 | 🇮🇷 Iran (CBI) | **No new gold-reserve data; Hormuz stance hardens — strait "won't open until conditions are met" (Aug 11)** | No CBI reserve announcements. See [[iran-gold-reserves]], [[iran-conflict-2026]]. | https://www.cnbc.com/amp/2026/08/11/oil-prices-today-us-crude-84.html |
+| 2026-08-12 | 🇮🇳 India (RBI + Market) | **MCX 24K ₹15,486/gram (Aug12, +₹104); RBI static 880.52t; USD/INR ₹95.43 (Aug11 close, +0.20%); Signal: Buy (+3)** | MCX gold and COMEX both rallying on the fresh Hormuz/Houthi/NK safe-haven bid ahead of today's US CPI. RBI reserves unchanged; ₹10,463cr customs duty figure carried forward (no newer figure). **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-08-12.md`. | `raw/india-gold-2026-08-12.md` |
 
 ### 2026-08-11
 
