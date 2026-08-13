@@ -4,7 +4,7 @@
 
 **Sources**: Web research — [US Treasury FRED April 2026](https://fred.stlouisfed.org/release/tables?eid=155805&rid=426), [US Treasury Fiscal Data](https://fiscaldata.treasury.gov/datasets/status-report-government-gold-reserve/), [Metalorix](https://metalorix.com/en/learn/price-factors/us-gold-reserves-and-fort-knox-8133-tonnes-explained), [Wikipedia Fort Knox](https://en.wikipedia.org/wiki/United_States_Bullion_Depository)
 
-**Last updated**: 2026-08-11 (see Daily Update Log for the Aug 11 Rand Paul Fort Knox visit; core reserve figures below still reflect the April 30, 2026 Treasury verification)
+**Last updated**: 2026-08-13 (see Daily Update Log for the Aug 11 Rand Paul Fort Knox visit; core reserve figures below still reflect the April 30, 2026 Treasury verification)
 
 ---
 
@@ -91,6 +91,7 @@ If the US ever revalued its gold to market price (~$1.17T), or used it as collat
 
 | Date | Event |
 |---|---|
+| 2026-08-13 | No new developments dated Aug 11-13. Reconfirmed via fresh sweep: H.R. 3795 audit mandate and the Aug 10 Rand Paul Fort Knox visit remain the most recent items (see Aug 11 row); no Treasury revaluation plan, no reserve change. |
 | 2026-08-11 | Senator **Rand Paul visited Fort Knox on August 10, 2026** to personally verify the gold reserves, reiterating calls for an independent audit — following on from H.R. 3795's committee referral. No new confirmation of a completed audit; Congressional authorisation, Treasury cooperation, and FRBNY participation are all still required and none is imminent. No change to the 8,133t reserve figure or to buy/sell activity. |
 | 2026-07-27 | Congress passed **H.R. 3795 (Gold Reserve Transparency Act)** mandating the first independent audit of US gold reserves in 65+ years (Comptroller General to hire an independent auditor for a full assay/inventory/audit, repeated every 5 years) — as of this update it has not advanced beyond committee referral. Separately, Treasury Secretary Bessent stated on Fox News (July 15, 2026) that all Fort Knox gold "remains present and accounted for," valuing holdings at over $1 trillion at market prices, but confirmed he personally has not conducted or witnessed an audit. Bessent reiterated in March 2025 that Treasury is "not revaluing the gold" from the $42.22/oz statutory price. No change to the 8,133t reserve figure or to buy/sell activity. |
 | 2026-05-27 | Page created with fresh data. US Treasury confirmed 8,133t as of April 30, 2026 (FRED monthly release). Fort Knox holds 147.3M fine troy oz (~4,583t). No purchases or sales. Statutory value remains $42.22/oz. |

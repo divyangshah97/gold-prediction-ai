@@ -2,9 +2,15 @@
 
 **Summary**: Goldman Sachs is the most widely followed institutional forecaster on gold. **MAJOR REVISION June 22, 2026: Goldman cut end-2026 target from $5,400 to $4,900/oz**. **MAJOR: JPMorgan cut Q4 2026 target to $4,500** (from ~$6,000) on July 5, 2026 — the most dramatic downward revision by any bank this cycle. Avg 2026 forecast cut to $5,243 from $5,708. **August 7 check**: bank consensus has WIDENED to roughly **$4,500–$6,300** as forecasts diverge in both directions: HSBC cut to $4,560 (from $4,864), ING cut to $4,600 (from $5,000), Deutsche Bank $4,800, JPMorgan Q4 $4,500 (still most bearish), Goldman $4,900, Morgan Stanley $5,200 (base $4,400) — vs. Societe Generale's new $6,000 call and Wells Fargo's raised $6,100–$6,300 target (from $4,500–$4,700). **Note: this factor (Price vs Targets) was retired from the trading signal on 2026-07-25 — page still maintained for wiki completeness only, see [[signal-methodology]].**
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/, https://goldsilver.com/industry-news/article/gold-price-forecast-2026-2027-key-predictions-from-top-analysts/, https://goldsilver.com/industry-news/goldsilver-news/hsbc-gold-price-forecast-cut-2026/, https://goldmarketdaily.com/gold-price-forecast-2026-what-goldman-sachs-jpmorgan-and-major-banks-are-predicting/
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/, https://goldsilver.com/industry-news/article/gold-price-forecast-2026-2027-key-predictions-from-top-analysts/, https://goldsilver.com/industry-news/goldsilver-news/hsbc-gold-price-forecast-cut-2026/, https://goldmarketdaily.com/gold-price-forecast-2026-what-goldman-sachs-jpmorgan-and-major-banks-are-predicting/, https://coinpaper.com/33893/gold-price-prediction-gold-holds-4060-as-citi-targets-4500, https://goldenarkreserve.com/blog/gold-price-forecast-august-2026/
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-08-13
+
+---
+
+## August 13, 2026 — No New Revisions; Citi/Standard Chartered Figures Reconfirmed
+
+No new bank target revisions found today. A fresh sweep re-surfaced the existing figures without change: Citi ($4,500 Q4 2026 → $5,000 H1 2027, cut June 9 to $4,000 near-term before the Q4/H1'27 profile was set) and Standard Chartered (Suki Cooper, Aug 3: Q4 2026 average $4,650, expects a retest of $5,000) — both consistent with the Aug 10 entry below, not a change. This factor no longer feeds the trading signal (retired 2026-07-25); tracked for wiki completeness only, see [[signal-methodology]].
 
 ---
 

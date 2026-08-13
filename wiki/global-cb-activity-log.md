@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-08-13
 
 ---
 
@@ -76,6 +76,24 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-13
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-13 | 🌐 Global (Macro/Geo) | **July CPI printed cool/benign, eases hike odds; Iran-war escalation continues (Houthi Tihamah attack, US missile strikes); Signal holds Buy (+3)** | Ran all four mandatory sweep searches via a dedicated background agent. No new country-level CB tonnage data dated Aug 11-13 found beyond the Uzbekistan item below (official CB data releases lag; next PBoC print early Sept). Dominant story: July CPI (+0.1% m/m/+3.4% y/y, core +2.5%) eased Sept rate-hike odds ~46%→~40%, and Iran-war escalation continued (Houthi killed 6 on the *Tihamah* Aug 11; US fired on a container ship near the Iran blockade Aug 12) — gold rose (+0.52% to $4,413.00 settle) with DXY flat. **Signal: Buy (+3)** [+1 geo; +1 macro; +1 tech; 0 dollar; 0 real yields], unchanged from Aug 12. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇺🇿 Uzbekistan | **New: gold+FX reserves rose ~$590M over the prior month; gold holdings ~430.8t as of Aug 1, 2026 (up from ~366t); ~85-87% of total reserves** | Most current single-country CB data point found in this sweep. **Page updated: [[uzbekistan-gold-reserves]]**. | https://zamin.uz/en/economy/217119-ozbekistonning-oltin-valyuta-zaxiralari.html |
+| 2026-08-13 | 🇨🇳 China (PBoC) | **No new data** | July +19.9-20t (21st consecutive month) still the latest print, already reflected. Next release early September. See [[china-pboc-gold]]. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇩🇪 Germany (Bundesbank) | **No new data** | No new Bundesbank statements or Bundestag votes found. See [[germany-gold-reserves]]. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇫🇷 France (Banque de France) | **No new data** | 134t bar-upgrade programme (targeting 2028) unchanged; no completion announcement. See [[france-gold-reserves]]. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇮🇹 Italy (Banca d'Italia) | **No new data** | FdI ownership dispute remains at the rhetorical/proposal stage; no legislative movement since Aug 10's Lagarde pushback. See [[italy-gold-reserves]]. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇯🇵 Japan (BoJ/MoF) | **No new data** | No new gold-allocation statements; 845.97t static. See [[japan-gold-reserves]]. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇺🇸 USA (Treasury/Congress) | **No new data; H.R. 3795 audit mandate and Aug 10 Rand Paul Fort Knox visit remain the latest items** | No Treasury revaluation plan; reserves unchanged at 8,133t. **Page updated: [[usa-gold-reserves]]**. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇬🇧 UK (Bank of England) | **No new BoE-specific data; LBMA aggregate London vault data end-July 2026: 9,534t (+0.74% m/m, ~$1.2T)** | Aggregate market data, not BoE's own 310.29t reserve specifically. See [[uk-gold-reserves]]. | https://www.lbma.org.uk/prices-and-data/london-vault-data |
+| 2026-08-13 | 🇸🇦 Saudi Arabia (SAMA) | **No new data** | Still static at 323.07t. See [[saudi-arabia-gold-reserves]]. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇮🇷 Iran (CBI) | **No new CBI reserve data; nuclear/sanctions context unchanged (UN snapback since Sep 2025); Hormuz-corridor hopes dim further after Aug 11-12 attacks** | No new reserve tonnage. See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search Aug 13, 2026 |
+| 2026-08-13 | 🇮🇳 India (RBI + Market) | **MCX opened ₹1,55,071/10g (+₹189); RBI static 880.52t; USD/INR ₹95.33 (Aug12 close, −0.10%); Signal: Buy (+3)** | July CPI + continuing Iran-war escalation both feeding into the Buy signal. RBI reserves unchanged. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-08-13.md`. | `raw/india-gold-2026-08-13.md` |
+| 2026-08-13 | 🇭🇺 Hungary | **Context (not new this window): +31t in Q1 2026, citing eurozone policy-divergence concerns; ~110t total** | Second mention in this log (see Watchlist table); still short of the 3-entry threshold for a dedicated page. | https://skillings.net/central-bank-gold-reserves-q1-2026-record-highs/ |
 
 ### 2026-08-12
 
