@@ -2396,3 +2396,6 @@ Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Hi
 **New files**: `raw/india-gold-2026-08-06.md`, `prices/prices.csv` (Aug5 row), `prices/real_yields.csv` (Aug4 row), `signals/signals.csv` (Aug6 row: Wait, +2)
 
 **Data confidence flag**: The DFII10 2.41% reading is sourced from aggregated web commentary (Jefferies/UBS analysis cited in gold-market pieces), not a direct FRED row — flagged as moderate rather than high confidence in `real-yields-tips.md` and `fed-macro-factors.md`. If a future run finds a materially different dated FRED value for early August, this should be reconciled.
+
+## 2026-08-15 — COT weekly update
+Report_Date: 2026-08-11 | MM_Net: +137,662 (+6,896 vs. prior week) | OI: 400,309 | Sentiment: Neutral zone (50,000–150,000) | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at: 2026-08-14T20:55:17Z
