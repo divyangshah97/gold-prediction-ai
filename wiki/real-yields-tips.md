@@ -4,13 +4,15 @@
 
 **Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25.
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-17
 
 ---
 
 ## Latest Reading
 
-**August 13 check**: Direct FRED `fredgraph.csv` fetch again returned `EGRESS_BLOCKED` for `fred.stlouisfed.org`, and `WebFetch` to `www.macroradar.io` and `tradingeconomics.com` were also `EGRESS_BLOCKED`. Web search for "DFII10 real yield August 12 2026" and "10-year TIPS yield August 11 2026" surfaced only page links and one source repeating the already-on-file **2.43% for August 10** (a discrepancy with this file's own 2.41% Aug 10 entry — both are aggregated web-search figures, neither a direct FRED read, so treated as noise rather than a correction) — no reading dated later than Aug 10 was found. Per the no-duplicate/no-fabrication rule, `prices/real_yields.csv` was left unchanged (still 9 rows, latest 2026-08-10). Delta vs 2026-08-06 (2.43%) carried forward unchanged: **−2bps**, below the ±3bps threshold → **Factor 7 = Neutral (0)** for the August 13 signal, unchanged from Aug 12.
+**August 17 check**: Direct FRED `fredgraph.csv` fetch again failed (`curl` exit code 56, "CONNECT tunnel failed, response 403" — confirmed via `$HTTPS_PROXY/__agentproxy/status`). Web search for "10 year TIPS yield DFII10 August 14 2026" and "10-year TIPS real yield today August 2026" surfaced a dated figure this time: **2.40% for August 14, 2026** (multiple sources, including a Federal Reserve H.15 reference). No routine ran Aug 14-16 (weekend + one missed day), so this is the first reading since Aug 10. Appended as `2026-08-14,2.40` in `prices/real_yields.csv` (now 10 rows). Delta vs 2026-08-10 (2.41%) = **−1bps**, below the ±3bps threshold → **Factor 7 = Neutral (0)** for the August 17 signal, unchanged.
+
+**Prior (August 13) check**: Direct FRED `fredgraph.csv` fetch again returned `EGRESS_BLOCKED` for `fred.stlouisfed.org`, and `WebFetch` to `www.macroradar.io` and `tradingeconomics.com` were also `EGRESS_BLOCKED`. Web search for "DFII10 real yield August 12 2026" and "10-year TIPS yield August 11 2026" surfaced only page links and one source repeating the already-on-file **2.43% for August 10** (a discrepancy with this file's own 2.41% Aug 10 entry — both are aggregated web-search figures, neither a direct FRED read, so treated as noise rather than a correction) — no reading dated later than Aug 10 was found. Per the no-duplicate/no-fabrication rule, `prices/real_yields.csv` was left unchanged (still 9 rows, latest 2026-08-10). Delta vs 2026-08-06 (2.43%) carried forward unchanged: **−2bps**, below the ±3bps threshold → **Factor 7 = Neutral (0)** for the August 13 signal, unchanged from Aug 12.
 
 **Prior (August 12) check**: Direct FRED `fredgraph.csv` fetch via WebFetch returned `EGRESS_BLOCKED` for `fred.stlouisfed.org`. Web search for "10 year TIPS yield DFII10 August 11 2026" surfaced only FRED/CNBC/MacroMicro page links with no numeric value in the search snippets themselves. No newer dated reading found. Per the no-duplicate/no-fabrication rule, `prices/real_yields.csv` was left unchanged (still 9 rows, latest 2026-08-10). Delta vs 2026-08-06 (2.43%) carried forward unchanged: **−2bps**, below the ±3bps threshold → **Factor 7 = Neutral (0)** for the August 12 signal, unchanged from Aug 11.
 
@@ -28,6 +30,7 @@
 
 | Date | DFII10 | Note |
 |---|---|---|
+| 2026-08-14 | **2.40%** | Tenth data point in `prices/real_yields.csv`. Sourced via web search (Fed H.15-referenced figure, no routine ran Aug 14-16); direct FRED fetch again blocked. Delta vs 2026-08-10 (2.41%) = **−1bps**, below the ±3bps threshold → Factor 7 scored **Neutral (0)** for the 2026-08-17 signal, unchanged. |
 | 2026-08-10 | **2.41% (moderate-to-low confidence)** | Eighth data point in `prices/real_yields.csv`. Sourced via web search (Jefferies-cited "~2.41%... early August" commentary, no precise dated anchor); direct FRED fetch again blocked. Delta vs 2026-08-06 (2.43%) = **−2bps**, below the ±3bps threshold → Factor 7 scored **Neutral (0)** for the 2026-08-11 signal, unchanged from Aug 10. |
 | 2026-08-06 | **2.43%** | Seventh data point in `prices/real_yields.csv`. Sourced via web search (aggregated commentary dated ahead of the Aug 7 NFP release) — direct FRED fetch again blocked. Delta vs 2026-08-04 (2.41%) = **+2bps**, below the ±3bps threshold → Factor 7 scored **Neutral (0)** for the 2026-08-10 signal, reversing the Bullish reading held since Aug 6. |
 | 2026-08-04 | **2.41% (moderate confidence)** | Sixth data point in `prices/real_yields.csv`. Sourced via web search fallback (aggregated gold-market commentary citing Jefferies/UBS analysis and a Kitco Aug 4 article) — direct FRED fetch again blocked. Delta vs 2026-07-31 (2.50%) = **−9bps**, beyond the ±3bps threshold → Factor 7 scored **Bullish (+1)** for the 2026-08-06 signal — first reversal of the real-yield uptrend since the factor went live. |

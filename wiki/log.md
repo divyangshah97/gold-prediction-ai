@@ -2399,3 +2399,36 @@ Pages updated: wiki/institutional-flows.md (Latest COT Data section replaced; Hi
 
 ## 2026-08-15 — COT weekly update
 Report_Date: 2026-08-11 | MM_Net: +137,662 (+6,896 vs. prior week) | OI: 400,309 | Sentiment: Neutral zone (50,000–150,000) | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at: 2026-08-14T20:55:17Z
+
+## 2026-08-17 — Daily update (backfilled Aug 13 + Aug 14 closes; no routine ran Aug 14-16)
+
+**Network status**: yfinance, the metals.dev fallback, and direct FRED `fredgraph.csv` fetch were ALL blocked by the sandbox's outbound egress policy today (403 "gateway answered 403 to CONNECT" per `$HTTPS_PROXY/__agentproxy/status`, confirmed via `recentRelayFailures` on `fc.yahoo.com`, `api.metals.dev`, `fred.stlouisfed.org` — a persistent policy denial, not transient, not retried per the proxy README). `WebFetch` also returned `EGRESS_BLOCKED` on investing.com, usagold.com, fxstreet.com, and alqanaas.com. Relied entirely on `WebSearch` for all price data and news research.
+
+**Prices backfilled (T-2 and T-1 = Aug 13 + Aug 14 closes, both appended to prices.csv — no routine ran Aug 14, so both sessions were missing)**:
+- Aug 13: XAU/USD $4,379.41 (−0.60% vs Aug12 $4,413.00) | Silver $64.48 (−1.30%) | DXY 99.90 | WTI $81.24 | USD/INR ₹95.45 — sourced via USAGOLD daily market report (gold/silver) and web search (DXY/WTI/INR)
+- Aug 14: XAU/USD $4,364.96 (−0.64% vs Aug13 $4,379.41) | Silver $64.21 (−0.42%) | DXY 99.636 (−0.26%) | WTI $82.40 (+1.43%) | USD/INR ₹95.644 (+0.20%)
+- DFII10 (real_yields.csv): 2.40% dated 2026-08-14 (web-search sourced) vs 2.41% (Aug10) = −1bps
+
+**Key driver**: July PPI (Aug13) printed flat/unchanged m/m, a second consecutive cool US inflation print after July CPI (Aug12) — macro stays Bullish. But gold's Aug14 close was a pullback (−0.64%) that CNBC attributed to "investors unwind[ing] [the] inflation-fuelled rally" (profit-taking), not a fresh catalyst, even as weak jobless-claims/retail-sales data (Aug14) further softened the dollar. Iran/Hormuz: negotiator Ghalibaf said Aug15 a deal is "agreed with Oman" but tied to the US ending its blockade — a stalemate, not a breakthrough; no fresh escalation event found for Aug14-17. Technicals flipped Bearish (price above both recomputed EMAs, but the last 2 daily deltas both red).
+
+**Signal**: **Wait (−1)** — down from Buy (+3) on Aug 13
+- Factor 2 (Geopolitics): Hormuz stalemate, deal announcement conditioned on unmet precondition, no fresh escalation, gold fell on profit-taking → **−1 Bearish** (reversed from Bullish)
+- Factor 3 (Fed/Macro): July PPI flat/cool (2nd dovish print) + weak jobless claims/retail sales Aug14 → **+1 Bullish** (unchanged)
+- Factor 5 (Technicals): Aug14 close ($4,364.96) above both recomputed EMAs (9d $4,313.52, 50d $4,231.36); last 2 daily deltas NOT both green (−$33.59, −$14.45) → **−1 Bearish** (reversed from Bullish)
+- Factor 6 (Dollar): DXY −0.26%, USD/INR +0.20%, both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): DFII10 2.41%→2.40% = −1bps, below ±3bps threshold → **0 Neutral** (unchanged)
+- **Total: −1+1−1+0+0 = −1 → Wait**
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new "MCX Gold Price (August 17, 2026)" section; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — new Aug 17 summary/timeline entry
+- `wiki/iran-conflict-2026.md` — new Aug 14-17 timeline row (Hormuz stalemate, Oman deal conditioned on blockade); summary updated
+- `wiki/fed-macro-factors.md` — new Aug 17 section (July PPI, jobless claims/retail sales, fresh DFII10 read)
+- `wiki/real-yields-tips.md` — new Aug 14 reading logged (2.40%)
+- `wiki/goldman-sachs-gold-forecast.md` — checked, no new bank target revisions found past Aug 3
+- `wiki/global-cb-activity-log.md` — Aug 17 section added (full 4-search sweep, no new country-level tonnage data found; large-holder countries checked, none updated)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-08-17.md`, `prices/prices.csv` (Aug13 + Aug14 rows, backfilled), `prices/real_yields.csv` (Aug14 row), `signals/signals.csv` (Aug17 row: Wait, −1)
+
+**Gap note**: No routine ran on Aug 14 (Friday) — the prior run was Aug 13. Aug 15-16 was a normal weekend (no trading). Both missing sessions (Aug 13's own price data was already captured by the Aug 13 run itself; the gap was specifically the Aug 14 close) were backfilled today from web search, consistent with the routine's established fallback methodology for blocked financial-data APIs.

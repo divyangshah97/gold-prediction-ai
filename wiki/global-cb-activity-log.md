@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-17
 
 ---
 
@@ -76,6 +76,12 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-17
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-17 | 🌐 Global | No new data | Ran all four mandatory sweep searches (central bank gold purchase OR sale August 2026; gold reserves announcement August 2026; "central bank" gold tonnes August 2026; WGC central bank demand August 2026). No new country-level CB tonnage data dated after the Q2 2026 WGC report (record 289t net purchases, +62% y/y, published Jul 30 — already tracked) was found. One search surfaced an "August central banks buying mood, +15t global, Kazakhstan +8t" figure, but its source URL timestamp (fxstreet "...202509042016") indicates it describes **August 2025**, not August 2026 — discarded as a stale/wrong-year result, not used. Checked all large-holder countries (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, India, Canada, Israel) — no new statements or repatriation/policy news found for any of them this run. No routine ran Aug 14-16 (weekend + one missed day), so this sweep also covers that gap. | Web search Aug 17, 2026 |
 
 ### 2026-08-13
 
