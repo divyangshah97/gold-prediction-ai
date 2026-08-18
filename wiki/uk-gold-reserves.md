@@ -101,6 +101,7 @@ India's aggressive repatriation of gold from BoE vaults (168t in 12 months to Ma
 |---|---|
 | 2026-05-27 | Page created. UK reserves confirmed 310.29t Q1 2026 (CEIC/BoE). BoE vault filmed by Sky News Feb 2026 — Andrew Bailey confirmed custodial operations. India repatriation reducing BoE custody pool. |
 | 2026-06-25 | LBMA London vault data (end May 2026): **9,392 tonnes** in all London vaults (~$1.4 trillion; ~751,380 bars). No change in UK own reserves (310.29t). No BoE custody policy changes. India's ~200t remaining overseas gold continues to be held at BoE. |
+| 2026-08-18 | WGC 2026 Central Bank Reserves Survey: BoE's share of surveyed central banks' gold custody **fell to 57%** (from 64% in 2025); NY Fed's custody share also fell (17%→14%) — central banks diversifying custody across London/NY/home/other hubs, not a UK-specific outflow. UK's own 310.29t reserves unchanged. |
 
 ## Related pages
 

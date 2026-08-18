@@ -77,6 +77,25 @@ Major holders tracked in this log only (no dedicated page yet):
 
 ---
 
+### 2026-08-18
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-18 | 🌐 Global (Macro/Geo) | **Iran/Hormuz stalemate persists, no fresh escalation; dovish Fed reprice reinforced (no Sept/2026 hike priced); technicals flip Bearish again on the fresh Aug17 close; Signal holds Wait (−1)** | Ran all four mandatory sweep searches via a dedicated background agent plus a second technicals/macro/geo agent. H1 2026 aggregate reconfirmed: Q1 57t + Q2 289t (record) = 345t H1 total; 89% of reserve managers expect global CB holdings to rise over the next 12 months (WGC 2026 Survey). No fresh country-level tonnage news dated Aug 17-18 beyond the items below. CNBC (Aug 17-18): markets now pricing no September Fed hike and no full-year 2026 hike — a continuation/reinforcement of the dovish reprice, not a new surprise. Iran/Hormuz: still a "grinding stalemate," no new escalation event found. **Signal: Wait (−1)** [−1 geo; +1 macro; −1 tech; 0 dollar; 0 real yields], unchanged from Aug 17. See [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]], [[india-gold-market]], [[real-yields-tips]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇫🇷 France (Banque de France) | **No tonnage change (2,437t); new detail on the already-known NY→Paris bar swap: 129t swapped Jul2025–Jan2026, profit refined to €12.8B (€11B FY2025 + €1.8B FY2026), all now in the Paris "Souterraine" vault** | Consistent with, not a change from, the existing ~€13B figure on file. **Page updated: [[france-gold-reserves]]**. | https://franceinenglish.com/p/banque-de-france-modernizes-gold-reserves-repatriates-to-paris-and-records-12-8-billion-profit |
+| 2026-08-18 | 🇬🇧 UK (Bank of England) | **No change to UK's own 310.29t; new custodial-market detail: BoE's share of surveyed CBs' gold custody fell to 57% (from 64% in 2025), NY Fed's custody share also fell (17%→14%) — a diversification-across-hubs trend, not a UK-specific outflow** | **Page updated: [[uk-gold-reserves]]**. | WGC 2026 Central Bank Reserves Survey, via analyticsinsight.net |
+| 2026-08-18 | 🇩🇪 Germany (Bundesbank) | No new data | Repatriation pressure unresolved; ~1,236t still at FRBNY; CDU still refuses. See [[germany-gold-reserves]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇮🇹 Italy (Banca d'Italia) | No new data | Fratelli d'Italia ownership dispute still unresolved; no legislative movement since Lagarde's Aug 10 pushback. See [[italy-gold-reserves]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇯🇵 Japan (BoJ/MoF) | No new data | 845.97t static; no accumulation. See [[japan-gold-reserves]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇺🇸 USA (Treasury/Congress) | No new data | Rand Paul's Aug 10 Fort Knox visit (seal-check only, no independent audit) and H.R. 3795 committee referral remain the latest items; 8,133t unchanged. See [[usa-gold-reserves]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇸🇦 Saudi Arabia (SAMA) | No new data | Static 323.07t; only ~0.1% of SAMA's SR1.85T total reserves. See [[saudi-arabia-gold-reserves]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇮🇷 Iran (CBI) | No new gold-reserve data | New Aug 7 US sanctions target Iran's cash/crypto pipeline, no gold linkage found. See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇨🇳 China (PBoC) | No new data | July +19.9-20t (21st consecutive month) still latest; total ~2,366t. See [[china-pboc-gold]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇵🇱 Poland (NBP) | No new data | 632.43t end-Q2 2026 confirmed as still latest; targeting 700t. See [[poland-gold-reserves]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇷🇺 Russia | No new data | 2,282t (July 1) still latest; ~28t sold YTD for ~$4.3B, fiscal-deficit funding. See [[russia-gold-reserves]]. | Web search Aug 18, 2026 |
+| 2026-08-18 | 🇮🇳 India (RBI + Market) | **MCX 24K ₹1,55,630/10g (Aug17 close, +₹53/g); RBI static 880.52t; USD/INR ~95.60-95.75; Signal: Wait (−1)** | No new RBI/import/ETF data. **Page updated: [[india-gold-market]]**. Raw file: `raw/india-gold-2026-08-18.md`. | `raw/india-gold-2026-08-18.md` |
+| 2026-08-18 | 🇯🇴 Jordan | **Watchlist: 3rd mention accumulated (+6t H1 2026, +1t July 2026, active buyer through June 2026); reserve diversification/inflation-hedge motive** | Crosses the 3-entry threshold for a dedicated stub page — see new [[jordan-gold-reserves]]. | Web search Aug 18, 2026 |
+
 ### 2026-08-17
 
 | Date | Country | Type | Details | Source |

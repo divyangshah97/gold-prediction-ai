@@ -97,6 +97,7 @@ France has a long and proud history of gold independence:
 | Date | Event |
 |---|---|
 | 2026-05-27 | Page created. France confirmed 2,437t, 100% on French soil as of January 2026. Sold 129t from FRBNY, rebought in Europe — profit €13B (~$15B). 134t further bars still to be upgraded by 2028. Germany and Italy under political pressure to follow. |
+| 2026-08-18 | Profit figure refined: €12.8B total (€11B FY2025 + €1.8B FY2026) from the 129t Jul2025–Jan2026 NY→Paris bar swap, consistent with the ~€13B figure already on file. Bars now stored in the Paris "Souterraine" vault. No new tonnage change (2,437t). |
 
 ## Related pages
 

@@ -41,13 +41,14 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[guatemala-gold-reserves]] | Q1 2026 buyer (2t); Central America entering gold accumulation trend |
 | [[serbia-gold-reserves]] | Q1 2026 buyer (1t); geopolitical neutrality hedge; EU candidate |
 | [[uae-gold-reserves]] | Q1 2026 buyer (1t); major physical gold hub (DMCC); BRICS+ member |
+| [[jordan-gold-reserves]] | **NEW Aug 18**: stub page — moderate steady buyer (+6t H1 2026, +1t July); reserve diversification/inflation hedge |
 | [[singapore-mas-gold]] | **+4t May 2026** (first since Sep 2025); total **197t**; Oct 2026 gold vaulting services planned; ASEAN hub strategy; updated July 6 |
 | [[turkey-gold-reserves]] | **~127t sold H1 2026** (incl. 58.4t/~$8bn in one two-week stretch) via swaps to defend the lira post-Iran-war; reserves 534.85t Q1 (from 613.70t Q4'25); some rebuilding since; updated Aug 10 |
 | [[russia-gold-reserves]] | **2,282t** (July 1); **WGC Q2 2026 confirms −22t Q2 (largest single seller)** → H1 total −43.5t (record 25 years; $5.6B raised); fiscal liquidation for 6T ruble deficit; all sales domestic; NWF depleting; 80–90t full-year pace projected; updated July 31 |
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); **held flat at 178.1t through Q2 — no further sales**; SOFAZ sovereign wealth fund rebalancing; oil revenue cycle; updated Aug 10 |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t unchanged; **RBI denied $12B gold sale** (June 2026); gold = 16.85% FX reserves (up from 13.92% Sep 2025, price appreciation only); near-zero new buying; repatriation from London ongoing; updated June 18 |
-| [[india-gold-market]] | Prev. close basis (Aug14, Fri): XAU/USD **$4,364.96** (−0.64%), USD/INR **₹95.644** (+0.20%), WTI **$82.40** (+1.43%), DXY **99.636**; MCX reopened +₹2,180/10g Aug17 after weekend gap; RBI static 880.52t; July PPI (Aug13) flat/cool, 2nd dovish print; Iran/Hormuz stalemate (deal "agreed with Oman" Aug15 but tied to US ending blockade, no fresh escalation); technicals flip Bearish (above EMAs, not 2 green); Signal: **Wait (−1)**, down from Buy (+3); updated Aug 17 |
+| [[india-gold-market]] | Prev. close basis (Aug17, Mon): XAU/USD **$4,376.59** (+0.27%), USD/INR **₹95.60** (−0.05%), WTI **$84.95** (+3.09%), DXY **99.40**; MCX 24K closed ₹1,55,630/10g; RBI static 880.52t; Iran/Hormuz stalemate continues, no fresh escalation; rally attributed to fading Fed hike bets, not safe-haven flows; technicals stay Bearish (above EMAs, not 2 green); Signal: **Wait (−1)**, unchanged; updated Aug 18 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026; H.R.3795 gold audit bill still at committee referral; **Sen. Rand Paul visited Fort Knox to verify reserves (Aug10)**; no reserve change; updated Aug 13 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; **June 11 FXStreet: "Germans demand bring our gold home"** — cross-party repatriation pressure growing (AfD + Green Party); CDU still refuses; France's $15B move cited as template; updated June 16 |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025); **ECB President Lagarde publicly criticized the amendment, urged withdrawal (Aug 10)**; dispute unresolved; updated Aug 10 |
@@ -58,7 +59,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; nuclear deal key variable |
-| [[global-cb-activity-log]] | Append-only daily log; **Aug 17**: no new country-level CB tonnage data found (checked all large holders — Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, India, Canada, Israel — none); July PPI cool + Iran/Hormuz stalemate (no fresh escalation) drop Signal to **Wait (−1)**; updated Aug 17 |
+| [[global-cb-activity-log]] | Append-only daily log; **Aug 18**: no new large-holder tonnage changes (Germany, Italy, Japan, USA, Saudi Arabia, Iran, China, Poland, Russia all unchanged); minor detail updates for France (bar-swap profit refined to €12.8B) and UK (BoE custody share fell to 57%); Jordan crossed 3-mention threshold → new stub page [[jordan-gold-reserves]]; Signal holds **Wait (−1)**; updated Aug 18 |
 
 ### Geopolitics & Macro
 
@@ -66,10 +67,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11 60-day deal still nominally intact; July 23: USTR imposed new 12.5% Section 301 forced-labor tariff** on China, raising overall rate; truce fragile through Nov 2026 (semiconductors/rare earths unresolved); no update found Aug 17; updated July 31 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **Aug14 close $4,364.96 (−0.64%)**, profit-taking after Aug12's CPI-driven high; July PPI cool (Aug13) keeps macro Bullish; Iran/Hormuz stalemate, no fresh escalation; EMAs recomputed (EMA9 $4,313.52, EMA50 $4,231.36; price above both, NOT 2 green); Factor 2=Bearish(−1), Factor3=Bullish(+1), Factor5=Bearish(−1), Factor6=Neutral(0), Factor7=Neutral(0); Signal: **Wait (−1)**, down from Buy (+3); updated Aug 17 |
+| [[gold-geopolitical-risk-premium]] | **Aug17 close $4,376.59 (+0.27%)**, rally continues on fading Fed hike bets, not safe-haven flows; Iran/Hormuz stalemate, no fresh escalation; EMAs recomputed (EMA9 $4,326.13, EMA50 $4,237.05; price above both, NOT 2 green); Factor 2=Bearish(−1), Factor3=Bullish(+1), Factor5=Bearish(−1), Factor6=Neutral(0), Factor7=Neutral(0); Signal: **Wait (−1)**, unchanged; updated Aug 18 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | **Stalemate continues (Aug14-17): Iran says Hormuz deal "agreed with Oman" (Ghalibaf, Aug15) but tied to end of US blockade; tolls begin ~Aug17; no fresh escalation event**; gold pulled back Aug14 (−0.64%) on profit-taking despite a softer dollar — CNBC: "investors unwind[ing] inflation-fuelled rally"; Factor 2 flips **Bearish (−1)**, reversing Bullish held since Aug 12; updated Aug 17 |
-| [[fed-macro-factors]] | July PPI printed Aug13: flat/unchanged m/m (below +0.2% consensus) — 2nd cool inflation print; Aug14 jobless claims up, retail sales down, both dovish; net: Macro factor = **Bullish (+1)**, unchanged; fresh DFII10 2.40% (Aug14) vs 2.41% (Aug10) = −1bps keeps Factor 7 **Neutral (0)**; updated Aug 17 |
+| [[iran-conflict-2026]] | **Stalemate continues (Aug17-18): no new attack, strike, or sinking event**; "grinding" per CBS/NBC; gold's continued rally (Aug17 +0.27%) attributed to fading Fed hike bets, not safe-haven flows; Factor 2 stays **Bearish (−1)**, unchanged from Aug 17; updated Aug 18 |
+| [[fed-macro-factors]] | No new CPI/PPI/NFP print since Aug 13; CNBC (Aug17-18) confirms markets pricing no September hike, no full-2026 hike — dovish reprice reinforced; Jackson Hole (Aug27-29) next catalyst; net: Macro factor = **Bullish (+1)**, unchanged; DFII10 delta −1bps carried forward keeps Factor 7 **Neutral (0)**; updated Aug 18 |
 
 ### Institutional Flows
 
@@ -77,7 +78,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; **COT as-of 2026-08-11: MM_Net +137,662 (Neutral zone, 34.4% of OI), fresh long addition as OI expands**; Factor 6 label on this page is stale (live Factor 6 = Dollar Pressure); updated 2026-08-15 |
 | [[signal-methodology]] | **5-factor scoring system LIVE from July 27**: Geopolitical Risk, Fed/Macro, Technicals, Dollar Pressure, Real Yields/TIPS; range -5 to +5; **Factors 1 (Price vs Targets) and 4 (CB Demand) retired July 25** as poor fits for 2-3 month trading horizon; `signals.csv` restarted fresh, prior history in `signals_archive_2026-05-22_to_2026-07-24.csv`; updated July 25 |
-| [[real-yields-tips]] | 10Y TIPS real yield (FRED DFII10) as gold's opportunity-cost driver; inverse relationship; Factor 7, live from July 27; fresh reading found Aug17: 2.40% (Aug14) vs 2.41% (Aug10) = **−1bps** → **Neutral**, unchanged; FRED still fully blocked by egress policy; updated Aug 17 |
+| [[real-yields-tips]] | 10Y TIPS real yield (FRED DFII10) as gold's opportunity-cost driver; inverse relationship; Factor 7, live from July 27; no newer reading found Aug18, delta carried forward: 2.40% (Aug14) vs 2.41% (Aug10) = **−1bps** → **Neutral**, unchanged; FRED still fully blocked by egress policy; updated Aug 18 |
 
 ### Forecasts & Institutions
 
