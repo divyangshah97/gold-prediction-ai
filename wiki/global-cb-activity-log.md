@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-17
+**Last updated**: 2026-08-19
 
 ---
 
@@ -34,7 +34,7 @@ These countries have full wiki pages — this log supplements them with daily ne
 | 🇮🇩 Indonesia | Buyer (2t Q1 2026) | [[indonesia-gold-reserves]] |
 | 🇷🇸 Serbia | Buyer (1t Q1 2026) | [[serbia-gold-reserves]] |
 | 🇦🇪 UAE | Buyer (1t Q1 2026) | [[uae-gold-reserves]] |
-| 🇹🇷 Turkey | Seller (**~127t H1 2026** incl. 58.4t in one two-week stretch; lira-defense selling; reserves 534.85t Q1, some rebuilding since) | [[turkey-gold-reserves]] |
+| 🇹🇷 Turkey | Seller (**~127t H1 2026** incl. 58.4t in one two-week stretch; lira-defense selling; reserves 534.85t Q1 → confirmed **530.62t Q2 2026**, a small further decline, not a rebuild) | [[turkey-gold-reserves]] |
 | 🇷🇺 Russia | Seller (record **44t H1 2026**; ~2,282-2,305t total; ~7t/month pace) | [[russia-gold-reserves]] |
 | 🇦🇿 Azerbaijan | Seller (22t Q1 2026; **held flat at 178.1t through Q2 — no further sales**) | [[azerbaijan-sofaz-gold]] |
 | 🇰🇬 Kyrgyz Republic | Seller (1t Q1 2026) | [[kyrgyz-republic-gold-reserves]] |
@@ -76,6 +76,27 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-19
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-19 | 🌐 Global (Macro/Geo) | **Materially new: the Aug 17 US-Iran deal deadline expired with no agreement; Trump threatened Oman over Strait of Hormuz interference — a fresh escalation vs. the "grinding stalemate, no fresh escalation" read on Aug 18** | Ran all four mandatory sweep searches directly. No new country-level CB tonnage news dated Aug 18-19 beyond the items below; H1 2026 aggregate unchanged at 345t (Q1 57t + Q2 289t record). Detailed technicals/macro/signal-score implications of the Iran escalation are being tracked by the dedicated technicals/macro/geo agent — see [[iran-conflict-2026]], [[fed-macro-factors]], [[gold-geopolitical-risk-premium]]. **No factor/signal score reported by this agent** (central bank demand removed from signal scoring 2026-07-25 per [[signal-methodology]]). | Web search Aug 19, 2026; CNN "Aug 17, 2026 — Deadline to reach US-Iran deal expires, Trump threatens Oman" |
+| 2026-08-19 | 🇹🇷 Turkey (CBRT) | **Confirmed Q2 2026 official reserves: 530.62t, down from 534.85t Q1 — a small further net reduction, not the "rebuilding" some earlier reports suggested** | Q2 drawdown pace (~4.2t) is far smaller than the Q1 collapse; no single large swap event reported for Q2. A recirculating "+2t in August" figure traces to a stale/mislabeled 2025 article (not a genuine 2026 source) and is not used. **Page updated: [[turkey-gold-reserves]]**. | https://tradingeconomics.com/turkey/gold-reserves (WGC/IMF-sourced) |
+| 2026-08-19 | 🇫🇷 France (Banque de France) | No new data | 2,437t; NY→Paris bar-swap programme and €12.8B profit figure still latest, confirmed Aug 18. See [[france-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇬🇧 UK (Bank of England) | No new data | 310.29t unchanged; custodial-diversification trend (BoE share of surveyed CB custody 57%, down from 64%) still latest. See [[uk-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇩🇪 Germany (Bundesbank) | No new data | ~1,236t still at FRBNY of 3,352t total; CDU-led government not currently considering repatriation; Bundesbank President Nagel reaffirms confidence in NY Fed custody. See [[germany-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇮🇹 Italy (Banca d'Italia) | No new data | Fratelli d'Italia "gold belongs to the State" budget amendment still unresolved; ECB's 2019-era treaty-compatibility warning remains the operative pushback; no new legislative movement found since Aug 10. See [[italy-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇯🇵 Japan (BoJ/MoF) | No new data | 845.97t static; no accumulation. See [[japan-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇺🇸 USA (Treasury/Congress) | No new data | 8,133t (4,580t at Fort Knox, ~$600B at market vs. $42.22/oz statutory book value) unchanged; no new audit or revaluation action beyond the Aug 10 seal-check visit; Bessent has not confirmed any revaluation plan. See [[usa-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇸🇦 Saudi Arabia (SAMA) | No new data | Static 323.07t (~2.6% of ~$495-500B reserves); no announced plan to add, though mBridge/BRICS+ ties continue to be flagged as a longer-term diversification signal. See [[saudi-arabia-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇮🇷 Iran (CBI) | No new gold-reserve data | Nuclear-deal deadline expiry (Aug 17) is a geopolitical, not reserve-data, development; no gold-specific announcement found. See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇨🇳 China (PBoC) | No new data | July +19.9t (21st consecutive month, largest since Nov 2023) still latest; ~76.08M oz (~2,366t) total. Next SAFE release (August data) due early September. See [[china-pboc-gold]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇵🇱 Poland (NBP) | No new data | 632.43t end-Q2 2026 confirmed as still latest; 82t YTD H1; targeting 700t/30% of reserves. See [[poland-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇷🇺 Russia | No new data | 2,282t (July 1) still latest; record 44t sold H1 2026 (~$5.6B) for budget-deficit funding; sanctions confine sales to domestic OTC/exchange channels. See [[russia-gold-reserves]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇮🇳 India (RBI reserves only) | No new data | RBI gold reserves confirmed static at 880.52t as of Jun 26/Mar 31, 2026 (Rajya Sabha disclosure); ~$102.6B value. Full India market/price coverage handled by a separate daily agent — see [[india-gold-market]], [[india-rbi-gold]]. | Web search Aug 19, 2026 |
+| 2026-08-19 | 🇸🇬 Singapore (MAS) | No new tonnage data | Oct 2026 central-bank gold vaulting launch and Loco Singapore clearing system (SGX, with DBS/Deutsche Bank/ICBC Standard/JPM/OCBC/UOB as clearing members) reconfirmed by Aug 16 coverage; reserves still ~197t. See [[singapore-mas-gold]]. | https://thefinance.sg/2026/08/16/gold-vaults-in-singapore/ |
+| 2026-08-19 | 🇯🇴 Jordan | No new data | +6t H1 2026 / +1t July 2026 still latest; page created Aug 18. See [[jordan-gold-reserves]]. | Web search Aug 19, 2026 |
 
 ### 2026-08-18
 

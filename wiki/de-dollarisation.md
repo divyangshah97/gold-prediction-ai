@@ -2,9 +2,9 @@
 
 **Summary**: The global trend of central banks and governments reducing reliance on the US dollar in reserves and trade, a key structural driver of gold demand. **ECB milestone (June 2, 2026)**: Gold overtook US Treasuries as the #1 global reserve asset by market value — 27% share vs 22% for US Treasuries — as confirmed by the ECB's annual "International Role of the Euro" report.
 
-**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.mining.com/gold-overtakes-us-treasuries-in-global-reserve-shift-ecb/, https://www.business-standard.com/world-news/gold-overtakes-us-treasuries-as-world-s-largest-reserve-asset-global-gold-demand-rises-126060300673_1.html
+**Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/us-china-beijing-summit-2026-05-15.md`, `raw/daily-update-2026-05-21.md`, https://www.mining.com/gold-overtakes-us-treasuries-in-global-reserve-shift-ecb/, https://www.business-standard.com/world-news/gold-overtakes-us-treasuries-as-world-s-largest-reserve-asset-global-gold-demand-rises-126060300673_1.html, https://www.gold.org/goldhub/research/central-bank-gold-reserves-survey-2026
 
-**Last updated**: 2026-06-04
+**Last updated**: 2026-08-19
 
 ---
 
@@ -31,6 +31,17 @@ Additional drivers:
 Poland's buying (31t in Q1 alone, targeting 700t total) explicitly references security and diversification from EUR/USD exposure. See [[poland-gold-reserves]].
 
 China's PBoC made its largest single-month gold purchase in 17 months sometime in Q1 2026, suggesting accelerating de-dollarisation at the world's second-largest economy. See [[china-pboc-gold]].
+
+## World Gold Council Central Bank Gold Reserves Survey 2026 (published June 2026; added to wiki Aug 19)
+
+The World Gold Council's annual survey of central bank reserve managers, published June 2026, provides direct sentiment evidence for the de-dollarisation thesis (source: gold.org "Central Bank Gold Reserves Survey 2026"):
+
+- **45% of central bank respondents plan to increase their gold holdings** over the next 12 months — up from 43% in the 2025 survey and 29% two years prior, a steady multi-year climb in stated buying intent.
+- **74% of respondents expect moderately or significantly lower US dollar holdings** within global reserves over the next five years — the clearest direct evidence yet that reserve managers themselves see the de-dollarisation trend as structural, not transitory.
+- Central banks have averaged **~1,000 tonnes/year** in net gold purchases over the past four years, roughly double the ~500t/year average of the prior decade.
+- Cited motivations: inflation hedging, geopolitical uncertainty, sovereign debt levels, currency volatility, and (for banks worried about sanctions risk) a defensive hedge against asset freezes — consistent with the "Why It's Accelerating" drivers above.
+
+This is survey-based *stated intent*, not realized flow data — [[central-bank-gold-demand]] and [[global-cb-activity-log]] track the actual monthly/quarterly purchase data this intent is expected to translate into.
 
 ## Significance for Gold Price Prediction
 

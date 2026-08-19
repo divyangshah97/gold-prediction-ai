@@ -2480,3 +2480,34 @@ Report_Date: 2026-08-11 | MM_Net: +137,662 (+6,896 vs. prior week) | OI: 400,309
 **New files**: `raw/india-gold-2026-08-17.md`, `prices/prices.csv` (Aug13 + Aug14 rows, backfilled), `prices/real_yields.csv` (Aug14 row), `signals/signals.csv` (Aug17 row: Wait, −1)
 
 **Gap note**: No routine ran on Aug 14 (Friday) — the prior run was Aug 13. Aug 15-16 was a normal weekend (no trading). Both missing sessions (Aug 13's own price data was already captured by the Aug 13 run itself; the gap was specifically the Aug 14 close) were backfilled today from web search, consistent with the routine's established fallback methodology for blocked financial-data APIs.
+
+## 2026-08-19 — Daily update
+
+**Network status**: yfinance, the metals.dev fallback, and direct FRED `fredgraph.csv` fetch were ALL blocked again today by the sandbox's outbound egress policy (`connect_rejected` / 403 CONNECT rejection on `fc.yahoo.com`, `query1.finance.yahoo.com`, `api.metals.dev`, `fred.stlouisfed.org`, confirmed via `$HTTPS_PROXY/__agentproxy/status`) — a persistent, already-documented policy denial, not retried per the proxy README. `WebFetch` also returned `EGRESS_BLOCKED` on investing.com, kitco.com, fxstreet.com, tradingeconomics.com, riotimesonline.com, and federalreserve.gov. Relied entirely on `WebSearch` (run directly and via three parallel research agents) for all price data and findings, consistent with the established fallback methodology since 2026-07-31.
+
+**Prices (Aug 18, Tuesday close — previous completed session)**: XAU/USD **$4,390.00** (+0.31% vs $4,376.59 Aug17) | Silver **$64.24** (−2.34%) | DXY **99.56** (+0.16%) | WTI **$84.92** (−0.04%) | USD/INR **₹95.7380** (+0.14%). Cross-validated against multiple independent web sources (riotimesonline gold/silver wrap, TradingEconomics "rose/fell to X" phrasing, Reuters spot-gold coverage, Business Standard DXY report); gold and DXY converged reasonably tightly across sources (~$4,376-4,390 and ~99.4-99.6 respectively), silver and WTI had wider spread and used the most-corroborated cluster value. DFII10 (real_yields.csv): **2.52% dated 2026-08-18** (estimate — no direct FRED print obtainable; derived from the confirmed nominal 10Y Treasury yield surge to ~4.72% and 30Y hitting a 19-year high, consistent with the established "10Y TIPS topped 2.42% the week of Aug7-9" trajectory) vs 2.40% (Aug14) = **+12bps**.
+
+**Key driver**: The US-Iran 60-day negotiation deadline expired Aug 17 with no deal, and Trump threatened military action against Oman over alleged Strait of Hormuz interference — a fresh escalatory headline. However, CNN Business (Aug 18) reports Iran has lost significant operational control of the Strait to patrolling US Navy forces, with commercial shipping traffic resuming; WTI rose only +0.6% (no supply-shock spike) and DXY was roughly flat — the market read this as priced-in rather than a fresh safe-haven catalyst, with gold's continued rally still attributed by CNBC/Advantage Gold to falling September rate-hike odds (~30.8%, down from ~44% Aug17-18). Separately, the 10Y nominal Treasury yield's surge toward a one-year high pushed the estimated 10Y TIPS real yield up +12bps — beyond the Factor 7 threshold — causing Factor 3 (dovish Fed reprice, Bullish) and Factor 7 (rising real yield, Bearish) to diverge, exactly the scenario Factor 7 was added to catch. Technicals flipped Bullish (2 consecutive green closes above both recomputed EMAs).
+
+**Signal**: **Wait (0)** — up from Wait (−1) on Aug 18
+- Factor 2 (Geopolitics): US-Iran deadline expired, Trump-Oman threat, but WTI/DXY moves inconsistent with a genuine safe-haven bid; reads priced-in → **−1 Bearish** (unchanged)
+- Factor 3 (Fed/Macro): September hike odds continued easing to ~30.8%, dovish reprice extends → **+1 Bullish** (unchanged)
+- Factor 5 (Technicals): Aug18 close ($4,390.00) above both recomputed EMAs (9d $4,338.91, 50d $4,243.44); last 2 daily deltas both green (Aug14→17 +$11.63, Aug17→18 +$13.41) → **+1 Bullish** (reversed from Bearish)
+- Factor 6 (Dollar): DXY +0.16%, USD/INR +0.14%, both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): DFII10 2.40%→2.52% = +12bps, beyond the ±3bps threshold → **−1 Bearish** (reversed from Neutral)
+- **Total: −1+1+1+0−1 = 0 → Wait**
+
+**Pages updated** (via 3 parallel research agents — global CB sweep, technicals/macro/geopolitics, India-specific — plus main-session signal finalization):
+- `wiki/india-gold-market.md` — new "MCX Gold Price (August 19, 2026)" section; final 5-factor breakdown added; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — new Aug 19 summary/timeline entry with full signal computation
+- `wiki/iran-conflict-2026.md` — new Aug 17-19 timeline entry (deadline expiry, Oman threat, Strait control shift)
+- `wiki/fed-macro-factors.md` — new Aug 19 section (hike-odds update, Factor 3/Factor 7 divergence noted)
+- `wiki/real-yields-tips.md` — new Aug 18 reading logged (2.52%, moderate confidence, web-search estimate)
+- `wiki/de-dollarisation.md` — added previously-missing WGC 2026 Central Bank Gold Reserves Survey findings (45% of CBs plan to increase gold holdings, 74% expect lower USD reserve shares over 5 years)
+- `wiki/turkey-gold-reserves.md` — Q2 2026 reserves corrected to 530.62t (from stale "rebuilding" characterization)
+- `wiki/global-cb-activity-log.md` — Aug 19 section added (16 rows: full 4-search sweep + all tracked large holders, Turkey update, Iran/Hormuz escalation flag); no new country crossed the 3-mention stub-page threshold
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-08-19.md`, `prices/prices.csv` (Aug18 row), `prices/real_yields.csv` (Aug18 row), `signals/signals.csv` (Aug19 row: Wait, 0)
+
+**Data confidence flag**: Both the Aug18 price-close cluster and the Aug18 DFII10 reading are web-search-derived estimates (moderate confidence), not direct exchange/FRED reads, consistent with every daily run since 2026-07-31 given the persistent network egress block. If a future run with restored API access finds materially different values for Aug 18, this should be reconciled.
