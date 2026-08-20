@@ -2511,3 +2511,35 @@ Report_Date: 2026-08-11 | MM_Net: +137,662 (+6,896 vs. prior week) | OI: 400,309
 **New files**: `raw/india-gold-2026-08-19.md`, `prices/prices.csv` (Aug18 row), `prices/real_yields.csv` (Aug18 row), `signals/signals.csv` (Aug19 row: Wait, 0)
 
 **Data confidence flag**: Both the Aug18 price-close cluster and the Aug18 DFII10 reading are web-search-derived estimates (moderate confidence), not direct exchange/FRED reads, consistent with every daily run since 2026-07-31 given the persistent network egress block. If a future run with restored API access finds materially different values for Aug 18, this should be reconciled.
+
+## 2026-08-20 — Daily update
+
+**Holiday check**: NSE/BSE holiday calendar checked for August 2026 — no weekday market closures; Aug 15 (Independence Day) fell on a Saturday, and Aug 26 (Id-E-Milad) is a settlement-only holiday, not a trading holiday. Today (Thursday, Aug 20) is a normal trading day. Proceeded with the full update.
+
+**Network status**: yfinance, the metals.dev fallback, and direct FRED `fredgraph.csv` fetch were ALL blocked again today by the sandbox's outbound egress policy (`connect_rejected`/403 CONNECT rejection on `fc.yahoo.com`, `query1.finance.yahoo.com`, `api.metals.dev`, `fred.stlouisfed.org`, confirmed via `$HTTPS_PROXY/__agentproxy/status`) — a persistent, already-documented policy denial, not retried per the proxy README. `WebFetch` also returned `EGRESS_BLOCKED` on tradingeconomics.com, fortune.com, cnbc.com, fred.stlouisfed.org, and home.treasury.gov. Relied entirely on `WebSearch` for all price data and findings.
+
+**Prices (Aug 19, Wednesday close — previous completed session)**: XAU/USD **$4,491.71** (+2.32% vs $4,390.00 Aug18) | Silver **~$63.80** (−0.68%) | DXY **99.4579** (−0.10%) | WTI **$86.15** (+1.45%) | USD/INR **~₹95.75** (+0.01%). Gold's close was cross-validated across three independent sources converging within $2 ($4,493.39 TradingEconomics, $4,491.80 Kitco late-NY-session, $4,491.71 a technical-analysis source) — high confidence. Silver showed a wide spread ($63.10-$67.00 across sources); the most-corroborated cluster (~$63.10-63.87) was used, discarding a $67 outlier. DFII10 (real_yields.csv): **2.45% dated 2026-08-19** (estimate — no direct FRED print obtainable; decomposed from the confirmed nominal 10Y Treasury yield easing to ~4.65% from a prior-session high near 4.75%, holding breakeven inflation ~stable) vs 2.52% (Aug18) = **−7bps**.
+
+**Key driver**: Gold posted its biggest one-day rally in weeks (+2.32%). The catalyst is the same underlying story flagged Aug 18-19 — the US-Iran 60-day negotiation deadline expired Aug 17 with no deal, and Trump threatened to bomb Oman over alleged Strait of Hormuz interference — but the Aug 19 market reaction was materially larger and cleaner than Aug 18's muted move: WTI rose +1.45% (vs +0.58% Aug18) and DXY weakened −0.10% (vs roughly flat Aug18) while gold surged, the textbook safe-haven transmission pattern (escalation + USD flat/weakening = Bullish per the Factor 2 rubric). This reverses the "priced-in" read applied on Aug 18-19. Separately, the July FOMC minutes were released Aug 19, revealing hawkish dissent detail from 3 regional Fed presidents wanting a hike, but market pricing shifted toward a September-hold at ~65% probability (up from ~50/50) — a net dovish-leaning read despite the hawkish undertones. The nominal 10Y Treasury yield also eased to ~4.65% from a prior-session high near 4.75%, reversing the term-premium pressure that had driven Factor 7 Bearish on Aug 18-19 — Factor 3 and Factor 7 reconverged bullish today after diverging the prior two days.
+
+**Signal**: **Buy (+4)** — up sharply from Wait (0) on Aug 19
+- Factor 2 (Geopolitics): Fresh, materially larger safe-haven bid on the Hormuz/Oman story (WTI +1.45%, DXY −0.10%, gold +2.32%) → **+1 Bullish** (reversed from Bearish)
+- Factor 3 (Fed/Macro): July FOMC minutes hawkish dissent detail, but September-hold odds rose to ~65% (from ~50/50), net dovish-leaning → **+1 Bullish** (unchanged)
+- Factor 5 (Technicals): Price confirmed above both EMAs by multiple sources (golden cross forming); last 2 daily deltas both green (Aug17→18 +$13.41, Aug18→19 +$101.71) → **+1 Bullish** (unchanged)
+- Factor 6 (Dollar): DXY −0.10%, USD/INR +0.01%, both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): DFII10 2.52%→2.45% = −7bps, beyond the ±3bps threshold → **+1 Bullish** (reversed from Bearish)
+- **Total: +1+1+1+0+1 = +4 → Buy**
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new "MCX Gold Price (August 20, 2026)" section; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — new Aug 20 summary/timeline entry with full signal computation
+- `wiki/iran-conflict-2026.md` — new Aug 20 entry (same underlying event, reinterpreted market reaction)
+- `wiki/fed-macro-factors.md` — new Aug 20 section (FOMC minutes, Factor 3/Factor 7 reconvergence)
+- `wiki/real-yields-tips.md` — new Aug 19 reading logged (2.45%, moderate confidence, decomposition estimate)
+- `wiki/goldman-sachs-gold-forecast.md` — new bank target revisions found: Bank of America (new, $4,360 2026 avg, −14%), Wells Fargo (cut to $4,900-$5,100, contradicting its own Aug7 $6,100-$6,300 figure — flagged unresolved); JPMorgan/Standard Chartered/Commerzbank reconfirmed unchanged
+- `wiki/global-cb-activity-log.md` — Aug 20 section added (full 4-search sweep + all tracked large holders checked, no new country-level tonnage news found)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-08-20.md`, `prices/prices.csv` (Aug19 row), `prices/real_yields.csv` (Aug19 row), `signals/signals.csv` (Aug20 row: Buy, 4)
+
+**Data confidence flag**: Both the Aug19 price-close cluster and the Aug19 DFII10 reading are web-search-derived estimates, not direct exchange/FRED reads, consistent with every daily run since 2026-07-31 given the persistent network egress block. Gold's close had unusually strong three-source convergence (within $2) — higher confidence than most recent days. If a future run with restored API access finds materially different values, this should be reconciled.
