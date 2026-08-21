@@ -4,6 +4,37 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-21 — Daily update: Hormuz vessel attacks + new Iran sanctions drive safe-haven bid; MCX crosses ₹1.6L/10g; Russia reserves hit 5-year low; Signal holds Buy (+4)
+
+**Holiday check**: Searched NSE/BSE 2026 August holiday calendar — confirmed no weekday market holidays in August 2026 (Independence Day Aug 15 fell on a Saturday; Id-E-Milad Aug 26 is a clearing/settlement holiday only, equities trade normally). August 21 (Friday) is a normal trading day. Proceeded.
+
+**Network note**: `fetch_prices.py` failed entirely — yfinance (`fc.yahoo.com`, `query1.finance.yahoo.com`) and the metals.dev fallback (`api.metals.dev`) were both blocked by the sandbox egress policy (403 "gateway answered 403 to CONNECT" per `$HTTPS_PROXY/__agentproxy/status`), confirmed persistent, not transient. Direct FRED `curl` fetch for DFII10 also blocked, and `WebFetch` was blocked on every domain tried today (Yahoo, CNBC, Reuters mirrors, riotimesonline, federalreserve.gov, tradingeconomics.com) — broader than the FRED-only block seen on some prior days. All price and real-yield data this run is web-search-sourced. Delegated research to three parallel background agents (global CB sweep, geopolitics/macro/forecasts, India-specific) which ran concurrently with the manual price/real-yield reconciliation.
+
+**Prices added to CSV** (previous trading day T-1 = Thursday August 20; last CSV row before this run was Aug 19):
+- Gold: **$4,516.60** (+0.55% vs $4,491.71 Aug19) — Kitco PM Report's late-afternoon close-basis figure used over an earlier Reuters mid-day dip quote ($4,479.12) and a higher opening-session quote ($4,580), since Kitco's PM report is the closest proxy to an actual daily close.
+- Silver: **$67.96** (+6.52%) — Kitco PM Report, up sharply on the session per multiple corroborating sources ("silver jumps," "Comex silver rises").
+- DXY: **98.7599** (−0.70%) — explicit "closing price" figure, cross-checked against a separate Aug21 Kitco reference to USD "near a three-month low."
+- WTI: **$86.16** (+0.01%) — the specific figure most consistently dated to Aug 20 across sources (a competing $86.83 figure was traced to an Aug 19-dated article and discarded).
+- USD/INR: **95.7580** (+0.01%) — explicit "closing rate" figure, essentially flat vs Aug 19.
+
+**Real yields CSV**: Direct FRED fetch and WebFetch both blocked again. Web search found no dated Aug 20/21 DFII10 print. Applied the established decomposition method: nominal 10Y Treasury yield (4.71%, Aug 20) minus 10Y breakeven inflation (2.25%, Aug 2026 avg) = **2.46%**, appended as `2026-08-20,2.46`. Delta vs Aug 19 (2.45%) = **+1bp**, within the ±3bps threshold — Factor 7 flips to **Neutral (0)**, reversing Aug 20's Bullish reading. See [[real-yields-tips]].
+
+**Global CB sweep** ([[global-cb-activity-log]]): Russia's reserves confirmed down to **~2,277t (73.2M oz) as of Aug 1, 2026** — lowest since January 2020 — continuing fiscal-liquidation selling (see [[russia-gold-reserves]]). Iran's 60-day US negotiating window (June 2026 MOU) **expired Aug 17, 2026** with no final deal, raising UN sanctions-snapback risk (see [[iran-gold-reserves]]). Germany, France, Italy, Japan, USA, UK, and Saudi Arabia all checked — no new news on any of them. No new countries accumulated enough news for a stub page.
+
+**Geopolitics & macro**: ADNOC reported two vessels attacked while transiting the Strait of Hormuz on the evening of Aug 20; an oil spill from a sanctioned tanker carrying Russian crude reached beaches in Oman. The US separately announced new sanctions on Hezbollah and what Treasury Secretary Bessent called "unprecedented" sweeping economic measures against Iran, which Iran's Foreign Ministry called "economic terrorism." Gold, silver, and oil all rose together while DXY stayed near a three-month low — a clean safe-haven transmission, not a de-escalation or a USD-strength escalation. Factor 2 = **Bullish (+1)**. No new Fed data or speaker remarks found; September-hold odds sit ~68%, essentially unchanged from Aug 19-20 — Factor 3 = **Bullish (+1)**, continuation of the dovish-leaning backdrop. Jackson Hole (Aug 27-29, Warsh's first keynote as Chair on Aug 28) is the next catalyst, 6-8 days out. See [[gold-geopolitical-risk-premium]], [[iran-conflict-2026]], [[fed-macro-factors]]. No new bank gold-price-target revisions found ([[goldman-sachs-gold-forecast]]); no new US-China/Taiwan/rare-earths/de-dollarisation developments beyond ongoing background tension.
+
+**India**: MCX gold crossed **₹1.6 lakh/10g** for the first time in this tracked window (near-month futures ~+0.36-0.52% to ~₹1,60,250/10g), largely a COMEX pass-through since USD/INR was essentially flat (−0.07%). RBI reserves static at 880.52t, no new import data (latest still July, +4.77% m/m), no ETF print fresher than the ~$124mn (2-week August) figure already on file, no duty change. Notable: MMTC-PAMP publicly renewed calls for Gold Monetisation Scheme reform (household gold stock ~31,000t, recycling at an 11-quarter low of 19t); MMTC shares rallied +7.48% on Aug 20 on the news, though no official government GMS relaunch has been announced yet. Raw source file created: `raw/india-gold-2026-08-21.md`. See [[india-gold-market]].
+
+**Technicals** (Factor 5): 9-day EMA ≈ $4,299, 50-day EMA ≈ $4,229 (web search, TipRanks) — price ($4,516.60 close) trading above both, with a golden cross (50d crossing above 200d) reported as developing. Last two completed sessions (Aug 19: $4,491.71, Aug 20: $4,516.60) both green vs the prior close → "2 green" confirmed. Above both EMAs + 2 green → Factor 5 = **Bullish (+1)**.
+
+**Dollar Pressure** (Factor 6): DXY −0.70% (≥0.5% threshold, weakening) and USD/INR +0.01% (within 0.5%, flat) → per the scoring table, "DXY down ≥0.5% / INR within 0.5%" = **Bullish (+1)**.
+
+**Signal**: Geo(+1) + Macro(+1) + Tech(+1) + Dollar(+1) + RealYield(0) = **+4 → Buy**, holding at the same score as Aug 20 but with a different factor mix (Dollar and Geo carrying it this time instead of Real Yields). Written to `signals/signals.csv`.
+
+**Wiki pages updated**: `iran-gold-reserves.md`, `russia-gold-reserves.md`, `global-cb-activity-log.md`, `gold-geopolitical-risk-premium.md`, `iran-conflict-2026.md`, `fed-macro-factors.md`, `goldman-sachs-gold-forecast.md`, `india-gold-market.md`, `real-yields-tips.md`, `index.md`, `log.md`. No new pages created (no country accumulated 3+ dated entries; no genuinely new concept emerged). One raw file created: `raw/india-gold-2026-08-21.md`.
+
+---
+
 ## 2026-08-18 — Daily update: Iran/Hormuz stalemate persists, no fresh escalation; dovish Fed reprice reinforced (no Sept/2026 hike priced); Signal holds Wait (−1)
 
 **Holiday check**: Searched NSE/BSE 2026 August holiday calendar (Angel One, PL Capital, Zerodha) — confirmed no weekday market holidays in August 2026 (Independence Day Aug 15 fell on a Saturday). August 18 (Tuesday) is a normal trading day. Proceeded.

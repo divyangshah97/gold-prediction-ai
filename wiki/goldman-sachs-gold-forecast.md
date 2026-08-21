@@ -4,7 +4,13 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/, https://goldsilver.com/industry-news/article/gold-price-forecast-2026-2027-key-predictions-from-top-analysts/, https://goldsilver.com/industry-news/goldsilver-news/hsbc-gold-price-forecast-cut-2026/, https://goldmarketdaily.com/gold-price-forecast-2026-what-goldman-sachs-jpmorgan-and-major-banks-are-predicting/, https://coinpaper.com/33893/gold-price-prediction-gold-holds-4060-as-citi-targets-4500, https://goldenarkreserve.com/blog/gold-price-forecast-august-2026/
 
-**Last updated**: 2026-08-20
+**Last updated**: 2026-08-21
+
+---
+
+## August 21, 2026 — No New Revisions; Aug 20 Figures Reconfirmed (JPMorgan, BofA, Standard Chartered, Citi, Commerzbank, Wells Fargo)
+
+No new bank target revisions found dated Aug 20-21 beyond the figures already on file: JPMorgan Q3 $4,300/Q4 $4,500; Bank of America 2026 average cut 14% to $4,360; Standard Chartered $4,650 Q4; Citi $4,500 Q4 2026 → $5,000 H1 2027; Commerzbank $5,000 by year-end; Wells Fargo $4,900-$5,100 (down from $5,300-$5,500). All reconfirmed via a fresh sweep, no change to the tracked range (~$4,360-$6,300; the Wells Fargo $6,100-$6,300 vs $4,900-$5,100 contradiction flagged Aug 20 remains unresolved). This factor no longer feeds the trading signal (retired 2026-07-25); tracked for wiki completeness only, see [[signal-methodology]]. Sources: web search Aug 21, 2026.
 
 ---
 

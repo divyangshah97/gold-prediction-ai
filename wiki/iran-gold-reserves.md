@@ -1,10 +1,10 @@
 # Iran — Gold Reserves & Strategy
 
-**Summary**: Iran is one of the most active gold accumulators globally — not through official central bank purchases (which the IMF does not report), but through a deliberate national strategy of converting FX reserves into gold to evade sanctions. The Central Bank of Iran (CBI) claims ~20% of total FX reserves are now in gold. Iran imported 100+ tonnes of gold in 2024 alone.
+**Summary**: Iran is one of the most active gold accumulators globally — not through official central bank purchases (which the IMF does not report), but through a deliberate national strategy of converting FX reserves into gold to evade sanctions. The Central Bank of Iran (CBI) claims ~20% of total FX reserves are now in gold. Iran imported 100+ tonnes of gold in 2024 alone. **UPDATE Aug 21, 2026**: the US-Iran 60-day negotiating deadline (set by the June 2026 MOU) expired Aug 17, 2026 without a final nuclear deal, raising renewed UN sanctions-snapback risk and reinforcing Iran's rationale for holding gold as a sanctions buffer.
 
-**Sources**: Web research — [Al Jazeera March 2025](https://www.aljazeera.com/news/2025/3/13/iran-bets-big-on-gold-as-it-weathers-trump-turmoil), [Money Metals 2025](https://www.moneymetals.com/news/2025/08/07/iran-using-gold-to-support-its-economy-in-the-midst-of-sanctions-004249), [Iran Int'l](https://www.iranintl.com/en/202508063610), [Euronews Jan 2026](https://www.euronews.com/business/2026/01/08/gold-in-iran-from-a-safe-haven-to-a-bastion-of-political-protest), [IranIntl Aug 2025](https://www.iranintl.com/en/202508063610), [WGC](https://www.gold.org/goldhub/data/gold-reserves-by-country)
+**Sources**: Web research — [Al Jazeera March 2025](https://www.aljazeera.com/news/2025/3/13/iran-bets-big-on-gold-as-it-weathers-trump-turmoil), [Money Metals 2025](https://www.moneymetals.com/news/2025/08/07/iran-using-gold-to-support-its-economy-in-the-midst-of-sanctions-004249), [Iran Int'l](https://www.iranintl.com/en/202508063610), [Euronews Jan 2026](https://www.euronews.com/business/2026/01/08/gold-in-iran-from-a-safe-haven-to-a-bastion-of-political-protest), [IranIntl Aug 2025](https://www.iranintl.com/en/202508063610), [WGC](https://www.gold.org/goldhub/data/gold-reserves-by-country), [CNN Aug 17 2026](https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump), [Washington Post Aug 17 2026](https://www.washingtonpost.com/business/2026/08/17/iran-us-war-diplomacy-deal-deadline-nuclear/72551b60-9a16-11f1-9cc4-2dc9b46e2d5c_story.html)
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-08-21
 
 ---
 
@@ -68,7 +68,7 @@ The [[iran-conflict-2026]] transformed Iran's gold situation:
 |---|---|
 | MOU signed, sanctions lifted | Iran could diversify away from gold; no longer needs pure sanction-evasion reserves. Potentially some gold liquidation. |
 | Deal collapses, snapback sanctions | Iran would need to lean further on gold; would likely accelerate accumulation. Bullish for gold demand. |
-| Current status (May 27) | Deal close but unsigned; divergent signals. Gold strategy unchanged. |
+| Current status (Aug 21) | The June 2026 US-Iran MOU set a 60-day window to reach a "final deal"; that window **expired Aug 17, 2026** with no qualifying deal reached (per CNN/Washington Post live coverage). Disputes persist over IAEA inspections, enrichment/missile limits, and Strait of Hormuz navigation. Failure to reach a deal is the trigger condition for UN snapback sanctions to be reimposed. Iran's gold-as-buffer strategy is unchanged and, if anything, more relevant given the deadline lapse. Market odds (Polymarket) show near-zero probability of a "final deal" being reached imminently. |
 
 ---
 
@@ -105,6 +105,7 @@ Iran also features in [[hidden-sovereign-buying]] — its unreported official re
 | Date | Event |
 |---|---|
 | 2026-05-27 | Page created. CBI data unverified by IMF. 100t+ 2024 import confirmed (WGC/Al Jazeera). Iran-US MOU still unsigned as of May 27; nuclear sticking points remain. Gold strategy unchanged. |
+| 2026-08-21 | **60-day US-Iran negotiating deadline (set by the June 2026 MOU) expired Aug 17, 2026** without a final nuclear deal. Ceasefire (since April) holds, but IAEA inspection access, enrichment/missile limits, and Strait of Hormuz transit remain unresolved. Failure to reach a deal is the trigger for UN sanctions snapback. No new CBI gold reserve figure disclosed this window — official holdings remain unreported to the IMF; the strategic rationale for Iran's gold buffer is reinforced by the deadline lapse. No confirmed new CBI tonnage data found in the Aug 19-21 sweep. (source: CNN Aug 17 2026; Washington Post Aug 17 2026) |
 
 ## Related pages
 

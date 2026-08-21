@@ -1,17 +1,18 @@
 # Russia — Gold Reserves
 
-**Summary**: Russia sold a record **43.5 tonnes** of gold in H1 2026 — the most since at least 2002 — leaving reserves at 2,282t as of July 1. All sales are domestic (no LBMA access since April 2023). Driven by wartime fiscal pressure: H1 2026 federal deficit ~6 trillion rubles; proceeds ~$5.6B. Full-year pace projects 80–90t sold in 2026. Poland's 82t YTD buying alone outpaces Russia's entire H1 selling.
+**Summary**: Russia sold a record **43.5 tonnes** of gold in H1 2026 — the most since at least 2002 — leaving reserves at 2,282t as of July 1. All sales are domestic (no LBMA access since April 2023). Driven by wartime fiscal pressure: H1 2026 federal deficit ~6 trillion rubles; proceeds ~$5.6B. **UPDATE Aug 21, 2026**: Bloomberg (Aug 20) confirms the drawdown continued into July — reserves fell to **73.2 million oz (~2,277t) as of Aug 1, 2026**, the lowest level since January 2020, a further ~6t sold in July alone. Full-year pace still projects 80–90t sold in 2026. Poland's 82t+ YTD buying alone outpaces Russia's entire H1 selling.
 
-**Sources**: `raw/india-russia-gold-reserves-2026-05-21.md`, `raw/central-bank-gold-purchases-2026-05-19.md`, Kitco June 3 2026, Kitco May 25 2026, Moscow Times Nov 2025, The Bell Nov 2025, bne IntelliNews, RAND Gold Rush report, Atlantic Council, New Eastern Europe Feb 2026, Modern Diplomacy Apr 2026, https://www.kitco.com/news/article/2026-07-21/russias-central-bank-sold-44-tonnes-gold-first-half-2026, https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43M0RK:0-russian-central-bank-sells-44-tons-of-gold-in-first-half-of-2026/, https://english.nv.ua/business/russia-sells-43-5-tons-of-gold-to-cover-budget-deficit-50626307.html
+**Sources**: `raw/india-russia-gold-reserves-2026-05-21.md`, `raw/central-bank-gold-purchases-2026-05-19.md`, Kitco June 3 2026, Kitco May 25 2026, Moscow Times Nov 2025, The Bell Nov 2025, bne IntelliNews, RAND Gold Rush report, Atlantic Council, New Eastern Europe Feb 2026, Modern Diplomacy Apr 2026, https://www.kitco.com/news/article/2026-07-21/russias-central-bank-sold-44-tonnes-gold-first-half-2026, https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43M0RK:0-russian-central-bank-sells-44-tons-of-gold-in-first-half-of-2026/, https://english.nv.ua/business/russia-sells-43-5-tons-of-gold-to-cover-budget-deficit-50626307.html, https://www.bloomberg.com/news/articles/2026-08-20/russian-sales-bring-gold-reserves-to-their-lowest-since-2020, https://investinglive.com/commodities/once-the-world-s-top-gold-buyer-russia-s-central-bank-now-a-steady-seller/
 
-**Last updated**: 2026-07-23
+**Last updated**: 2026-08-21
 
 ---
 
-## Current Position (H1 2026 — UPDATED July 21, 2026)
+## Current Position (UPDATED Aug 21, 2026)
 
 | Metric | Value |
 |---|---|
+| Total reserves (Aug 1, 2026) | **~2,277 tonnes** (73.2M troy oz) — lowest since January 2020 (Bloomberg, Aug 20 2026) |
 | Total reserves (July 1, 2026) | **2,282 tonnes** (73.4M troy oz) — CBR confirmed July 21 |
 | Total reserves (April 1, 2026) | 2,304.76 tonnes |
 | Total reserves (January 1, 2026) | 2,326.52 tonnes |
@@ -277,6 +278,7 @@ Russia's selling is fully absorbed by Polish buying alone. At the global [[centr
 | 2026-06-18 | Major expansion: accumulation history (2006–2022), NWF vs BoR two-pot structure, selling mechanism (domestic only), G7 ban + circumvention routes (closed Apr 2023), domestic gold production (Polyus, Polymetal, Sukhoi Log), depletion trajectory. NWF: 292.5t (Oct 2024) → 155.1t (Feb 2026). All current sales are domestic — no LBMA impact. |
 | 2026-07-23 | **Major update: CBR confirms H1 2026 gold sales = 43.5t (record in 25 years)**. Total reserves fell to 2,282t (73.4M troy oz) as of July 1, 2026. Budget proceeds ~$5.6B. Federal budget deficit H1 2026: ~6T rubles. NWF depletion pace accelerating. Projected full-year 2026: 80–90t. Sources: Kitco July 21, Reuters/TradingView July 21, Mining.com. |
 | 2026-07-31 | **WGC Q2 2026 Gold Demand Trends report (published Jul 30) confirms Russia was the quarter's largest seller at −22t**, consistent with (and quarterly-aggregating within) the already-tracked H1 2026 total of −43.5t. Confirms fiscal-liquidation selling continued at pace through Q2. (source: WGC Gold Demand Trends Q2 2026; IndexBox Jul 30 2026) |
+| 2026-08-21 | **Bloomberg (Aug 20, 2026): reserves fell to 73.2M troy oz (~2,277t) as of Aug 1, 2026** — the smallest holding since January 2020, down ~0.2M oz (~6t) from the July 1 print (73.4M oz / 2,282t), confirming July sales continued at the same ~6-7t/month pace as H1. Reserve value down ~$33.7B over the 7-month period despite the price rally, reflecting the physical drawdown. Bloomberg frames Russia as having gone "from the world's top gold buyer to a steady seller." No change to the underlying driver (wartime budget deficit funding) or to the domestic-only sales channel. (source: Bloomberg Aug 20 2026; Interfax; investinglive.com) |
 
 ---
 
