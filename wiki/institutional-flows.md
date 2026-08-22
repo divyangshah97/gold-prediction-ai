@@ -6,7 +6,7 @@
 
 **August 3 note**: As of July 30, 2026, GLD 5-day net flows were **+$189.64M**, 1-month net flows **+$581.24M**, but 3-month net flows remained **−$4.25B** — near-term inflows resuming after a sharply negative Q3-to-date. No August-dated GLD tonnage or fresh weekly CFTC COT print (next due Friday) found today; this factor is informational only (superseded by Factor 6 Dollar Pressure in the live signal, see [[signal-methodology]]).
 
-**Last updated**: 2026-08-15
+**Last updated**: 2026-08-22
 
 ---
 
@@ -66,34 +66,35 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-08-11  
-> **Published by CFTC:** 2026-08-14 (Friday)  
-> **Retrieved:** 2026-08-14T20:55:17Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
-> **cot.csv:** Updated 2026-08-15 (Saturday routine)
+> **Report_Date (as-of Tuesday):** 2026-08-18  
+> **Published by CFTC:** 2026-08-21 (Friday)  
+> **Retrieved:** 2026-08-21T20:49:04Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
+> **cot.csv:** Updated 2026-08-22 (Saturday routine)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-08-11 |
-| Open_Interest | 400,309 contracts |
-| MM_Long | 148,634 contracts |
-| MM_Short | 10,972 contracts |
-| MM_Net | +137,662 contracts |
-| MM_Net_Change | +6,896 vs. prior week (2026-08-04: +130,766) |
-| MM_Net % of OI | 34.4% |
+| Report_Date | 2026-08-18 |
+| Open_Interest | 406,260 contracts |
+| MM_Long | 154,595 contracts |
+| MM_Short | 12,947 contracts |
+| MM_Net | +141,648 contracts |
+| MM_Net_Change | +3,986 vs. prior week (2026-08-11: +137,662) |
+| MM_Net % of OI | 34.9% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation (as of August 11)
+### Sentiment Interpretation (as of August 18)
 
-MM_Net of +137,662 falls in the **Neutral zone (50,000–150,000 contracts)**. Managed money net longs continued their gradual climb, rising +6,896 contracts week-over-week — a moderate, steady addition rather than a surge.
+MM_Net of +141,648 remains in the **Neutral zone (50,000–150,000 contracts)**. Managed money net longs edged higher by +3,986 contracts week-over-week — a modest, measured addition that keeps the trend of gradual accumulation intact.
 
-The composition this week shows a meaningful shift back toward long-side addition: MM_Long rose from 139,809 to 148,634 (+8,825 contracts), while MM_Short increased from 9,043 to 10,972 (+1,929 contracts). After several weeks of short-covering driving the net move, this week new gross longs are the primary driver. Open interest expanded to 400,309 from 371,551 (+28,758 contracts), suggesting fresh capital entering COMEX gold futures rather than position-unwinding. MM_Net as % of OI stands at 34.4%, roughly flat with last week's 35.2%.
+The composition shows continued long-side building: MM_Long rose from 148,634 to 154,595 (+5,961 contracts), while MM_Short increased from 10,972 to 12,947 (+1,975 contracts). New gross longs remain the primary driver of the net change, with the short addition partially offsetting gains. Open interest expanded to 406,260 from 400,309 (+5,951 contracts), a small but positive sign of fresh capital entering rather than position-unwinding. MM_Net as % of OI stands at 34.9%, essentially flat with last week's 34.4%.
 
-**Week-over-week change:** +6,896 contracts — well below the ±20,000 significant positioning shift threshold. No extreme move flagged. With OI expanding and longs being added (not shorts covered), the structural picture is one of measured accumulation. If this pace continues, MM_Net approaches the 150,000 boundary of the "moderately long — supportive" zone within 2–3 weeks.
+**Week-over-week change:** +3,986 contracts — well below the ±20,000 significant positioning shift threshold. No extreme move flagged. MM_Net now approaches the 150,000 boundary of the "moderately long — supportive" zone; a further +8,352 contracts of net buying would cross that threshold.
 
 ---
 
 ## Historical COT Reference
 
+> **Report_Date:** 2026-08-18 | **MM_Net:** +141,648 | **OI:** 406,260 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-08-11 | **MM_Net:** +137,662 | **OI:** 400,309 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-08-04 | **MM_Net:** +130,766 | **OI:** 371,551 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-07-28 | **MM_Net:** +119,795 | **OI:** 384,603 | **Sentiment:** Neutral zone  

@@ -2574,3 +2574,6 @@ Report_Date: 2026-08-11 | MM_Net: +137,662 (+6,896 vs. prior week) | OI: 400,309
 **New files**: `raw/india-gold-2026-08-20.md`, `prices/prices.csv` (Aug19 row), `prices/real_yields.csv` (Aug19 row), `signals/signals.csv` (Aug20 row: Buy, 4)
 
 **Data confidence flag**: Both the Aug19 price-close cluster and the Aug19 DFII10 reading are web-search-derived estimates, not direct exchange/FRED reads, consistent with every daily run since 2026-07-31 given the persistent network egress block. Gold's close had unusually strong three-source convergence (within $2) — higher confidence than most recent days. If a future run with restored API access finds materially different values, this should be reconciled.
+
+## 2026-08-22 — COT weekly update
+Report_Date: 2026-08-18 | MM_Net: +141,648 (+3,986 vs prior week) | OI: 406,260 | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at 2026-08-21T20:49:04Z
