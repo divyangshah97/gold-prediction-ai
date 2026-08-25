@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ---
 
@@ -76,6 +76,21 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-25
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-25 | 🌐 Global (Macro/Geo) | No new country-level CB tonnage news found in this sweep (4 mandatory searches run). All previously-tracked figures (WGC Q2 2026 record 288.9t, +62% y/y; PBoC +19.9t July, 21st consecutive month; Poland 82t H1 total) reconfirmed but not new. The dominant new story remains macro/geopolitical, not CB reserve data: gold hit a fresh 3-month+ high ($4,677.19 spot, +0.6%) on continued dollar weakness plus the Treasury debt-buyback "debasement trade" and Iran sanctions escalation (Bessent's newly-named "Operation Economic Outcast," called a "warning shot"; Iran threatening Hormuz ship seizures) — see [[iran-conflict-2026]], [[gold-geopolitical-risk-premium]], [[fed-macro-factors]]. **No factor/signal score reported by this agent** (CB demand removed from signal scoring 2026-07-25 per [[signal-methodology]]). | Ran all four mandatory sweep searches directly |
+| 2026-08-25 | 🇩🇪 Germany (Bundesbank) | No new data | ~1,236t still at FRBNY of 3,352t total; repatriation pressure from economists (e.g. Emanuel Mönch) persists as background theme; no new Bundestag vote or official Bundesbank statement found beyond the January 2026 "renewed calls" story already on file. See [[germany-gold-reserves]]. | Web search Aug 25, 2026 |
+| 2026-08-25 | 🇫🇷 France (Banque de France) | No new data | 2,437t; all now on French soil. See [[france-gold-reserves]]. | Web search Aug 25, 2026 |
+| 2026-08-25 | 🇮🇹 Italy (Banca d'Italia) | No new data | 2,452t; Fratelli d'Italia ownership dispute still unresolved since Lagarde's Aug10 public criticism; no new legislative movement found. See [[italy-gold-reserves]]. | Web search Aug 25, 2026 |
+| 2026-08-25 | 🇯🇵 Japan (BoJ/MoF) | No new data | 845.97t static, no accumulation; no new BoJ/MoF gold-allocation statement found. See [[japan-gold-reserves]]. | Web search Aug 25, 2026 |
+| 2026-08-25 | 🇺🇸 USA (Treasury/Congress) | No new data | 8,133t; H.R.3795 Gold Reserve Transparency Act remains at committee stage per Aug24's re-verification; Rand Paul's Aug10 Fort Knox visit and calls for a full independent audit remain the latest development, no new movement found. See [[usa-gold-reserves]]. | Web search Aug 25, 2026 |
+| 2026-08-25 | 🇬🇧 UK (Bank of England) | No new data | 310.29t unchanged; LBMA London vaults reported at 9,534t (~$1.2T) end-July, a 0.74% m/m increase — a custodial-flow update, not a UK reserve change. See [[uk-gold-reserves]]. | Web search Aug 25, 2026 |
+| 2026-08-25 | 🇸🇦 Saudi Arabia (SAMA) | No new data | Static 323.07t; no new purchase/sale found; BRICS+ "wild card" framing (potential large future buyer) remains speculative, not a confirmed move. See [[saudi-arabia-gold-reserves]]. | Web search Aug 25, 2026 |
+| 2026-08-25 | 🇮🇷 Iran (CBI) | No new gold-reserve data | No fresh gold-specific reserve announcement; the newly-named "Operation Economic Outcast" sanctions campaign and Iran's Hormuz ship-seizure threat are geopolitical, not reserve-data, developments. See [[iran-gold-reserves]], [[iran-conflict-2026]]. | Web search Aug 25, 2026 |
+| 2026-08-25 | 🇮🇳 India (RBI reserves only) | No new data | 880.52t static. Full India market/price coverage in [[india-gold-market]]. | Web search Aug 25, 2026 |
 
 ### 2026-08-24
 

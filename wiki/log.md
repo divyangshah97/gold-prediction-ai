@@ -4,6 +4,39 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-25 — Daily update: gold hits fresh 3-month+ high ($4,677.19 spot, +0.6%) on continued dollar weakness + debt-buyback trade; "Operation Economic Outcast" Iran sanctions; Signal holds Buy (+4)
+
+**Holiday check**: Searched NSE/BSE 2026 August holiday calendar — confirmed August 25 (Tuesday) is not a listed market holiday (Independence Day Aug 15 fell on a Saturday; Ganesh Chaturthi Aug 27 is the next holiday, two days out). Proceeded.
+
+**Network note**: `fetch_prices.py` failed entirely — yfinance (`fc.yahoo.com`, `query1.finance.yahoo.com`) and the metals.dev fallback (`api.metals.dev`) were both blocked by the sandbox egress policy, confirmed via `$HTTPS_PROXY/__agentproxy/status` as `connect_rejected`/403 "policy denial" (not a transient error). Direct `curl` to `fred.stlouisfed.org` for DFII10 failed the same way. `WebFetch` also returned `EGRESS_BLOCKED` on zerodha.com, groww.in, tradingeconomics.com, and www.federalreserve.gov. All price data this run is `WebSearch`-sourced and manually appended to the CSVs, consistent with every prior day's pattern.
+
+**Prices added to CSV** (previous completed trading day T-1 = Monday August 24; last CSV row before this run was Aug 21):
+- Gold: **$4,645.74** (+0.83% vs $4,607.35 Aug21) — TradingEconomics-cited figure ($4,645.74/$4,645.895, two independently-worded results agreeing), cross-validated: $4,607.35 × 1.0083 ≈ $4,645.6, reconciles cleanly.
+- Silver: **$68.98** (+0.04%) — internally consistent across two sources ("up from yesterday's 68.99"/"up 0.05% from previous day").
+- DXY: **98.9882** (+0.19%) — explicitly Aug24-dated ("rose to 98.9882 on August 24, 2026, up 0.19% from the previous session").
+- WTI: **$84.75** (−2.34%) — corroborated by a second source noting crude "fell more than 2% to below $85 a barrel on Monday."
+- USD/INR: **95.7660** (+0.11%) — explicitly Aug24-dated.
+
+**Real yields CSV**: Direct FRED fetch and WebFetch both blocked again. Web search found no DFII10 reading dated later than the on-file Aug21 print (2.39%) — only the same Aug20/Aug21 figures already recorded, plus an Aug24 Forbes article discussing the 30-year (not 10-year) TIPS real yield. Per the fallback convention, **no new row appended**; `real_yields.csv`'s last row remains `2026-08-21,2.39`. Delta used (carried forward): 2.39% (Aug21) vs 2.46% (Aug20) = **−7bps**, beyond the ±3bps threshold — Factor 7 stays **Bullish (+1)**. See [[real-yields-tips]].
+
+**Global CB sweep** ([[global-cb-activity-log]]): No new country-level CB tonnage/purchase/sale news found dated Aug 25. Germany, France, Italy, Japan, USA, UK, Saudi Arabia, and Iran all explicitly checked — no new news on any of them. No new countries accumulated enough news for a stub page.
+
+**Geopolitics & macro**: Gold's rally extended further today — CNBC (Aug25): "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans," spot +0.6% to **$4,677.19**, highest since mid-May — the same two drivers as Aug23-24 (Treasury debt-buyback "debasement trade" + Iran sanctions escalation) remain in play, not a reversal. Treasury Secretary Bessent's Aug24 press conference formally named the sanctions campaign **"Operation Economic Outcast"** but characterized it as a **"warning shot"** rather than full immediate deployment; Iran's Persian Gulf Strait Authority reiterated that vessels violating transit rules face "fines, seizure, or confiscation," and Oman's FM traveled to Tehran (Aug25) for talks — a diplomatic-track development that doesn't reverse the live escalation. Gold and the dollar continue to move in the classic Bullish safe-haven/debasement pattern. Factor 2 = **Bullish (+1)**. No new Fed hawkish surprise found; September-hold odds ~66% (Kalshi), essentially flat vs the established ~65-68% range — Factor 3 = **Bullish (+1)**. Jackson Hole (Warsh's first keynote as Chair, Aug 28) is now 3 days out. See [[gold-geopolitical-risk-premium]], [[iran-conflict-2026]], [[fed-macro-factors]]. No new bank gold-price-target revisions found ([[goldman-sachs-gold-forecast]]); no new US-China/Taiwan/rare-earths/de-dollarisation developments beyond ongoing background tension (Bloomberg: US eyeing a new 7.5% overcapacity tariff on China ahead of the planned Xi-Trump summit next month — noted but not yet enacted).
+
+**India**: MCX gold continued climbing toward **₹1.64-1.65 lakh/10g**, almost entirely a COMEX pass-through of the international rally described above; USD/INR ~₹95.9 (+0.09%), a modest rupee weakening within Factor 6's neutral band. RBI reserves static at 880.52t, no new import data, no duty change, no GMS announcement. ETF inflow figure (₹1,179cr, 1H August) carried forward, no fresher print found. Raw source file created: `raw/india-gold-2026-08-25.md`. See [[india-gold-market]].
+
+**Technicals** (Factor 5): Computed directly from `prices/prices.csv`'s 189-row history (web search again yielded no single reliable numeric 9-day EMA — conflicting/stale values across sources): 9-day EMA **$4,481.62**, 50-day EMA **$4,291.45**. Aug24 close ($4,645.74) is above both. Last two completed sessions (Aug20→21: +$90.75, Aug21→24: +$38.39) both green → "2 green" confirmed. Above both EMAs + 2 green → Factor 5 = **Bullish (+1)**.
+
+**Dollar Pressure** (Factor 6): DXY +0.17% (98.8168→98.9882, within 0.5%) and USD/INR +0.02% (95.7440→95.7660, within 0.5%) → both within the neutral band → Factor 6 = **Neutral (0)**.
+
+**Real Yields** (Factor 7): DFII10 2.39% (Aug21) vs 2.46% (Aug20) = **−7bps** (carried forward, no newer print found) → Factor 7 = **Bullish (+1)**.
+
+**Signal**: Net score **+1+1+1+0+1 = +4 → Buy**, unchanged from Aug 24's Buy (+4) — same drivers persisting through today's sweep with no reversal. Appended to `signals/signals.csv`.
+
+**Pages updated**: [[gold-geopolitical-risk-premium]], [[iran-conflict-2026]], [[fed-macro-factors]], [[real-yields-tips]], [[india-gold-market]], [[global-cb-activity-log]], [[goldman-sachs-gold-forecast]], [[index]]. Raw file created: `raw/india-gold-2026-08-25.md`.
+
+---
+
 ## 2026-08-24 — Daily update: Treasury debt-buyback "debasement trade" + Bessent's Iran "economic D-Day"; gold closes $4,607.35 (+2.03%), nears 3-month high; Signal holds Buy (+4)
 
 **Holiday check**: Searched NSE/BSE 2026 August holiday calendar — confirmed no weekday market holidays in August 2026 (Independence Day Aug 15 fell on a Saturday; no other August holiday found). August 24 (Monday) is a normal trading day. Proceeded.
