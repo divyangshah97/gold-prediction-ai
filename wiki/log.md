@@ -2643,3 +2643,43 @@ Report_Date: 2026-08-11 | MM_Net: +137,662 (+6,896 vs. prior week) | OI: 400,309
 
 ## 2026-08-22 — COT weekly update
 Report_Date: 2026-08-18 | MM_Net: +141,648 (+3,986 vs prior week) | OI: 406,260 | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at 2026-08-21T20:49:04Z
+
+## 2026-08-26 — Daily update (holiday check: Id-E-Milad is a settlement-only holiday, NSE/BSE/MCX trade normally — routine proceeded)
+
+**Price/data fetch**: `fetch_prices.py` (yfinance + metals.dev fallback) and direct `curl` to `fred.stlouisfed.org` were both blocked again today by 403/policy-denial errors from the network egress proxy (confirmed via `$HTTPS_PROXY/__agentproxy/status` — `connect_rejected` on `fc.yahoo.com`, `api.metals.dev`, `fred.stlouisfed.org`), consistent with every prior day since the block began. All price data was sourced via `WebSearch` and manually appended:
+- `prices/prices.csv`: new row `2026-08-25,4675.96,69.56,98.9586,82.36,,95.7310` (Gold close near COMEX-settle time via Fortune's spot tracker; Silver at 1:22pm ET ask, near settle; DXY/USD_INR from explicitly Aug25-dated snippets; WTI corroborated directly)
+- `prices/real_yields.csv`: new row `2026-08-24,2.38` — a genuinely fresher DFII10 print than the Aug21 figure carried forward since Aug18, corroborated by two independent sources
+
+**Research**: Three parallel background research agents covered (1) global central bank gold sweep, (2) technicals/macro/geopolitics, (3) India-specific market news.
+
+**Global CB sweep**: No new country-level central bank gold buying/selling/policy news found in the last 24-48h. Checked all tracked buyers, sellers, large passive holders (Germany/France/Italy/Japan/USA/UK/Saudi Arabia/Iran specifically), and candidate new countries (Hungary, Qatar, South Korea, Switzerland/SNB) — nothing fresh. Only result was PBoC's July +19.9/20t purchase (published Aug7), already on file.
+
+**Key findings**:
+- Gold closed Aug25 at $4,675.96 (+0.65%), a fresh 3-month+ high; silver $69.56 (+0.84%)
+- "Operation Economic Outcast" Iran-sanctions campaign expanded Aug24-25 with ~60 entities designated across Hong Kong/China/Malaysia/UAE/Singapore; the campaign explicitly names **gold** (alongside digital assets, tech, aviation, shipping) as one of Iran's targeted sanctions-evasion channels — no fresh Hormuz kinetic event
+- Fed: hold odds for September flat-to-slightly-higher (CME FedWatch ~68.4% Aug20, Kalshi ~70.5% Aug18) vs the ~66% figure referenced Aug25 — no hawkish surprise; Core PCE/Q2 GDP due today (not yet released); Warsh's first Jackson Hole keynote as Chair now 2 days out (Aug28)
+- Fresh web-searched EMAs (mandatory, not stale computed values): 9-day EMA ≈$4,636.70 (babypips.com), 50-day band ~$4,606.71–$4,641.80 across sources — Aug25 close above both, last 2 daily deltas both green
+- Bank forecasts (context only, retired from signal): Standard Chartered raised Q4 target to $4,650 (from $4,500), Commerzbank raised full-year target to $5,000 (from $4,400); JPM/BofA reconfirmed at the low end ($4,500/$4,360)
+- India: MCX up ~0.84% to ~₹1.63 lakh/10g, an almost entirely global pass-through day; USD/INR roughly flat (~₹95.4-95.9); GMS relaunch reportedly expected "within the next two weeks" (new momentum, not yet formally notified); ETF inflows ₹1,179cr (1H Aug) carried forward; gold recycling at an 11-quarter low (19t, Q1 FY27)
+
+**Signal computation (Aug 26, scored on Aug 25 close)**:
+- Factor 2 (Geopolitical): "Operation Economic Outcast" expands, gold named a sanctions-evasion target, DXY flat, gold still rising → **+1 Bullish** (unchanged)
+- Factor 3 (Fed/macro): hold odds flat-to-higher, no hawkish surprise → **+1 Bullish** (unchanged)
+- Factor 5 (Technicals): price above both fresh EMAs, last 2 daily deltas green → **+1 Bullish** (unchanged)
+- Factor 6 (Dollar): DXY −0.03%, USD/INR −0.04%, both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): DFII10 2.39%→2.38% = −1bp, below the ±3bps threshold → **0 Neutral** (reversed from Bullish, on a genuinely fresh reading — not a trend reversal)
+- **Total: +1+1+1+0+0 = +3 → Buy**, down from Buy (+4) on Aug 25
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new "MCX Gold Price (August 26, 2026)" section; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — new Aug 26 summary/timeline entry with full signal computation
+- `wiki/iran-conflict-2026.md` — new Aug 26 entry ("Operation Economic Outcast" expansion, gold named as evasion channel)
+- `wiki/fed-macro-factors.md` — new Aug 26 section (hold-odds cross-check across CME FedWatch/Kalshi)
+- `wiki/real-yields-tips.md` — new Aug 24 reading logged (2.38%, cross-validated across two sources)
+- `wiki/goldman-sachs-gold-forecast.md` — new bank target revisions: Standard Chartered and Commerzbank both raised targets upward
+- `wiki/global-cb-activity-log.md` — Aug 26 section added (full sweep + new-country checks, no new country-level tonnage news found)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-08-26.md`, `prices/prices.csv` (Aug25 row), `prices/real_yields.csv` (Aug24 row), `signals/signals.csv` (Aug26 row: Buy, 3)
+
+**Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). The DFII10 reading (2.38%, Aug24) was corroborated by two independently-worded sources agreeing on both level and date — higher confidence than several recent carried-forward estimates. If a future run with restored API access finds materially different values, this should be reconciled.
