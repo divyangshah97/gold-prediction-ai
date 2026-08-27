@@ -4,6 +4,39 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-27 — Daily update: gold pulls back from 3-month+ high (-1.38%) on profit-taking ahead of Jackson Hole; Iran vows retaliation but risk priced in; Signal drops Buy(+3)→Wait(0)
+
+**Holiday check**: Searched NSE/BSE 2026 August holiday calendar — confirmed August 27 (Thursday) is not a listed market holiday. **Correction to a prior-day error**: the Aug 25 log entry below states "Ganesh Chaturthi Aug 27 is the next holiday" — this was incorrect. Cross-checked today via two separate searches: Ganesh Chaturthi in 2026 actually falls on **Monday, September 14, 2026** (confirmed by calendarlabs.com, sahi.com, and NSE/BSE holiday-list aggregators), not August 27. The Aug 27 date appears to have been confused with **Ganesh Chaturthi 2025**, which did fall on August 27, 2025. Markets were open today; the routine proceeded as normal. Flagging here so future runs don't repeat the error, and noting September 14, 2026 as the actual next Ganesh Chaturthi market holiday to watch for.
+
+**Data-fetch blockage (ongoing since ~2026-07-31)**: `fetch_prices.py` (yfinance + metals.dev fallback) failed entirely — all calls rejected with 403 by the network egress proxy (confirmed via `$HTTPS_PROXY/__agentproxy/status` as `connect_rejected`/policy denial for `query2.finance.yahoo.com`, `api.metals.dev`, and a direct `curl` to `fred.stlouisfed.org`). Consistent with every daily run since the block began. All prices (Gold, Silver, DXY, WTI, USD/INR previous-day closes) and the DFII10 real-yield reading were sourced via WebSearch and manually appended to `prices/prices.csv` / `prices/real_yields.csv`. USD/INR carries lower-than-usual confidence today — no single clean "Aug26 close" print was found; ₹95.55 is a bracketed estimate between the confirmed Aug25 close and a live Aug27 mid-market read.
+
+**Global CB sweep**: Ran all 4 mandatory searches (purchase/sale, reserves announcement, "central bank" tonnes, WGC demand). No fresh (24-48h) country-level CB gold buy/sell/policy news found. One stray result cited China PBoC reserves "at the end of August" — disregarded as a mismatched/stale article (inconsistent with PBoC's monthly reporting lag and the on-file July figure). Germany/France/Italy/Japan/USA/UK/Saudi Arabia/Iran not individually re-checked today (exhaustively checked Aug25-26 with no changes); resuming full per-country checks next run. No new stub pages.
+
+**Signal computation**: Aug26 close $4,593.74 (-1.38%), pulling back from Aug25's 3-month+ high of $4,675.96 on profit-taking ahead of Fed Chair Warsh's Jackson Hole keynote (tomorrow, Aug28) and firmer DXY/yields. Iran's economy minister vowed retaliation over widened "Operation Economic Outcast" sanctions, but gold fell alongside a firming dollar — read as priced-in risk, not fresh safe-haven demand.
+
+- Factor 2 (Geopolitical): Iran retaliation vow, but gold fell with DXY firming — risk priced in → **-1 Bearish** (reversed from Bullish)
+- Factor 3 (Fed/macro): hold odds ~69.4%, roughly flat, no hawkish surprise, Warsh keynote not yet delivered → **+1 Bullish** (unchanged)
+- Factor 5 (Technicals): price below both fresh EMAs (9d $4,636.70, 50d $4,634.34), last 2 daily deltas not both green → **-1 Bearish** (reversed from Bullish)
+- Factor 6 (Dollar): DXY +0.19%, USD/INR -0.19%, both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): DFII10 2.40%→2.34% = -6bps, beyond the ±3bps threshold → **+1 Bullish** (reversed from Neutral, on a genuinely fresh two-point reading)
+- **Total: -1+1-1+0+1 = 0 → Wait**, down from Buy (+3) on Aug 26 — first non-Buy signal in over two weeks
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new "MCX Gold Price (August 27, 2026)" section; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — new Aug 27 summary/timeline entry with full signal computation
+- `wiki/iran-conflict-2026.md` — new Aug 27 entry (Iran retaliation vow, Factor 2 flips Bearish)
+- `wiki/fed-macro-factors.md` — new Aug 27 section (hold-odds cross-check, Jackson Hole now tomorrow)
+- `wiki/real-yields-tips.md` — two new readings logged (2.40% Aug25, 2.34% Aug26)
+- `wiki/goldman-sachs-gold-forecast.md` — broad wave of bank target cuts (Wells Fargo, BofA, JPM, ING, Deutsche Bank) alongside Commerzbank/Citi raises
+- `wiki/global-cb-activity-log.md` — Aug 27 section added (full sweep, no new country-level tonnage news found)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-08-27.md`, `prices/prices.csv` (Aug26 row), `prices/real_yields.csv` (Aug25 + Aug26 rows), `signals/signals.csv` (Aug27 row: Wait, 0)
+
+**Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). If a future run with restored API access finds materially different values, this should be reconciled.
+
+---
+
 ## 2026-08-25 — Daily update: gold hits fresh 3-month+ high ($4,677.19 spot, +0.6%) on continued dollar weakness + debt-buyback trade; "Operation Economic Outcast" Iran sanctions; Signal holds Buy (+4)
 
 **Holiday check**: Searched NSE/BSE 2026 August holiday calendar — confirmed August 25 (Tuesday) is not a listed market holiday (Independence Day Aug 15 fell on a Saturday; Ganesh Chaturthi Aug 27 is the next holiday, two days out). Proceeded.

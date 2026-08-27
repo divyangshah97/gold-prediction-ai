@@ -4,7 +4,7 @@
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-26
+**Last updated**: 2026-08-27
 
 ---
 
@@ -76,6 +76,12 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-27
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-27 | Global | No new data | 4-search sweep (purchase/sale, reserves announcement, "central bank" tonnes, WGC demand) found no fresh (24-48h) country-level CB gold buy/sell/policy news. One stray result referenced China's PBoC reserves "at the end of August" (74.02M oz), but this figure/dateline is inconsistent with monthly PBoC reporting lag (August data would not publish until ~Sept 7) and with the already-on-file July figure (~76.08M oz, +19.9t) — treated as a mismatched/stale article, not a genuine update. Germany/France/Italy/Japan/USA/UK/Saudi Arabia/Iran not individually re-checked today (checked exhaustively Aug25-26, no changes found); resuming the full per-country sweep next run. No new stub pages created. | Web search |
 
 ### 2026-08-26
 
