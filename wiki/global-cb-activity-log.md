@@ -1,10 +1,10 @@
 # Global Central Bank Gold Activity Log
 
-**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine.
+**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Aug 28**: full sweep (4 searches + all named-entity checks) found no genuinely fresh (24-48h) country-level gold news — a quiet day for official-sector activity, with market attention on Warsh's Jackson Hole keynote instead; no new stub pages.
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-27
+**Last updated**: 2026-08-28
 
 ---
 
@@ -76,6 +76,12 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-28
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-28 | Global | No new data | Full 4-search sweep (purchase/sale, reserves announcement, "central bank" tonnes, WGC demand) plus explicit named-entity checks on all tracked buyers (Poland, China/PBoC, Uzbekistan, Kazakhstan, Czech Republic, Malaysia, Jordan, Singapore/MAS), sellers (Turkey, Russia, Azerbaijan/SOFAZ, Kyrgyz Republic), and large passive holders (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, India/RBI) plus new-country candidates (Hungary, Qatar, South Korea, Thailand, Brazil, Mexico, Switzerland/SNB) found **no genuinely fresh (24-48h) country-level gold buy/sell/policy news** — a quiet official-sector news day, with market attention on Warsh's Jackson Hole keynote instead. Closest-to-fresh items (China's July +20t purchase, published Aug7; Russia's Aug1 reserve figure, published Aug20) are both stale relative to the 24-48h window and were discarded, consistent with the prior two days' sweeps. Several fxstreet/Business Standard articles surfaced with August 2026 framing but 2025-dated URL codes — discarded as misdated/recycled. No new stub pages created. | Web search |
 
 ### 2026-08-27
 

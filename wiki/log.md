@@ -4,6 +4,50 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-08-28 — Daily update: modest bounce (+0.19%) reads as pre-Jackson-Hole positioning, not a geo/Fed signal; Signal holds Wait(0)
+
+**Holiday check**: Searched official 2026 NSE/BSE holiday circular — August 28, 2026 (Friday) is not a listed holiday (next holiday is Ganesh Chaturthi, Sept 14, 2026). Routine proceeded.
+
+**Price/data fetch**: `fetch_prices.py` (yfinance + metals.dev fallback) and direct `curl` to `fred.stlouisfed.org` were both blocked again today by proxy errors (yfinance: `ProxyError`/"Tunnel connection failed: 403 Forbidden" on all four tickers; metals.dev: same; FRED: connection reset), consistent with every prior day since the block began. All price data was sourced via `WebSearch` and manually appended:
+- `prices/prices.csv`: new row `2026-08-27,4602.69,69.33,99.1656,81.36,,95.51` (Gold from tradingeconomics' "+0.19% from previous day" figure, reconciling cleanly against Aug26's $4,593.74; Silver derived from a separately-reported +1.26% day-change; DXY/WTI/USD_INR all from explicitly Aug27-dated tradingeconomics-sourced snippets)
+- `prices/real_yields.csv`: **unchanged** — web search returned the exact same Aug26 date/value (2.34%) already on file, not a fresher print; no duplicate row appended per the no-duplicate-row rule
+
+**Research**: Three parallel background research agents covered (1) global central bank gold sweep, (2) technicals/macro/geopolitics/forecasts, (3) India-specific market news.
+
+**Global CB sweep**: No new country-level central bank gold buying/selling/policy news found in the last 24-48h. Checked all tracked buyers, sellers, large passive holders (Germany/France/Italy/Japan/USA/UK/Saudi Arabia/Iran specifically), and new-country candidates (Hungary, Qatar, South Korea, Thailand, Brazil, Mexico, Switzerland/SNB) — nothing fresh. Several fxstreet/Business Standard articles surfaced with August 2026 framing but 2025-dated URL codes — discarded as misdated/recycled.
+
+**Key findings**:
+- Gold closed Aug27 at $4,602.69 (+0.19%), a marginal bounce off Aug26's pullback low; silver $69.33 (+1.26%)
+- No fresh Iran/Hormuz escalation event found — the "Operation Economic Outcast" sanctions campaign and Iran's Rezaei threatening to "neutralize the economic war" are continuations of the Aug23-26 story, not new; Bloomberg explicitly attributes gold's small move to investors "focus[ing] on the Fed rate hike path" ahead of Warsh's Jackson Hole keynote, not to Iran
+- Fed: Warsh's first Jackson Hole keynote as Chair is scheduled for 10am ET today (Aug28) and had **not yet been delivered** as of this research pass (this routine runs before that time); July core PCE (Aug26) printed in line (3.3% YoY); rate-hike-odds sourcing conflicted materially (one source cited ~60% September-hike probability, inconsistent with the ~69.4% hold figure carried since Aug17) — treated as unresolved noise, not a confirmed hawkish surprise
+- EMA data remained weak despite extensive searching — no clean, dated 9-day EMA was found; used a 5-day MA proxy ($4,614.38) and a 50-day MA ($4,634.34, identical to Aug27's figure, possibly a stale/cached source) as the best available approximation
+- Bank forecasts (context only, retired from signal): Citigroup raised its 0-3 month target to $4,800 (12-month $5,000); Morgan Stanley noted gold hit its Q4 $4,450 forecast early and now sees a path above $5,000 in 2027; standing 2026 year-end targets (Goldman $4,900, UBS $5,500, JPMorgan ~$6,000) reconfirmed
+- India: MCX up ~0.56% to ~₹1.59-1.60 lakh/10g, an almost entirely global pass-through day; USD/INR essentially flat (~₹95.51-95.54); RBI/duty unchanged; Kundan Refinery's Aug21-23 IGC award remains the most recent India-specific item, no fresher news found
+
+**Signal computation (Aug 28, scored on Aug 27 close)**:
+- Factor 2 (Geopolitical): no fresh Iran escalation found; gold's tiny bounce attributed to pre-Jackson-Hole positioning, not geopolitics; DXY essentially flat (+0.02%) → **0 Neutral**, reversing Bearish
+- Factor 3 (Fed/macro): Warsh's keynote not yet delivered; PCE in line; rate-odds sourcing conflicted and unresolved — no confirmed hawkish surprise, the textbook "unchanged" case → **0 Neutral**, reversing Bullish
+- Factor 5 (Technicals): price below both best-available EMA proxies (EMA9≈$4,614.38, EMA50≈$4,634.34), last 2 daily deltas NOT both green (Aug25→26 red, Aug26→27 green) → **-1 Bearish**, unchanged
+- Factor 6 (Dollar): DXY +0.02%, USD/INR -0.04%, both within ±0.5% → **0 Neutral**, unchanged
+- Factor 7 (Real Yields): DFII10 pair unchanged (2.40%→2.34%, -6bps), carried forward beyond the ±3bps threshold → **+1 Bullish**, unchanged
+- **Total: 0+0-1+0+1 = 0 → Wait**, unchanged from Aug 27 — the net score holds steady even though two factors individually moved from directional reads to Neutral on genuine ambiguity/no-confirmed-surprise grounds
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new "MCX Gold Price (August 28, 2026)" section; summary updated
+- `wiki/gold-geopolitical-risk-premium.md` — new Aug 28 summary/timeline entry with full signal computation
+- `wiki/iran-conflict-2026.md` — new Aug 28 entry (no fresh escalation, Factor 2 flips Neutral)
+- `wiki/fed-macro-factors.md` — new Aug 28 section (Warsh keynote pending, Factor 3 flips Neutral)
+- `wiki/real-yields-tips.md` — new Aug 28 check logged (no fresher DFII10 print, pair carried forward)
+- `wiki/goldman-sachs-gold-forecast.md` — new bank target: Citi 0-3mo raise, Morgan Stanley 2027 path note
+- `wiki/global-cb-activity-log.md` — Aug 28 section added (full sweep, no new country-level tonnage news found)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-08-28.md`, `prices/prices.csv` (Aug27 row), `signals/signals.csv` (Aug28 row: Wait, 0)
+
+**Data confidence flag**: All price data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). Factor 5's EMA inputs carry lower confidence today than usual — no clean dated 9-day EMA was found despite extensive searching, and the 50-day proxy figure ($4,634.34) is suspiciously identical to Aug27's reported value, possibly reflecting a stale/uncached source page rather than a fresh calculation. If a future run finds materially different EMA levels, this should be reconciled. Recommend re-running the geopolitics/Fed sweep after Warsh's Jackson Hole keynote lands later today, since neither Factor 2 nor Factor 3 reflects any reaction to it yet.
+
+---
+
 ## 2026-08-27 — Daily update: gold pulls back from 3-month+ high (-1.38%) on profit-taking ahead of Jackson Hole; Iran vows retaliation but risk priced in; Signal drops Buy(+3)→Wait(0)
 
 **Holiday check**: Searched NSE/BSE 2026 August holiday calendar — confirmed August 27 (Thursday) is not a listed market holiday. **Correction to a prior-day error**: the Aug 25 log entry below states "Ganesh Chaturthi Aug 27 is the next holiday" — this was incorrect. Cross-checked today via two separate searches: Ganesh Chaturthi in 2026 actually falls on **Monday, September 14, 2026** (confirmed by calendarlabs.com, sahi.com, and NSE/BSE holiday-list aggregators), not August 27. The Aug 27 date appears to have been confused with **Ganesh Chaturthi 2025**, which did fall on August 27, 2025. Markets were open today; the routine proceeded as normal. Flagging here so future runs don't repeat the error, and noting September 14, 2026 as the actual next Ganesh Chaturthi market holiday to watch for.
