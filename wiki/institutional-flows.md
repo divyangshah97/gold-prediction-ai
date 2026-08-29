@@ -6,7 +6,7 @@
 
 **August 3 note**: As of July 30, 2026, GLD 5-day net flows were **+$189.64M**, 1-month net flows **+$581.24M**, but 3-month net flows remained **−$4.25B** — near-term inflows resuming after a sharply negative Q3-to-date. No August-dated GLD tonnage or fresh weekly CFTC COT print (next due Friday) found today; this factor is informational only (superseded by Factor 6 Dollar Pressure in the live signal, see [[signal-methodology]]).
 
-**Last updated**: 2026-08-22
+**Last updated**: 2026-08-29
 
 ---
 
@@ -66,34 +66,35 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-08-18  
-> **Published by CFTC:** 2026-08-21 (Friday)  
-> **Retrieved:** 2026-08-21T20:49:04Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
-> **cot.csv:** Updated 2026-08-22 (Saturday routine)
+> **Report_Date (as-of Tuesday):** 2026-08-25  
+> **Published by CFTC:** 2026-08-28 (Friday)  
+> **Retrieved:** 2026-08-29T02:52:24Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
+> **cot.csv:** Updated 2026-08-29 (Saturday routine)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-08-18 |
-| Open_Interest | 406,260 contracts |
-| MM_Long | 154,595 contracts |
-| MM_Short | 12,947 contracts |
-| MM_Net | +141,648 contracts |
-| MM_Net_Change | +3,986 vs. prior week (2026-08-11: +137,662) |
-| MM_Net % of OI | 34.9% |
+| Report_Date | 2026-08-25 |
+| Open_Interest | 427,957 contracts |
+| MM_Long | 159,819 contracts |
+| MM_Short | 15,072 contracts |
+| MM_Net | +144,747 contracts |
+| MM_Net_Change | +3,099 vs. prior week (2026-08-18: +141,648) |
+| MM_Net % of OI | 33.8% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation (as of August 18)
+### Sentiment Interpretation (as of August 25)
 
-MM_Net of +141,648 remains in the **Neutral zone (50,000–150,000 contracts)**. Managed money net longs edged higher by +3,986 contracts week-over-week — a modest, measured addition that keeps the trend of gradual accumulation intact.
+MM_Net of +144,747 remains in the **Neutral zone (50,000–150,000 contracts)**. Managed money net longs edged higher by +3,099 contracts week-over-week — a fifth consecutive week of modest accumulation, keeping the gradual upward trend intact.
 
-The composition shows continued long-side building: MM_Long rose from 148,634 to 154,595 (+5,961 contracts), while MM_Short increased from 10,972 to 12,947 (+1,975 contracts). New gross longs remain the primary driver of the net change, with the short addition partially offsetting gains. Open interest expanded to 406,260 from 400,309 (+5,951 contracts), a small but positive sign of fresh capital entering rather than position-unwinding. MM_Net as % of OI stands at 34.9%, essentially flat with last week's 34.4%.
+The composition shows continued long-side building: MM_Long rose from 154,595 to 159,819 (+5,224 contracts), while MM_Short increased from 12,947 to 15,072 (+2,125 contracts). Gross long additions remain the primary driver of the net change, with the short addition partially offsetting gains. Open interest expanded significantly to 427,957 from 406,260 (+21,697 contracts), indicating meaningful fresh capital entering the market rather than position-unwinding — a constructive sign. MM_Net as % of OI stands at 33.8%, a slight dip from last week's 34.9% purely due to the larger OI base.
 
-**Week-over-week change:** +3,986 contracts — well below the ±20,000 significant positioning shift threshold. No extreme move flagged. MM_Net now approaches the 150,000 boundary of the "moderately long — supportive" zone; a further +8,352 contracts of net buying would cross that threshold.
+**Week-over-week change:** +3,099 contracts — well below the ±20,000 significant positioning shift threshold. No extreme move flagged. MM_Net now stands at 144,747, just 5,253 contracts below the 150,000 boundary of the "moderately long — supportive" zone.
 
 ---
 
 ## Historical COT Reference
 
+> **Report_Date:** 2026-08-25 | **MM_Net:** +144,747 | **OI:** 427,957 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-08-18 | **MM_Net:** +141,648 | **OI:** 406,260 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-08-11 | **MM_Net:** +137,662 | **OI:** 400,309 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-08-04 | **MM_Net:** +130,766 | **OI:** 371,551 | **Sentiment:** Neutral zone  

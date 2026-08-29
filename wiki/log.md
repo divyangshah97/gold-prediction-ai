@@ -2760,3 +2760,6 @@ Report_Date: 2026-08-18 | MM_Net: +141,648 (+3,986 vs prior week) | OI: 406,260 
 **New files**: `raw/india-gold-2026-08-26.md`, `prices/prices.csv` (Aug25 row), `prices/real_yields.csv` (Aug24 row), `signals/signals.csv` (Aug26 row: Buy, 3)
 
 **Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). The DFII10 reading (2.38%, Aug24) was corroborated by two independently-worded sources agreeing on both level and date — higher confidence than several recent carried-forward estimates. If a future run with restored API access finds materially different values, this should be reconciled.
+
+## 2026-08-29 — COT weekly update
+Report_Date: 2026-08-25 | MM_Net: +144,747 (+3,099 vs prior week) | OI: 427,957 | Sentiment: Neutral zone (50,000–150,000) | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at 2026-08-29T02:52:24Z

@@ -76,7 +76,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; **COT as-of 2026-08-18: MM_Net +141,648 (Neutral zone, 34.9% of OI), steady long addition as OI expands**; Factor 6 label on this page is stale (live Factor 6 = Dollar Pressure); updated 2026-08-22 |
+| [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; **COT as-of 2026-08-25: MM_Net +144,747 (Neutral zone, 33.8% of OI), fifth consecutive week of modest long accumulation; OI jumped +21,697 to 427,957**; Factor 6 label on this page is stale (live Factor 6 = Dollar Pressure); updated 2026-08-29 |
 | [[signal-methodology]] | **5-factor scoring system LIVE from July 27**: Geopolitical Risk, Fed/Macro, Technicals, Dollar Pressure, Real Yields/TIPS; range -5 to +5; **Factors 1 (Price vs Targets) and 4 (CB Demand) retired July 25** as poor fits for 2-3 month trading horizon; `signals.csv` restarted fresh, prior history in `signals_archive_2026-05-22_to_2026-07-24.csv`; updated July 25 |
 | [[real-yields-tips]] | 10Y TIPS real yield (FRED DFII10) as gold's opportunity-cost driver; inverse relationship; Factor 7, live from July 27; **Aug28: no fresher print found** (web search returned the same Aug26 value already on file) — pair **2.40% (Aug25) → 2.34% (Aug26)** = **-6bps** carries forward → **Bullish (+1)**, unchanged; FRED direct fetch still blocked, reading sourced via web search; updated Aug 28 |
 
