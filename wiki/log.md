@@ -2763,3 +2763,36 @@ Report_Date: 2026-08-18 | MM_Net: +141,648 (+3,986 vs prior week) | OI: 406,260 
 
 ## 2026-08-29 — COT weekly update
 Report_Date: 2026-08-25 | MM_Net: +144,747 (+3,099 vs prior week) | OI: 427,957 | Sentiment: Neutral zone (50,000–150,000) | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at 2026-08-29T02:52:24Z
+
+## 2026-08-31 — Daily update: Warsh's hawkish Jackson Hole speech triggers sharp selloff
+
+No routine ran Aug29-30 (weekend). Today's date is Monday Aug31 (confirmed not an NSE/BSE holiday — nearest holidays are Aug26/27 Id-e-Milad and Sep14 Ganesh Chaturthi). Data-source access remains blocked network-wide: yfinance, the metals.dev fallback, and a direct `curl` to `fred.stlouisfed.org` all returned `connect_rejected`/403 (confirmed organization egress policy denial via `$HTTPS_PROXY/__agentproxy/status`), consistent with every run since ~2026-07-31. All price and real-yield data below was sourced via WebSearch and manually appended.
+
+**Key findings**:
+- **Dominant story: Fed Chair Kevin Warsh delivered his first Jackson Hole keynote as Chair on Friday Aug28 (10am ET, "In Our Time")** — a confirmed hawkish surprise. He warned underlying inflation trends haven't meaningfully improved, reaffirmed the Fed's "firm and fixed" 2% target, and said financial conditions are "not currently restrictive." The 10-year nominal Treasury yield jumped 4bps to ~4.72-4.73% and September rate-hike odds spiked to ~57-60.4% (from ~69.4% Hold carried since Aug17).
+- **Gold sold off sharply the same session**: Aug28 close **$4,478.10** (-2.7% vs Aug27's $4,602.69), described as a "$70 in 10 minutes" move — the sharpest single-day decline of the current rally; silver fell in tandem (Aug28 close $66.15, -4.59%). DXY barely moved (~99.12, -0.05%) despite the hawkish repricing.
+- **Geopolitics (Iran/Hormuz)**: no fresh escalation or de-escalation event found over the Aug29-31 weekend — the "Operation Economic Outcast" sanctions campaign is an unchanged continuation; gold's selloff is attributed entirely to the Fed, not Iran → Factor 2 stays **Neutral (0)**.
+- **Global central bank sweep**: no genuinely fresh country-level gold buy/sell/policy news found (Poland, China/PBoC, Russia, Turkey, Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran and all other tracked countries checked) — a quiet official-sector window, consistent with recent days.
+- **Real yields**: latest confirmed FRED DFII10 print is **2.34% for 2026-08-27** (a new dated row, but unchanged in value from Aug26) — delta = 0bps, below threshold. This pre-dates Warsh's Aug28 speech; the actual real-yield reaction has not yet appeared in a published FRED print.
+- **India**: MCX/retail gold flat-to-down over the weekend (24K ₹15,824/g, -₹289), an entirely global COMEX pass-through of Friday's selloff; USD/INR ~₹95.60; RBI, import duty (15%), and ETF flows all unchanged.
+
+**Signal computation (Aug 31, scored on Aug 28 close)**:
+- Factor 2 (Geopolitical): no fresh Iran event, selloff entirely macro-driven → **0 Neutral** (unchanged)
+- Factor 3 (Fed/macro): Warsh's confirmed hawkish Jackson Hole surprise → **-1 Bearish** (reversing Neutral)
+- Factor 5 (Technicals): EMA9 $4,534.54, EMA50 $4,334.81 (computed from full `prices/prices.csv` history) — Aug28 close $4,478.10 is below the 9d EMA but above the 50d EMA, with 9d EMA still above 50d EMA (uptrend) → per the scoring table this configuration scores Bullish regardless of the last-2-days rule → **+1 Bullish** (reversing Bearish)
+- Factor 6 (Dollar): DXY -0.05%, USD/INR +0.09%, both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): DFII10 2.34%→2.34% = 0bps, below ±3bps threshold → **0 Neutral** (reversing Bullish)
+- **Total: 0-1+1+0+0 = 0 → Wait**, unchanged from Aug27-28
+
+**Pages updated**:
+- `wiki/fed-macro-factors.md` — new Aug 31 top entry (Warsh speech outcome, Factor 3 flips Bearish)
+- `wiki/gold-geopolitical-risk-premium.md` — new Aug 31 summary/entry with full signal computation
+- `wiki/iran-conflict-2026.md` — new Aug 31 entry (no fresh escalation) + timeline row
+- `wiki/real-yields-tips.md` — new Aug27 DFII10 reading logged (2.34%, 0bps delta)
+- `wiki/india-gold-market.md` — new "MCX Gold Price (August 31, 2026)" section; summary updated
+- `wiki/global-cb-activity-log.md` — Aug 31 section added (full sweep, no new country-level news)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-08-31.md`, `prices/prices.csv` (Aug28 row), `prices/real_yields.csv` (Aug27 row), `signals/signals.csv` (Aug31 row: Wait, 0)
+
+**Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). Gold/silver Aug28 close prices showed unusually wide dispersion across sources ($4,478-$4,530 for gold) reflecting the volatile post-speech intraday move — the most internally-consistent settlement-basis figures were used. The DFII10 print (2.34%, Aug27) pre-dates the Warsh speech and should be expected to move materially in the next available FRED print.

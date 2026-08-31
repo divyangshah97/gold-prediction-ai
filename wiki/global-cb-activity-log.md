@@ -1,10 +1,10 @@
 # Global Central Bank Gold Activity Log
 
-**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Aug 28**: full sweep (4 searches + all named-entity checks) found no genuinely fresh (24-48h) country-level gold news — a quiet day for official-sector activity, with market attention on Warsh's Jackson Hole keynote instead; no new stub pages.
+**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Aug 31**: full sweep (4 searches + all named-entity checks) covering the Aug29-31 weekend window found no genuinely fresh country-level gold news — the dominant story this window (Warsh's hawkish Jackson Hole speech) was macro, not official-sector gold activity; no new stub pages.
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-28
+**Last updated**: 2026-08-31
 
 ---
 
@@ -76,6 +76,12 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-08-31
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-08-31 | Global | No new data | Full 4-search sweep (purchase/sale, reserves announcement, "central bank" tonnes, WGC demand) plus named-entity checks on all tracked buyers (Poland, China/PBoC, Uzbekistan, Kazakhstan, Czech Republic, Malaysia, Jordan, Singapore/MAS), sellers (Turkey, Russia, Azerbaijan/SOFAZ, Kyrgyz Republic), and large passive holders (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, India/RBI) plus new-country candidates (Hungary, Qatar, South Korea, Thailand, Brazil, Mexico, Switzerland/SNB) — covering the Aug29-31 weekend window — found **no genuinely fresh country-level gold buy/sell/policy news**. The dominant story this window was Fed Chair Warsh's hawkish Jackson Hole speech (Aug28) and the resulting gold selloff, a macro event, not an official-sector gold development. No new stub pages created. | Web search |
 
 ### 2026-08-28
 
