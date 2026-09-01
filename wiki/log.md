@@ -2796,3 +2796,37 @@ No routine ran Aug29-30 (weekend). Today's date is Monday Aug31 (confirmed not a
 **New files**: `raw/india-gold-2026-08-31.md`, `prices/prices.csv` (Aug28 row), `prices/real_yields.csv` (Aug27 row), `signals/signals.csv` (Aug31 row: Wait, 0)
 
 **Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). Gold/silver Aug28 close prices showed unusually wide dispersion across sources ($4,478-$4,530 for gold) reflecting the volatile post-speech intraday move — the most internally-consistent settlement-basis figures were used. The DFII10 print (2.34%, Aug27) pre-dates the Warsh speech and should be expected to move materially in the next available FRED print.
+
+## 2026-09-01 — Daily update: Major Iran escalation (Larak Island, Jordan/UAE strikes) + Warsh hawkishness reinforced; signal drops to Wait(-2)
+
+Today's date is Tuesday Sept1 (confirmed not an NSE/BSE holiday — nearest holiday is Sep14 Ganesh Chaturthi). Data-source access remains blocked network-wide: yfinance, the metals.dev fallback, and a direct `curl` to `fred.stlouisfed.org` all returned `connect_rejected`/403 (confirmed organization egress policy denial via `$HTTPS_PROXY/__agentproxy/status`), consistent with every run since ~2026-07-31. All price and real-yield data below was sourced via WebSearch and manually appended.
+
+**Key findings**:
+- **Dominant story: major fresh Iran/Hormuz military escalation.** US forces struck two IRGC rocket launchers on Larak Island in the Strait of Hormuz (Aug30), ending a ~5-week lull in direct strikes. Iran retaliated (Aug31) with a combined missile/drone operation hitting Jordan's King Hussein and Al Azraq air bases (8 missiles intercepted, no injuries) and separately the UAE, reportedly killing 13 and injuring 224 — the largest casualty toll logged in [[iran-conflict-2026]] to date.
+- **Gold fell anyway.** Aug31 close **$4,450.95** (-0.61% vs Aug28's $4,478.10), a third consecutive down session. Brent crude rose to $90.69 (+2.93%) on the Larak strike, but this fed an oil-driven inflation-fear channel that reinforced Fed Chair Warsh's hawkish stance rather than triggering a safe-haven bid — FXStreet: "Gold slips as Warsh, Fed hike bets, oil rally lift US yields." DXY firmed modestly (+0.32%).
+- **Fed: Warsh's hawkish stance reinforced.** Follow-through coverage of his Aug28 Jackson Hole speech ("inflation running above our 2% target," Fed has "work to do") shows September rate-hike odds now ~60.4% (up from ~56% right after the speech). FOMC meets Sept16; August CPI (Sept11) and PPI (Sept10) are the next catalysts.
+- **Real yields: fresh DFII10 print confirms the delayed hawkish-speech catch-up.** 2.40% (Aug31) vs 2.34% (Aug27) = +6bps, beyond the ±3bps threshold — the real-yield reaction to Warsh's speech that the Aug31 update flagged as still pending in FRED's series has now appeared.
+- **Global central bank sweep**: no country-level gold buy/sell/policy news dated in the strict last 24-48h (all large holders + active buyers/sellers checked); background August monthly data (Kazakhstan, Uzbekistan, Bulgaria, El Salvador, Ghana) surfaced but shows numeric variance against on-file totals for some countries — flagged, not overwritten.
+- **India**: MCX ~₹1,54,116/10g (-0.22% intraday), tracking the global pullback; USD/INR ~₹95.1-95.6; RBI, import duty (15%), and ETF flows all unchanged.
+
+**Signal computation (Sept 1, scored on Aug 31 close)**:
+- Factor 2 (Geopolitical): major fresh Iran escalation, but transmission is bearish (gold fell, DXY firmed, oil/yield channel dominated over safe-haven) → **-1 Bearish** (reversing Neutral)
+- Factor 3 (Fed/macro): Warsh's hawkish stance reinforced, Sept-hike odds ~60.4% → **-1 Bearish** (unchanged)
+- Factor 5 (Technicals): EMA9 $4,517.82, EMA50 $4,339.37 (computed from full `prices/prices.csv` history) — Aug31 close $4,450.95 is below the 9d EMA but above the 50d EMA, with 9d EMA still above 50d EMA (uptrend) → per the scoring table this scores Bullish → **+1 Bullish** (unchanged)
+- Factor 6 (Dollar): DXY +0.32%, USD/INR -0.47%, both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): DFII10 2.34%→2.40% = +6bps, beyond ±3bps threshold → **-1 Bearish** (reversing Neutral)
+- **Total: -1-1+1+0-1 = -2 → Wait**, down from Wait (0) on Aug 31
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — major new Sept 1 top entry (Larak Island/Jordan/UAE strikes) + timeline row
+- `wiki/fed-macro-factors.md` — new Sept 1 top entry (Warsh hawkishness reinforced, fresh DFII10 print)
+- `wiki/gold-geopolitical-risk-premium.md` — new Sept 1 summary/entry with full signal computation
+- `wiki/real-yields-tips.md` — new Aug31 DFII10 reading logged (2.40%, +6bps delta)
+- `wiki/india-gold-market.md` — new "MCX Gold Price (September 1, 2026)" section; summary updated
+- `wiki/global-cb-activity-log.md` — Sept 1 section added (no fresh country-level news, background data flagged)
+- `wiki/goldman-sachs-gold-forecast.md` — Sept 1 confirmation note (no revision)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-09-01.md`, `prices/prices.csv` (Aug31 row), `prices/real_yields.csv` (Aug31 row), `signals/signals.csv` (Sept1 row: Wait, -2)
+
+**Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). Gold/silver/DXY/WTI/USD-INR figures for Aug31's close were cross-validated across multiple sources where possible. The Factor 2 (geopolitical) call — Bearish rather than Neutral — required judgment given the severity of the fresh escalation (13 killed in the UAE) against gold's own price action showing no safe-haven bid; documented in full in `wiki/iran-conflict-2026.md` and `wiki/gold-geopolitical-risk-premium.md`.

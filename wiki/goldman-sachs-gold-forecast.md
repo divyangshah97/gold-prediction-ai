@@ -10,7 +10,9 @@
 
 **New sources (August 27)**: https://finance.yahoo.com/markets/commodities/articles/wells-fargo-revamps-gold-price-160300985.html, https://financefeeds.com/gold-price-forecast-2026-central-bank-demand/, https://goldenarkreserve.com/blog/gold-price-forecast-august-2026/
 
-**Last updated**: 2026-08-28
+**Sept 1 check**: No new bank price-target revision found this window. Goldman's $4,900 end-2026 target, JPMorgan's $6,000 target, and UBS's quarterly path ($5,200 Jun / $5,400 Sep / $5,900 Dec) were all reconfirmed in follow-up coverage of the current pullback, unrevised. (source: goldsilver.com industry-news, Sept 1 sweep). Retired from the signal score 2026-07-25 — context only.
+
+**Last updated**: 2026-09-01
 
 ---
 

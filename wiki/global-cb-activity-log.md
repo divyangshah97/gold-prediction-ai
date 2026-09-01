@@ -1,10 +1,10 @@
 # Global Central Bank Gold Activity Log
 
-**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Aug 31**: full sweep (4 searches + all named-entity checks) covering the Aug29-31 weekend window found no genuinely fresh country-level gold news — the dominant story this window (Warsh's hawkish Jackson Hole speech) was macro, not official-sector gold activity; no new stub pages.
+**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 1**: full sweep (all named-entity checks across large holders + active buyers/sellers) found no country-level gold news dated within the strict last 24-48h; several August monthly data points (Kazakhstan +8t, Uzbekistan +2t, Bulgaria +2t largest since 1997, El Salvador +0.5t new entrant, Ghana +2t; WGC global August net +19t) surfaced but are background/already-lagged monthly reporting, not fresh news, and in some cases show numeric variance against this wiki's on-file country totals (flagged, not overwritten pending reconciliation) — no country pages updated, no new stub pages.
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-08-31
+**Last updated**: 2026-09-01
 
 ---
 
@@ -1241,3 +1241,9 @@ Major holders tracked in this log only (no dedicated page yet):
 | 2026-08-21 | 🇺🇸 USA (Treasury/Fed) | No new data | 8,133t unchanged; H.R. 3795 audit mandate still at committee referral; no new Fort Knox audit or revaluation news beyond the Aug 10 Rand Paul visit already on file. See [[usa-gold-reserves]]. | Web search Aug 21, 2026 |
 | 2026-08-21 | 🇬🇧 UK (Bank of England) | No new data | 310.29t own reserves unchanged; no new custodial-share or vault statements beyond the Aug 18 WGC survey figures already on file. See [[uk-gold-reserves]]. | Web search Aug 21, 2026 |
 | 2026-08-21 | 🇸🇦 Saudi Arabia (SAMA) | No new data | 323.07t static since 2010; no new SAMA purchase or reserve-diversification announcements found. See [[saudi-arabia-gold-reserves]]. | Web search Aug 21, 2026 |
+
+### 2026-09-01
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-09-01 | 🌐 Global | No new data | Full sweep of large holders (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, India, Canada, Israel) and active buyers/sellers (China/PBoC, Poland, Uzbekistan, Kazakhstan, Russia, Turkey) found no country-level gold buy/sell/policy news dated within the strict last 24-48h. Background monthly data resurfaced but not fresh: China PBoC July +19.9t (21 consecutive months, already on file since Aug10); Kazakhstan/Uzbekistan/Bulgaria/El Salvador/Ghana August figures cited by aggregator sources but conflict numerically with this wiki's on-file totals for some of these countries (e.g. Kazakhstan cited at 316t total vs 361t on file) — flagged, not overwritten, pending a reconciliation pass against a primary WGC/IMF source. Germany (~1,236t at NY Fed, no formal repatriation plan), France (no new tranche), Italy (FdI ownership dispute still unresolved, ECB opinion document on file since Dec 2025), Japan (845.97t static), USA (H.R.3795 audit still at committee referral), UK (no new custodial statement), Saudi Arabia (323.07t static) — all consistent with, not updates to, the figures already on file. Dominant story of the window was the Iran/Hormuz military escalation (Larak Island strike, Jordan/UAE retaliation) and Fed Chair Warsh's reinforced hawkish stance — see [[iran-conflict-2026]], [[fed-macro-factors]] — not official-sector gold activity. No new stub pages. | Web search Sept 1, 2026 |
