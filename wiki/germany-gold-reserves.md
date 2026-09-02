@@ -87,6 +87,7 @@ The geopolitical logic that justified foreign storage in 1950–1970 has now rev
 | 2026-05-27 | Page created. 3,352t confirmed. Storage: Frankfurt ~1,710t, FRBNY ~1,236t, BoE ~404t. Jan 2026: Mönch calls FRBNY storage "dangerous". Mar 2026: AfD Bundestag motion for full repatriation. CDU government not acting. France's $15B repatriation increasing German pressure. |
 | 2026-06-11 | FXStreet: "Germans demand bring our gold home" — repatriation calls cross partisan lines (AfD, Green Party). Yahoo Finance: Germany urged to repatriate "£122bn in gold from Trump's 'risky' America". CDU coalition still refuses. No Bundestag vote scheduled. |
 | 2026-06-16 | No new policy action. Political pressure growing. Gold $4,314.53; FOMC in progress. Situation unchanged: ~1,236t at FRBNY remains. |
+| 2026-09-02 | Repatriation debate reheated: a former Bundesbank research head publicly said it is "too risky" to keep gold reserves in the US given Fed-independence concerns under the Trump administration. Combined with Italy, $245B of gold cited as under repatriation pressure. No formal Bundesbank policy change or new Bundestag vote. (source: mining.com, fxstreet.com, Sept 2 2026) |
 
 ## Related pages
 

@@ -12,7 +12,9 @@
 
 **Sept 1 check**: No new bank price-target revision found this window. Goldman's $4,900 end-2026 target, JPMorgan's $6,000 target, and UBS's quarterly path ($5,200 Jun / $5,400 Sep / $5,900 Dec) were all reconfirmed in follow-up coverage of the current pullback, unrevised. (source: goldsilver.com industry-news, Sept 1 sweep). Retired from the signal score 2026-07-25 — context only.
 
-**Last updated**: 2026-09-01
+**Sept 2 check — higher figures surfaced for Goldman/JPMorgan/UBS, flagged as a possible date/version conflict, not resolved**: Today's sweep surfaced **Goldman Sachs $5,400** (goldmansachs.com), **JPMorgan $6,300 by year-end 2026** (up from the $6,000/$4,500-quarterly-path figures on file), and **UBS $6,200** for Mar/Jun/Sep 2026 (up from the $5,200/$5,400/$5,900 quarterly path on file, with an upside scenario of $7,200 and a downside case of $4,600 if the Fed turns more hawkish) — all noticeably higher than the figures reconfirmed just yesterday (Sept1: Goldman $4,900, JPMorgan $6,000, UBS $5,200-5,900). Separately, **UBP (Union Bancaire Privée)** reaffirmed a **$6,000** 2026 prediction. None of these sources carry a clear revision date distinguishing them from the lower figures already on file — this reads as either a genuine round of upward revisions or (more likely, given the same-week whiplash) a mix of stale/differently-sourced figures resurfacing; **not resolved**, both sets of numbers left on file per the wiki's contradiction-flagging convention. Notably, **no bank has yet been found revising *downward*** in response to this week's hawkish-Fed pivot and gold's break below its 200-day moving average — a gap worth monitoring over the next few sessions. Retired from the signal score 2026-07-25 — context only. Sources: https://www.goldmansachs.com/insights/articles/gold-forecast-to-rise-by-the-middle-of-2026, https://finance.yahoo.com/news/ubs-raises-gold-price-target-182231902.html, https://www.financemagnates.com/trending/how-high-can-gold-go-ubp-rebuilds-bullion-positions-and-reaffirms-6000-gold-price-prediction-for-2026/.
+
+**Last updated**: 2026-09-02
 
 ---
 

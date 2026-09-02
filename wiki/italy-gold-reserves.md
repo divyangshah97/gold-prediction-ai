@@ -97,6 +97,7 @@ Italy's gold-to-reserves ratio (~65–70%) is among the highest in Europe — a 
 |---|---|
 | 2026-05-27 | Page created. 2,452t confirmed (3rd globally). Nov 2025: Fratelli d'Italia ownership amendment in Senate — ECB objected, amendment blocked. Apr 2026: France's $15B repatriation creating Italian pressure to follow. Ownership dispute unresolved. |
 | 2026-08-10 | **ECB President Lagarde publicly criticized** the FdI ownership-claim amendment as unclear in purpose, warning that any restriction on central bank independence over reserve management would violate EU treaties, and urged its withdrawal — the first specific ECB pushback recorded on this page beyond the original Nov 2025 objection. Dispute remains unresolved. (source: Yahoo Finance/Reuters, Aug 10 2026) |
+| 2026-09-02 | Separate from the FdI ownership dispute: general repatriation-pressure commentary reheated, with Italy (alongside Germany) cited as facing pressure over a combined $245B of US-custodied gold, following a former Bundesbank official's "too risky to keep in the US" remark. No new Banca d'Italia statement or parliamentary action found. (source: mining.com, Sept 2 2026) |
 
 ## Related pages
 
