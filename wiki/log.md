@@ -2866,3 +2866,39 @@ Today's date is Wednesday Sept2 (confirmed not an NSE/BSE holiday — nearest ho
 **New files**: `raw/india-gold-2026-09-02.md`, `prices/prices.csv` (Sept1 row), `signals/signals.csv` (Sept2 row: Wait, -2). `prices/real_yields.csv` unchanged (no fresher DFII10 print found).
 
 **Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). The price-fallback research agent explicitly flagged that gold/silver/WTI figures showed $20-40/oz (gold) and multi-dollar (WTI, $86 vs $90 range) discrepancies across sources this run — the values used ($4,374.54 gold, $90.50 WTI) were the ones best corroborated by matching day-change percentages against the on-file Aug31 baseline and by specific, checkable news context (the Iran/Hormuz oil-price spike), not merely the first number returned by search.
+
+## 2026-09-03 — Daily update: Gold ends its losing streak (flat), Fed hike odds ease on weak labor data; signal rises to Wait(+1)
+
+Today's date is Thursday Sept3 (confirmed not an NSE/BSE holiday — nearest holiday is Sep14 Ganesh Chaturthi). Data-source access remains fully blocked network-wide: yfinance, the metals.dev fallback, and a direct `curl` to `fred.stlouisfed.org` all returned `connect_rejected`/403 (confirmed organization egress policy denial via `$HTTPS_PROXY/__agentproxy/status`), consistent with every run since ~2026-07-31 — confirmed again this run via a direct test before falling back to WebSearch-based research for prices, DFII10, global CB/macro/geopolitics, and India-specific findings.
+
+**Key findings**:
+- **Gold's four-session losing streak ends, essentially flat.** Sept2 close **$4,377.15** (+0.06% vs Sept1's $4,374.54) — a marginal uptick, not a clean reversal. The Gulf conflict continued (Kuwait reported incoming Iranian missiles/drones, a tanker reportedly struck near the Strait of Hormuz) but President Trump said the renewed military campaign "will not last too long," a mixed de-escalatory signal layered on an active conflict. DXY and USD/INR both moved less than 0.05%, essentially flat.
+- **Fed: first dovish reversal since Aug26.** Weaker-than-expected US labor-market data eased pressure on the Fed to hike at the September 15-16 FOMC meeting; hike odds were reported easing to ~62% from a recent ~66% high, with the dollar and Treasury yields pulling back from highs in tandem (CNBC/FXStreet, Sept2-3 coverage).
+- **Real yields**: a DFII10 print of 2.44% was obtained via web search, though it surfaced identically regardless of whether the query specified Aug31, Sept1, or Sept2 — flagged as a date-precision caveat, but used as the current best-available reading (appended as 2026-09-02). vs the on-file 2.40% (Aug31) = +4bps, beyond the ±3bps threshold.
+- **Technicals**: EMA9 and EMA50 recomputed directly from the full `prices/prices.csv` history (195 rows through the new Sept2 row) via a standard EMA formula in Python. EMA9 = $4,466.76, EMA50 = $4,342.17.
+- **Live/intraday note (not scored)**: Sept3's intraday session showed gold rebounding much more sharply (to ~$4,385-4,416+, per FXStreet/TradingEconomics) on the same weak-labor-data/de-escalation drivers — this is NOT reflected in the Sept2 close-basis figures used for today's signal, per the strict previous-day-close rule.
+- **Global central bank sweep**: no genuinely fresh (last 24-48h) country-level gold buy/sell/policy news found for any tracked country. Poland/China background figures remain mutually inconsistent and conflict with on-file totals (flagged, not overwritten). The China sovereign-gold-custodian story (flagged unverified Sept2) gained more corroborating outlets today, but one source's URL path (dailyhodl.com/2025/09/24/...) suggests it may be a recirculating 2025 story rather than fresh Sept2026 news — flagged, not confirmed.
+- **Bank forecasts** (context, not scored): Sept2's flagged Goldman $5,400-vs-$4,900 conflict is resolved — Goldman's cut-to-$4,900 target (from a prior $5,400, per its own June 22 2026 revision already on file) was reconfirmed today, alongside Wells Fargo's reconfirmed $4,900-5,100 target (its third 2026 cut). JPMorgan remains the bullish outlier at $6,000-6,300. This is the first pair of confirmed *downward*-trending bank figures since the hawkish-Fed pivot began.
+- **India**: MCX +0.53% to ₹1,53,778/10g (live Sept3), tracking the COMEX rebound; USD/INR ≈94.98 (close-basis) vs ≈94.30 (live, continuing a mild rupee-strengthening trend); a new UAE-FTA 1-point-tariff-gap import-flow story surfaced; RBI (880.52t) and import-duty-review status unchanged; a genuine ETF-inflow data conflict flagged (one source: -55% m/m in August; another: third consecutive month of net inflows), not resolved.
+
+**Signal computation (Sept 3, scored on Sept 2 close)**:
+- Factor 2 (Geopolitical): Gulf conflict continues but Trump rules out a "prolonged" campaign; completed-session price and DXY both essentially flat → **0 Neutral** (easing from Bearish)
+- Factor 3 (Fed/macro): hike odds ease ~66%→~62% on weak labor data, dollar/yields pull back → **+1 Bullish** (reversing Bearish, first since Aug26)
+- Factor 5 (Technicals): EMA9 $4,466.76, EMA50 $4,342.17 — Sept2 close $4,377.15 is below the 9d EMA but above the 50d EMA, with 9d EMA still above 50d EMA (uptrend) → per the scoring table this scores Bullish → **+1 Bullish** (unchanged)
+- Factor 6 (Dollar): DXY +0.01% (99.68→99.69), USD/INR +0.04% (94.94→94.9825), both within ±0.5% → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): fresh DFII10 print 2.44% vs 2.40% (Aug31) = +4bps, beyond ±3bps threshold → **-1 Bearish** (unchanged)
+- **Total: 0+1+1+0-1 = +1 → Wait**, up from Wait(-2) on Sept 2 — first net-positive score since Aug26
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — new Sept 3 top entry (Kuwait/tanker attacks continue, Trump rules out prolonged campaign, Factor 2 eases to Neutral)
+- `wiki/fed-macro-factors.md` — new Sept 3 top entry (hike odds ease, Factor 3 flips Bullish; fresh DFII10 print)
+- `wiki/gold-geopolitical-risk-premium.md` — new Sept 3 summary/entry with full signal computation
+- `wiki/real-yields-tips.md` — new Sept 3 entry (fresh 2.44% print, date-precision caveat) + table row
+- `wiki/india-gold-market.md` — new September 3 summary section
+- `wiki/global-cb-activity-log.md` — Sept 3 section added (mixed-vintage Poland/China figures persist, China custodian story corroborated but possibly stale); header summary updated
+- `wiki/goldman-sachs-gold-forecast.md` — Sept 3 entry (Goldman/Wells Fargo downward revisions reconfirmed, Sept2 conflict resolved)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-09-03.md`, `prices/prices.csv` (Sept2 row), `prices/real_yields.csv` (2026-09-02 row, 2.44%), `signals/signals.csv` (Sept3 row: Wait, +1).
+
+**Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). The DFII10 reading in particular showed identical values across queries for three different dates (Aug31/Sept1/Sept2) — flagged as a date-precision concern rather than treated as three independent confirmations.

@@ -48,7 +48,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[azerbaijan-sofaz-gold]] | Q1 2026 seller (22t); **held flat at 178.1t through Q2 — no further sales**; SOFAZ sovereign wealth fund rebalancing; oil revenue cycle; updated Aug 10 |
 | [[kyrgyz-republic-gold-reserves]] | Q1 2026 seller (1t); Kumtor mine cycle; small CIS producer |
 | [[india-rbi-gold]] | 880.52t unchanged; **RBI denied $12B gold sale** (June 2026); gold = 16.85% FX reserves (up from 13.92% Sep 2025, price appreciation only); near-zero new buying; repatriation from London ongoing; updated June 18 |
-| [[india-gold-market]] | **MCX ~₹1,50,027/10g (-1.12%)**, 5th straight decline, tracking Tuesday's 4th straight COMEX down session; USD/INR ~₹94.94; XAU/USD close $4,374.54 (-1.72%), broke below 200-day MA; Gulf conflict widens (Kuwait/Bahrain drone attacks) but transmits bearish; import-duty cut (15%→6%) under government review; updated Sept 2 |
+| [[india-gold-market]] | **MCX +0.53% to ₹1,53,778/10g**, rebounding as COMEX ends its losing streak (Sept2 close $4,377.15, +0.06%); USD/INR ~₹94.98 (close-basis); Fed hike odds ease ~66%→~62% on weak labor data, Trump rules out "prolonged" Iran campaign; UAE 1%-tariff-gap import-flow story; signal Wait(+1); updated Sept 3 |
 | [[usa-gold-reserves]] | 8,133t — world's largest holder; inactive since 1971; statutory $42.22/oz vs ~$1.17T market value; verified April 2026; H.R.3795 gold audit bill still at committee referral; **Sen. Rand Paul visited Fort Knox to verify reserves (Aug10)**; no reserve change; updated Aug 13 |
 | [[germany-gold-reserves]] | 3,352t — 2nd largest; ~1,236t still at FRBNY; repatriation pressure reheated **Sept 2** (ex-Bundesbank official: "too risky" to keep gold in the US); CDU still refuses; France's $15B move cited as template; updated Sept 2 |
 | [[italy-gold-reserves]] | 2,452t — 3rd largest; Fratelli d'Italia ownership dispute (Nov 2025, unresolved since Aug 10 Lagarde pushback); general repatriation-pressure commentary reheated **Sept 2** alongside Germany ($245B combined); updated Sept 2 |
@@ -59,7 +59,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 | [[israel-gold-reserves]] | 0t — policy since 1980s under Fischer; $214B total reserves; Knesset debate ongoing but no policy change |
 | [[saudi-arabia-gold-reserves]] | 323.07t static since 2010; BRICS+ member; petrodollar architect; March 2026 Gulf sale mystery found no confirmed SAMA moves |
 | [[iran-gold-reserves]] | Unreported by IMF; CBI claims 20% of FX in gold; 100t+ imported 2024; sanctions-evasion strategy; **60-day US-Iran MOU deadline expired Aug 17, 2026** with no final deal — UN snapback risk reinforces gold-buffer strategy; updated Aug 21 |
-| [[global-cb-activity-log]] | Append-only daily log; **Sept 2**: no fresh country-level tonnage news; background PBoC/Poland/Russia figures conflict with on-file totals (flagged, not overwritten); Germany+Italy repatriation debate reheated (former Bundesbank official, $245B combined pressure); unverified single-source item on a China sovereign-gold-custodian plan; India import-duty-cut-under-review added to Policy Tracker; updated Sept 2 |
+| [[global-cb-activity-log]] | Append-only daily log; **Sept 3**: no fresh country-level tonnage/policy news; recurring mixed-vintage Poland/China figures still unreconciled; China sovereign-gold-custodian story gains more sources but may be a recirculating 2025 item (flagged, not confirmed); updated Sept 3 |
 
 ### Geopolitics & Macro
 
@@ -67,10 +67,10 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[us-china-trade-war]] | **June 11 60-day deal still nominally intact; July 23: USTR imposed new 12.5% Section 301 forced-labor tariff** on China, raising overall rate; truce fragile through Nov 2026 (semiconductors/rare earths unresolved); no update found Aug 17; updated July 31 |
 | [[rare-earths-geopolitics]] | China controls 90% of refining; exports 50% below pre-control; lawful policy confirmed May 20 |
-| [[gold-geopolitical-risk-premium]] | **Sept2: fourth straight down session ($4,374.54, -1.72%)**, gold breaks below its 200-day MA as the Gulf conflict widens (Kuwait/Bahrain drone attacks) yet transmits bearish; Factor2=**Bearish(-1)**, Factor3=**Bearish(-1)**, Factor5=Bullish(+1), Factor6=Neutral(0), Factor7=**Bearish(-1)**; Signal: **Wait (-2)**, unchanged from Sept1; updated Sept 2 |
+| [[gold-geopolitical-risk-premium]] | **Sept3: essentially flat session ($4,377.15, +0.06%)**, ending the four-session losing streak; Gulf conflict continues but Trump rules out a "prolonged" campaign; Fed hike odds ease on weak labor data; Factor2=**Neutral(0)**, Factor3=**Bullish(+1)**, Factor5=Bullish(+1), Factor6=Neutral(0), Factor7=**Bearish(-1)**; Signal: **Wait (+1)**, up from Wait(-2) on Sept2; updated Sept 3 |
 | [[us-china-beijing-summit-may-2026]] | Trump–Xi May 14–15 2026 summit outcomes and market reaction |
-| [[iran-conflict-2026]] | **Sept2: conflict widens further** — Iranian drone attacks reported on Kuwait and Bahrain (Sept1) after a Jordan base strike; gold still fell, breaking below its 200-day MA; oil/yield channel continues to dominate over safe-haven flows; Factor 2 stays **Bearish (-1)**; updated Sept 2 |
-| [[fed-macro-factors]] | **Sept2: hawkish tone reinforced further** — Sept FOMC now framed as a "coin flip" (~60.4% hike odds), 10Y nominal yield highest since Jan 2025 amid a global bond selloff; no fresher DFII10 print found, +6bps delta carried forward; Factor 3 stays **Bearish (-1)**; updated Sept 2 |
+| [[iran-conflict-2026]] | **Sept3: conflict continues (Kuwait missile/drone attacks, tanker struck near Hormuz)** but Trump rules out a "prolonged" campaign; gold's completed-session move essentially flat; Factor 2 eases to **Neutral (0)**; updated Sept 3 |
+| [[fed-macro-factors]] | **Sept3: first dovish reversal since Aug26** — Sept hike odds ease to ~62% (from ~66%) on weaker labor data, dollar/yields pull back from highs; Factor 3 flips **Bullish (+1)**; fresh DFII10 print 2.44% (+4bps) keeps Factor 7 **Bearish (-1)**; updated Sept 3 |
 
 ### Institutional Flows
 
@@ -78,11 +78,11 @@ Table of contents for all wiki pages. Updated after every ingest.
 |---|---|
 | [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; **COT as-of 2026-08-25: MM_Net +144,747 (Neutral zone, 33.8% of OI), fifth consecutive week of modest long accumulation; OI jumped +21,697 to 427,957**; Factor 6 label on this page is stale (live Factor 6 = Dollar Pressure); updated 2026-08-29 |
 | [[signal-methodology]] | **5-factor scoring system LIVE from July 27**: Geopolitical Risk, Fed/Macro, Technicals, Dollar Pressure, Real Yields/TIPS; range -5 to +5; **Factors 1 (Price vs Targets) and 4 (CB Demand) retired July 25** as poor fits for 2-3 month trading horizon; `signals.csv` restarted fresh, prior history in `signals_archive_2026-05-22_to_2026-07-24.csv`; updated July 25 |
-| [[real-yields-tips]] | 10Y TIPS real yield (FRED DFII10) as gold's opportunity-cost driver; inverse relationship; Factor 7, live from July 27; **Sept2: no fresher print found** — stale Aug28 (2.42%) figure discarded per no-retroactive-edit rule; +6bps delta (Aug27→Aug31) carried forward → **Bearish (-1)**, unchanged; FRED direct fetch still blocked; updated Sept 2 |
+| [[real-yields-tips]] | 10Y TIPS real yield (FRED DFII10) as gold's opportunity-cost driver; inverse relationship; Factor 7, live from July 27; **Sept3: fresh print 2.44%** (vs Aug31's 2.40%, +4bps, date-precision caveat flagged) → **Bearish (-1)**, unchanged; FRED direct fetch still blocked; updated Sept 3 |
 
 ### Forecasts & Institutions
 
 | Page | Description |
 |---|---|
-| [[goldman-sachs-gold-forecast]] | **Sept2: higher figures surfaced** (Goldman $5,400, JPM $6,300, UBS $6,200, UBP $6,000) vs Sept1's reconfirmed lower figures — flagged as a possible date/version conflict, not resolved; no bank found revising downward despite the hawkish pivot/200-day-MA breakdown; retired from signal 2026-07-25; updated Sept 2 |
+| [[goldman-sachs-gold-forecast]] | **Sept3: Sept2's Goldman conflict resolved** — Goldman reconfirmed at **$4,900** (not the $5,400 stale figure), Wells Fargo reconfirmed **$4,900-5,100**; JPMorgan remains the bullish outlier at $6,000-6,300; retired from signal 2026-07-25; updated Sept 3 |
 | [[india-gold-market]] | MCX **₹1,47,720/10g** (+2.67%; July 3); USD/INR **₹95.22** (+0.13%); XAU/USD $4,137.41 (+2.75%); WGC: 15% duty to cut demand 50-60t; ETF AUM ₹1.7T; Goldman $4,900 implies MCX ~₹1,70,000 (domestic ~13% below GS); updated July 3 |
