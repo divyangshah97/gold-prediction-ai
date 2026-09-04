@@ -2902,3 +2902,47 @@ Today's date is Thursday Sept3 (confirmed not an NSE/BSE holiday — nearest hol
 **New files**: `raw/india-gold-2026-09-03.md`, `prices/prices.csv` (Sept2 row), `prices/real_yields.csv` (2026-09-02 row, 2.44%), `signals/signals.csv` (Sept3 row: Wait, +1).
 
 **Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). The DFII10 reading in particular showed identical values across queries for three different dates (Aug31/Sept1/Sept2) — flagged as a date-precision concern rather than treated as three independent confirmations.
+
+---
+
+## 2026-09-04 — Daily update: fresh Iran escalation + collapsing Fed hike odds + real yields all turn bullish; Signal jumps to Buy(+4)
+
+**Holiday check**: Searched official 2026 NSE/BSE holiday calendar — September 4, 2026 (Friday) is not a listed holiday (next holiday is Ganesh Chaturthi, Sept 14, 2026). Routine proceeded.
+
+**Price/data fetch**: `fetch_prices.py` (yfinance + metals.dev fallback) and direct `curl` to `fred.stlouisfed.org` were all blocked again today by the network egress proxy (confirmed `connect_rejected`/403 policy denial via `$HTTPS_PROXY/__agentproxy/status` — this time ALL of Gold/Silver/DXY/WTI/USD_INR were missing, not just DXY/WTI, since both yfinance and the metals.dev fallback failed outright). All price data was sourced via `WebSearch` and manually appended:
+- `prices/prices.csv`: new row `2026-09-03,4526.96,66.37,98.90,91.01,,94.50` (Gold from a Google Finance/Investing.com-style GCZ6 continuation read citing Sept3's close explicitly, corroborated against a separate $4,539.90 settle figure and a $4,478 usagold spot read, all consistent with a large ~2-3.5% rally; Silver from a usagold-style "+1.63% to $66.37" report, reconciled against a noisy $65.83-$67.41 range; DXY 98.90 from TradingEconomics "98.901, -0.70%"; WTI from a "previous close $91.01" fortune.com-style oil read; USD/INR from twelvedata's historical-data "94.5033" close, reconciled against a noisy $94.30-94.97 range across Indian financial press)
+- `prices/real_yields.csv`: new row `2026-09-03,2.41` (TradingEconomics: "10 Year TIPS Yield eased to 2.41% on September 3, 2026" — a directly-dated figure, not a duplicate)
+
+**Research**: Web research covered (1) global central bank gold sweep (4 searches), (2) gold spot/EMA technicals, (3) Fed/macro, (4) Iran conflict, (5) Goldman/bank forecasts, (6) US-China trade, (7) de-dollarisation, (8) India-specific market/policy news.
+
+**Key findings**:
+- **Gold surges +3.42% to $4,526.96** (Sept3 vs Sept2's $4,377.15) — the sharpest single-day rally of this stretch; silver +3.11% to $66.37; WTI +0.28% to $91.01.
+- **Fresh, materially more severe Iran escalation**: the US launched overnight airstrikes on Iran (CBS: "the most serious escalation between the two countries in weeks"); Iran claims 18 killed nationwide including a disputed strike on a wedding party (VP Vance "extremely skeptical"); Iran retaliated against US forces in Kuwait and the UAE (no facilities actually hit, per a US official). Unlike the Aug26-Sept2 stretch (escalation transmitting bearish via the oil/hawkish-Fed channel), today's reaction is the textbook safe-haven pattern: gold up sharply while DXY fell -0.79% (99.69→98.90) — both moving together.
+- **Fed: dovish reprice sharpens materially.** CME FedWatch showed September hike odds falling to ~52.4% (Thursday/Sept3 morning) from ~66.2% just two sessions earlier, driven by a weak August ADP print (+38,000 private jobs, weakest since January).
+- **Real yields**: a genuinely dated DFII10 print (TradingEconomics, "eased to 2.41% on September 3, 2026") vs the on-file 2.44% (Sept2) = exactly -3bps, landing right at the bullish threshold — reversing a Bearish streak that had held since Aug31.
+- **Technicals**: EMA9 and EMA50 recomputed directly from the full `prices/prices.csv` history (197 rows through the new Sept3 row) via a standard EMA formula in Python. EMA9 = $4,478.80, EMA50 = $4,349.42 — Sept3 close is above both, and the last 2 daily deltas are both green (Sept1→2 +$2.61, Sept2→3 +$149.81).
+- **Global central bank sweep**: a genuinely new watchlist item — **Bank of Korea's first gold-linked allocation since 2013** (~2t via gold-backed ETFs, plus a plan to buy domestically-refined bullion) — though several corroborating URLs carry an early-August date path, so the story's freshness is flagged as uncertain, not confirmed as brand-new. WGC's September Goldhub commentary added July-dated CB-buying context (23t net, YTD-through-July 185t) — a lower cumulative figure than the Q1+Q2 244t+289t already on file, consistent with the recurring mixed-vintage pattern. No fresh last-24-48h statements found from Germany, France, Italy, Japan, USA, UK, Saudi Arabia, or Iran.
+- **Bank forecasts** (context, not scored): no new revisions found; Goldman's $4,900 and Wells Fargo's $4,900-5,100 stand reconfirmed by omission; JPMorgan remains the bullish outlier at $6,000-6,300.
+- **India**: MCX +2.2% to ₹1,55,750/10g, tracking the sharp COMEX rally. USD/INR ≈94.50 close-basis (-0.51% vs Sept2), a genuine rupee-strengthening move that partially offsets but does not reverse the international gain. New: DGFT extended the India-UAE CEPA gold-import TRQ deadline to September 30, 2026 (automatic extension, no fee/amendment needed) — follows directly from Sept3's flagged UAE tariff-gap story. RBI (880.52t) and ETF flows unchanged.
+
+**Signal computation (Sept 4, scored on Sept 3 close)**:
+- Factor 2 (Geopolitical): fresh Iran escalation (US airstrikes, wedding-party controversy) with gold +3.42% and DXY -0.79% together — clean safe-haven transmission → **+1 Bullish** (reversing Neutral)
+- Factor 3 (Fed/macro): hike odds collapse ~66%→~52% on a weak ADP print → **+1 Bullish** (reinforced)
+- Factor 5 (Technicals): Sept3 close ($4,526.96) above both EMA9 ($4,478.80) and EMA50 ($4,349.42), last 2 daily deltas both green → **+1 Bullish** (unchanged)
+- Factor 6 (Dollar): DXY -0.79% (99.69→98.90) and USD/INR -0.51% (94.9825→94.50) — both crossing the ±0.5% threshold in the same (down) direction, which nets to offsetting per the neutralisation rule (COMEX-bullish dollar move, MCX-bearish rupee move) → **0 Neutral** (unchanged)
+- Factor 7 (Real Yields): fresh DFII10 print 2.41% vs 2.44% (Sept2) = exactly -3bps, at the bullish threshold → **+1 Bullish** (reversing the Bearish streak held since Aug31)
+- **Total: +1+1+1+0+1 = +4 → Buy**, up sharply from Wait(+1) on Sept 3 — the first fully-aligned bullish print since the Aug20-25 stretch
+
+**Pages updated**:
+- `wiki/iran-conflict-2026.md` — new Sept 4 top entry (US airstrikes, wedding-party controversy, Kuwait/UAE retaliation, Factor 2 flips Bullish)
+- `wiki/fed-macro-factors.md` — new Sept 4 top entry (hike odds collapse to ~52%, Factor 3 reinforced; fresh DFII10 print flips Factor 7 Bullish)
+- `wiki/gold-geopolitical-risk-premium.md` — new Sept 4 summary/entry with full signal computation
+- `wiki/real-yields-tips.md` — new Sept 4 entry (fresh 2.41% print, -3bps) + table row
+- `wiki/india-gold-market.md` — new September 4 dated section + summary update
+- `wiki/global-cb-activity-log.md` — Sept 4 section added (Bank of Korea watchlist item, WGC July context, India TRQ policy row); header summary + Policy Tracker updated
+- `wiki/goldman-sachs-gold-forecast.md` — Sept 4 entry (no new revisions found)
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-09-04.md`, `prices/prices.csv` (Sept3 row), `prices/real_yields.csv` (2026-09-03 row, 2.41%), `signals/signals.csv` (Sept4 row: Buy, +4).
+
+**Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). Today's block was broader than usual (yfinance AND metals.dev both failed outright, rather than DXY/WTI-only gaps), requiring the full five-field manual reconstruction rather than a partial patch. The Bank of Korea gold story's dating is flagged as uncertain (possible early-August origin resurfacing now).
