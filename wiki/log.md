@@ -2946,3 +2946,16 @@ Today's date is Thursday Sept3 (confirmed not an NSE/BSE holiday — nearest hol
 **New files**: `raw/india-gold-2026-09-04.md`, `prices/prices.csv` (Sept3 row), `prices/real_yields.csv` (2026-09-03 row, 2.41%), `signals/signals.csv` (Sept4 row: Buy, +4).
 
 **Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). Today's block was broader than usual (yfinance AND metals.dev both failed outright, rather than DXY/WTI-only gaps), requiring the full five-field manual reconstruction rather than a partial patch. The Bank of Korea gold story's dating is flagged as uncertain (possible early-August origin resurfacing now).
+
+---
+
+## 2026-09-05 — COT weekly update
+
+Report_Date: 2026-09-01 | MM_Net: +136,771 (−7,976 vs prior week) | OI: 415,196 | Sentiment: Neutral zone | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at 2026-09-04T22:26:56Z
+
+**Changes**:
+- `prices/cot.csv` — appended row: 2026-09-01, OI=415,196, MM_Long=149,721, MM_Short=12,950, MM_Net=+136,771, MM_Net_Change=−7,976
+- `wiki/institutional-flows.md` — "## Latest COT Data" section replaced with 2026-09-01 data; Historical COT Reference updated; Last updated → 2026-09-05
+- `wiki/index.md` — [[institutional-flows]] description updated to show 2026-09-01 MM_Net and OI
+
+**Notes**: First week-over-week decline after five consecutive weeks of accumulation. Long liquidation (−10,098 contracts) outweighed short covering (−2,122 contracts). OI contracted −12,761, suggesting de-risking rather than fresh positioning. No significant positioning shift (|−7,976| < 20,000 threshold). MM_Net stays in Neutral zone at 32.9% of OI.
