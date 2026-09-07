@@ -4,7 +4,9 @@
 
 **Sources**: `raw/india-russia-gold-reserves-2026-05-21.md`, `raw/central-bank-gold-purchases-2026-05-19.md`, Kitco June 3 2026, Kitco May 25 2026, Moscow Times Nov 2025, The Bell Nov 2025, bne IntelliNews, RAND Gold Rush report, Atlantic Council, New Eastern Europe Feb 2026, Modern Diplomacy Apr 2026, https://www.kitco.com/news/article/2026-07-21/russias-central-bank-sold-44-tonnes-gold-first-half-2026, https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43M0RK:0-russian-central-bank-sells-44-tons-of-gold-in-first-half-of-2026/, https://english.nv.ua/business/russia-sells-43-5-tons-of-gold-to-cover-budget-deficit-50626307.html, https://www.bloomberg.com/news/articles/2026-08-20/russian-sales-bring-gold-reserves-to-their-lowest-since-2020, https://investinglive.com/commodities/once-the-world-s-top-gold-buyer-russia-s-central-bank-now-a-steady-seller/
 
-**Last updated**: 2026-08-21
+**Last updated**: 2026-09-07
+
+**Update Sept 7, 2026**: WGC's August monthly monitor reports Russia as the **largest single seller in August 2026 at -6t**, continuing the same fiscal-liquidation pace as the prior months on file. No new total-reserves figure published this window; the Aug 1 ~2,277t print remains the latest confirmed.
 
 ---
 

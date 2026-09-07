@@ -2959,3 +2959,36 @@ Report_Date: 2026-09-01 | MM_Net: +136,771 (−7,976 vs prior week) | OI: 415,19
 - `wiki/index.md` — [[institutional-flows]] description updated to show 2026-09-01 MM_Net and OI
 
 **Notes**: First week-over-week decline after five consecutive weeks of accumulation. Long liquidation (−10,098 contracts) outweighed short covering (−2,122 contracts). OI contracted −12,761, suggesting de-risking rather than fresh positioning. No significant positioning shift (|−7,976| < 20,000 threshold). MM_Net stays in Neutral zone at 32.9% of OI.
+
+---
+
+## 2026-09-07 — Daily update (no routine ran Sept5-6, weekend)
+
+**Holiday check**: Sept 7, 2026 is not an NSE/BSE holiday (Ganesh Chaturthi is Sept 14); markets open, routine proceeded.
+
+**Prices**: yfinance and the metals.dev fallback both failed outright again (`connect_rejected`/403 via the agent egress proxy — confirmed organization policy denial, not transient, consistent with every run since ~2026-07-31); a direct `curl` to `fred.stlouisfed.org` for DFII10 also failed the same way. All five price fields (Gold, Silver, DXY, WTI, USD/INR) for Friday Sept4's close (the last completed session before today) were reconstructed via WebSearch and manually appended to `prices/prices.csv`: Gold $4,429.00 (-1.14%), Silver $66.17 (-0.30%), DXY 99.16 (+0.26%), WTI $91.48 (+0.52%), USD/INR ₹94.384 (-0.12%). DFII10 2.42% (Sept4, +1bp vs Sept3's 2.41%) appended to `prices/real_yields.csv`.
+
+**Global CB sweep**: Poland +8t July confirmed (H1 total 82t unchanged); Turkey -1t July (YTD sales now 85t, up from 83t); Uzbekistan -1t August (reversal — first sale of the year after being a top-5 H1 buyer); Jordan -1t August (reversal — first sale after +6t H1 buying); Russia -6t August (largest single seller that month). China PBoC's August figure not yet published (July print, +19.9t/2,366t/21-month streak, remains latest on file). No new data found for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, or Iran this window.
+
+**India findings**: MCX gold -0.33% to ₹1,52,270/10g tracking the COMEX pullback; RBI reserves confirmed unchanged 880.52t (Q2 2026) with continued domestic-vault repatriation (~680t onshore); no new import-duty or DGFT policy action beyond the already-logged UAE CEPA TRQ extension; resilient festive-season jewellery demand outlook (WGC/Business Standard); ETF flows unchanged from prior figures; USD/INR firmed only modestly (-0.12%) versus DXY's larger dollar-strength move.
+
+**Signal**: **Wait (-2)**, down sharply from Buy (+4) on Sept4 — a hawkish US August jobs report (NFP +162k vs ~53-56k consensus) reversed three of five factors: Factor 2 (Geo) eases to Neutral (Iran war structurally unresolved but no fresh catalyst; Sept4's move was purely macro-driven), Factor 3 (Fed) flips Bearish (hike odds jump ~49-50%→~60-65%), Factor 5 (Technicals) flips Bearish (price above the 9d EMA but below the 50d EMA, with 50d>9d confirming a downtrend), Factor 6 (Dollar) stays Neutral (DXY +0.26%, INR -0.12%, both sub-threshold), Factor 7 (Real Yields) reverts to Neutral (DFII10 +1bp, well inside the ±3bps threshold).
+
+**Changes**:
+- `prices/prices.csv` — Sept4 row appended (Gold $4,429.00, Silver $66.17, DXY 99.16, WTI $91.48, USD/INR 94.384)
+- `prices/real_yields.csv` — 2026-09-04 row appended (DFII10 2.42%)
+- `signals/signals.csv` — Sept7 row appended (Wait, -2)
+- `wiki/gold-geopolitical-risk-premium.md` — new Sept 7 top entry with full signal computation
+- `wiki/fed-macro-factors.md` — new Sept 7 top entry (hawkish NFP surprise, Factor 3 flips Bearish; DFII10 print reverts Factor 7 to Neutral)
+- `wiki/iran-conflict-2026.md` — new Sept 7 top entry (no fresh catalyst, Factor 2 eases to Neutral)
+- `wiki/real-yields-tips.md` — new Sept 7 entry (fresh 2.42% print, +1bp) + table row
+- `wiki/india-gold-market.md` — new September 7 dated section + summary update
+- `wiki/india-rbi-gold.md` — reserves reconfirmation, repatriation trend update
+- `wiki/goldman-sachs-gold-forecast.md` — Sept 7 entry (no new revisions; Reuters 31-analyst poll median added as context)
+- `wiki/global-cb-activity-log.md` — Sept 7 section added (Poland, Turkey, Uzbekistan, Jordan, Russia rows); header summary updated
+- `wiki/poland-gold-reserves.md`, `wiki/turkey-gold-reserves.md`, `wiki/uzbekistan-gold-reserves.md`, `wiki/jordan-gold-reserves.md`, `wiki/russia-gold-reserves.md` — country-page updates per the sweep above
+- `wiki/index.md` — descriptions updated for all changed pages
+
+**New files**: `raw/india-gold-2026-09-07.md`.
+
+**Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). The EMA9/EMA50 readings used for Factor 5 this run (~$4,428 / ~$4,444) are similarly imprecise — multiple sources returned inconsistent 9-day and 50-day EMA/MA values for gold this window; the closest available proxies (investing.com's MA5/MA50) were used and flagged accordingly on the affected pages.

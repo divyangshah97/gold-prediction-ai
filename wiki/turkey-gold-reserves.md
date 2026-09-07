@@ -4,7 +4,9 @@
 
 **Sources**: `raw/central-bank-gold-purchases-2026-05-19.md`, https://www.kitco.com/news/article/2026-03-26/turkey-taps-its-gold-reserves-sells-584-tonnes-gold-two-weeks, https://www.bloomberg.com/news/articles/2026-03-26/turkey-s-8-billion-gold-drawdown-since-iran-war-hits-bullion, WGC Gold Demand Trends Q2 2026 (via tradingeconomics.com/turkey/gold-reserves)
 
-**Last updated**: 2026-08-19
+**Last updated**: 2026-09-07
+
+**Update 2026-09-07**: WGC's August monthly monitor puts Turkey's **July 2026 sale at -1t**, bringing full-year 2026 sales to **85t** (updated from 83t previously on file). Consistent with the ongoing, slow-pace lira-defense swap activity described below — no new large single-event drawdown reported.
 
 **Update 2026-08-19**: Confirmed Q2 2026 official reserve figure: **530.62t**, down ~4.2t from the 534.85t Q1 2026 print — a small further net reduction, not the "rebuilding" that some April/May reports had suggested. Net Q2 change is far smaller than the Q1 drawdown, consistent with the lira-defense swap activity having largely stabilised. No single large swap/drawdown event reported for Q2 or in the Aug 2026 news window; one recirculating "+2t in August" figure traces to a stale/mislabeled 2025 article and was not corroborated by any 2026-dated source, so it is not reflected here. See [[global-cb-activity-log]].
 

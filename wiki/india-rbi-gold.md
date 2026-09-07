@@ -2,9 +2,11 @@
 
 **Summary**: India's RBI holds 880.52 tonnes of gold (March 2026) but has nearly stopped buying new gold after a peak 72.6t acquisition in 2024. The dominant 2026 story is large-scale repatriation of gold from London back to domestic vaults. **June 2026 notable event**: RBI categorically denied reports that it sold $12 billion of gold to defend forex reserves during the West Asia conflict — gold share of FX reserves has RISEN to 16.85% (May 22, 2026) entirely due to price appreciation.
 
-**Sources**: `raw/india-russia-gold-reserves-2026-05-21.md`, `raw/india-gold-2026-06-18.md`, https://thefederal.com/category/business/rbi-denies-selling-12b-worth-of-gold-reserves-steady-at-880-tonne-245367, https://www.business-standard.com/economy/news/rbi-denies-reports-of-selling-12-bn-worth-of-gold-reserves-to-rescue-rupee-126060300621_1.html
+**Sources**: `raw/india-russia-gold-reserves-2026-05-21.md`, `raw/india-gold-2026-06-18.md`, `raw/india-gold-2026-09-07.md`, https://thefederal.com/category/business/rbi-denies-selling-12b-worth-of-gold-reserves-steady-at-880-tonne-245367, https://www.business-standard.com/economy/news/rbi-denies-reports-of-selling-12-bn-worth-of-gold-reserves-to-rescue-rupee-126060300621_1.html, https://factly.in/indias-gold-story-rising-imports-household-demand-and-rbi-reserves/, https://tradingeconomics.com/india/gold-reserves
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-09-07
+
+**Update 2026-09-07**: Reserves confirmed unchanged at 880.52t through Q2 2026 (tradingeconomics.com/india/gold-reserves). Repatriation trend continues: RBI's domestically-vaulted gold has risen to ~680t, with holdings at the Bank of England/BIS reduced to ~197.67t (Factly) — consistent with the trend already on file, not a new policy shift.
 
 ---
 
