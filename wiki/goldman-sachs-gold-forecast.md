@@ -6,6 +6,8 @@
 
 **September 7 check (no routine ran Sept5-6, weekend)**: No new bank target revisions found. Wells Fargo's **$4,900-5,100** (2026) and **$5,400-5,600** (2027) reconfirmed as its latest figures (both cut from prior $5,300-5,500/$5,800-6,000 ranges, its third revision of 2026). Commerzbank's raised **$5,000** (2026)/$5,200 (2027) target reconfirmed. New context data point: a **Reuters poll of 31 analysts returned a 2026 median forecast near $4,916** — broadly consistent with the $4,360-6,300 range already tracked here, sitting toward the lower-middle of that band. Retired from the trading signal 2026-07-25; page maintained for wiki completeness only.
 
+**September 8 check**: No new bank target revisions found dated within the last 24-48h. A general sweep reconfirmed the standing range without adding new information: Goldman $4,900 (cut from $5,400 in June), Wells Fargo $4,900-5,100, UBS $5,500 (cut from $5,900 in May), JPMorgan ~$6,000 (bullish outlier), HSBC $4,560 2026-average/$4,750 year-end — all consistent with figures already on file. Retired from the trading signal 2026-07-25; page maintained for wiki completeness only.
+
 **Sources**: `raw/india-gold-2026-09-07.md`, `raw/central-bank-gold-purchases-2026-05-19.md`, `raw/daily-update-2026-05-21.md`, `raw/daily-update-2026-05-22.md`, https://www.kitco.com/news/article/2026-05-27/ubs-lowers-2026-gold-price-forecast-5500oz-markets-are-rediscovering, https://www.thestreet.com/investing/ubs-cuts-gold-price-target-for-the-rest-of-2026, https://www.voiceofemirates.com/en/business/2026/07/05/jpmorgan-adjusts-its-gold-price-forecast-amid-global-interest-rate-pressures/, https://beincrypto.com/jpmorgan-changes-gold-price-outlook-q4-2026/, https://goldsilver.com/industry-news/article/gold-price-forecast-2026-2027-key-predictions-from-top-analysts/, https://goldsilver.com/industry-news/goldsilver-news/hsbc-gold-price-forecast-cut-2026/, https://goldmarketdaily.com/gold-price-forecast-2026-what-goldman-sachs-jpmorgan-and-major-banks-are-predicting/, https://coinpaper.com/33893/gold-price-prediction-gold-holds-4060-as-citi-targets-4500, https://goldenarkreserve.com/blog/gold-price-forecast-august-2026/
 
 **New sources (August 28)**: https://goldsilver.com/industry-news/goldsilver-news/wall-street-gold-price-targets/, https://financefeeds.com/gold-price-forecast-2026-central-bank-demand/
@@ -20,7 +22,7 @@
 
 **Sept 4 check — no new revisions found; standing figures reconfirmed by omission**: Today's sweep (in the course of researching Goldman's rate-hike-odds commentary for [[fed-macro-factors]]) found no fresh bank target revision dated within the last 24-48h. Goldman's $4,900 (June22-revised) figure and its stated downside scenario ($4,400 on a confirmed hike) remain the most recent authoritative figures; JPMorgan's $6,000-6,300 outlier and Wells Fargo's $4,900-5,100 (Sept3-reconfirmed) stand unchanged. Retired from the signal score 2026-07-25 — context only.
 
-**Last updated**: 2026-09-07
+**Last updated**: 2026-09-08
 
 ---
 

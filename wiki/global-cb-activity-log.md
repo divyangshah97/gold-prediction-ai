@@ -1,10 +1,10 @@
 # Global Central Bank Gold Activity Log
 
-**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 7** (no routine ran Sept5-6, weekend): July/August-dated background figures firmed up — Poland **+8t in July** (H1 total 82t confirmed), Turkey **-1t in July** (YTD sales now 85t, up from the 83t on file), and a notable reversal: **Uzbekistan and Jordan each sold ~1t in August** — the first sales for both of these countries after being active 2026 buyers, per WGC's August monitor. Russia remained the largest single seller in August at -6t. China PBoC's August figure not yet published this sweep (July print, +19.9t/2,366t/21-month streak, remains the latest on file). No fresh news found for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, or Iran this window. See the Sept1-4 entries below for the preceding days' sweeps.
+**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 8**: China PBoC's August figure is now published — **+20.2t (650,000 oz), 22nd consecutive month, total ~2,386.57t**, confirmed by SAFE Sept 7. A separate fxstreet piece claiming Singapore MAS +4t, Czech National Bank +2t, Jordan +1t, and Russia -6t "in September 2026" was found but discarded as likely misdated/recycled — its URL carries a suffix pattern (`202511041921`) consistent with a Nov 2025 publish date describing September 2025 monthly data, not September 2026 (the same recycled-article pattern flagged on this log multiple times since Sept1). No fresh dated news found for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, or Iran this window. See the Sept7 and earlier entries below for the preceding days' sweeps.
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-09-07
+**Last updated**: 2026-09-08
 
 ---
 
@@ -24,7 +24,7 @@ These countries have full wiki pages — this log supplements them with daily ne
 | Country | Role | Page |
 |---|---|---|
 | 🇵🇱 Poland | Buyer (**82t YTD 2026** — Governor Glapinski Jul 9; **total ~632t**; 30% of reserves; 150t plan approved; targeting 700t) | [[poland-gold-reserves]] |
-| 🇨🇳 China | Buyer (**+19.9t July 2026** — 21st consecutive month; **~76.08M oz (~2,366t)** total; ~8% of FX reserves) | [[china-pboc-gold]] |
+| 🇨🇳 China | Buyer (**+20.2t August 2026** — 22nd consecutive month; **~76.73M oz (~2,386.57t)** total; ~8% of FX reserves) | [[china-pboc-gold]] |
 | 🇺🇿 Uzbekistan | Buyer (**YTD ~41t H1**: Q1 25t + May +9t + June +9t; gold now 87% of total reserves) | [[uzbekistan-gold-reserves]] |
 | 🇰🇿 Kazakhstan | Buyer (**+27t H1 2026**; 361t total; 78% of reserves) | [[kazakhstan-gold-reserves]] |
 | 🇨🇿 Czech Republic | Buyer (**+11t H1 2026**; 39 consecutive months of net buying; ~83t total) | [[czech-republic-gold-reserves]] |
@@ -1284,3 +1284,11 @@ Major holders tracked in this log only (no dedicated page yet):
 | 2026-09-07 | 🇯🇴 Jordan | Sell (reversal) | Jordan sold **-1t in August 2026** — its first net sale after +6t H1 2026 buying. Small enough to be routine reserve management; no policy statement found. See [[jordan-gold-reserves]]. | Web search Sept 7, 2026 |
 | 2026-09-07 | 🇷🇺 Russia | Sell | Russia was reported as the **largest single seller in August 2026 at -6t**, continuing the fiscal-liquidation pattern already on file (Aug1 total ~2,277t, lowest since Jan 2020). See [[russia-gold-reserves]]. | Web search Sept 7, 2026 |
 | 2026-09-07 | 🌐 Global | Context | WGC Sept commentary: 2026 YTD central bank purchases ~130t through the year to date, versus ~160t over the same period in 2025 — a modestly slower pace than last year. China PBoC's August tonnage not yet published this sweep; July print (+19.9t, 21st consecutive month, ~2,366t total) remains the latest confirmed figure. No new data found for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, or Iran. | Web search Sept 7, 2026 |
+
+### 2026-09-08
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-09-08 | 🇨🇳 China | Buy | PBoC's August 2026 tonnage now published (SAFE, Sept 7): **+20.2t (650,000 oz)**, extending the buying streak to **22 consecutive months**, the longest run on record. Total reserves now **~76.73 million oz (~2,386.57t)**, up from July's ~76.08M oz. See [[china-pboc-gold]]. | https://goldsilver.com/industry-news/goldsilver-news/pboc-gold-reserves-august-2026-22-months/ |
+| 2026-09-08 | 🌐 Global | Discarded (likely misdated) | An fxstreet piece surfaced claiming Singapore MAS **+4t**, Czech National Bank **+2t**, Central Bank of Jordan **+1t**, and Russia **-6t**, all framed as "September 2026" activity — but the same underlying figures (Singapore +4t/197t total "first since Sept 2025") already appear on file dated **May 2026**, and the article's URL carries a `202511041921` suffix consistent with a November 2025 publish date describing September **2025** monthly data. Treated as recycled/misdated per the established pattern (see Sept1-3 entries) and **not used** to update any country page. | Web search Sept 8, 2026 (discarded) |
+| 2026-09-08 | 🌐 Global | No new data | Full sweep of large holders (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, India, Canada, Israel) and other active buyers/sellers (Poland, Uzbekistan, Kazakhstan, Czech Republic, Turkey, Russia, Azerbaijan) found no genuinely fresh (last 24-48h) country-level tonnage announcement or policy action beyond the China item above. | Web search Sept 8, 2026 |

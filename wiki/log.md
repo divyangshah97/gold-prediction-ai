@@ -4,6 +4,48 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-09-08 — Daily update: no new completed price session (US Labor Day Sept7); signal holds Wait(-2); China PBoC August +20.2t confirmed
+
+**Holiday check**: Searched the official 2026 NSE/BSE holiday calendar — September 8, 2026 (Tuesday) is not a listed holiday (next holiday is Ganesh Chaturthi, Sept 14, 2026; weekends fall on Sept 5-6, 12-13, 19-20, 26-27). Routine proceeded.
+
+**Price/data fetch**: `fetch_prices.py` (yfinance + metals.dev fallback) and a direct `curl` to `fred.stlouisfed.org` were all blocked again by the network egress proxy (confirmed 403 policy denial via `$HTTPS_PROXY/__agentproxy/status` against `query2.finance.yahoo.com`, `api.metals.dev`, and `fred.stlouisfed.org`). Independently of the block, **Monday September 7, 2026 was US Labor Day** — a standing COMEX/NYMEX/Treasury market holiday explicitly documented as an expected no-data case in this routine's own instructions. A web-search cross-check of WTI's "yesterday's close" returned $91.48, identical to the on-file Sept4 value, corroborating that no new settlement occurred. Per the strict close-basis rule (never write live/spot prices into the CSV), **no row was appended to `prices/prices.csv`** — it still ends at 2026-09-04. `prices/real_yields.csv` was also left unchanged (latest published DFII10 remains 2.42% for Sept4, reconfirmed via web search since the Treasury market was likewise closed Sept7).
+
+**Research**: Ran the full research sweep — global central bank gold activity, gold technicals/EMAs, institutional forecasts, US-China trade/geopolitics, Fed/macro, de-dollarisation, and India-specific topics (MCX, RBI, imports, ETFs, INR).
+
+**Global CB sweep**: China PBoC's August 2026 figure is now published — **+20.2t (650,000 oz), 22nd consecutive month, total ~2,386.57t** (SAFE, announced Sept 7) — a genuine, dated new fact, added to [[china-pboc-gold]] and [[global-cb-activity-log]]. A separate fxstreet article claiming Singapore MAS +4t, Czech National Bank +2t, Jordan +1t, and Russia -6t "in September 2026" was investigated and discarded as likely a misdated/recycled September-2025 report (URL suffix pattern consistent with a Nov 2025 publish date; the same Singapore "+4t/197t, first since Sept 2025" figures already sit on file dated May 2026) — logged as discarded, not used to update any country page. No fresh news found for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, or Iran this window.
+
+**Key findings**:
+- No new completed gold/silver/DXY/WTI/USD-INR session exists to score against — the last close remains Sept4's $4,429.00 (-1.14%)
+- Iran/Hormuz: no fresh escalation or de-escalation event found (Sept6-8 sweep); Al Jazeera reports Hormuz shipping still reduced with Tehran reportedly prepping a new shipping route "in the coming days" — an incremental normalization signal, not a discrete event
+- Fed: CME FedWatch-style September hike odds ~56-58.7% (Sept7 reference), essentially flat versus Sept7's own ~60-65% read post-NFP — the hawkish tilt holds, not reversed; FOMC meets Sept16, August CPI (Sept11) is the next catalyst
+- Bank forecasts (context only, retired from signal): no new revisions found; Goldman $4,900, Wells Fargo $4,900-5,100, UBS $5,500, JPMorgan ~$6,000 all reconfirmed
+- India: MCX traded choppy (~₹1,52,750/10g, ~flat), briefly +1% intraday before paring on the same hawkish-jobs overhang; USD/INR eased to ₹94.4971 (-0.07%); RBI/duty/ETF flows all unchanged
+
+**Signal computation (Sept 8, scored on the same Sept4 close as Sept7, since no new session exists)**:
+- Factor 2 (Geopolitical): no fresh Iran/Hormuz catalyst → **0 Neutral**, unchanged
+- Factor 3 (Fed/macro): hike odds ~56-58.7%, still hawkish-leaning, no reversal → **-1 Bearish**, unchanged
+- Factor 5 (Technicals): same EMA reads as Sept7 (9d≈$4,428, 50d≈$4,444); Sept4 close above 9d/below 50d, 50d>9d (downtrend) → **-1 Bearish**, unchanged
+- Factor 6 (Dollar): same Sept3→Sept4 deltas (DXY +0.26%, INR -0.12%), both sub-threshold → **0 Neutral**, unchanged
+- Factor 7 (Real Yields): same Sept3→Sept4 delta (+1bp) → **0 Neutral**, unchanged
+- **Total: 0-1-1+0+0 = -2 → Wait**, unchanged from Sept 7 — this is effectively a "hold" read pending Sept8's own completed close, available on the next run
+
+**Pages updated**:
+- `wiki/india-gold-market.md` — new Sept8 summary paragraph
+- `wiki/gold-geopolitical-risk-premium.md` — new Sept8 entry explaining the no-new-session situation and full signal computation
+- `wiki/iran-conflict-2026.md` — new Sept8 entry (still no fresh catalyst, Factor 2 stays Neutral)
+- `wiki/fed-macro-factors.md` — new Sept8 entry (hawkish tilt holds, Factor 3 stays Bearish)
+- `wiki/real-yields-tips.md` — new Sept8 check logged (no fresher DFII10 print, pair unchanged)
+- `wiki/china-pboc-gold.md` — August 2026 purchase confirmed (+20.2t, 22nd month, ~2,386.57t total)
+- `wiki/goldman-sachs-gold-forecast.md` — Sept8 check logged, no new revisions
+- `wiki/global-cb-activity-log.md` — new 2026-09-08 dated section (China August data + discarded fxstreet item + no-new-data sweep)
+- `wiki/index.md` — descriptions updated for all pages above
+
+**Raw file created**: `raw/india-gold-2026-09-08.md`
+
+**Signal**: Wait (-2), unchanged from Sept 7. Appended to `signals/signals.csv`.
+
+---
+
 ## 2026-08-28 — Daily update: modest bounce (+0.19%) reads as pre-Jackson-Hole positioning, not a geo/Fed signal; Signal holds Wait(0)
 
 **Holiday check**: Searched official 2026 NSE/BSE holiday circular — August 28, 2026 (Friday) is not a listed holiday (next holiday is Ganesh Chaturthi, Sept 14, 2026). Routine proceeded.
