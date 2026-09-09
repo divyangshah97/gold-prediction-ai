@@ -1,10 +1,10 @@
 # Global Central Bank Gold Activity Log
 
-**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 8**: China PBoC's August figure is now published — **+20.2t (650,000 oz), 22nd consecutive month, total ~2,386.57t**, confirmed by SAFE Sept 7. A separate fxstreet piece claiming Singapore MAS +4t, Czech National Bank +2t, Jordan +1t, and Russia -6t "in September 2026" was found but discarded as likely misdated/recycled — its URL carries a suffix pattern (`202511041921`) consistent with a Nov 2025 publish date describing September 2025 monthly data, not September 2026 (the same recycled-article pattern flagged on this log multiple times since Sept1). No fresh dated news found for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, or Iran this window. See the Sept7 and earlier entries below for the preceding days' sweeps.
+**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 9**: New entry — **Netherlands (DNB) relocated ~86t of gold from New York/Ottawa to London**, citing crisis preparedness; new stub page created, see [[netherlands-gold-reserves]]. China PBoC's August figure (+20.2t, 22nd month, ~2,386.57t) reconfirmed via WGC's own Sept blog with no new tonnage. Poland's ~640t/+90t YTD figure (Daily Hodl) flagged but not applied pending confirmation. No fresh dated news for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, or India (RBI) this window. See the Sept8 and earlier entries below for the preceding days' sweeps.
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-09-08
+**Last updated**: 2026-09-09
 
 ---
 
@@ -52,6 +52,7 @@ These countries have full wiki pages — this log supplements them with daily ne
 | 🇮🇱 Israel | 0t | Zero since 1980s | [[israel-gold-reserves]] |
 | 🇸🇦 Saudi Arabia | 323.07t | Static since 2010; BRICS+ | [[saudi-arabia-gold-reserves]] |
 | 🇮🇷 Iran | ~90–250t (est.) | Active accumulator; IMF unreported | [[iran-gold-reserves]] |
+| 🇳🇱 Netherlands | ~612t (est.) | Static; 2026 custody relocation NY/Ottawa→London | [[netherlands-gold-reserves]] |
 
 ## Countries Not Yet With Dedicated Pages
 
@@ -1199,6 +1200,7 @@ Major holders tracked in this log only (no dedicated page yet):
 | 2026-09-02 | 🇮🇳 India | Import duty cut under review | Government reportedly reviewing a cut to the gold/silver import duty from 15% back to 6%, citing rising smuggling/grey-market concerns since the May 2026 hike; no final decision announced. See [[india-gold-market]]. |
 | 2026-09-02 | 🇩🇪 Germany / 🇮🇹 Italy | Repatriation pressure (reheated) | Former Bundesbank research head publicly warned it is "too risky" to keep gold reserves in the US given Fed-independence concerns; $245B combined Germany+Italy gold cited as under repatriation pressure. No formal policy action yet. See [[germany-gold-reserves]], [[italy-gold-reserves]]. |
 | 2026-09-04 | 🇮🇳 India | UAE gold-import TRQ deadline extension | DGFT extended the deadline for utilizing India-UAE CEPA tariff-rate-quota gold-import licences (1% duty concession on up to 200t/year) to September 30, 2026 — an automatic extension requiring no fee or amendment. Follows the Sept3-flagged UAE 1-point-tariff-gap import-flow story. See [[india-gold-market]]. |
+| 2026-09-09 | 🇳🇱 Netherlands | Custody relocation | DNB relocated ~86t of gold from New York/Ottawa to London (Bank of England) citing "crisis preparedness" — a reallocation between foreign custodians, not a repatriation to domestic soil. See [[netherlands-gold-reserves]]. |
 
 ---
 
@@ -1292,3 +1294,13 @@ Major holders tracked in this log only (no dedicated page yet):
 | 2026-09-08 | 🇨🇳 China | Buy | PBoC's August 2026 tonnage now published (SAFE, Sept 7): **+20.2t (650,000 oz)**, extending the buying streak to **22 consecutive months**, the longest run on record. Total reserves now **~76.73 million oz (~2,386.57t)**, up from July's ~76.08M oz. See [[china-pboc-gold]]. | https://goldsilver.com/industry-news/goldsilver-news/pboc-gold-reserves-august-2026-22-months/ |
 | 2026-09-08 | 🌐 Global | Discarded (likely misdated) | An fxstreet piece surfaced claiming Singapore MAS **+4t**, Czech National Bank **+2t**, Central Bank of Jordan **+1t**, and Russia **-6t**, all framed as "September 2026" activity — but the same underlying figures (Singapore +4t/197t total "first since Sept 2025") already appear on file dated **May 2026**, and the article's URL carries a `202511041921` suffix consistent with a November 2025 publish date describing September **2025** monthly data. Treated as recycled/misdated per the established pattern (see Sept1-3 entries) and **not used** to update any country page. | Web search Sept 8, 2026 (discarded) |
 | 2026-09-08 | 🌐 Global | No new data | Full sweep of large holders (Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, India, Canada, Israel) and other active buyers/sellers (Poland, Uzbekistan, Kazakhstan, Czech Republic, Turkey, Russia, Azerbaijan) found no genuinely fresh (last 24-48h) country-level tonnage announcement or policy action beyond the China item above. | Web search Sept 8, 2026 |
+
+### 2026-09-09
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-09-09 | 🇳🇱 Netherlands | Custody relocation (new page) | DNB moved ~86t of gold from New York/Ottawa to the Bank of England in London (Mar-Aug 2026, only ~27t physically shipped, rest via sale/buyback swap), citing "crisis preparedness." Post-move allocation: NY 18.5%, Ottawa 18.5%, London 32.1%, Zeist (domestic) 30.8%. New stub page created — see [[netherlands-gold-reserves]]. | https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html, https://www.cnn.com/2026/09/02/europe/dutch-central-bank-shifts-gold-to-britain-intl-hnk |
+| 2026-09-09 | 🇨🇳 China | Context (no new tonnage) | WGC's Sept 2026 "Central Bank Gold Statistics" blog reconfirms the already-on-file **+20.2t August / 22nd consecutive month / ~2,386.57t total** (SAFE data) — no figure beyond what was added Sept 8. See [[china-pboc-gold]]. | https://www.gold.org/goldhub/gold-focus/2026/09/central-bank-gold-statistics-central-banks-make-positive-headlines-gold |
+| 2026-09-09 | 🇵🇱 Poland | Unconfirmed (flagged, not applied) | A secondary source (Daily Hodl, Sept 5) cited Poland at ~640t total / +90t YTD, above the 632t/+82t H1 figure on file — likely a delayed/rounded August data point rather than a fresh purchase. Not applied to [[poland-gold-reserves]] pending confirmation against the next official WGC/NBP release. | https://dailyhodl.com/2026/09/05/central-banks-stockpile-gold-reserves-for-fourth-straight-month-as-china-and-poland-drive-demand/ |
+| 2026-09-09 | 🇨🇳 China | Discarded (stale, resurfacing) | A "China seeking to become custodian of foreign sovereign gold" story recirculated this week, but traces to an original Bloomberg report dated Sept 23, 2025 (Cambodia cited as first participant) — an old story resurfacing, not fresh Sept 2026 news. Not applied to any page. | Orig. Bloomberg Sept 23, 2025; resurfacing ~Sept 2026 |
+| 2026-09-09 | 🌐 Global | No new data (large holders) | Germany, Italy, France, UK, Japan, USA, Saudi Arabia, Iran, India (RBI), Canada, Israel, Turkey, Russia, Azerbaijan/SOFAZ, Kyrgyz Republic, Uzbekistan, Kazakhstan, Czech Republic, Malaysia, Indonesia, Cambodia, Guatemala, Serbia, UAE, Singapore — no new gold-specific data found this window beyond the items above. Hungary, Qatar, South Korea, Thailand, Brazil, Mexico, and the SNB also showed no gold-specific news. | Web search Sept 9, 2026 |

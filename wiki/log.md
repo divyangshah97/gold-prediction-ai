@@ -4,6 +4,24 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-09-09 — Daily update: first new completed session since Sept4 ($4,367.90, -0.84%); signal Wait(-1), up from -2; new Netherlands (DNB) gold-custody page
+
+**Holiday check**: Searched the official 2026 NSE/BSE holiday calendar — September 9, 2026 (Wednesday) is not a listed holiday (next holiday is Ganesh Chaturthi, Sept 14, 2026; weekends fall on Sept 5-6, 12-13, 19-20, 26-27). Routine proceeded.
+
+**Price/data fetch**: `fetch_prices.py` (yfinance + metals.dev fallback) and a direct `curl` to `fred.stlouisfed.org` were all blocked again by the network egress proxy (confirmed 403/`connect_rejected` policy denial via `$HTTPS_PROXY/__agentproxy/status` against `query2.finance.yahoo.com`, `api.metals.dev`, and `fred.stlouisfed.org`). Sept8's close-basis prices were sourced via WebSearch and cross-validated (each %-change reconciled against the on-file Sept4 baseline): Gold $4,367.90 (-0.84%), Silver $66.92 (+1.17%), DXY 98.85 (-0.31%), WTI $94.24 (+3.01%), USD/INR ~94.80 (+0.44%) — appended to `prices/prices.csv`. `prices/real_yields.csv` was left unchanged — no DFII10 print newer than the on-file Sept4 (2.42%) was found despite a dedicated search.
+
+**Research**: Ran the full research sweep — global central bank gold activity, gold technicals/EMAs, institutional forecasts, US-China trade/geopolitics, Fed/macro, de-dollarisation, and India-specific topics (MCX, RBI, imports, ETFs, INR).
+
+**Global CB sweep**: New finding — **Netherlands (DNB) relocated ~86t of gold from New York/Ottawa to London** ("crisis preparedness"), a custody reallocation not a repatriation; a new stub page [[netherlands-gold-reserves]] was created and added to [[global-cb-activity-log]] and `wiki/index.md`. China PBoC's August figure (+20.2t, 22nd month, ~2,386.57t) was reconfirmed via WGC's own blog with no new tonnage. A secondary source cited Poland at ~640t/+90t YTD (above the on-file 632t/+82t H1) — flagged in [[global-cb-activity-log]] but not applied pending confirmation. A resurfaced "China seeking to become custodian of foreign sovereign gold" story was traced to an original Sept 2025 Bloomberg report and discarded as stale. No fresh news found for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, or India (RBI) this window.
+
+**Key findings**: Gold's first new completed session since Sept4 fell -0.84% to $4,367.90 — multiple sources attribute the decline to Ukraine ceasefire-hope headlines (Kyiv's temporary unilateral halt to fighting from Sept6 during US envoy diplomacy) rather than the concurrently escalating Iran "tanker war" (US struck 3 Iranian tankers Sept6, Iran fired a missile at a US carrier) — updated [[iran-conflict-2026]], Factor 2 flips Bearish. Fed hike odds essentially unchanged across venues (CME FedWatch ~60.4%, Kalshi ~48%, Polymarket ~49%); WTI surged +3.01% on inflation-pressure concerns, reinforcing the hawkish read — updated [[fed-macro-factors]], Factor 3 stays Bearish. EMA9/EMA50 were computed directly from `prices/prices.csv` history ($4,448.65 / $4,353.14) given unusually noisy/conflicting web-searched EMA levels — Sept8's close sits below EMA9 but above EMA50 (9d>50d uptrend config) → Factor 5 flips Bullish. Reuters poll of 31 analysts now shows a 2026 gold forecast median of ~$4,916 (up from $4,746.50 three months ago) — updated [[goldman-sachs-gold-forecast]]. BRICS 18th summit (Sept12-13, New Delhi) on deck with a reported gold-backed "Unit" settlement token — added to [[de-dollarisation]]. India: MCX gold roughly flat, tracking the modest global pullback — updated [[india-gold-market]], `raw/india-gold-2026-09-09.md` created.
+
+**Wiki pages updated**: [[gold-geopolitical-risk-premium]], [[iran-conflict-2026]], [[fed-macro-factors]], [[real-yields-tips]], [[goldman-sachs-gold-forecast]], [[de-dollarisation]], [[india-gold-market]], [[global-cb-activity-log]], `wiki/index.md`. **New page created**: [[netherlands-gold-reserves]].
+
+**Signal**: Net score **-1** (Factor2 Bearish -1, Factor3 Bearish -1, Factor5 Bullish +1, Factor6 Neutral 0, Factor7 Neutral 0) → **Wait**, up from Wait (-2) on Sept 8. Appended to `signals/signals.csv`.
+
+---
+
 ## 2026-09-08 — Daily update: no new completed price session (US Labor Day Sept7); signal holds Wait(-2); China PBoC August +20.2t confirmed
 
 **Holiday check**: Searched the official 2026 NSE/BSE holiday calendar — September 8, 2026 (Tuesday) is not a listed holiday (next holiday is Ganesh Chaturthi, Sept 14, 2026; weekends fall on Sept 5-6, 12-13, 19-20, 26-27). Routine proceeded.

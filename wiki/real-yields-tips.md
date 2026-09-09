@@ -2,9 +2,11 @@
 
 **Summary**: The 10-year Treasury Inflation-Protected Securities (TIPS) yield is the market's real (inflation-adjusted) interest rate. It is inversely correlated with gold because gold pays no yield — as the real yield rises, the opportunity cost of holding gold rises, and vice versa. Live as **Factor 7** of the signal methodology from 2026-07-25 (part of the five-factor system from 2026-07-27 onward, after Factors 1 and 4 were retired).
 
-**Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25. `raw/india-gold-2026-09-07.md`, `raw/india-gold-2026-09-08.md`.
+**Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25. `raw/india-gold-2026-09-07.md`, `raw/india-gold-2026-09-08.md`, `raw/india-gold-2026-09-09.md`.
 
-**Last updated**: 2026-09-08
+**Last updated**: 2026-09-09
+
+**September 9 update**: A dedicated web search (direct `curl` to `fred.stlouisfed.org` remains blocked by the network egress proxy) found no DFII10 print newer than the on-file **2.42% (Sept4, 2026)** — FRED's own series page confirms data exists through at least Sept2, 2026 but a specific Sept8 value could not be located via search snippets. Per the no-duplicate-row rule, `prices/real_yields.csv` was left unchanged. The last confirmed delta, Sept3 (2.41%) → Sept4 (2.42%) = **+1bp**, carries forward, well inside the ±3bps threshold → **Factor 7 = Neutral (0)**, unchanged. See [[gold-geopolitical-risk-premium]], [[fed-macro-factors]].
 
 ---
 
