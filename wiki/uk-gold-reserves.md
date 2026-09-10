@@ -4,7 +4,7 @@
 
 **Sources**: Web research — [CEIC](https://www.ceicdata.com/en/indicator/united-kingdom/gold-reserves), [Bank of England](https://www.bankofengland.co.uk/gold), [LBMA](https://www.lbma.org.uk/wonders-of-gold/items/bank-of-england-gold-vault), [LBMA London Vault Data](https://www.lbma.org.uk/prices-and-data/london-vault-data), [Wikipedia Brown's Bottom](https://en.wikipedia.org/wiki/1999%E2%80%932002_sale_of_British_gold_reserves)
 
-**Last updated**: 2026-06-25
+**Last updated**: 2026-09-10
 
 ---
 
@@ -33,7 +33,7 @@ This is the UK's most important role in the global gold market — far exceeding
 | Total customers (incl. commercial) | ~100 institutions |
 | Global ranking as custodian | **2nd largest** (after FRBNY New York) |
 | Vault structure | 9 underground vaults beneath London |
-| **Total London vaults (LBMA, end May 2026)** | **9,392 tonnes** (~$1.4 trillion; ~751,380 bars) |
+| **Total London vaults (LBMA, end August 2026)** | **9,632 tonnes** (~$1.4 trillion), up from 9,392t end-May 2026 |
 
 At least **72 overseas central banks** maintain gold accounts at the Bank of England, including India (until its repatriation drive — see [[india-rbi-gold]]), Germany (completed its repatriation in 2017), and many others. The Bank of England does not publish the breakdown of custodial holdings.
 
@@ -102,6 +102,7 @@ India's aggressive repatriation of gold from BoE vaults (168t in 12 months to Ma
 | 2026-05-27 | Page created. UK reserves confirmed 310.29t Q1 2026 (CEIC/BoE). BoE vault filmed by Sky News Feb 2026 — Andrew Bailey confirmed custodial operations. India repatriation reducing BoE custody pool. |
 | 2026-06-25 | LBMA London vault data (end May 2026): **9,392 tonnes** in all London vaults (~$1.4 trillion; ~751,380 bars). No change in UK own reserves (310.29t). No BoE custody policy changes. India's ~200t remaining overseas gold continues to be held at BoE. |
 | 2026-08-18 | WGC 2026 Central Bank Reserves Survey: BoE's share of surveyed central banks' gold custody **fell to 57%** (from 64% in 2025); NY Fed's custody share also fell (17%→14%) — central banks diversifying custody across London/NY/home/other hubs, not a UK-specific outflow. UK's own 310.29t reserves unchanged. |
+| 2026-09-10 | LBMA London vault data (end August 2026): **9,632 tonnes** ($1.4T) in all London vaults, up from 9,392t end-May 2026 — a continued net inflow into London custody (source: lbma.org.uk/prices-and-data/london-vault-data). No change in UK's own reserves (310.29t). |
 
 ## Related pages
 

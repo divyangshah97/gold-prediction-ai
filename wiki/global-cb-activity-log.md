@@ -1,10 +1,10 @@
 # Global Central Bank Gold Activity Log
 
-**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 9**: New entry — **Netherlands (DNB) relocated ~86t of gold from New York/Ottawa to London**, citing crisis preparedness; new stub page created, see [[netherlands-gold-reserves]]. China PBoC's August figure (+20.2t, 22nd month, ~2,386.57t) reconfirmed via WGC's own Sept blog with no new tonnage. Poland's ~640t/+90t YTD figure (Daily Hodl) flagged but not applied pending confirmation. No fresh dated news for Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran, or India (RBI) this window. See the Sept8 and earlier entries below for the preceding days' sweeps.
+**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 10**: No confirmed new central-bank buy/sell transactions found. One genuine incremental item: **UK LBMA London vault holdings rose to 9,632t ($1.4T) end-August 2026** (from 9,392t end-May), filed to [[uk-gold-reserves]]. Two items were investigated and explicitly NOT applied as likely stale/unverified: a Turkey "-69.1t August" figure (appears to be the May crisis episode mislabeled) and a "China becomes custodian of foreign reserves" story (underlying source dated Sept 2025, not 2026). A US H.R.3795 "passed" claim also surfaced without primary-source corroboration — not applied, flagged for verification. See the Sept9 and earlier entries below for the preceding days' sweeps.
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-09-09
+**Last updated**: 2026-09-10
 
 ---
 
@@ -77,6 +77,18 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-09-10
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-09-10 | Global | No new data | Full 4-search sweep (purchase/sale, reserves announcement, "central bank" tonnes, WGC demand) plus named-entity checks on all tracked buyers (Poland, China/PBoC, Uzbekistan, Kazakhstan, Czech Republic, Malaysia, Indonesia, Cambodia, Guatemala, Serbia, UAE), sellers (Turkey, Russia, Azerbaijan/SOFAZ, Kyrgyz Republic), large passive holders (USA, Germany, Italy, France, UK, Japan, India/RBI, Saudi Arabia), special cases (Iran, Canada, Israel), and new-country candidates (Singapore/MAS, Hungary, Qatar, South Korea, Thailand, Brazil, Mexico, Switzerland/SNB) found **no confirmed new central-bank buy/sell transactions** in the 24-48h window. Monthly WGC/IMF reserve data for most countries still tops out at August 2026 figures already on file. | Web search |
+| 2026-09-10 | 🇬🇧 UK (Bank of England) | Custody data | LBMA London vault data: **9,632 tonnes** ($1.4T) in all London vaults end-August 2026, up from 9,392t end-May 2026 — a continued net custodial inflow, not a UK reserve change (UK's own 310.29t unchanged). Filed to [[uk-gold-reserves]]. | https://www.lbma.org.uk/prices-and-data/london-vault-data |
+| 2026-09-10 | 🇺🇸 USA (Treasury/Congress) | Unverified — not applied | A claim surfaced that "Congress has passed H.R.3795 (Gold Reserve Transparency Act)," contradicting the wiki's on-file status (still at committee referral, confirmed Aug13). No primary source (congress.gov, roll-call vote) found to corroborate "passed" — **not applied**, flagged for a dedicated verification pass. See [[usa-gold-reserves]]. | Unverified secondary source |
+| 2026-09-10 | 🇹🇷 Turkey | Unverified — not applied | A figure claiming "-69.1t in August 2026 to 702.5t," with "two weeks" language, appears to be the already-tracked May 2026 crisis episode (118t/two-weeks) mislabeled as August — contradicts the wiki's confirmed Q2 530.62t/-1t July/85t YTD figures. **Not applied.** See [[turkey-gold-reserves]]. | Unverified secondary source |
+| 2026-09-10 | 🇨🇳 China | Stale — not applied | "China aims to become custodian of foreign sovereign gold reserves" (Shanghai Gold Exchange courting Southeast Asian central banks) recirculated widely, but the underlying Bloomberg source URL is dated 2025-09-23 — very likely a September 2025 story being resurfaced with 2026 framing by SEO aggregators, not new. **Not applied.** | Unverified/likely stale |
+| 2026-09-10 | 🇮🇹 Italy (Banca d'Italia) | No new data | Fratelli d'Italia ownership dispute remains active within 2026 Budget Senate scrutiny (Lucio Malan reasserting gold belongs to "the Italian people") — a continuation of the dispute already tracked (Nov2025/Aug10 status), no new dated resolution found. See [[italy-gold-reserves]]. | Web search |
+| 2026-09-10 | 🇮🇷 Iran (adjacent) | Sanctions | UK laid new Iran sanctions regulations Sept 8, 2026 (71 individuals/entities designated, financial/energy sectors) — reinforces the sanctions-escalation backdrop around the Sept5/9 tanker-war events; not itself a gold-reserve datapoint. See [[iran-conflict-2026]]. | https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260908-ukfcdo01.htm |
 
 ### 2026-08-31
 

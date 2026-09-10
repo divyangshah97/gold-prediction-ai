@@ -4,6 +4,40 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-09-10 — Daily update: Iran tanker war escalates sharply (8 tankers destroyed Sept5&9), safe-haven bid; signal Wait(+1), up from Wait(-1); UK LBMA vault update
+
+**Holiday check**: Searched the official 2026 NSE/BSE holiday calendar — September 10, 2026 (Thursday) is not a listed holiday (next holiday is Ganesh Chaturthi, Sept 14, 2026; weekends fall on Sept 12-13, 19-20, 26-27). Routine proceeded.
+
+**Price/data fetch**: `fetch_prices.py` (yfinance + metals.dev fallback) and a direct `curl` to `fred.stlouisfed.org` were all blocked again by the network egress proxy (confirmed 403/`connect_rejected` policy denial via `$HTTPS_PROXY/__agentproxy/status` against `query2.finance.yahoo.com`, `api.metals.dev`, and `fred.stlouisfed.org`), consistent with every run since ~2026-07-31. Sept9's close-basis prices (Gold $4,399.61, Silver $66.58, DXY 98.766, WTI $97.19, USD/INR 95.134) were sourced via WebSearch (primarily USAGOLD's daily report cross-checked against Trading Economics) and manually appended to `prices/prices.csv`. No fresher DFII10 print with a reliably confirmable date was found — `prices/real_yields.csv` left unchanged (no duplicate row).
+
+**Research**: Four parallel research sweeps covered (1) global central bank gold activity, (2) global macro/geopolitical developments, (3) India-specific gold market news, and (4) price/technical data (Gold/Silver/DXY/WTI/USD-INR previous-day closes, EMAs, DFII10). Headline finding: the Iran "tanker war" escalated sharply — the US destroyed 3 Iranian tankers Sept5 and 5 more Sept9 (CENTCOM), with Iran retaliating via attacks on ~10 ships near Hormuz and a missile strike on a US base in Jordan. Gold's completed Sept8→Sept9 session rose +0.73% while DXY stayed flat-to-down — a clean safe-haven transmission, flipping Factor 2 (Geopolitical) to Bullish. Fed: hawkish tilt persists essentially unchanged (~58-66% September-hike odds); Fed Governor Waller struck a more dovish counter-note and the Trump administration is publicly lobbying against a hike, but neither has moved market-implied odds; August CPI is due Sept11, the next binary catalyst. Global CB sweep found no confirmed new central-bank buy/sell transactions; one genuine incremental item (UK LBMA London vault holdings rose to 9,632t end-August, from 9,392t end-May) and two items investigated and explicitly NOT applied as likely stale/unverified (a Turkey -69.1t/August figure that appears to be a mislabeled May episode; a "China becomes custodian of foreign reserves" story whose underlying source is dated Sept 2025, not 2026) plus an unverified US H.R.3795 "passed" claim (no primary source found, not applied). India: MCX gold eased ~₹182 on the tanker-war-driven oil spike even as the underlying COMEX move was itself bullish; RBI, import duty, and ETF flows unchanged (one AMFI-sourced ETF figure flagged as unverified, not applied).
+
+**Signal computation**: Technicals — EMA9 ($4,438.84) and EMA50 ($4,354.96) computed directly from `prices/prices.csv` history (web-searched EMA figures were contradictory/undated). Sept9's close sits below the 9d EMA but above the 50d EMA (9d>50d, uptrend) → Factor 5 Bullish. Dollar: DXY -0.09%, USD/INR +0.35%, both within the ±0.5% neutral band → Factor 6 Neutral. Real yields: no fresher DFII10 print → Factor 7 Neutral (carried forward, +1bp Sept3→Sept4). Net score: Geo+1, Fed-1, Tech+1, Dollar0, RealYield0 = **+1 → Wait**, up from Wait(-1) on Sept9.
+
+**Changes**:
+- `prices/prices.csv` — Sept9 row appended (Gold $4,399.61, Silver $66.58, DXY 98.766, WTI $97.19, USD/INR 95.134)
+- `prices/real_yields.csv` — unchanged (no fresher dated print found)
+- `signals/signals.csv` — Sept10 row appended (Wait, +1)
+- `wiki/gold-geopolitical-risk-premium.md` — new Sept 10 top entry with full signal computation
+- `wiki/fed-macro-factors.md` — new Sept 10 top entry (hawkish tilt persists, Waller/Trump-admin counter-notes, CPI Sept11 pending)
+- `wiki/iran-conflict-2026.md` — new Sept 10 top entry (tanker war escalation Sept5&9, Factor 2 flips Bullish)
+- `wiki/real-yields-tips.md` — new Sept 10 entry (no fresher print found)
+- `wiki/india-gold-market.md` — new September 10 dated section + summary update
+- `wiki/goldman-sachs-gold-forecast.md` — Sept 10 entry (no confirmed new revisions, contradictory trail flagged)
+- `wiki/us-china-trade-war.md` — Sept 10 update (truce status, rare earths, Taiwan)
+- `wiki/de-dollarisation.md` — Sept 10 update (BRICS summit 2 days out, USD reserve-share contradiction flagged)
+- `wiki/uk-gold-reserves.md` — Sept 10 update (LBMA vault 9,632t end-Aug, from 9,392t end-May)
+- `wiki/usa-gold-reserves.md` — Sept 10 log entry (H.R.3795 "passed" claim investigated, not applied)
+- `wiki/institutional-flows.md` — Sept 10 note (global ETF inflows $18bn August 2026)
+- `wiki/global-cb-activity-log.md` — Sept 10 section added (UK LBMA, USA/Turkey/China flagged-not-applied, Italy, Iran-adjacent sanctions); header summary updated
+- `wiki/index.md` — descriptions updated for all changed pages; removed a stale duplicate india-gold-market row (July 3 data) from the Forecasts & Institutions table
+
+**New files**: `raw/india-gold-2026-09-10.md`.
+
+**Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). Day-change percentages quoted by different price sources did not fully reconcile against each other this window; absolute levels rather than quoted deltas were used as the basis of truth. Several central-bank news items surfaced by the CB sweep (Turkey, China custodian, USA H.R.3795) were identified as likely stale, mis-dated, or unverified and deliberately NOT applied to any wiki page — see `wiki/global-cb-activity-log.md` for detail.
+
+---
+
 ## 2026-09-09 — Daily update: first new completed session since Sept4 ($4,367.90, -0.84%); signal Wait(-1), up from -2; new Netherlands (DNB) gold-custody page
 
 **Holiday check**: Searched the official 2026 NSE/BSE holiday calendar — September 9, 2026 (Wednesday) is not a listed holiday (next holiday is Ganesh Chaturthi, Sept 14, 2026; weekends fall on Sept 5-6, 12-13, 19-20, 26-27). Routine proceeded.

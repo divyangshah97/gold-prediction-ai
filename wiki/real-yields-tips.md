@@ -4,9 +4,11 @@
 
 **Sources**: FRED series `DFII10` (10-Year Treasury Inflation-Indexed Security, Constant Maturity); general macro literature on gold/real-yield relationship; user-proposed addition, discussed 2026-07-25. `raw/india-gold-2026-09-07.md`, `raw/india-gold-2026-09-08.md`, `raw/india-gold-2026-09-09.md`.
 
-**Last updated**: 2026-09-09
+**Last updated**: 2026-09-10
 
-**September 9 update**: A dedicated web search (direct `curl` to `fred.stlouisfed.org` remains blocked by the network egress proxy) found no DFII10 print newer than the on-file **2.42% (Sept4, 2026)** — FRED's own series page confirms data exists through at least Sept2, 2026 but a specific Sept8 value could not be located via search snippets. Per the no-duplicate-row rule, `prices/real_yields.csv` was left unchanged. The last confirmed delta, Sept3 (2.41%) → Sept4 (2.42%) = **+1bp**, carries forward, well inside the ±3bps threshold → **Factor 7 = Neutral (0)**, unchanged. See [[gold-geopolitical-risk-premium]], [[fed-macro-factors]].
+**September 10 update**: Direct `curl` to `fred.stlouisfed.org` failed again (`connect_rejected`/403, confirmed policy denial). A dedicated web search surfaced only an undated "2.43-2.44%" range (MacroMicro, Convex) with no reliably confirmable date — per the no-retroactive-edit convention this is not appended. `prices/real_yields.csv` remains unchanged. The last confirmed delta, Sept3 (2.41%) → Sept4 (2.42%) = **+1bp**, carries forward, well inside the ±3bps threshold → **Factor 7 = Neutral (0)**, unchanged. See [[gold-geopolitical-risk-premium]], [[fed-macro-factors]].
+
+**Prior (September 9) update**: A dedicated web search (direct `curl` to `fred.stlouisfed.org` remains blocked by the network egress proxy) found no DFII10 print newer than the on-file **2.42% (Sept4, 2026)** — FRED's own series page confirms data exists through at least Sept2, 2026 but a specific Sept8 value could not be located via search snippets. Per the no-duplicate-row rule, `prices/real_yields.csv` was left unchanged. The last confirmed delta, Sept3 (2.41%) → Sept4 (2.42%) = **+1bp**, carries forward, well inside the ±3bps threshold → **Factor 7 = Neutral (0)**, unchanged. See [[gold-geopolitical-risk-premium]], [[fed-macro-factors]].
 
 ---
 
