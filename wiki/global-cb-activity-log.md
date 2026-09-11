@@ -1,10 +1,10 @@
 # Global Central Bank Gold Activity Log
 
-**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 10**: No confirmed new central-bank buy/sell transactions found. One genuine incremental item: **UK LBMA London vault holdings rose to 9,632t ($1.4T) end-August 2026** (from 9,392t end-May), filed to [[uk-gold-reserves]]. Two items were investigated and explicitly NOT applied as likely stale/unverified: a Turkey "-69.1t August" figure (appears to be the May crisis episode mislabeled) and a "China becomes custodian of foreign reserves" story (underlying source dated Sept 2025, not 2026). A US H.R.3795 "passed" claim also surfaced without primary-source corroboration — not applied, flagged for verification. See the Sept9 and earlier entries below for the preceding days' sweeps.
+**Summary**: Append-only running log of all country-level central bank gold purchases, sales, and gold-related policy announcements worldwide. Updated daily by the automated routine. **Sept 11**: No confirmed new country-level CB buy/sell transactions found. The standout item is a **policy/legal development, not a reserve change**: Italy's Fratelli d'Italia/ECB gold-ownership dispute reportedly **resolved** per Italian Treasury sources (Giorgetti/Lagarde) — see [[italy-gold-reserves]]. Germany, Japan, USA, Saudi Arabia, and Iran all show no new development this window; China/Poland/Netherlands/Singapore stories resurfaced in searches but matched figures already on file. See the Sept10 and earlier entries below for the preceding days' sweeps.
 
 **Sources**: Web research, WGC monthly data, IMF IFS, Reuters, Bloomberg, central bank press releases
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-11
 
 ---
 
@@ -77,6 +77,19 @@ Major holders tracked in this log only (no dedicated page yet):
 *Entries added chronologically, newest first. One row per event.*
 
 ---
+
+### 2026-09-11
+
+| Date | Country | Type | Details | Source |
+|---|---|---|---|---|
+| 2026-09-11 | Global | No new data | Full 4-search sweep (purchase/sale, reserves announcement, "central bank" tonnes, WGC demand) plus named-entity checks on Germany, France, Italy, Japan, USA, UK, Saudi Arabia, Iran found **no confirmed new country-level CB buy/sell transactions** in the 24-48h window. China (PBoC +20.2t Aug, 22-month streak), Poland (8t July, 632t total), Netherlands (86t DNB relocation), and Singapore (+4t May) all resurfaced in searches but match figures already on file — not new. WGC context: Q2 2026 record 288.9t net CB purchases (+62% y/y) reconfirmed; full-year 2026 forecast ~850t. | Web search |
+| 2026-09-11 | 🇮🇹 Italy (Banca d'Italia) | Policy — dispute resolved | Italian Treasury sources say Italy and the ECB have **resolved** their differences over the 2026 Budget gold-ownership amendment; Economy Minister Giorgetti and ECB President Lagarde settled the issue on the sidelines of a euro zone finance ministers' meeting in Brussels. No details of the resolution's substance disclosed. See [[italy-gold-reserves]]. | https://www.globalbankingandfinance.com/italy-budget-gold-ecb/ |
+| 2026-09-11 | 🇩🇪 Germany (Bundesbank) | No new data | Renewed repatriation-pressure commentary (ex-Bundesbank research head Emanuel Mönch, EU MP Markus Ferber calling for an audit) continues the same Sept2-reheated story — no new Bundesbank statement or formal action found. See [[germany-gold-reserves]]. | Web search |
+| 2026-09-11 | 🇯🇵 Japan (BoJ) | No new data | No BoJ/MOF gold-allocation announcement found; reserves remain static at 845.97t (Q1 2026, unchanged). | Web search |
+| 2026-09-11 | 🇺🇸 USA (Treasury/Congress) | No new data | No fresh Fort Knox audit or revaluation development found beyond the on-file status (H.R.3795 at committee referral; Bessent's "all gold accounted for" assurance). See [[usa-gold-reserves]]. | Web search |
+| 2026-09-11 | 🇸🇦 Saudi Arabia (SAMA) | No new data | No confirmed SAMA gold purchase found; BRICS+ accession remains unconfirmed, gold allocation static at 323.07t. See [[saudi-arabia-gold-reserves]]. | Web search |
+| 2026-09-11 | 🇮🇷 Iran (CBI) | No new data | No new CBI reserve/gold-strategy announcement found; nuclear-deal/ceasefire framework remains fragile per [[iran-conflict-2026]]. See [[iran-gold-reserves]]. | Web search |
+| 2026-09-11 | 🇮🇳 India | Policy reaffirmed | PM Modi's gold-buying restraint appeal (first May 10, 2026) was renewed in early September; Gems & Jewellery Council chairman says duty-cut (15%→lower) discussions are ongoing after the hike fed grey-market growth instead of curbing imports. See [[india-gold-market]]. | https://www.outlookbusiness.com/economy-and-policy/will-pm-narendra-modis-appeal-and-duty-hike-trigger-a-gold-rush-or-gold-pause |
 
 ### 2026-09-10
 
@@ -1213,6 +1226,8 @@ Major holders tracked in this log only (no dedicated page yet):
 | 2026-09-02 | 🇩🇪 Germany / 🇮🇹 Italy | Repatriation pressure (reheated) | Former Bundesbank research head publicly warned it is "too risky" to keep gold reserves in the US given Fed-independence concerns; $245B combined Germany+Italy gold cited as under repatriation pressure. No formal policy action yet. See [[germany-gold-reserves]], [[italy-gold-reserves]]. |
 | 2026-09-04 | 🇮🇳 India | UAE gold-import TRQ deadline extension | DGFT extended the deadline for utilizing India-UAE CEPA tariff-rate-quota gold-import licences (1% duty concession on up to 200t/year) to September 30, 2026 — an automatic extension requiring no fee or amendment. Follows the Sept3-flagged UAE 1-point-tariff-gap import-flow story. See [[india-gold-market]]. |
 | 2026-09-09 | 🇳🇱 Netherlands | Custody relocation | DNB relocated ~86t of gold from New York/Ottawa to London (Bank of England) citing "crisis preparedness" — a reallocation between foreign custodians, not a repatriation to domestic soil. See [[netherlands-gold-reserves]]. |
+| 2026-09-11 | 🇮🇹 Italy | Gold-ownership dispute resolved (ECB) | Italian Treasury sources say the 2026 Budget gold-ownership dispute between Fratelli d'Italia and the ECB has been resolved (Giorgetti/Lagarde, sidelines of a euro zone finance ministers' meeting); substance of the resolution not disclosed. See [[italy-gold-reserves]]. |
+| 2026-09-11 | 🇮🇳 India | Import duty cut discussions continue | Gems & Jewellery Council chairman Rajesh Rokde says discussions on cutting the 15% gold/silver import duty are ongoing, as the hike has failed to curb imports and instead fed grey-market growth; no decision announced. See [[india-gold-market]]. |
 
 ---
 

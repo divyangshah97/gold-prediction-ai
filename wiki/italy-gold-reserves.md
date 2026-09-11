@@ -1,10 +1,10 @@
 # Italy — Banca d'Italia Gold Reserves
 
-**Summary**: Italy holds **2,452 tonnes** of gold — the world's 3rd largest reserve, more than France and just behind Germany. A major political ownership dispute erupted in late 2025, with Meloni's Fratelli d'Italia asserting the gold "belongs to the State," triggering ECB pushback. Italy is also under growing pressure to follow France's $15B repatriation playbook and pull its gold from New York.
+**Summary**: Italy holds **2,452 tonnes** of gold — the world's 3rd largest reserve, more than France and just behind Germany. A major political ownership dispute erupted in late 2025, with Meloni's Fratelli d'Italia asserting the gold "belongs to the State," triggering ECB pushback. **September 11 update**: Italian Treasury sources say the dispute has been **resolved** — Economy Minister Giancarlo Giorgetti and ECB President Christine Lagarde settled the issue on the sidelines of a euro zone finance ministers' meeting, though no details of the resolution (i.e. whether ownership formally stays with Banca d'Italia) were disclosed. Italy remains under pressure to follow France's $15B repatriation playbook and pull its gold from New York.
 
-**Sources**: Web research — [Euronews Nov 2025](https://www.euronews.com/business/2025/11/26/who-does-italys-gold-belong-to-and-why-are-we-talking-about-it-now), [Project Syndicate Dec 2025](https://www.project-syndicate.org/commentary/italy-gold-ownership-amendment-could-destabilize-the-eurozone-by-lucrezia-reichlin-2025-12), [American Thinker Dec 2025](https://www.americanthinker.com/articles/2025/12/gold_dispute_is_italy_preparing-a-national-bullion-reserve/), [Il Sole 24 Ore / ECB](https://en.ilsole24ore.com/art/ecb-unclear-purpose-gold-standard-bankitalia-AIPfuFD), [Medium Apr 2026](https://medium.com/the-investors-handbook/france-made-15-billion-pulling-its-gold-from-the-us-federal-reserve-f070768d98ff), [CEIC Italy](https://www.ceicdata.com/en/indicator/italy/gold-reserves)
+**Sources**: Web research — [Euronews Nov 2025](https://www.euronews.com/business/2025/11/26/who-does-italys-gold-belong-to-and-why-are-we-talking-about-it-now), [Project Syndicate Dec 2025](https://www.project-syndicate.org/commentary/italy-gold-ownership-amendment-could-destabilize-the-eurozone-by-lucrezia-reichlin-2025-12), [American Thinker Dec 2025](https://www.americanthinker.com/articles/2025/12/gold_dispute_is_italy_preparing-a-national-bullion-reserve/), [Il Sole 24 Ore / ECB](https://en.ilsole24ore.com/art/ecb-unclear-purpose-gold-standard-bankitalia-AIPfuFD), [Medium Apr 2026](https://medium.com/the-investors-handbook/france-made-15-billion-pulling-its-gold-from-the-us-federal-reserve-f070768d98ff), [CEIC Italy](https://www.ceicdata.com/en/indicator/italy/gold-reserves), [Global Banking and Finance, Sept 2026](https://www.globalbankingandfinance.com/italy-budget-gold-ecb/)
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-09-11
 
 ---
 
@@ -51,12 +51,12 @@ Under the **EU Eurosystem framework**:
 - ECB statement: there is no "concrete purpose" for transferring legal ownership
 - Economist **Lucrezia Reichlin** warned in Project Syndicate that the move "could destabilise the eurozone"
 
-### Current Status (May 2026)
+### Current Status (September 2026 — RESOLVED per Treasury sources)
 
-The amendment has **not been enacted** — it was blocked in the face of ECB opposition. However:
-- The political pressure from within Meloni's coalition has not gone away
-- The French $15B repatriation (see [[france-gold-reserves]]) has intensified Italian calls for at least repatriation from New York, even if the ownership dispute remains unresolved
-- If Italy cannot legally "spend" the gold, some politicians argue it should at least be **on Italian soil**
+The amendment was **not enacted** during the 2025 budget cycle — it was blocked in the face of ECB opposition, and the dispute resurfaced during scrutiny of the **2026 Budget** in the Senate. As of **September 10-11, 2026**, Italian Treasury sources say Italy has **resolved differences with the ECB** over the budget amendment on gold ownership: Economy Minister **Giancarlo Giorgetti** and ECB President **Christine Lagarde** settled the issue on the sidelines of a euro zone finance ministers' meeting in Brussels. No details were given on the substance of the resolution (whether legal ownership stays with Banca d'Italia, or some compromise language was adopted), so it remains **unverified/not applied** to the "Legal owner" fields above pending confirmation of the actual text. This should be treated as a de-escalation of the political/legal risk, not necessarily a reversal of Banca d'Italia's legal ownership status.
+- The political pressure from within Meloni's coalition had not gone away prior to this resolution
+- The French $15B repatriation (see [[france-gold-reserves]]) continues to intensify Italian calls for at least repatriation from New York, even with the ownership dispute now reportedly settled
+- If Italy cannot legally "spend" the gold, some politicians still argue it should at least be **on Italian soil**
 
 ---
 
@@ -98,6 +98,7 @@ Italy's gold-to-reserves ratio (~65–70%) is among the highest in Europe — a 
 | 2026-05-27 | Page created. 2,452t confirmed (3rd globally). Nov 2025: Fratelli d'Italia ownership amendment in Senate — ECB objected, amendment blocked. Apr 2026: France's $15B repatriation creating Italian pressure to follow. Ownership dispute unresolved. |
 | 2026-08-10 | **ECB President Lagarde publicly criticized** the FdI ownership-claim amendment as unclear in purpose, warning that any restriction on central bank independence over reserve management would violate EU treaties, and urged its withdrawal — the first specific ECB pushback recorded on this page beyond the original Nov 2025 objection. Dispute remains unresolved. (source: Yahoo Finance/Reuters, Aug 10 2026) |
 | 2026-09-02 | Separate from the FdI ownership dispute: general repatriation-pressure commentary reheated, with Italy (alongside Germany) cited as facing pressure over a combined $245B of US-custodied gold, following a former Bundesbank official's "too risky to keep in the US" remark. No new Banca d'Italia statement or parliamentary action found. (source: mining.com, Sept 2 2026) |
+| 2026-09-11 | **Dispute reported RESOLVED**: Italian Treasury sources say Italy and the ECB have settled differences over the 2026 Budget gold-ownership amendment; Economy Minister Giorgetti and ECB's Lagarde resolved the issue on the sidelines of a euro zone finance ministers' meeting. No details of the resolution's substance disclosed — flagged as a de-escalation signal, not a confirmed change to Banca d'Italia's legal ownership. (source: globalbankingandfinance.com, Sept 2026) |
 
 ## Related pages
 
