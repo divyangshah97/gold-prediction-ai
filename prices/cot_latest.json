@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-09-01",
-  "open_interest": 415196,
-  "mm_long": 149721,
-  "mm_short": 12950,
-  "mm_net": 136771,
-  "fetched_at": "2026-09-04T22:26:56.806931Z",
+  "report_date": "2026-09-08",
+  "open_interest": 411227,
+  "mm_long": 145804,
+  "mm_short": 10832,
+  "mm_net": 134972,
+  "fetched_at": "2026-09-11T22:42:43.394850Z",
   "source": "CFTC direct disaggregated futures"
 }
