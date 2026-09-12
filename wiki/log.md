@@ -3100,3 +3100,6 @@ Report_Date: 2026-09-01 | MM_Net: +136,771 (−7,976 vs prior week) | OI: 415,19
 **New files**: `raw/india-gold-2026-09-07.md`.
 
 **Data confidence flag**: All price/yield data is web-search-derived, not direct exchange/FRED reads, consistent with every daily run since the egress block began (~2026-07-31). The EMA9/EMA50 readings used for Factor 5 this run (~$4,428 / ~$4,444) are similarly imprecise — multiple sources returned inconsistent 9-day and 50-day EMA/MA values for gold this window; the closest available proxies (investing.com's MA5/MA50) were used and flagged accordingly on the affected pages.
+
+## 2026-09-12 — COT weekly update
+Report_Date: 2026-09-08 | MM_Net: +134,972 (−1,799 vs. prior week) | OI: 411,227 | Sentiment: Neutral zone (50,000–150,000) | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at 2026-09-11T22:42:43Z
