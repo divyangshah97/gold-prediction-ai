@@ -4,6 +4,11 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-09-19 — COT weekly update
+Report_Date: 2026-09-15 | MM_Net: +133,116 (−1,856 vs. prior week) | OI: 409,899 | Sentiment: Neutral zone (50,000–150,000) | MM_Net % of OI: 32.5% | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-09-18T22:43:29Z
+
+---
+
 ## 2026-09-11 — Daily update: safe-haven transmission breaks down as Fed dollar strength dominates tanker-war risk; signal Wait(-1), down from Wait(+1); Italy/ECB gold-ownership dispute reportedly resolved
 
 **Holiday check**: Searched the official 2026 NSE/BSE holiday calendar — September 11, 2026 (Friday) is not a listed holiday (the only September holiday is Ganesh Chaturthi, Sept 14, 2026; weekends fall on Sept 5-6, 12-13, 19-20, 26-27). Routine proceeded.
