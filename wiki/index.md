@@ -77,7 +77,7 @@ Table of contents for all wiki pages. Updated after every ingest.
 
 | Page | Description |
 |---|---|
-| [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; **COT as-of 2026-09-22: MM_Net +127,389 (Neutral zone, 30.8% of OI), −5,727 w/w — fourth consecutive week of long-trimming, lowest % of OI since late June; OI 412,800**; **Sept10: global gold ETF inflows hit $18bn in Aug 2026**, China/India/Japan driving Asian demand; Factor 6 label on this page is stale (live Factor 6 = Dollar Pressure); updated Sept 26 |
+| [[institutional-flows]] | GLD ETF daily tonnes (institutional proxy) + CFTC COT Managed Money weekly positioning; **COT as-of 2026-10-13: MM_Net +107,089 (Neutral zone, 27.0% of OI), ⚠️ −20,300 significant shift — longs exiting + fresh shorts entering simultaneously, lowest % of OI since early 2026; OI 396,345**; Factor 6 label on this page is stale (live Factor 6 = Dollar Pressure); updated Oct 17 |
 | [[signal-methodology]] | **5-factor scoring system LIVE from July 27**: Geopolitical Risk, Fed/Macro, Technicals, Dollar Pressure, Real Yields/TIPS; range -5 to +5; **Factors 1 (Price vs Targets) and 4 (CB Demand) retired July 25** as poor fits for 2-3 month trading horizon; `signals.csv` restarted fresh, prior history in `signals_archive_2026-05-22_to_2026-07-24.csv`; updated July 25 |
 | [[real-yields-tips]] | 10Y TIPS real yield (FRED DFII10) as gold's opportunity-cost driver; inverse relationship; Factor 7, live from July 27; **Sept11: no fresher print found** — pair stays Sept3 2.41%→Sept4 2.42%, +1bp → **Neutral (0)**, unchanged; FRED direct fetch still blocked; updated Sept 11 |
 

@@ -8,7 +8,7 @@
 
 **September 10 note**: New global context data point (not GLD-specific): China, India and Japan are reportedly driving renewed Asian gold-ETF demand, with **global gold ETF inflows hitting $18bn in August 2026** (Business Today, Sept 10, 2026) — directionally consistent with the July29-flagged H1 2026 net-positive trend, no contradicting signal found. No fresher GLD daily tonnage or CFTC COT print located this window; this factor remains informational only (superseded by Factor 6 Dollar Pressure in the live signal, see [[signal-methodology]]).
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-17
 
 ---
 
@@ -68,34 +68,37 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-09-22  
-> **Published by CFTC:** 2026-09-25 (Friday)  
-> **Retrieved:** 2026-09-25T23:23:44Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
-> **cot.csv:** Updated 2026-09-26 (Saturday routine)
+> **Report_Date (as-of Tuesday):** 2026-10-13  
+> **Published by CFTC:** 2026-10-16 (Friday)  
+> **Retrieved:** 2026-10-16T22:56:50Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
+> **cot.csv:** Updated 2026-10-17 (Saturday routine)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-09-22 |
-| Open_Interest | 412,800 contracts |
-| MM_Long | 135,699 contracts |
-| MM_Short | 8,310 contracts |
-| MM_Net | +127,389 contracts |
-| MM_Net_Change | −5,727 vs. prior week (2026-09-15: +133,116) |
-| MM_Net % of OI | 30.8% |
+| Report_Date | 2026-10-13 |
+| Open_Interest | 396,345 contracts |
+| MM_Long | 124,747 contracts |
+| MM_Short | 17,658 contracts |
+| MM_Net | +107,089 contracts |
+| MM_Net_Change | −20,300 vs. last recorded week (2026-09-22: +127,389) |
+| MM_Net % of OI | 27.0% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation (as of September 22)
+### Sentiment Interpretation (as of October 13)
 
-MM_Net of +127,389 remains in the **Neutral zone (50,000–150,000 contracts)**. Managed money net longs fell by −5,727 contracts week-over-week — a fourth consecutive weekly decline and the largest single-week drop since the −7,976 move on 2026-09-01, extending a gradual, orderly de-grossing of long exposure.
+MM_Net of +107,089 sits in the **Neutral zone (50,000–150,000 contracts)**. Managed money net longs fell by −20,300 contracts versus the last recorded reading (2026-09-22: +127,389), the largest equivalent move since early September 2026, and the first reading below 110,000 contracts since early June 2026.
 
-The composition shows gross longs declining more sharply than shorts: MM_Long fell from 142,394 to 135,699 (−6,695 contracts) while MM_Short also eased from 9,278 to 8,310 (−968 contracts). Open interest edged higher to 412,800 from 409,899 (+2,901 contracts), suggesting some new positioning (likely on the short side or spreads) even as net longs contracted. MM_Net as % of OI stands at 30.8%, down from 32.5% last week — the lowest reading since late June 2026 — but still within the neutral range. The trend is one of slow position reduction, not outright net-short capitulation.
+The composition shows a double-sided bearish shift: MM_Long declined from 135,699 to 124,747 (−10,952 contracts) while MM_Short simultaneously surged from 8,310 to 17,658 (+9,348 contracts) — longs exiting and fresh shorts entering at the same time. Open interest contracted from 412,800 to 396,345 (−16,455 contracts), consistent with net position liquidation across the board. MM_Net as % of OI stands at 27.0%, down sharply from 30.8% on 2026-09-22 — the lowest reading since early 2026.
 
-**Week-over-week change:** −5,727 contracts — below the ±20,000 significant positioning shift threshold. No extreme move flagged.
+**⚠️ SIGNIFICANT POSITIONING SHIFT**: Change of −20,300 contracts exceeds the ±20,000 threshold. Both long liquidation and new short-side entry are occurring simultaneously — hedge funds are actively reducing gold exposure and some are turning directionally short. This is a de-risking signal to watch.
+
+**Data gap note**: Three weeks of COT data (2026-09-29, 2026-10-06) were not retrieved by the GitHub Action; the MM_Net_Change above spans the move from 2026-09-22 to 2026-10-13, not a strict week-over-week comparison. The pace of the shift may be distributed across multiple weeks.
 
 ---
 
 ## Historical COT Reference
 
+> **Report_Date:** 2026-10-13 | **MM_Net:** +107,089 | **OI:** 396,345 | **Sentiment:** Neutral zone ⚠️ significant shift (−20,300)  
 > **Report_Date:** 2026-09-22 | **MM_Net:** +127,389 | **OI:** 412,800 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-09-15 | **MM_Net:** +133,116 | **OI:** 409,899 | **Sentiment:** Neutral zone  
 > **Report_Date:** 2026-09-08 | **MM_Net:** +134,972 | **OI:** 411,227 | **Sentiment:** Neutral zone  
