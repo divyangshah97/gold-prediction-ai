@@ -3114,3 +3114,8 @@ Report_Date: 2026-09-22 | MM_Net: +127,389 (−5,727 vs. prior week) | OI: 412,8
 
 ## 2026-10-17 — COT weekly update
 Report_Date: 2026-10-13 | MM_Net: +107,089 (−20,300 vs. 2026-09-22) | OI: 396,345 | Sentiment: Neutral zone (50,000–150,000) | ⚠️ SIGNIFICANT SHIFT: −20,300 exceeds ±20,000 threshold — long liquidation + fresh shorts | Source: CFTC via GitHub Action (fetch_cot.yml), fetched_at 2026-10-16T22:56:50Z
+
+## 2026-10-24 — COT weekly update
+Report_Date: 2026-10-20 | MM_Net: +104,206 (−2,883 vs. prior week 2026-10-13: +107,089) | OI: 402,279 | Sentiment: Neutral zone (50,000–150,000) | MM_Net % of OI: 25.9% | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-10-23T23:18:22Z
+
+---
