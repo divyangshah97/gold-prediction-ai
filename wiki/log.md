@@ -3119,3 +3119,6 @@ Report_Date: 2026-10-13 | MM_Net: +107,089 (−20,300 vs. 2026-09-22) | OI: 396,
 Report_Date: 2026-10-20 | MM_Net: +104,206 (−2,883 vs. prior week 2026-10-13: +107,089) | OI: 402,279 | Sentiment: Neutral zone (50,000–150,000) | MM_Net % of OI: 25.9% | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-10-23T23:18:22Z
 
 ---
+
+## 2026-10-31 — COT weekly update
+Report_Date: 2026-10-27 | MM_Net: +105,562 (+1,356 vs. prior week 2026-10-20: +104,206) | OI: 396,810 | MM_Net % of OI: 26.6% | Sentiment: Neutral zone (50,000–150,000) | Stabilisation after 6-week de-risking trend | Source: CFTC via GitHub Action (fetch_cot.yml), fetched 2026-10-30T23:56:40Z
