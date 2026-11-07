@@ -8,7 +8,7 @@
 
 **September 10 note**: New global context data point (not GLD-specific): China, India and Japan are reportedly driving renewed Asian gold-ETF demand, with **global gold ETF inflows hitting $18bn in August 2026** (Business Today, Sept 10, 2026) — directionally consistent with the July29-flagged H1 2026 net-positive trend, no contradicting signal found. No fresher GLD daily tonnage or CFTC COT print located this window; this factor remains informational only (superseded by Factor 6 Dollar Pressure in the live signal, see [[signal-methodology]]).
 
-**Last updated**: 2026-10-31
+**Last updated**: 2026-11-07
 
 ---
 
@@ -68,34 +68,35 @@ These thresholds shift over time as open interest grows. Always compare MM_Net a
 
 ## Latest COT Data
 
-> **Report_Date (as-of Tuesday):** 2026-10-27  
-> **Published by CFTC:** 2026-10-30 (Friday)  
-> **Retrieved:** 2026-10-30T23:56:40Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
-> **cot.csv:** Updated 2026-10-31 (Saturday routine)
+> **Report_Date (as-of Tuesday):** 2026-11-03  
+> **Published by CFTC:** 2026-11-07 (Friday)  
+> **Retrieved:** 2026-11-07T00:11:35Z via GitHub Action (fetch_cot.yml) — CFTC direct disaggregated futures  
+> **cot.csv:** Updated 2026-11-07 (Saturday routine)
 
 | Field | Value |
 |---|---|
-| Report_Date | 2026-10-27 |
-| Open_Interest | 396,810 contracts |
-| MM_Long | 122,508 contracts |
-| MM_Short | 16,946 contracts |
-| MM_Net | +105,562 contracts |
-| MM_Net_Change | +1,356 vs. prior week (2026-10-20: +104,206) |
-| MM_Net % of OI | 26.6% |
+| Report_Date | 2026-11-03 |
+| Open_Interest | 399,169 contracts |
+| MM_Long | 122,283 contracts |
+| MM_Short | 18,669 contracts |
+| MM_Net | +103,614 contracts |
+| MM_Net_Change | −1,948 vs. prior week (2026-10-27: +105,562) |
+| MM_Net % of OI | 26.0% |
 | **Sentiment** | **Neutral zone (50,000–150,000)** |
 
-### Sentiment Interpretation (as of October 27)
+### Sentiment Interpretation (as of November 3)
 
-MM_Net of +105,562 sits in the **Neutral zone (50,000–150,000 contracts)**. Managed money net longs ticked up marginally by +1,356 contracts week-over-week — a near-flat week that represents a stabilisation after six consecutive weeks of decline from the late-August peak of +144,747.
+MM_Net of +103,614 sits in the **Neutral zone (50,000–150,000 contracts)**. Managed money net longs slipped modestly by −1,948 contracts week-over-week — a small pullback continuing the gradual erosion from the late-August peak of +144,747, though the pace of decline has slowed markedly over recent weeks.
 
-The composition shows a modest increase on both sides: MM_Long rose from 120,970 to 122,508 (+1,538 contracts) while MM_Short also edged up from 16,764 to 16,946 (+182 contracts), resulting in a small net gain. Open interest contracted from 402,279 to 396,810 (−5,469 contracts), continuing the gradual deleveraging trend. MM_Net as % of OI stands at 26.6%, a slight recovery from the prior week's 25.9%.
+The composition shows gross longs barely changed (122,508 → 122,283, −225 contracts) while gross shorts rose notably (16,946 → 18,669, +1,723 contracts), making this a short-side-driven decline rather than long liquidation. Open interest edged up from 396,810 to 399,169 (+2,359 contracts), suggesting some new money entering the market. MM_Net as % of OI stands at 26.0%, fractionally lower than the prior week's 26.6%.
 
-Change of +1,356 contracts is well within normal weekly variation — **no significant positioning shift this week**. The stabilisation may signal that the multi-week de-risking has found a floor near current levels.
+Change of −1,948 contracts is well within normal weekly variation — **no significant positioning shift this week**. The rising short interest while longs hold steady may reflect increasing two-way trading around current price levels.
 
 ---
 
 ## Historical COT Reference
 
+> **Report_Date:** 2026-11-03 | **MM_Net:** +103,614 | **OI:** 399,169 | **Sentiment:** Neutral zone (−1,948)  
 > **Report_Date:** 2026-10-27 | **MM_Net:** +105,562 | **OI:** 396,810 | **Sentiment:** Neutral zone (+1,356)  
 > **Report_Date:** 2026-10-20 | **MM_Net:** +104,206 | **OI:** 402,279 | **Sentiment:** Neutral zone (−2,883)  
 > **Report_Date:** 2026-10-13 | **MM_Net:** +107,089 | **OI:** 396,345 | **Sentiment:** Neutral zone ⚠️ significant shift (−20,300)  
